@@ -62,7 +62,6 @@
         <root url="file:///usr/local/Cellar/pyenv/1.0.7/versions/3.5.2/lib/python3.5/plat-darwin" />
         <root url="file:///usr/local/Cellar/pyenv/1.0.7/versions/3.5.2/lib/python3.5/lib-dynload" />
         <root url="file:///usr/local/Cellar/pyenv/1.0.7/versions/3.5.2/lib/python3.5/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1292406749" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </CLASSES>
       <JAVADOC />
@@ -71,7 +70,6 @@
         <root url="file:///usr/local/Cellar/pyenv/1.0.7/versions/3.5.2/lib/python3.5/plat-darwin" />
         <root url="file:///usr/local/Cellar/pyenv/1.0.7/versions/3.5.2/lib/python3.5/lib-dynload" />
         <root url="file:///usr/local/Cellar/pyenv/1.0.7/versions/3.5.2/lib/python3.5/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/1292406749" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
@@ -108,24 +106,10 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.6.0 virtualenv at ~/DL_Workspace/product-image-dataset/venv3 interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset/venv3/lib/python3.6" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset/venv3/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset/venv3/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/740189265" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </CLASSES>
+    <library name="Python 3.6.2 virtualenv at ~/DL_Workspace/product-image-dataset/venv3 interpreter library">
+      <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset/venv3/lib/python3.6" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset/venv3/lib/python3.6/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset/venv3/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/740189265" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="stub [puppet module]">
       <CLASSES>

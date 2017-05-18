@@ -283,7 +283,6 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/bot-log-parsing/old-code/python-reporting/induct-report/batch_log_file_upload_for_period.sh" timestamp="1495100620240" />
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1495033811476">
         <mark key="'" line="51" column="11" />
         <mark key="[" line="18" column="3" />
@@ -808,7 +807,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495022405014">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495107889985">
         <mark key="'" line="102" column="4" />
         <mark key="[" line="27" column="4" />
         <mark key="]" line="29" column="0" />
