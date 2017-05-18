@@ -283,6 +283,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspaces/bot-log-parsing/old-code/python-reporting/induct-report/batch_log_file_upload_for_period.sh" timestamp="1495100620240" />
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1495033811476">
         <mark key="'" line="51" column="11" />
         <mark key="[" line="18" column="3" />
@@ -997,14 +998,10 @@
       <last-replace />
       <last-substitute>\s\+$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>datetime</entry>
-        <entry>start</entry>
-        <entry>barcode_q</entry>
-        <entry>path</entry>
         <entry>10.</entry>
         <entry>requirements.txt</entry>
         <entry>virtualenv</entry>
@@ -1027,10 +1024,6 @@
         <entry encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5jYWxsIFdpbk1vdmUoJ2onKQ==</entry>
-        <entry>vslpit</entry>
-        <entry>call WinMove('j')</entry>
-        <entry>register</entry>
         <entry>16</entry>
         <entry>26</entry>
         <entry>249</entry>
