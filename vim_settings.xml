@@ -29,7 +29,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1495018213747">
+      <file name="/a.dummy" timestamp="1495113360125">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesExamples/py_proj_structure/tests/test_basic.py" timestamp="1485188475224">
@@ -807,11 +807,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495107889985">
-        <mark key="'" line="102" column="4" />
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495113964643">
+        <mark key="'" line="29" column="5" />
+        <mark key="[" line="85" column="4" />
+        <mark key="]" line="85" column="4" />
+        <mark key="." line="85" column="4" />
+        <mark key="^" line="108" column="36" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 1 Logic in Rental/src/main/java/pl/refactoring/videostore/original/moved_to_rental/Movie.java" timestamp="1488366168932">
         <mark key="[" line="27" column="0" />
@@ -848,7 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/gcs_uploader.py" />
       <jump line="8" column="15" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/gcs_uploader.py" />
       <jump line="14" column="18" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
       <jump line="339" column="4" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
@@ -948,10 +948,11 @@
       <jump line="12" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="99" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="50" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" />
+      <jump line="30" column="5" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>4025500181871</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</text>
@@ -960,31 +961,31 @@
         <text>opencv-python</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwcm9jZXNzX2ltYWdlcyBpbXBvcnQgcHJvY2Vzc19pbWFnZQo=</text>
+        <text encoding="base64">ICAgICMgcHJlZml4ID0gU0VMRUNURURfREFURSArICcvNTAyNzYzMjAwMTExOCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIAogICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc3VyZV9kaXJkZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIHNlbGVjdF9ibG9icyhidWNrZXQpOgogICAgIiIiCiAgICBUaGlzIG1ldGhvZCBjb250YWlucyB0aGUgbG9naWMgZm9yIHNlbGVjdGluZyBpbWFnZXMgZm9yIHRoZSBkYXRhc2V0LgogICAgVGhlIGNoYWxsZW5nZSBpcyB3aWxkY2FyZCBuYW1lcyBjYW5ub3QgYmUgdXNlZCBpbiBnb29nbGUtY2xvdWQgUHl0aG9uIGNsaWVudCBhbmQKICAgIGl0IG9ubHkgc3VwcG9ydHMgcHJlZml4LiBnc3V0aWwgY2FuIGJlIGNvbnNpZGVyZWQgZm9yIHdpbGRjYXJkIG5hbWVzLgogICAgaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8yNDU3NTQ1Mi93aWxkY2FyZHMtaW4tZ2NzLWJ1Y2tldC1qYXZhLWNsaWVudC1hcGkKICAgICIiIgogICAgcHJlZml4ID0gU0VMRUNURURfREFURSArICcvNDAyNTUwMDE4MTg3MScKCiAgICByZXR1cm4gYnVja2V0Lmxpc3RfYmxvYnMocHJlZml4PXByZWZpeCwgbWF4X3Jlc3VsdHM9VE9UQUxfSU1BR0VTKQoKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZnJvbSBwcm9jZXNzX2ltYWdlcyBpbXBvcnQgcHJvY2Vzc19pbWFnZQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGFzc3VyZV9kaXJkZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHByb2Nlc3NfaW1hZ2Uob3JpZ2luYWxfZmlsZSwgZGltZW5zaW9uLCBvdXRwdXRfZGlyKToKICAgICIiIgogICAgVGhlIG9yaWdpbmFsIGltYWdlIGhhcyBhIHNoYXBlICgxMDI0LCAxMjgwLCAzKS4gVGhpcyBtZXRob2Qgd2lsbCBjcm9wIGFuZCByZXNpemUgdGhlIGltYWdlCiAgICB0byBhIHByb3ZpZGVkIGRpbWVuc2lvbiwgc3VjaCBhcyAyNTZ4MjU2IG9yIDUxMng1MTIuCgogICAgOnBhcmFtIG9yaWdpbmFsX2ZpbGU6IHRoZSBmdWxsIHBhdGggdG8gdGhlIGltYWdlIHRvIGJlIHByb2Nlc3NlZAogICAgOnBhcmFtIGRpbWVuc2lvbjogdGhlIGRpbWVuc2lvbiB1c2VkIHRvIHJlc2l6ZSBhbiBpbWFnZQogICAgOnBhcmFtIG91dHB1dF9kaXI6IHRoZSBwYXRoIHRvIHNhdmUgcHJvY2Vzc2VkIGltYWdlcwogICAgOnJldHVybjogdGhlIGZpbGUgbmFtZSBvZiB0aGUgcmVzdWx0IGltYWdlCiAgICAiIiIKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhvcmlnaW5hbF9maWxlKToKICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0ZhaWxlZCB0byBmaW5kIHRoZSBvcmlnaW5hbCBmaWxlIHt9Jy5mb3JtYXQob3JpZ2luYWxfZmlsZSkpCgogICAgYXNzdXJlX2Rpcl9leGlzdGluZyhvdXRwdXRfZGlyKQoKICAgIGltYWdlX25hbWUgPSBOb25lCiAgICB0cnk6CiAgICAgICAgaW1nX29yaWdpbmFsID0gY3YyLmltcmVhZChvcmlnaW5hbF9maWxlKQogICAgICAgIGFzc2VydCBpbWdfb3JpZ2luYWwuc2hhcGVbMDoyXSA9PSBESU1FTlNJT05fT1JJR0lOQUwKCiAgICAgICAgIyBDcm9wIGZyb20geCwgeSwgdywgaCBieSBzbGljaW5nIGFycmF5W3k6aCwgeDp3XQogICAgICAgIGltZ19jcm9wcGVkID0gaW1nX29yaWdpbmFsWzA6MTAyNCwgMDoxMDI0XQogICAgICAgIGltZ19yZXNpemVkID0gY3YyLnJlc2l6ZShpbWdfY3JvcHBlZCwgZGltZW5zaW9uLCBpbnRlcnBvbGF0aW9uPWN2Mi5JTlRFUl9BUkVBKQoKICAgICAgICBvdXRwdXRfZmlsZSA9IG9zLnBhdGguYmFzZW5hbWUob3JpZ2luYWxfZmlsZSkKICAgICAgICBpbWdfcmVzdWx0ID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXIsIG91dHB1dF9maWxlKQogICAgICAgIGN2Mi5pbXdyaXRlKGltZ19yZXN1bHQsIGltZ19yZXNpemVkKQogICAgICAgIGltYWdlX25hbWUgPSBvdXRwdXRfZmlsZQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBsb2cuZXJyb3IoJ0ZhaWxlZCB0byBwcm9jZXNzIHRoZSBpbWFnZSB7fScuZm9ybWF0KG9yaWdpbmFsX2ZpbGUpKQoKICAgIHJldHVybiBpbWFnZV9uYW1lCg==</text>
+        <text encoding="base64">ZGVmIHNlbGVjdF9ibG9icyhidWNrZXQpOgogICAgIiIiCiAgICBUaGlzIG1ldGhvZCBjb250YWlucyB0aGUgbG9naWMgZm9yIHNlbGVjdGluZyBpbWFnZXMgZm9yIHRoZSBkYXRhc2V0LgogICAgVGhlIGNoYWxsZW5nZSBpcyB3aWxkY2FyZCBuYW1lcyBjYW5ub3QgYmUgdXNlZCBpbiBnb29nbGUtY2xvdWQgUHl0aG9uIGNsaWVudCBhbmQKICAgIGl0IG9ubHkgc3VwcG9ydHMgcHJlZml4LiBnc3V0aWwgY2FuIGJlIGNvbnNpZGVyZWQgZm9yIHdpbGRjYXJkIG5hbWVzLgogICAgaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8yNDU3NTQ1Mi93aWxkY2FyZHMtaW4tZ2NzLWJ1Y2tldC1qYXZhLWNsaWVudC1hcGkKICAgICIiIgogICAgcHJlZml4ID0gU0VMRUNURURfREFURSArICcvNDAyNTUwMDE4MTg3MScKCiAgICByZXR1cm4gYnVja2V0Lmxpc3RfYmxvYnMocHJlZml4PXByZWZpeCwgbWF4X3Jlc3VsdHM9VE9UQUxfSU1BR0VTKQoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
