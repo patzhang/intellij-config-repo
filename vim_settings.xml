@@ -29,7 +29,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1495113360125">
+      <file name="/a.dummy" timestamp="1495114198951">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesExamples/py_proj_structure/tests/test_basic.py" timestamp="1485188475224">
@@ -67,6 +67,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495114666213">
+        <mark key="[" line="16" column="42" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
         <mark key="[" line="19" column="11" />
@@ -480,6 +486,10 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/products.json" timestamp="1495114599699">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="30" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_macOS.sh" timestamp="1487156919377">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -807,12 +817,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495113964643">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495114640280">
         <mark key="'" line="29" column="5" />
-        <mark key="[" line="85" column="4" />
-        <mark key="]" line="85" column="4" />
-        <mark key="." line="85" column="4" />
-        <mark key="^" line="108" column="36" />
+        <mark key="[" line="85" column="27" />
+        <mark key="]" line="85" column="27" />
+        <mark key="." line="85" column="27" />
+        <mark key="^" line="85" column="27" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 1 Logic in Rental/src/main/java/pl/refactoring/videostore/original/moved_to_rental/Movie.java" timestamp="1488366168932">
         <mark key="[" line="27" column="0" />
@@ -952,40 +962,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</text>
       </register>
       <register name="0" type="4">
-        <text>opencv-python</text>
+        <text>4025500181871</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcHJlZml4ID0gU0VMRUNURURfREFURSArICcvNTAyNzYzMjAwMTExOCcK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICMgcHJlZml4ID0gU0VMRUNURURfREFURSArICcvNTAyNzYzMjAwMTExOCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIAogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwcm9jZXNzX2ltYWdlcyBpbXBvcnQgcHJvY2Vzc19pbWFnZQo=</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwcm9jZXNzX2ltYWdlcyBpbXBvcnQgcHJvY2Vzc19pbWFnZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc3VyZV9kaXJkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHNlbGVjdF9ibG9icyhidWNrZXQpOgogICAgIiIiCiAgICBUaGlzIG1ldGhvZCBjb250YWlucyB0aGUgbG9naWMgZm9yIHNlbGVjdGluZyBpbWFnZXMgZm9yIHRoZSBkYXRhc2V0LgogICAgVGhlIGNoYWxsZW5nZSBpcyB3aWxkY2FyZCBuYW1lcyBjYW5ub3QgYmUgdXNlZCBpbiBnb29nbGUtY2xvdWQgUHl0aG9uIGNsaWVudCBhbmQKICAgIGl0IG9ubHkgc3VwcG9ydHMgcHJlZml4LiBnc3V0aWwgY2FuIGJlIGNvbnNpZGVyZWQgZm9yIHdpbGRjYXJkIG5hbWVzLgogICAgaHR0cDovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8yNDU3NTQ1Mi93aWxkY2FyZHMtaW4tZ2NzLWJ1Y2tldC1qYXZhLWNsaWVudC1hcGkKICAgICIiIgogICAgcHJlZml4ID0gU0VMRUNURURfREFURSArICcvNDAyNTUwMDE4MTg3MScKCiAgICByZXR1cm4gYnVja2V0Lmxpc3RfYmxvYnMocHJlZml4PXByZWZpeCwgbWF4X3Jlc3VsdHM9VE9UQUxfSU1BR0VTKQoKCg==</text>
+        <text encoding="base64">ICAgIGFzc3VyZV9kaXJkZAo=</text>
       </register>
       <register name=":" type="4">
         <text>6</text>
