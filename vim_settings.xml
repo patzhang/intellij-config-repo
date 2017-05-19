@@ -68,18 +68,22 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495179893824">
-        <mark key="'" line="30" column="42" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495181996995">
+        <mark key="'" line="32" column="42" />
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="20" />
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
+      </file>
+      <file name="/prepare_images.py" timestamp="1495180955214">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="44" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/barcode_scanner.py" timestamp="1494318770959">
         <mark key="[" line="79" column="116" />
@@ -129,7 +133,7 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="/" timestamp="1493893282313">
+      <file name="/" timestamp="1495180520264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495014643081">
@@ -214,7 +218,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1495118369520">
+      <file name="/Python Console" timestamp="1495181181735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -358,9 +362,9 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495021500725">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="18" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495182229503">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="8" column="5" />
         <mark key="." line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/cognex-settings-DM362/Readme.txt" timestamp="1493127834030">
@@ -443,11 +447,11 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" timestamp="1495120404112">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" timestamp="1495181288319">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test_advanced.py" timestamp="1487804737088">
         <mark key="[" line="3" column="5" />
@@ -799,11 +803,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" timestamp="1495016139269">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" timestamp="1495182912649">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/opencv_tests.py" timestamp="1494946795474">
         <mark key="[" line="13" column="0" />
@@ -841,12 +846,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495180000677">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="5" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495182357143">
+        <mark key="'" line="113" column="22" />
+        <mark key="[" line="113" column="42" />
+        <mark key="]" line="113" column="71" />
+        <mark key="." line="113" column="71" />
+        <mark key="^" line="113" column="71" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 1 Logic in Rental/src/main/java/pl/refactoring/videostore/original/moved_to_rental/Movie.java" timestamp="1488366168932">
         <mark key="[" line="27" column="0" />
@@ -883,15 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="57" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="62" column="52" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="66" column="42" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="97" column="80" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="155" column="4" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="308" column="32" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
-      <jump line="299" column="42" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
-      <jump line="307" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
-      <jump line="138" column="72" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
       <jump line="52" column="4" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
       <jump line="370" column="27" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
@@ -983,43 +979,52 @@
       <jump line="51" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
       <jump line="35" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
       <jump line="48" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" />
+      <jump line="54" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="56" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="77" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="27" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="163" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="113" column="22" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" />
+      <jump line="2" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" />
+      <jump line="14" column="2" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>dataset_builder.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiWWVvIFZhbGxleSBPcmdhbmljIFN0cmF3YmVycnkgWW9ndXJ0IDQ1MGciLAogICAgICAiYmFyY29kZSI6ICI1MDE0MDY3MTUzODMzIiwKICAgICAgInNrdSI6ICIxNTY2MTAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9ZZW8tVmFsbGV5LU9yZ2FuaWMtU3RyYXdiZXJyeS1Zb2d1cnQvMTU2NjEwMTEiCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBvc191dGlsIGltcG9ydCBhc3N1cmVfZGlyX2V4aXN0aW5nCg==</text>
+        <text encoding="base64">fQogIFsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBvc191dGlsIGltcG9ydCBhc3N1cmVfZGlyX2V4aXN0aW5nCg==</text>
+        <text encoding="base64">ICAic3RhdGlvbiI6ICJDMUQwNSBDRkMxIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXJjb2RlID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfb3V0cHV0ID0gcGF0aC5qb2luKHRlc3RzX2RpciwgJ291dHB1dC9yZXN1bHRfcmVzaXplZF8yNTYucG5nJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHByb2Nlc3NfaW1hZ2VzX2Zvcl9iYXJjb2RlKGJ1Y2tldCwgYmFyY29kZSk6CiAgICBibG9icyA9IHNlbGVjdF9ibG9icyhidWNrZXQsIGJhcmNvZGUpCiAgICB0b3RhbCA9IDAKICAgIGZvciBibG9iIGluIGJsb2JzOgogICAgICAgIGZpbGVfbmFtZSA9IGJsb2IubmFtZS5zcGxpdCgnLycpWzJdCiAgICAgICAgYmFyY29kZSA9IGZpbGVfbmFtZS5zcGxpdCgnXycpWzBdCgogICAgICAgICMgZG93bmxvYWQgdGhlIGJsb2IgYXMgYSBmaWxlCiAgICAgICAgc291cmNlX2Jsb2JfbmFtZSA9IGJsb2IubmFtZQogICAgICAgIGZpbGVfb3JpZ2luYWwgPSBvcy5wYXRoLmpvaW4oRElSX09SSUdJTkFMX1BST0RVQ1RfSU1BR0VTLCBmaWxlX25hbWUpCiAgICAgICAgZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCgogICAgICAgICMgcHJvY2VzcyB0aGUgZG93bmxvYWRlZCBmaWxlCiAgICAgICAgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihESVJfUFJPQ0VTU0VEX1BST0RVQ1RfSU1BR0VTLCBiYXJjb2RlKQogICAgICAgIGFzc3VyZV9kaXJfZXhpc3Rpbmcob3V0cHV0X2RpcikKCiAgICAgICAgaW1nX2ZpbGUgPSBwcm9jZXNzX2ltYWdlKG9yaWdpbmFsX2ZpbGU9ZmlsZV9vcmlnaW5hbCwgZGltZW5zaW9uPURJTUVOU0lPTl8yNTYsIG91dHB1dF9kaXI9b3V0cHV0X2RpcikKCiAgICAgICAgaWYgaW1nX2ZpbGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHRvdGFsICs9IDEKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ3t9L3t9Jy5mb3JtYXQodG90YWwsIFRPVEFMX0lNQUdFUykpCgogICAgICAgIGRlbGV0ZV9maWxlKGZpbGVfb3JpZ2luYWwpCgogICAgICAgIGlmIHRvdGFsID49IFRPVEFMX0lNQUdFUzoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiB0b3RhbAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHByb2Nlc3NfaW1hZ2VzX2Zvcl9iYXJjb2RlKGJ1Y2tldCwgYmFyY29kZSk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfcmVzaXplZC5zYXZlKGltZ19yZXN1bHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfaW5wdXQgPSAnLi9pbnB1dC9vcmlnaW5hbF9mb3JfcmVzaXplLnBuZycKICAgICAgICBpbWdfb3V0cHV0ID0gJy4vb3V0cHV0L3Jlc3VsdF9yZXNpemVkXzI1Ni5wbmcnCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfcmVzaXplZCA9IGltZ19jcm9wcGVkLnJlc2l6ZShkaW1lbnNpb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJTUdfSU5QVVQgPSAnLi9pbnB1dC9vcmlnaW5hbF9mb3JfY3JvcC5wbmcnCiAgICAgICAgSU1HX09VVFBVVCA9ICcuL291dHB1dC9yZXN1bHRfY3JvcHBlZF8xMDI0LnBuZycK</text>
+        <text encoding="base64">ICAgICAgICBpbWdfY3JvcHBlZCA9IGltZ19vcmlnaW5hbFswOl0K</text>
       </register>
       <register name=":" type="4">
         <text>8</text>
