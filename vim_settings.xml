@@ -282,12 +282,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495122037387">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="67" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495124570441">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/deploy.txt" timestamp="1485774813890">
         <mark key="[" line="0" column="0" />
@@ -388,6 +388,10 @@
         <mark key="]" line="78" column="87" />
         <mark key="^" line="14" column="68" />
         <mark key="." line="14" column="68" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/os_util.py" timestamp="1495124424892">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1490798450733">
         <mark key="[" line="1" column="31" />
@@ -786,7 +790,7 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/code.py" timestamp="1495121977569">
+      <file name="/code.py" timestamp="1495124102702">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/context.py" timestamp="1487771679075">
@@ -807,12 +811,12 @@
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" timestamp="1495121657627">
-        <mark key="'" line="11" column="43" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="74" />
-        <mark key="^" line="30" column="73" />
-        <mark key="." line="30" column="73" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" timestamp="1495124588832">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="12" />
+        <mark key="^" line="33" column="12" />
+        <mark key="." line="33" column="12" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/requirements.txt" timestamp="1490717830240">
         <mark key="[" line="1" column="0" />
@@ -879,16 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="19" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="72" column="4" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="68" column="72" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="75" column="36" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="78" column="63" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="87" column="38" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="96" column="50" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="125" column="71" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
-      <jump line="148" column="73" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
       <jump line="57" column="57" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
       <jump line="62" column="52" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
       <jump line="66" column="42" filename="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" />
@@ -979,43 +973,53 @@
       <jump line="24" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
       <jump line="19" column="42" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
       <jump line="11" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" />
+      <jump line="14" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
+      <jump line="20" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
+      <jump line="35" column="38" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" />
+      <jump line="9" column="39" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>cropped_1024</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfb3V0cHV0ID0gcGF0aC5qb2luKHRlc3RzX2RpciwgJ291dHB1dC9yZXN1bHRfY3JvcHBlZF8xMDI0LnBuZycpCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBhc3N1cmVfZGlyX2V4aXN0aW5nKGRpcmVjdG9yeSk6CiAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGRpcmVjdG9yeSk6CiAgICAgICAgICAgIG9zLm1ha2VkaXJzKGRpcmVjdG9yeSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBvc191dGlsIGltcG9ydCBhc3N1cmVfZGlyX2V4aXN0aW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfaW5wdXQgPSAnLi9pbnB1dC9vcmlnaW5hbF9mb3JfcmVzaXplLnBuZycKICAgICAgICBpbWdfb3V0cHV0ID0gJy4vb3V0cHV0L3Jlc3VsdF9yZXNpemVkXzI1Ni5wbmcnCg==</text>
+        <text encoding="base64">ZnJvbSBvc191dGlsIGltcG9ydCBhc3N1cmVfZGlyX2V4aXN0aW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJTUdfSU5QVVQgPSAnLi9pbnB1dC9vcmlnaW5hbF9mb3JfY3JvcC5wbmcnCiAgICAgICAgSU1HX09VVFBVVCA9ICcuL291dHB1dC9yZXN1bHRfY3JvcHBlZF8xMDI0LnBuZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZV9pbnB1dCA9IHBhdGguam9pbih0ZXN0c19kaXIsICdpbnB1dC80MDI1NTAwMTgxODcxXzIwMTctMDUtMTFfMDEuMDMuMjguNzY4X21fMDA3LnBuZycpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfb3V0cHV0ID0gcGF0aC5qb2luKHRlc3RzX2RpciwgJ291dHB1dC9yZXN1bHRfcmVzaXplZF8yNTYucG5nJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfZGlyID0gJy4uL3Rlc3RzL291dHB1dC8xLycKICAgICAgICBvdXRwdXRfZGlyID0gJy4uL3Rlc3RzL291dHB1dC8yLycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfZGlyID0gJy4uL3Rlc3RzL291dHB1dC8xLycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfZGlyID0gJy4uL3Rlc3RzL291dHB1dC8yLycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZV9pbnB1dCA9ICcuLi90ZXN0cy9pbnB1dC8nCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWdfaW5wdXQgPSAnLi9pbnB1dC9vcmlnaW5hbF9mb3JfcmVzaXplLnBuZycKICAgICAgICBpbWdfb3V0cHV0ID0gJy4vb3V0cHV0L3Jlc3VsdF9yZXNpemVkXzI1Ni5wbmcnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICBJTUdfSU5QVVQgPSAnLi9pbnB1dC9vcmlnaW5hbF9mb3JfY3JvcC5wbmcnCiAgICAgICAgSU1HX09VVFBVVCA9ICcuL291dHB1dC9yZXN1bHRfY3JvcHBlZF8xMDI0LnBuZycK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
