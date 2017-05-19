@@ -68,12 +68,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495190403466">
-        <mark key="'" line="31" column="42" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="32" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495190979931">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
         <mark key="[" line="19" column="11" />
@@ -708,6 +708,11 @@
         <mark key="^" line="4" column="35" />
         <mark key="." line="5" column="8" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products-v1.json" timestamp="1495191293228">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/Rental.java" timestamp="1488382438728">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="31" />
@@ -847,12 +852,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495190436849">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495191234396">
         <mark key="'" line="115" column="25" />
-        <mark key="[" line="113" column="8" />
-        <mark key="]" line="113" column="12" />
-        <mark key="." line="113" column="12" />
-        <mark key="^" line="113" column="12" />
+        <mark key="[" line="182" column="63" />
+        <mark key="]" line="182" column="71" />
+        <mark key="." line="182" column="71" />
+        <mark key="^" line="182" column="71" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 1 Logic in Rental/src/main/java/pl/refactoring/videostore/original/moved_to_rental/Movie.java" timestamp="1488366168932">
         <mark key="[" line="27" column="0" />
@@ -958,7 +963,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
       <jump line="38" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
       <jump line="31" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="20" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
       <jump line="4" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
       <jump line="19" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
       <jump line="1" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
@@ -989,46 +993,47 @@
       <jump line="14" column="2" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" />
       <jump line="115" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="25" column="43" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" />
+      <jump line="20" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>catalog</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UFJPRFVDVF9KU09OID0gInByb2R1Y3RzIiArIERBVEFTRVRfVkVSU0lPTiArICIuanNvbiIK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcHJkIGluIHByb2R1Y3RzOiAgICAjIHByZCBpcyBhIGRpY3QsIHN1Y2ggYXMgeyBuYW1lOiBibGFibGEsIGJhcmNvZGU6IHh4eHh4LCAuLi4ufQogICAgICAgICAgICBiYXJjb2RlID0gcHJkWydiYXJjb2RlJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChiYXJjb2RlLCAiNDAyNTUwMDE4MTg3MSIpCg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiTXVsbGVyIENvcm5lciBCbGlzcywgR3JlZWsgU3R5bGUgV2hpcHBlZCBZb2dodXJ0ICYgTGVtb24gQ29tcG90ZSA0IHggMTEwZyIsCiAgICAgICJiYXJjb2RlIjogIjQwMjU1MDAxODE4NzEiLAogICAgICAic2t1IjogIjI1MDA1NDAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9NdWxsZXItQ29ybmVyLUJsaXNzLUdyZWVrLVN0eWxlLVdoaXBwZWQtWW9naHVydC0tTGVtb24tQ29tcG90ZS8yNTAwNTQwMTEiCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJFc3NlbnRpYWwgV2FpdHJvc2UgU3BpbmFjaCAmIFJpY290dGEgVG9ydGVsbG9uaSAzMDBnIiwKICAgICAgImJhcmNvZGUiOiAiNTAwMDE2OTIwNzE3OCIsCiAgICAgICJza3UiOiAiODI2OTUwMTEiLAogICAgICAidXJsIjogImh0dHBzOi8vd3d3Lm9jYWRvLmNvbS93ZWJzaG9wL3Byb2R1Y3QvRXNzZW50aWFsLVdhaXRyb3NlLVNwaW5hY2gtLVJpY290dGEtVG9ydGVsbG9uaS84MjY5NTAxMSIKICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogIkx5ZSBDcm9zcyBGYXJtIE1hdHVyZSBDaGVkZGFyIDM1MGciLAogICAgICAiYmFyY29kZSI6ICI1MDI3NjMyMDAxMTE4IiwKICAgICAgInNrdSI6ICI2NzIwNzAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9MeWUtQ3Jvc3MtRmFybS1NYXR1cmUtQ2hlZGRhci82NzIwNzAxMSIKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgIGZvciBwcmQgaW4gcHJvZHVjdHM6CiAgICAgICAgYmFyY29kZSA9IHByZC5iYXJjb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFzZXRfYnVpbGRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcHJpbnQoaXRlbXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RzID0gTm9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBST0RVQ1RfSlNPTiA9ICJwcm9kdWN0cy5qc29uIgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmQgPSBwcm9kdWN0c1swXQogICAgICAgIHByaW50KCd0ZXN0IGZvciBpdGVtIDE6IHt9Jy5mb3JtYXQocHJkKSkKICAgICAgICBpdGVtID0ganNvbi5sb2FkcyhwcmQpCiAgICAgICAgcHJpbnQoJ3Rlc3QgZm9yIGl0ZW0gMSBiYXJjb2RlOiB7fScuZm9ybWF0KGl0ZW0uYmFyY29kZSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQogIFsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChiYXJjb2RlLCAiNDAyNTUwMDE4MTg3MSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAic3RhdGlvbiI6ICJDMUQwNSBDRkMxIiwK</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXJjb2RlID0K</text>
+        <text encoding="base64">aW1wb3J0IGRhdGFzZXRfYnVpbGRlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>8</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
@@ -1074,7 +1079,6 @@
         <entry>77</entry>
         <entry>hsplit</entry>
         <entry>help</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>w</entry>
         <entry>split</entry>
         <entry>unsplit</entry>
@@ -1085,6 +1089,7 @@
         <entry>vsplit</entry>
         <entry>close</entry>
         <entry>8</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
