@@ -68,12 +68,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495122337398">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495179893824">
         <mark key="'" line="30" column="42" />
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="33" column="53" />
-        <mark key="^" line="33" column="53" />
-        <mark key="." line="33" column="53" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="21" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
         <mark key="[" line="19" column="11" />
@@ -314,10 +314,10 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" timestamp="1494952172506">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" timestamp="1495180049383">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
         <mark key="'" line="0" column="0" />
@@ -728,12 +728,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495018714745">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495180018046">
         <mark key="'" line="26" column="3" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="61" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="5" />
+        <mark key="^" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 2 Pricing Interface/src/test/java/pl/refactoring/videostore/ocp_pricing/AllInclusivePricingTest.java" timestamp="1488385867028">
         <mark key="[" line="12" column="4" />
@@ -841,12 +841,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495120258836">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495180000677">
         <mark key="'" line="31" column="4" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="56" column="23" />
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 1 Logic in Rental/src/main/java/pl/refactoring/videostore/original/moved_to_rental/Movie.java" timestamp="1488366168932">
         <mark key="[" line="27" column="0" />
@@ -986,13 +986,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>cropped_1024</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBhc3N1cmVfZGlyX2V4aXN0aW5nKGRpcmVjdG9yeSk6CiAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGRpcmVjdG9yeSk6CiAgICAgICAgICAgIG9zLm1ha2VkaXJzKGRpcmVjdG9yeSkK</text>
+      <register name="0" type="4">
+        <text>dataset_builder.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBvc191dGlsIGltcG9ydCBhc3N1cmVfZGlyX2V4aXN0aW5nCg==</text>
@@ -1022,7 +1022,7 @@
         <text encoding="base64">ICAgICAgICBJTUdfSU5QVVQgPSAnLi9pbnB1dC9vcmlnaW5hbF9mb3JfY3JvcC5wbmcnCiAgICAgICAgSU1HX09VVFBVVCA9ICcuL291dHB1dC9yZXN1bHRfY3JvcHBlZF8xMDI0LnBuZycK</text>
       </register>
       <register name=":" type="4">
-        <text>close</text>
+        <text>8</text>
       </register>
     </registers>
     <search>
@@ -1078,6 +1078,7 @@
         <entry>6</entry>
         <entry>vsplit</entry>
         <entry>close</entry>
+        <entry>8</entry>
       </history-cmd>
       <history-expr />
       <history-input />
