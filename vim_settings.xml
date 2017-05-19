@@ -147,12 +147,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test_segment_images.py" timestamp="1495121112162">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/test_change_fname_as_xml_file.py" timestamp="1487172465165">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="39" column="63" />
@@ -241,6 +235,12 @@
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/which-logs-are-available/.gitignore" timestamp="1495201156589">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" timestamp="1495018142600">
         <mark key="'" line="90" column="8" />
@@ -1003,13 +1003,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>output_dir</text>
+        <text>service-key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxESVJfREFUQVNFVF9EQVRBXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>DIR_DATASET_DATA</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VydmljZS1rZXkuanNvbgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG91dHB1dF9kaXIgPSBvcy5wYXRoLmpvaW4oRElSX0RBVEFTRVRfREFUQSwgYmFyY29kZSkK</text>
