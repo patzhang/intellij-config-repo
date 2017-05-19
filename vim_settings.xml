@@ -447,11 +447,11 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" timestamp="1495181288319">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="38" />
-        <mark key="." line="14" column="38" />
-        <mark key="^" line="14" column="38" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" timestamp="1495189540717">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="56" />
+        <mark key="^" line="3" column="56" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test_advanced.py" timestamp="1487804737088">
         <mark key="[" line="3" column="5" />
@@ -846,8 +846,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495184149864">
-        <mark key="'" line="113" column="22" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495189485224">
+        <mark key="'" line="115" column="25" />
         <mark key="[" line="118" column="24" />
         <mark key="]" line="118" column="24" />
         <mark key="." line="118" column="24" />
@@ -888,7 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="4" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
       <jump line="73" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
       <jump line="370" column="27" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
       <jump line="418" column="16" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" />
@@ -988,10 +987,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" />
       <jump line="2" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" />
       <jump line="14" column="2" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" />
+      <jump line="115" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>[&quot;4025500181871&quot;]</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</text>
