@@ -136,12 +136,12 @@
       <file name="/" timestamp="1495180520264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495014643081">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="65" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="63" />
+        <mark key="^" line="13" column="63" />
+        <mark key="." line="13" column="63" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/test_change_fname_as_xml_file.py" timestamp="1487172465165">
         <mark key="[" line="37" column="0" />
@@ -862,12 +862,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495202434576">
-        <mark key="'" line="179" column="1" />
-        <mark key="[" line="178" column="35" />
-        <mark key="]" line="179" column="1" />
-        <mark key="." line="179" column="1" />
-        <mark key="^" line="179" column="1" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495205956948">
+        <mark key="'" line="173" column="4" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="^" line="198" column="31" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 1 Logic in Rental/src/main/java/pl/refactoring/videostore/original/moved_to_rental/Movie.java" timestamp="1488366168932">
         <mark key="[" line="27" column="0" />
@@ -910,9 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="18" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="362" column="84" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="357" column="21" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="345" column="6" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="76" column="23" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
@@ -1010,10 +1007,13 @@
       <jump line="188" column="11" filename="$USER_HOME$/Workspaces/which-logs-are-available/indexer/src/main.js" />
       <jump line="49" column="22" filename="$USER_HOME$/Workspaces/which-logs-are-available/indexer/test/parse-filename.spec.js" />
       <jump line="233" column="2" filename="$USER_HOME$/Workspaces/which-logs-are-available/indexer/src/main.js" />
+      <jump line="23" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="207" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="181" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>service-key</text>
+        <text encoding="base64">IGFzIHJlYWRtZTo=</text>
       </register>
       <register name="/" type="4">
         <text>page</text>
@@ -1022,31 +1022,31 @@
         <text>gcloud config set compute/zone $ZON</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9kaXIgPSBvcy5wYXRoLmpvaW4oRElSX0RBVEFTRVRfREFUQSwgYmFyY29kZSkK</text>
+        <text encoding="base64">CiAgICAgICAgbG9nZ2VyLmluZm8oJ1N1Y2Nlc3NmdWxseSBkb3dubG9hZGVkIGFuZCBwcm9jZXNzZWQge30gaW1hZ2VzLicuZm9ybWF0KHRvdGFsKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbWVuZF90b19yZWFkbWUobGluZT1pdGVtX3N1bW1hcnkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9jdXJyZW50X2RpcigpOgogICAgcmV0dXJuIHBhdGgucmVhbHBhdGgob3MucGF0aC5hYnNwYXRoKG9zLnBhdGguc3BsaXQoaW5zcGVjdC5nZXRmaWxlKGluc3BlY3QuY3VycmVudGZyYW1lKCkpKVswXSkpCgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRvZG86IHdyaXRlIHRvIHJlYWRtZS50eHQK</text>
+        <text encoding="base64">ZGVmIGFtZW5kX3RvX3JlYWRtZShsaW5lKToKICAgICIiIgogICAgQW1lbmQgYSBsaW5lIHRvIHRoZSBSZWFkbWUudHh0IGZpbGUuCiAgICA6cGFyYW0gbGluZTogdGhlIGxpbmUgdG8gYmUgYW1lbmRlZAogICAgOnJldHVybjogdGhlIGFtZW5kZWQgUmVhZG1lLnR4dCBmaWxlLgogICAgIiIiCiAgICBjdXJyZW50X2RpciA9IGdldF9jdXJyZW50X2RpcigpCiAgICB3aXRoIG9wZW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiTXVsbGVyIENvcm5lciBCbGlzcywgR3JlZWsgU3R5bGUgV2hpcHBlZCBZb2dodXJ0ICYgTGVtb24gQ29tcG90ZSA0IHggMTEwZyIsCiAgICAgICJiYXJjb2RlIjogIjQwMjU1MDAxODE4NzEiLAogICAgICAic2t1IjogIjI1MDA1NDAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9NdWxsZXItQ29ybmVyLUJsaXNzLUdyZWVrLVN0eWxlLVdoaXBwZWQtWW9naHVydC0tTGVtb24tQ29tcG90ZS8yNTAwNTQwMTEiCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJFc3NlbnRpYWwgV2FpdHJvc2UgU3BpbmFjaCAmIFJpY290dGEgVG9ydGVsbG9uaSAzMDBnIiwKICAgICAgImJhcmNvZGUiOiAiNTAwMDE2OTIwNzE3OCIsCiAgICAgICJza3UiOiAiODI2OTUwMTEiLAogICAgICAidXJsIjogImh0dHBzOi8vd3d3Lm9jYWRvLmNvbS93ZWJzaG9wL3Byb2R1Y3QvRXNzZW50aWFsLVdhaXRyb3NlLVNwaW5hY2gtLVJpY290dGEtVG9ydGVsbG9uaS84MjY5NTAxMSIKICAgIH0sCiAgICB7CiAgICAgICJuYW1lIjogIkx5ZSBDcm9zcyBGYXJtIE1hdHVyZSBDaGVkZGFyIDM1MGciLAogICAgICAiYmFyY29kZSI6ICI1MDI3NjMyMDAxMTE4IiwKICAgICAgInNrdSI6ICI2NzIwNzAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9MeWUtQ3Jvc3MtRmFybS1NYXR1cmUtQ2hlZGRhci82NzIwNzAxMSIKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBwcmQgaW4gcHJvZHVjdHM6CiAgICAgICAgYmFyY29kZSA9IHByZC5iYXJjb2RlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNodXRpbC5jCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQoaXRlbXMpCg==</text>
+        <text encoding="base64">Z2cK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
@@ -1059,13 +1059,10 @@
       <last-replace />
       <last-substitute encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>10.</entry>
-        <entry>requirements.txt</entry>
-        <entry>virtualenv</entry>
         <entry>GCS</entry>
         <entry>delete</entry>
         <entry>}.</entry>
@@ -1088,7 +1085,6 @@
         <entry>page</entry>
       </history-search>
       <history-cmd>
-        <entry>16</entry>
         <entry>26</entry>
         <entry>249</entry>
         <entry>142</entry>
