@@ -68,12 +68,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495458912632">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495460540239">
         <mark key="'" line="103" column="0" />
-        <mark key="[" line="39" column="14" />
-        <mark key="]" line="40" column="7" />
-        <mark key="." line="40" column="7" />
-        <mark key="^" line="40" column="7" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="20" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
         <mark key="[" line="19" column="11" />
@@ -839,10 +839,10 @@
       <file name="$USER_HOME$/Workspaces/which-logs-are-available/indexer/test/parse-filename.spec.js" timestamp="1495202817120">
         <mark key="'" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495456893387">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495460432727">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
@@ -862,8 +862,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495459035823">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495460549303">
+        <mark key="'" line="212" column="53" />
         <mark key="[" line="212" column="42" />
         <mark key="]" line="212" column="53" />
         <mark key="." line="212" column="53" />
@@ -1000,7 +1000,6 @@
       <jump line="168" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="184" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="162" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="28" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" />
       <jump line="167" column="57" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="30" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
@@ -1010,43 +1009,44 @@
       <jump line="42" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
       <jump line="71" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
       <jump line="24" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="212" column="53" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>product_data_file</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Readme</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJ1Y2tldF9uYW1lID0gQlVDS0VUX1BST0RVQ1RfSU1BR0VTCiAgICBsb2dnZXIuaW5mbygnRG93bmxvYWRpbmcge30gaW1hZ2VzIGZyb20gYnVja2V0IHt9IC4uLicuZm9ybWF0KFRPVEFMX0lNQUdFUywgYnVja2V0X25hbWUpKQoKICAgIHN0b3JhZ2VfY2xpZW50ID0gc3RvcmFnZS5DbGllbnQoKQogICAgYnVja2V0ID0gc3RvcmFnZV9jbGllbnQuZ2V0X2J1Y2tldChidWNrZXRfbmFtZT1idWNrZXRfbmFtZSkKICAgIGxvZ2dlci5kZWJ1ZygnZm91bmQgYnVja2V0OiB7fScuZm9ybWF0KGJ1Y2tldF9uYW1lKSkK</text>
+      <register name="0" type="4">
+        <text>5014067153833</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RfZGF0YV9maWxlID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ2ZvdW5kIGJ1Y2tldDoge30nLmZvcm1hdChidWNrZXRfbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RfZGF0YV9maWxlID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnRG93bmxvYWRpbmcge30gaW1hZ2VzIGZyb20gYnVja2V0IHt9IC4uLicuZm9ybWF0KFRPVEFMX0lNQUdFUywgYnVja2V0X25hbWUpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoJ2ZvdW5kIGJ1Y2tldDoge30nLmZvcm1hdChidWNrZXRfbmFtZSkpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvcHlfcHJvZHVjdF9qc29uKHNvdXJjZV9kaXI9Y3VycmVudF9kaXIsIGRlc3RfZGlyPW91dHB1dF9kaXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnRG93bmxvYWRpbmcge30gaW1hZ2VzIGZyb20gYnVja2V0IHt9IC4uLicuZm9ybWF0KFRPVEFMX0lNQUdFUywgYnVja2V0X25hbWUpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
