@@ -674,6 +674,12 @@
         <mark key="." line="4" column="29" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" timestamp="1495550544488">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/logs/Readme.txt" timestamp="1485205226139">
         <mark key="[" line="0" column="47" />
         <mark key="]" line="0" column="47" />
@@ -785,7 +791,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495547824910">
+      <file name="/Dummy.txt" timestamp="1495550187286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/requirements.txt" timestamp="1487160539992">
@@ -908,9 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="53" column="35" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
-      <jump line="60" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
       <jump line="23" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
       <jump line="108" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/process_images.py" />
       <jump line="68" column="128" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
@@ -1008,6 +1011,9 @@
       <jump line="232" column="51" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="126" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="25" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" />
+      <jump line="9" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" />
+      <jump line="261" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" />
+      <jump line="251" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1020,31 +1026,31 @@
         <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiRXNzZW50aWFsIFdhaXRyb3NlIFNwaW5hY2ggJiBSaWNvdHRhIFRvcnRlbGxvbmkgMzAwZyIsCiAgICAgICJiYXJjb2RlIjogIjUwMDAxNjkyMDcxNzgiLAogICAgICAic2t1IjogIjgyNjk1MDExIiwKICAgICAgInVybCI6ICJodHRwczovL3d3dy5vY2Fkby5jb20vd2Vic2hvcC9wcm9kdWN0L0Vzc2VudGlhbC1XYWl0cm9zZS1TcGluYWNoLS1SaWNvdHRhLVRvcnRlbGxvbmkvODI2OTUwMTEiCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJMeWUgQ3Jvc3MgRmFybSBNYXR1cmUgQ2hlZGRhciAzNTBnIiwKICAgICAgImJhcmNvZGUiOiAiNTAyNzYzMjAwMTExOCIsCiAgICAgICJza3UiOiAiNjcyMDcwMTEiLAogICAgICAidXJsIjogImh0dHBzOi8vd3d3Lm9jYWRvLmNvbS93ZWJzaG9wL3Byb2R1Y3QvTHllLUNyb3NzLUZhcm0tTWF0dXJlLUNoZWRkYXIvNjcyMDcwMTEiCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiTXVsbGVyIENvcm5lciBCbGlzcywgR3JlZWsgU3R5bGUgV2hpcHBlZCBZb2dodXJ0ICYgTGVtb24gQ29tcG90ZSA0IHggMTEwZyIsCiAgICAgICJiYXJjb2RlIjogIjQwMjU1MDAxODE4NzEiLAogICAgICAic2t1IjogIjI1MDA1NDAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9NdWxsZXItQ29ybmVyLUJsaXNzLUdyZWVrLVN0eWxlLVdoaXBwZWQtWW9naHVydC0tTGVtb24tQ29tcG90ZS8yNTAwNTQwMTEiCiAgICB9LAo=</text>
+        <text encoding="base64">Q1VTVE9NRVJfU0tVX0lELFNLVV9JRCxOT1RFUyxDT1VOVCgqKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUwo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiTXVsbGVyIENvcm5lciBCbGlzcywgR3JlZWsgU3R5bGUgV2hpcHBlZCBZb2dodXJ0ICYgTGVtb24gQ29tcG90ZSA0IHggMTEwZyIsCiAgICAgICJiYXJjb2RlIjogIjQwMjU1MDAxODE4NzEiLAogICAgICAic2t1IjogIjI1MDA1NDAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9NdWxsZXItQ29ybmVyLUJsaXNzLUdyZWVrLVN0eWxlLVdoaXBwZWQtWW9naHVydC0tTGVtb24tQ29tcG90ZS8yNTAwNTQwMTEiCiAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NfaW1hZ2VzX2Zvcl9iYXJjb2RlCg==</text>
+        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2Nlc3NfaW1hZ2VzX2Zvcl9iYXJjb2RlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBnb29nbGUuY2xvdWQgaW1wb3J0IHN0b3JhZ2UK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZGVmIHRlc3Rfc2VsZWN0X2Jsb2JzKHNlbGYpOgogICAgICAgICMgZ2l2ZW4KICAgICAgICBzdG9yYWdlX2NsaWVudCA9IHN0b3JhZ2UuQ2xpZW50KCkKICAgICAgICBidWNrZXQgPSBzdG9yYWdlX2NsaWVudC5nZXRfYnVja2V0KGJ1Y2tldF9uYW1lPUJVQ0tFVF9QUk9EVUNUX0lNQUdFUykKICAgICAgICBiYXJjb2RlID0gJzUwMTQwNjcxNTM4MzMnCiAgICAgICAgIyB3aGVuCiAgICAgICAgdG90YWwgPSBwcm9jZXNzX2ltYWdlc19mb3JfYmFyY29kZShidWNrZXQsIGJhcmNvZGUpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHRvdGFsID4gMCkKICAgICAgICBzZWxmLmFzc2VydFRydWUodG90YWwgPD0gVE9UQUxfSU1BR0VTKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBnb29nbGUuY2xvdWQgaW1wb3J0IHN0b3JhZ2UK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ZGVmIHRlc3Rfc2VsZWN0X2Jsb2JzKHNlbGYpOgogICAgICAgICMgZ2l2ZW4KICAgICAgICBzdG9yYWdlX2NsaWVudCA9IHN0b3JhZ2UuQ2xpZW50KCkKICAgICAgICBidWNrZXQgPSBzdG9yYWdlX2NsaWVudC5nZXRfYnVja2V0KGJ1Y2tldF9uYW1lPUJVQ0tFVF9QUk9EVUNUX0lNQUdFUykKICAgICAgICBiYXJjb2RlID0gJzUwMTQwNjcxNTM4MzMnCiAgICAgICAgIyB3aGVuCiAgICAgICAgdG90YWwgPSBwcm9jZXNzX2ltYWdlc19mb3JfYmFyY29kZShidWNrZXQsIGJhcmNvZGUpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHRvdGFsID4gMCkKICAgICAgICBzZWxmLmFzc2VydFRydWUodG90YWwgPD0gVE9UQUxfSU1BR0VTKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yYWdlX2NsaWVudC5wcm9qZWN0ID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>27</text>
@@ -1144,6 +1150,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
