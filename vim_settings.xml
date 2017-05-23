@@ -837,11 +837,11 @@
       <file name="$USER_HOME$/Workspaces/which-logs-are-available/indexer/test/parse-filename.spec.js" timestamp="1495202817120">
         <mark key="'" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495536749559">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495544275278">
         <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="13" column="5" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
@@ -1012,7 +1012,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">dGhlIGltYWdlIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Downloaded</text>
