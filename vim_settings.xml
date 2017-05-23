@@ -361,9 +361,9 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495210766735">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="14" column="5" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495536727920">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="26" column="4" />
         <mark key="." line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/cognex-settings-DM362/Readme.txt" timestamp="1493127834030">
@@ -447,11 +447,11 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" timestamp="1495211205287">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" timestamp="1495536236308">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
+        <mark key="[" line="30" column="40" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="41" />
         <mark key="^" line="9" column="39" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test_advanced.py" timestamp="1487804737088">
@@ -738,7 +738,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495532119618">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495536565595">
         <mark key="'" line="12" column="35" />
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="21" />
@@ -837,10 +837,11 @@
       <file name="$USER_HOME$/Workspaces/which-logs-are-available/indexer/test/parse-filename.spec.js" timestamp="1495202817120">
         <mark key="'" line="49" column="22" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495460432727">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495536749559">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
@@ -860,12 +861,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495533182784">
-        <mark key="'" line="199" column="4" />
-        <mark key="[" line="65" column="17" />
-        <mark key="]" line="65" column="25" />
-        <mark key="." line="65" column="25" />
-        <mark key="^" line="65" column="25" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495536509875">
+        <mark key="'" line="126" column="7" />
+        <mark key="[" line="138" column="40" />
+        <mark key="]" line="138" column="40" />
+        <mark key="." line="138" column="40" />
+        <mark key="^" line="57" column="83" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 1 Logic in Rental/src/main/java/pl/refactoring/videostore/original/moved_to_rental/Movie.java" timestamp="1488366168932">
         <mark key="[" line="27" column="0" />
@@ -908,9 +909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="59" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="60" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="32" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="53" column="35" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
       <jump line="60" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
@@ -975,7 +973,6 @@
       <jump line="207" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="181" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="168" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="184" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="162" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="28" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" />
       <jump line="167" column="57" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
@@ -1008,16 +1005,20 @@
       <jump line="30" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="198" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="17" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
+      <jump line="42" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="184" column="37" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="232" column="51" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="126" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, BUCKET_PRODUCT_IMAGES, START_DATE, \</text>
+        <text encoding="base64">dGhlIGltYWdlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>Readme</text>
+        <text>Downloaded</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd7fSBvbmx5IGhhdmUge30gaW1hZ2VzIGluIEdDUyBmcm9tIHt9IHRvIHt9Jy5mb3JtYXQoYmFyY29kZSwgY291bnQsIHN0YXJ0X2RhdGUsIHRvZGF5KSkK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiRXNzZW50aWFsIFdhaXRyb3NlIFNwaW5hY2ggJiBSaWNvdHRhIFRvcnRlbGxvbmkgMzAwZyIsCiAgICAgICJiYXJjb2RlIjogIjUwMDAxNjkyMDcxNzgiLAogICAgICAic2t1IjogIjgyNjk1MDExIiwKICAgICAgInVybCI6ICJodHRwczovL3d3dy5vY2Fkby5jb20vd2Vic2hvcC9wcm9kdWN0L0Vzc2VudGlhbC1XYWl0cm9zZS1TcGluYWNoLS1SaWNvdHRhLVRvcnRlbGxvbmkvODI2OTUwMTEiCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJMeWUgQ3Jvc3MgRmFybSBNYXR1cmUgQ2hlZGRhciAzNTBnIiwKICAgICAgImJhcmNvZGUiOiAiNTAyNzYzMjAwMTExOCIsCiAgICAgICJza3UiOiAiNjcyMDcwMTEiLAogICAgICAidXJsIjogImh0dHBzOi8vd3d3Lm9jYWRvLmNvbS93ZWJzaG9wL3Byb2R1Y3QvTHllLUNyb3NzLUZhcm0tTWF0dXJlLUNoZWRkYXIvNjcyMDcwMTEiCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUwo=</text>
@@ -1051,9 +1052,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Readme</last-search>
+      <last-search>Downloaded</last-search>
       <last-offset />
-      <last-pattern>Readme</last-pattern>
+      <last-pattern>Downloaded</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1082,6 +1083,7 @@
         <entry encoding="base64">XDxESVJfREFUQVNFVF9EQVRBXD4=</entry>
         <entry>page</entry>
         <entry>Readme</entry>
+        <entry>Downloaded</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
