@@ -68,10 +68,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495532094395">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" timestamp="1495533348882">
+        <mark key="[" line="8" column="82" />
+        <mark key="]" line="8" column="82" />
+        <mark key="." line="8" column="82" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
         <mark key="[" line="19" column="11" />
@@ -860,12 +860,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495532182576">
-        <mark key="'" line="198" column="4" />
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="55" />
-        <mark key="." line="63" column="44" />
-        <mark key="^" line="63" column="44" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495533182784">
+        <mark key="'" line="199" column="4" />
+        <mark key="[" line="65" column="17" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="65" column="25" />
+        <mark key="^" line="65" column="25" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 1 Logic in Rental/src/main/java/pl/refactoring/videostore/original/moved_to_rental/Movie.java" timestamp="1488366168932">
         <mark key="[" line="27" column="0" />
@@ -926,7 +926,6 @@
       <jump line="12" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="99" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="50" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" />
-      <jump line="17" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
       <jump line="85" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="55" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="87" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
@@ -1008,43 +1007,44 @@
       <jump line="83" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="30" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="198" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>g</text>
+        <text>, BUCKET_PRODUCT_IMAGES, START_DATE, \</text>
       </register>
       <register name="/" type="4">
         <text>Readme</text>
       </register>
-      <register name="0" type="4">
-        <text>datetime.strptime(START_DATE, '%Y%m%d')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd7fSBvbmx5IGhhdmUge30gaW1hZ2VzIGluIEdDUyBmcm9tIHt9IHRvIHt9Jy5mb3JtYXQoYmFyY29kZSwgY291bnQsIHN0YXJ0X2RhdGUsIHRvZGF5KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yYWdlX2NsaWVudC5wcm9qZWN0ID0K</text>
+        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3NfaW1hZ2VzX2Zvcl9iYXJjb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAoKCiAgICBkZWYgdGVzdF9hbWVuZF9yZWFkbWUoc2VsZik6CiAgICAgICAgIyBnaXZlbgogICAgICAgIGJhcmNvZGUgPSAiNDAyNTUwMDE4MTg3MSIKICAgICAgICB0b3RhbCA9IDEyMzQ1CiAgICAgICAgcHJvZF9uYW1lID0gIlRoaXMgaXMgdGhlIHByb2R1Y3QgbmFtZSEiCgogICAgICAgIGN1cnJlbnRfZGlyID0gcGF0aC5yZWFscGF0aChvcy5wYXRoLmFic3BhdGgob3MucGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkKICAgICAgICBkZXN0X2RpciA9IHBhdGguam9pbihjdXJyZW50X2RpciwgJy4uL3Rlc3RzL291dHB1dCcpCiAgICAgICAgIyB3aGVuCiAgICAgICAgcmVhZG1lID0gaW5pdF9yZWFkbWUoY3VycmVudF9kaXIsIGRlc3RfZGlyKQogICAgICAgICMgaXRlbV9zdW1tYXJ5ID0gJ3swOiA8MTh9ICAgICB7fSAge30nLmZvcm1hdChiYXJjb2RlLCB0b3RhbCwgcHJvZF9uYW1lKQogICAgICAgIGl0ZW0xID0gJyAgICAgJy5qb2luKCgnezA6IDwxM30nLmZvcm1hdChiYXJjb2RlKSwgJ3swOiA+Nn0nLmZvcm1hdCh0b3RhbCksIHByb2RfbmFtZSkpCiAgICAgICAgcHJpbnQoaXRlbTEpCiAgICAgICAgYW1lbmRfdG9fcmVhZG1lKHJlYWRtZSwgaXRlbTEpCgogICAgICAgIGJhcmNvZGUgPSAnNTAwMDE2OTA3MzAxOCcKICAgICAgICB0b3RhbCA9IDIxMjMKICAgICAgICBwcm9kX25hbWUgPSAnWWVvIFZhbGxleSBPcmdhbmljIFN0cmF3YmVycnkgWW9ndXJ0IDQ1MGcnCiAgICAgICAgaXRlbTIgPSAnICAgICAnLmpvaW4oKCd7MDogPDEzfScuZm9ybWF0KGJhcmNvZGUpLCAnezA6ID42fScuZm9ybWF0KHRvdGFsKSwgcHJvZF9uYW1lKSkKICAgICAgICBwcmludChpdGVtMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxlY3RfYmxvYnMoYnVja2V0LCBiYXJjb2RlKQogICAgICAgIGRheV9ibG9icyA9IGJ1Y2tldC5saXN0X2Jsb2JzKHByZWZpeD1wcmVmaXgsIG1heF9yZXN1bHRzPVRPVEFMX0lNQUdFUykK</text>
+        <text encoding="base64">ZnJvbSBnb29nbGUuY2xvdWQgaW1wb3J0IHN0b3JhZ2UK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">OgogICAgICAgICIiIgogICAgICAgIFRoaXMgbWV0aG9kIGNvbnRhaW5zIHRoZSBsb2dpYyBmb3Igc2VsZWN0aW5nIGltYWdlcyBmb3IgdGhlIGRhdGFzZXQuCiAgICAgICAgVGhlIGNoYWxsZW5nZSBpcyB3aWxkY2FyZCBuYW1lcyBjYW5ub3QgYmUgdXNlZCBpbiBnb29nbGUtY2xvdWQgUHl0aG9uIGNsaWVudCBhbmQKICAgICAgICBpdCBvbmx5IHN1cHBvcnRzIHByZWZpeC4gZ3N1dGlsIGNhbiBiZSBjb25zaWRlcmVkIGZvciB3aWxkY2FyZCBuYW1lcy4KICAgICAgICBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzI0NTc1NDUyL3dpbGRjYXJkcy1pbi1nY3MtYnVja2V0LWphdmEtY2xpZW50LWFwaQoKICAgICAgICBUaGlzIG1ldGhvZCBjaGVja3MgdGhlIGJsb2JzIGZyb20gdGhlIHN0YXJ0IGRhdGUgdG8gdG9kYXkuICBJZiB0aGUgdG90YWwgbnVtYmVyIG9mIGJsb2JzIGlzIG1vcmUgdGhhbiB0aGUKICAgICAgICB0b3RhbCBudW1iZXIgb2YgaW1hZ2VzIHJlcXVpcmVkLCBpdCBzdG9wcyB0byBjaGVjayBmb3IgdGhlIG5leHQgZGF5LgogICAgICAgICIiIgogICAgICAgIGNvdW50ID0gMAogICAgICAgIGJsb2JzID0gTm9uZQogICAgICAgIHN0YXJ0ID0gU1RBUlRfREFURQoKICAgICAgICBmcm9tIGRhdGV0aW1lIGltcG9ydCB0aW1lZGVsdGEsIGRhdGUKCiAgICAgICAgZGVmIGRhdGVyYW5nZShzdGFydF9kYXRlLCBlbmRfZGF0ZSk6CiAgICAgICAgICAgIGZvciBuIGluIHJhbmdlKGludCAoKGVuZF9kYXRlIC0gc3RhcnRfZGF0ZSkuZGF5cykpOgogICAgICAgICAgICAgICAgeWllbGQgc3RhcnRfZGF0ZSArIHRpbWVkZWx0YShuKQoKICAgICAgICBzdGFydF9kYXRlID0gZGF0ZSgyMDEzLCAxLCAxKQogICAgICAgIGVuZF9kYXRlID0gZGF0ZSgyMDE1LCA2LCAyKQogICAgICAgIGZvciBzaW5nbGVfZGF0ZSBpbiBkYXRlcmFuZ2Uoc3RhcnRfZGF0ZSwgZW5kX2RhdGUpOgogICAgICAgICAgICBwcmludCBzaW5nbGVfZGF0ZS5zdHJmdGltZSgiJVktJW0tJWQiKQoKICAgICAgICBwcmVmaXggPSAnLycuam9pbigoU1RBUlRfREFURSwgYmFyY29kZSkpCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIHRlc3Rfc2VsZWN0X2Jsb2JzKHNlbGYpOgogICAgICAgICMgZ2l2ZW4KICAgICAgICBzdG9yYWdlX2NsaWVudCA9IHN0b3JhZ2UuQ2xpZW50KCkKICAgICAgICBidWNrZXQgPSBzdG9yYWdlX2NsaWVudC5nZXRfYnVja2V0KGJ1Y2tldF9uYW1lPUJVQ0tFVF9QUk9EVUNUX0lNQUdFUykKICAgICAgICBiYXJjb2RlID0gJzUwMTQwNjcxNTM4MzMnCiAgICAgICAgIyB3aGVuCiAgICAgICAgdG90YWwgPSBwcm9jZXNzX2ltYWdlc19mb3JfYmFyY29kZShidWNrZXQsIGJhcmNvZGUpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHRvdGFsID4gMCkKICAgICAgICBzZWxmLmFzc2VydFRydWUodG90YWwgPD0gVE9UQUxfSU1BR0VTKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yYWdlX2NsaWVudC5wcm9qZWN0ID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name=":" type="4">
         <text>27</text>
