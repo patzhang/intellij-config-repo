@@ -130,6 +130,12 @@
       <file name="/" timestamp="1495206900461">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/C1D05-Selected-SKUs.csv" timestamp="1495552815944">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
         <mark key="'" line="7" column="6" />
         <mark key="[" line="13" column="61" />
@@ -165,9 +171,6 @@
         <mark key="]" line="9" column="24" />
         <mark key="^" line="22" column="23" />
         <mark key="." line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/which-logs-are-available/indexer/src/main.js" timestamp="1495203280903">
-        <mark key="'" line="233" column="2" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/logging_util.py" timestamp="1485183332984">
         <mark key="[" line="6" column="40" />
@@ -205,7 +208,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1495531684464">
+      <file name="/Python Console" timestamp="1495552877350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -214,7 +217,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="/fragment.py" timestamp="1487173718588">
+      <file name="/fragment.py" timestamp="1495552886887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test_svg_util.py" timestamp="1487841150138">
@@ -279,10 +282,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495124570441">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495552143413">
         <mark key="'" line="35" column="12" />
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="35" column="12" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="109" />
         <mark key="." line="35" column="12" />
         <mark key="^" line="35" column="12" />
       </file>
@@ -554,6 +557,13 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_convert_csv.py" timestamp="1495552764883">
+        <mark key="'" line="12" column="30" />
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="13" column="32" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/requirements.txt" timestamp="1493730297938">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="7" column="10" />
@@ -735,9 +745,6 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/venv2/lib/python2.7/site-packages/google/cloud/storage/bucket.py" timestamp="1495202465894">
-        <mark key="'" line="242" column="8" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/context.py" timestamp="1487804476643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="11" />
@@ -840,9 +847,6 @@
         <mark key="]" line="1" column="28" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/which-logs-are-available/indexer/test/parse-filename.spec.js" timestamp="1495202817120">
-        <mark key="'" line="49" column="22" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495547877778">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -866,8 +870,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495536509875">
-        <mark key="'" line="126" column="7" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495552960493">
+        <mark key="'" line="81" column="19" />
         <mark key="[" line="138" column="40" />
         <mark key="]" line="138" column="40" />
         <mark key="." line="138" column="40" />
@@ -914,10 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
-      <jump line="108" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/process_images.py" />
-      <jump line="68" column="128" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
-      <jump line="50" column="6" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
       <jump line="88" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" />
       <jump line="25" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="45" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
@@ -1014,52 +1014,56 @@
       <jump line="9" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" />
       <jump line="261" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" />
       <jump line="251" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" />
+      <jump line="8" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_convert_csv.py" />
+      <jump line="21" column="47" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/C1D05-Selected-SKUs.csv" />
+      <jump line="1" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/C1D05-Selected-SKUs.csv" />
+      <jump line="81" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>dataset-</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>readme.txt</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiRXNzZW50aWFsIFdhaXRyb3NlIFNwaW5hY2ggJiBSaWNvdHRhIFRvcnRlbGxvbmkgMzAwZyIsCiAgICAgICJiYXJjb2RlIjogIjUwMDAxNjkyMDcxNzgiLAogICAgICAic2t1IjogIjgyNjk1MDExIiwKICAgICAgInVybCI6ICJodHRwczovL3d3dy5vY2Fkby5jb20vd2Vic2hvcC9wcm9kdWN0L0Vzc2VudGlhbC1XYWl0cm9zZS1TcGluYWNoLS1SaWNvdHRhLVRvcnRlbGxvbmkvODI2OTUwMTEiCiAgICB9LAogICAgewogICAgICAibmFtZSI6ICJMeWUgQ3Jvc3MgRmFybSBNYXR1cmUgQ2hlZGRhciAzNTBnIiwKICAgICAgImJhcmNvZGUiOiAiNTAyNzYzMjAwMTExOCIsCiAgICAgICJza3UiOiAiNjcyMDcwMTEiLAogICAgICAidXJsIjogImh0dHBzOi8vd3d3Lm9jYWRvLmNvbS93ZWJzaG9wL3Byb2R1Y3QvTHllLUNyb3NzLUZhcm0tTWF0dXJlLUNoZWRkYXIvNjcyMDcwMTEiCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0c19kaXIgPSBwYXRoLnJlYWxwYXRoKG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLnNwbGl0KGluc3BlY3QuZ2V0ZmlsZShpbnNwZWN0LmN1cnJlbnRmcmFtZSgpKSlbMF0pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q1VTVE9NRVJfU0tVX0lELFNLVV9JRCxOT1RFUyxDT1VOVCgqKQo=</text>
+        <text encoding="base64">LCwsCjUzOTE1MTU4MTAyMTEsMjkxMTc3MDExLEVERU4gOFBvcmtMb2luU3RlYWtzIDgwMCBHLDQ4NAo1MDM2NTg5MjUwNTc5LDMxMjkzODAxMSxZRU8gVkEgWVZPTGl0dGxlWWVvc0ZydWl0IDkwIEcsMzYyCjUwNjAwMTE3MDAwMzUsMzI4MzgxMDExLFNOT1dETyBTbm93ZG9uaWFCbGFja0JvbSAyMDAgRywzMzcKNTAwMDE2OTM0MjU0MSw4Njk5NzAxMSxXUiAgUnN0ZCBWZWcgUGVzdG8gUGl6emEgNTg1RywzMjcKNTAyMTYzODEyMjczMCw1NDEwOTAxMSxSYWNoZWxzTWFuZ280NTBnLDI0NQo1MDU1NTQwMDA4NjE1LDkxNzk4MDExLE9DQURPIE9jYWRvVW5zbW9rZWRCYWNvbiAyNDBHLDIyNgo0MDI1NTAwMTgxODcxLDI1MDA1NDAxMSxNLUNPUk4gTXVsbGVyQ29ybmVyQmxpIDRYMTEwIEcsMTg2CjUwMDAxNjkzMTcyOTcsMzY0ODI4MDExLFdSIFdhaXRyb3NlU21va2V5UGFwcmlrYSAyNDAgRyw2NAo1MDYwMDM0NDg0OTEyLDU5OTEzMDExLE9jYWRvIEV4dHJhIE1hdCBDaGVkZGFyMjQwIEcsNTkKNTA2MDE2MTIxMTIzOCwzNDAwNzEwMTEsU1RKT0ggU3RKb2huV2Vsc2hSYXJlYml0IDI1MCBHLDI0CjUwNjAwNDU4NzA0ODMsMzEwMjI5MDExLEV0aGljYWxPcmdhbmljQnJhZWJ1cm5BcHBsZSB4NiwxOQo1MDYwMzYwNTAyMDE0LDM2Nzc3NjAxMSxPWUtPUyBPeWtvc0dyZWVrU3R5bGVZIDRYMTEwIEcsNgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiTXVsbGVyIENvcm5lciBCbGlzcywgR3JlZWsgU3R5bGUgV2hpcHBlZCBZb2dodXJ0ICYgTGVtb24gQ29tcG90ZSA0IHggMTEwZyIsCiAgICAgICJiYXJjb2RlIjogIjQwMjU1MDAxODE4NzEiLAogICAgICAic2t1IjogIjI1MDA1NDAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9NdWxsZXItQ29ybmVyLUJsaXNzLUdyZWVrLVN0eWxlLVdoaXBwZWQtWW9naHVydC0tTGVtb24tQ29tcG90ZS8yNTAwNTQwMTEiCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3NfaW1hZ2VzX2Zvcl9iYXJjb2RlCg==</text>
+        <text encoding="base64">Q1VTVE9NRVJfU0tVX0lELFNLVV9JRCxOT1RFUyxDT1VOVCgqKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiTXVsbGVyIENvcm5lciBCbGlzcywgR3JlZWsgU3R5bGUgV2hpcHBlZCBZb2dodXJ0ICYgTGVtb24gQ29tcG90ZSA0IHggMTEwZyIsCiAgICAgICJiYXJjb2RlIjogIjQwMjU1MDAxODE4NzEiLAogICAgICAic2t1IjogIjI1MDA1NDAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9NdWxsZXItQ29ybmVyLUJsaXNzLUdyZWVrLVN0eWxlLVdoaXBwZWQtWW9naHVydC0tTGVtb24tQ29tcG90ZS8yNTAwNTQwMTEiCiAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBnb29nbGUuY2xvdWQgaW1wb3J0IHN0b3JhZ2UK</text>
+        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByb2Nlc3NfaW1hZ2VzX2Zvcl9iYXJjb2RlCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIHRlc3Rfc2VsZWN0X2Jsb2JzKHNlbGYpOgogICAgICAgICMgZ2l2ZW4KICAgICAgICBzdG9yYWdlX2NsaWVudCA9IHN0b3JhZ2UuQ2xpZW50KCkKICAgICAgICBidWNrZXQgPSBzdG9yYWdlX2NsaWVudC5nZXRfYnVja2V0KGJ1Y2tldF9uYW1lPUJVQ0tFVF9QUk9EVUNUX0lNQUdFUykKICAgICAgICBiYXJjb2RlID0gJzUwMTQwNjcxNTM4MzMnCiAgICAgICAgIyB3aGVuCiAgICAgICAgdG90YWwgPSBwcm9jZXNzX2ltYWdlc19mb3JfYmFyY29kZShidWNrZXQsIGJhcmNvZGUpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHRvdGFsID4gMCkKICAgICAgICBzZWxmLmFzc2VydFRydWUodG90YWwgPD0gVE9UQUxfSU1BR0VTKQo=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBnb29nbGUuY2xvdWQgaW1wb3J0IHN0b3JhZ2UK</text>
+      </register>
       <register name=":" type="4">
-        <text>27</text>
+        <text>.,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>readme.txt</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>readme.txt</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1090,6 +1094,7 @@
         <entry>Readme</entry>
         <entry>Downloaded</entry>
         <entry>readme.txt</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
@@ -1113,6 +1118,7 @@
         <entry>close</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>27</entry>
+        <entry>.,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
