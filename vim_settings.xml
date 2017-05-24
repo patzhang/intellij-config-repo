@@ -28,6 +28,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-unpack-dataset.sh" timestamp="1495630512934">
+        <mark key="[" line="14" column="51" />
+        <mark key="]" line="14" column="52" />
+        <mark key="^" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/__init__.py" timestamp="1487804928877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -52,11 +58,12 @@
         <mark key="." line="95" column="9" />
         <mark key="^" line="95" column="9" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495629011746">
-        <mark key="[" line="3" column="93" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495630266550">
+        <mark key="'" line="12" column="9" />
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/os_util.py" timestamp="1487778943991">
         <mark key="[" line="1" column="0" />
@@ -831,7 +838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
       <jump line="38" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
       <jump line="4" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
@@ -931,52 +937,53 @@
       <jump line="234" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="289" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="56" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="13" column="9" filename="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">YXQg</text>
+        <text>cleared</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>clear</text>
       </register>
       <register name="0" type="4">
         <text>86997011</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1rZGlyCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRvIGRhbmdlcm91cyBzdHVmZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">NTA2MDAxMTcwMDAzNSwzMjgzODEwMTEsU05PV0RPIFNub3dkb25pYUJsYWNrQm9tIDIwMCBHLDMzNwo=</text>
+        <text encoding="base64">ICAgIHJtIC1yZiAiJHtvdXRwdXRfZGlyfS8qLioiCiAgICBlY2hvICJjbGVhcmVkICR7b3V0cHV0X2Rpcn0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZW4K</text>
+        <text encoding="base64">IyBDb3B5IHRoaXMgc2NyaXB0IHRvIHRoZSBkaXJlY3Rvcnkgb2YgZG93bmxvYWRlZCBkYXRhc2V0IGFuZCBydW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdoZW4K</text>
+        <text encoding="base64">ICAgIG1rZGlyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">NTAzMzIxMjAwMDAxMyw2MTIxNjAxMSxKZXJzZXlSeWFsUHJsUHRhdGVzMzMwIEcsMTg0Nwo=</text>
+        <text encoding="base64">NTA2MDAxMTcwMDAzNSwzMjgzODEwMTEsU05PV0RPIFNub3dkb25pYUJsYWNrQm9tIDIwMCBHLDMzNwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NTAwMDE2OTA5Nzc3OSw0NjY4ODAxMSxXUiAxMiBQb3JrICYgSGVyYiBjaGlwb2xhdGFzLDk5NAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHRoZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NTA1NTU0MDAwNDY2Miw4MDA0NzAxMSxPY2FkbyBEaWNlZCBCZWVmIDYwMEcsNjM1Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdoZW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K</text>
+        <text encoding="base64">NTAzMzIxMjAwMDAxMyw2MTIxNjAxMSxKZXJzZXlSeWFsUHJsUHRhdGVzMzMwIEcsMTg0Nwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">NTAwMDE2OTA5Nzc3OSw0NjY4ODAxMSxXUiAxMiBQb3JrICYgSGVyYiBjaGlwb2xhdGFzLDk5NAo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>clear</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>clear</last-pattern>
       <last-replace />
       <last-substitute>json</last-substitute>
       <last-dir>1</last-dir>
@@ -1008,6 +1015,7 @@
         <entry>Downloaded</entry>
         <entry>readme.txt</entry>
         <entry>json</entry>
+        <entry>clear</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
