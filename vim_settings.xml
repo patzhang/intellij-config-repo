@@ -52,11 +52,11 @@
         <mark key="." line="95" column="9" />
         <mark key="^" line="95" column="9" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495625715039">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="20" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495629011746">
+        <mark key="[" line="3" column="93" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/os_util.py" timestamp="1487778943991">
         <mark key="[" line="1" column="0" />
