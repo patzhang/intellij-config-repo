@@ -785,11 +785,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495636583588">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495637572184">
         <mark key="'" line="17" column="5" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="5" />
+        <mark key="." line="18" column="5" />
         <mark key="^" line="281" column="3" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_main.py" timestamp="1495634559988">
@@ -1063,7 +1063,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>info</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>readme</text>
