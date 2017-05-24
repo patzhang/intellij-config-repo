@@ -214,12 +214,12 @@
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" timestamp="1495619112695">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="39" column="50" />
-        <mark key="^" line="39" column="50" />
-        <mark key="." line="39" column="50" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" timestamp="1495643694725">
+        <mark key="'" line="41" column="16" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="38" column="50" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/rfrecord_util.py" timestamp="1487841012807">
         <mark key="[" line="0" column="18" />
@@ -628,11 +628,11 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1495642496292">
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="20" column="63" />
-        <mark key="^" line="20" column="63" />
-        <mark key="." line="20" column="63" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1495643657944">
+        <mark key="[" line="8" column="107" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
@@ -1069,7 +1069,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>readme</text>
@@ -1078,31 +1078,31 @@
         <text>5000169342541</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBjaGFuZ2UgbG9nZ2luZwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LSBjaGFuZ2UgbG9nZ2luZwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBjcmVhdGUgYSBkYXRhc2V0IHdpdGggMjUgU0tVcyBhbmQgNTAwMCBpbWFnZXMgZm9yIGVhY2ggU0tVCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0ZXN0JykKICAgIHJldHVybgo=</text>
+        <text encoding="base64">LSBjcmVhdGUgYSBkYXRhc2V0IHdpdGggMjUgU0tVcyBhbmQgNTAwMCBpbWFnZXMgZm9yIGVhY2ggU0tVCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygncGF0aDoge30nLmZvcm1hdChzeXMucGF0aCkpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0ZXN0JykKICAgIHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlAZWNobyAnd29ya2luZyBkaXI6ICQocHdkKScK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygncGF0aDoge30nLmZvcm1hdChzeXMucGF0aCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlAZWNobyAnd29ya2luZyBkaXI6ICQocHdkKSc7IFwK</text>
+        <text encoding="base64">CQlAZWNobyAnd29ya2luZyBkaXI6ICQocHdkKScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRhc2V0X2J1aWxkZXIuY29uZmlnIGltcG9ydCBESU1FTlNJT05fMjU2LCBESU1FTlNJT05fNTEyLCBQUk9EVUNUX1RFU1RfSlNPTiwgREFUQVNFVF9TUkNfRElSCg==</text>
+        <text encoding="base64">CQlAZWNobyAnd29ya2luZyBkaXI6ICQocHdkKSc7IFwK</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
