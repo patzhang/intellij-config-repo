@@ -381,11 +381,6 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495536727920">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="21" column="5" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/cognex-settings-DM362/Readme.txt" timestamp="1493127834030">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="4" column="0" />
@@ -467,9 +462,9 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="40" column="86" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" timestamp="1495619712989">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" timestamp="1495622584774">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="17" column="16" />
+        <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="18" />
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
@@ -864,10 +859,11 @@
         <mark key="]" line="1" column="28" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495619209418">
-        <mark key="[" line="314" column="0" />
-        <mark key="]" line="314" column="0" />
-        <mark key="." line="314" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495622516461">
+        <mark key="[" line="147" column="28" />
+        <mark key="]" line="150" column="28" />
+        <mark key="." line="150" column="28" />
+        <mark key="^" line="150" column="28" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
@@ -1037,13 +1033,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>on</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">NTAwMDE2OTM0MjU0MSw4Njk5NzAxMSxXUiAgUnN0ZCBWZWcgUGVzdG8gUGl6emEgNTg1RywzMjcK</text>
+      <register name="0" type="4">
+        <text>86997011</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">NTA2MDAxMTcwMDAzNSwzMjgzODEwMTEsU05PV0RPIFNub3dkb25pYUJsYWNrQm9tIDIwMCBHLDMzNwo=</text>
