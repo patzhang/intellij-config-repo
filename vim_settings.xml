@@ -628,6 +628,12 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1495642496292">
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="20" column="63" />
+        <mark key="^" line="20" column="63" />
+        <mark key="." line="20" column="63" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="311" column="0" />
@@ -1099,7 +1105,7 @@
         <text encoding="base64">ZnJvbSBkYXRhc2V0X2J1aWxkZXIuY29uZmlnIGltcG9ydCBESU1FTlNJT05fMjU2LCBESU1FTlNJT05fNTEyLCBQUk9EVUNUX1RFU1RfSlNPTiwgREFUQVNFVF9TUkNfRElSCg==</text>
       </register>
       <register name=":" type="4">
-        <text>23</text>
+        <text>9</text>
       </register>
     </registers>
     <search>
@@ -1164,6 +1170,7 @@
         <entry>.,$d</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>23</entry>
+        <entry>9</entry>
       </history-cmd>
       <history-expr />
       <history-input />
