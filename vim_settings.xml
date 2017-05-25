@@ -514,12 +514,12 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="56" column="37" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" timestamp="1495707539615">
-        <mark key="'" line="72" column="15" />
-        <mark key="[" line="78" column="40" />
-        <mark key="]" line="79" column="12" />
-        <mark key="." line="79" column="12" />
-        <mark key="^" line="79" column="12" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" timestamp="1495708578200">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="43" column="52" />
+        <mark key="]" line="43" column="52" />
+        <mark key="." line="43" column="52" />
+        <mark key="^" line="104" column="10" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 3 Logic in Movie/src/main/java/pl/refactoring/videostore/original/moved_to_movie/ChildrenPricing.java" timestamp="1488373601791">
         <mark key="[" line="11" column="0" />
@@ -570,12 +570,6 @@
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1495702254663">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
@@ -869,7 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="181" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="168" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="162" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
@@ -969,16 +962,17 @@
       <jump line="56" column="37" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="70" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="72" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="48" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tests</text>
+        <text encoding="base64">XDxweXRob25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>VERBOSITY</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlzaCAtYyAnLiAkKFZFTlYpL2Jpbi9hY3RpdmF0ZTsgXAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">TUlOX0NPVkVSQUdFPTEwCg==</text>
@@ -1012,12 +1006,12 @@
       </register>
     </registers>
     <search>
-      <last-search>tests</last-search>
+      <last-search encoding="base64">XDxweXRob25cPg==</last-search>
       <last-offset />
-      <last-pattern>tests</last-pattern>
+      <last-pattern encoding="base64">XDxweXRob25cPg==</last-pattern>
       <last-replace />
-      <last-substitute>clear</last-substitute>
-      <last-dir>1</last-dir>
+      <last-substitute>tests</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1054,6 +1048,7 @@
         <entry>OPTS</entry>
         <entry>test</entry>
         <entry>tests</entry>
+        <entry encoding="base64">XDxweXRob25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
