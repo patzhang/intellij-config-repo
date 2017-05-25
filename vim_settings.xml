@@ -722,12 +722,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495716172627">
-        <mark key="'" line="123" column="4" />
-        <mark key="[" line="224" column="38" />
-        <mark key="]" line="225" column="31" />
-        <mark key="." line="225" column="31" />
-        <mark key="^" line="225" column="31" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495720187783">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="41" column="18" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_main.py" timestamp="1495634559988">
         <mark key="a" line="23" column="38" />
@@ -872,7 +872,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="28" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" />
       <jump line="167" column="57" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="30" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
@@ -972,6 +971,7 @@
       <jump line="48" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="123" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="77" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
