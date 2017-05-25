@@ -22,6 +22,12 @@
       <file name="/a.dummy" timestamp="1495615720307">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" timestamp="1495710580046">
+        <mark key="[" line="4" column="75" />
+        <mark key="]" line="4" column="84" />
+        <mark key="." line="4" column="84" />
+        <mark key="^" line="4" column="84" />
+      </file>
       <file name="$USER_HOME$/WorkspacesExamples/py_proj_structure/tests/test_basic.py" timestamp="1485188475224">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -321,10 +327,10 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" timestamp="1495634153369">
-        <mark key="[" line="24" column="62" />
-        <mark key="]" line="24" column="73" />
-        <mark key="." line="24" column="62" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" timestamp="1495710325973">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
         <mark key="'" line="0" column="0" />
@@ -571,6 +577,12 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1495710265946">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="311" column="0" />
@@ -713,8 +725,8 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495637572184">
-        <mark key="'" line="17" column="5" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1495709586534">
+        <mark key="'" line="123" column="4" />
         <mark key="[" line="18" column="5" />
         <mark key="]" line="18" column="5" />
         <mark key="." line="18" column="5" />
@@ -863,7 +875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="168" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="162" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="28" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" />
@@ -963,10 +974,11 @@
       <jump line="70" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="72" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="48" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="123" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>builder</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweXRob25cPg==</text>
@@ -975,31 +987,31 @@
         <text encoding="base64">CQlzaCAtYyAnLiAkKFZFTlYpL2Jpbi9hY3RpdmF0ZTsgXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TUlOX0NPVkVSQUdFPTEwCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">VkVSQk9TSVRZPTIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJICAgIAoJCQkgICAtLWNvdmVyLWVyYXNlIFwKCQkJICAgLS1jb3Zlci1wYWNrYWdlPSQoUEFDS0FHRSkgXAoJCQkgICAtLWNvdmVyLWh0bWwgXAoJCQkgICAtLWNvdmVyLWh0bWwtZGlyPSQoQ09WRVJBR0VfSFRNTF9ESVIpIFwKCQkJICAgLS1jb3Zlci1taW4tcGVyY2VudGFnZT0kKE1JTl9DT1ZFUkFHRSknCgkJQGVjaG8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LSBjaGFuZ2Ugbm9zZSB0byBweXRlc3QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bm9zZT09MS4zLjcK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwpwcmludChzeXMucGF0aCkKCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGRhdGFzZXRfYnVpbGRlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGRhdGFzZXRfYnVpbGRlcgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">TUlOX0NPVkVSQUdFPTEwCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">VkVSQk9TSVRZPTIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJICAgIAoJCQkgICAtLWNvdmVyLWVyYXNlIFwKCQkJICAgLS1jb3Zlci1wYWNrYWdlPSQoUEFDS0FHRSkgXAoJCQkgICAtLWNvdmVyLWh0bWwgXAoJCQkgICAtLWNvdmVyLWh0bWwtZGlyPSQoQ09WRVJBR0VfSFRNTF9ESVIpIFwKCQkJICAgLS1jb3Zlci1taW4tcGVyY2VudGFnZT0kKE1JTl9DT1ZFUkFHRSknCgkJQGVjaG8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LSBjaGFuZ2Ugbm9zZSB0byBweXRlc3QK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">bm9zZT09MS4zLjcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwpwcmludChzeXMucGF0aCkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>only</text>
