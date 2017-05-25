@@ -563,10 +563,12 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="56" column="37" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" timestamp="1495635778263">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" timestamp="1495703572013">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="83" column="12" />
+        <mark key="]" line="83" column="12" />
+        <mark key="." line="83" column="12" />
+        <mark key="^" line="83" column="12" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 6 Almost Finished/src/main/java/pl/refactoring/videostore/original/finished/NewReleasePricing.java" timestamp="1488375156982">
         <mark key="[" line="11" column="0" />
@@ -628,11 +630,11 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1495643657944">
-        <mark key="[" line="8" column="107" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1495702254663">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
@@ -834,11 +836,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test-requirements.txt" timestamp="1494941533029">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test-requirements.txt" timestamp="1495703632527">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/virtualenv/deactivate-venv.sh" timestamp="1487891002015">
         <mark key="[" line="2" column="19" />
@@ -846,7 +848,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495700338119">
+      <file name="/Dummy.txt" timestamp="1495702299375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/requirements.txt" timestamp="1487160539992">
@@ -861,7 +863,7 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/code.py" timestamp="1495124102702">
+      <file name="/code.py" timestamp="1495702837947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/context.py" timestamp="1487771679075">
@@ -966,9 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
-      <jump line="35" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" />
       <jump line="56" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="77" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="163" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
@@ -1066,52 +1065,55 @@
       <jump line="18" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="195" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="17" column="5" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="103" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="71" column="59" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="15" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>readme</text>
+        <text>nose</text>
       </register>
       <register name="0" type="4">
         <text>5000169342541</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">bm9zZT09MS4zLjcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwpwcmludChzeXMucGF0aCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBjaGFuZ2UgbG9nZ2luZwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBjcmVhdGUgYSBkYXRhc2V0IHdpdGggMjUgU0tVcyBhbmQgNTAwMCBpbWFnZXMgZm9yIGVhY2ggU0tVCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0ZXN0JykKICAgIHJldHVybgo=</text>
+        <text encoding="base64">LSBjaGFuZ2UgbG9nZ2luZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygncGF0aDoge30nLmZvcm1hdChzeXMucGF0aCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlAZWNobyAnd29ya2luZyBkaXI6ICQocHdkKScK</text>
+        <text encoding="base64">LSBjcmVhdGUgYSBkYXRhc2V0IHdpdGggMjUgU0tVcyBhbmQgNTAwMCBpbWFnZXMgZm9yIGVhY2ggU0tVCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlAZWNobyAnd29ya2luZyBkaXI6ICQocHdkKSc7IFwK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0ZXN0JykKICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>only</text>
       </register>
     </registers>
     <search>
-      <last-search>readme</last-search>
+      <last-search>nose</last-search>
       <last-offset />
-      <last-pattern>readme</last-pattern>
+      <last-pattern>nose</last-pattern>
       <last-replace />
       <last-substitute>clear</last-substitute>
       <last-dir>1</last-dir>
@@ -1145,6 +1147,7 @@
         <entry>json</entry>
         <entry>clear</entry>
         <entry>readme</entry>
+        <entry>nose</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
@@ -1157,20 +1160,20 @@
         <entry>hsplit</entry>
         <entry>help</entry>
         <entry>w</entry>
-        <entry>unsplit</entry>
-        <entry>only</entry>
         <entry>%s/\s\+$</entry>
         <entry>15</entry>
         <entry>6</entry>
         <entry>vsplit</entry>
         <entry>8</entry>
-        <entry>close</entry>
         <entry>27</entry>
         <entry>.,$d</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>23</entry>
         <entry>9</entry>
         <entry>split</entry>
+        <entry>unsplit</entry>
+        <entry>close</entry>
+        <entry>only</entry>
       </history-cmd>
       <history-expr />
       <history-input />
