@@ -646,6 +646,12 @@
         <mark key="." line="18" column="62" />
         <mark key="^" line="18" column="62" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-unpack-dataset.sh" timestamp="1495727398280">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/virtualenv/create-venv.sh" timestamp="1494604734519">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
@@ -807,12 +813,6 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495622516461">
-        <mark key="[" line="147" column="28" />
-        <mark key="]" line="150" column="28" />
-        <mark key="." line="150" column="28" />
-        <mark key="^" line="150" column="28" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
         <mark key="[" line="191" column="85" />
@@ -971,7 +971,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>build</text>
+        <text>.*&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweXRob25cPg==</text>
