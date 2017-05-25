@@ -1105,7 +1105,7 @@
         <text encoding="base64">CQlAZWNobyAnd29ya2luZyBkaXI6ICQocHdkKSc7IFwK</text>
       </register>
       <register name=":" type="4">
-        <text>9</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -1164,13 +1164,13 @@
         <entry>6</entry>
         <entry>vsplit</entry>
         <entry>8</entry>
-        <entry>split</entry>
         <entry>close</entry>
         <entry>27</entry>
         <entry>.,$d</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>23</entry>
         <entry>9</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
