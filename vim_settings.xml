@@ -130,12 +130,6 @@
       <file name="/" timestamp="1495206900461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/C1D05-Selected-SKUs.csv" timestamp="1495619488226">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="56" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
         <mark key="'" line="7" column="6" />
         <mark key="[" line="13" column="61" />
@@ -148,6 +142,10 @@
         <mark key="]" line="39" column="63" />
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" timestamp="1495619485583">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="56" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -660,12 +658,6 @@
         <mark key="." line="4" column="29" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" timestamp="1495550544488">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/logs/Readme.txt" timestamp="1485205226139">
         <mark key="[" line="0" column="47" />
         <mark key="]" line="0" column="47" />
@@ -803,6 +795,10 @@
         <mark key="]" line="13" column="57" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/documentation/MatrixVision/shopping_list.txt" timestamp="1495722721533">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="19" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" timestamp="1495553657096">
         <mark key="'" line="47" column="0" />
@@ -980,8 +976,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxweXRob25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlzaCAtYyAnLiAkKFZFTlYpL2Jpbi9hY3RpdmF0ZTsgXAo=</text>
+      <register name="0" type="4">
+        <text>MV-Tripod Adapter BF</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gZWNobyAkR0NMT1VEX0tFWSA+IC8uZ2Nsb3VkLWtleQogICAgLSBnY2xvdWQgYXV0aCBhY3RpdmF0ZS1zZXJ2aWNlLWFjY291bnQgLS1rZXktZmlsZSAvLmdjbG91ZC1rZXkKICAgIC0gZ2Nsb3VkIGNvbmZpZyBzZXQgY29tcHV0ZS96b25lICRaT05FCiAgICAtIGdjbG91ZCBjb25maWcgc2V0IHByb2plY3QgJFBST0pFQ1RfSUQKICAgIC0gZWNobyAiRmluaXNoZWQgc2V0dGluZyB1cCBHb29nbGUgY2xvdWQgYXV0aHJpemF0aW9uLiIK</text>
