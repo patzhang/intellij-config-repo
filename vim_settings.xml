@@ -425,12 +425,12 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/logging_util.py" timestamp="1495727982569">
-        <mark key="'" line="23" column="14" />
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="23" column="40" />
-        <mark key="^" line="23" column="39" />
-        <mark key="." line="23" column="40" />
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/logging_util.py" timestamp="1495728941928">
+        <mark key="'" line="26" column="14" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
         <mark key="[" line="5" column="0" />
@@ -772,7 +772,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495702299375">
+      <file name="/Dummy.txt" timestamp="1495729011702">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/requirements.txt" timestamp="1487160539992">
@@ -978,41 +978,41 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>(</text>
+        <text>%(asctime)s [%(threadName)-15s-%(thread)-5d] %(levelname)-8s | %(message)s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweXRob25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>MV-Tripod Adapter BF</text>
+      <register name="0" type="2">
+        <text encoding="base64">TE9HX0ZPUk1BVCA9ICclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSktNnMgJShwcm9jZXNzKWQgJShwcm9jZXNzTmFtZSktMTBzICUoZnVuY05hbWUpczolKGxpbmVubyktM2QgfCAlKG1lc3NhZ2UpcycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUgYXMgZHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoIiIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUgYXMgZHQK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIG5vdyA9IGR0Lm5vdygpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>(app_name + '_%d-%m-%Y' + '.log')
     handler_file = logging.FileHandler(l</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC0gZWNobyAkR0NMT1VEX0tFWSA+IC8uZ2Nsb3VkLWtleQogICAgLSBnY2xvdWQgYXV0aCBhY3RpdmF0ZS1zZXJ2aWNlLWFjY291bnQgLS1rZXktZmlsZSAvLmdjbG91ZC1rZXkKICAgIC0gZ2Nsb3VkIGNvbmZpZyBzZXQgY29tcHV0ZS96b25lICRaT05FCiAgICAtIGdjbG91ZCBjb25maWcgc2V0IHByb2plY3QgJFBST0pFQ1RfSUQKICAgIC0gZWNobyAiRmluaXNoZWQgc2V0dGluZyB1cCBHb29nbGUgY2xvdWQgYXV0aHJpemF0aW9uLiIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAtIGVjaG8gJEdDTE9VRF9LRVkgPiAvLmdjbG91ZC1rZXkKICAtIGdjbG91ZCBhdXRoIGFjdGl2YXRlLXNlcnZpY2UtYWNjb3VudCAtLWtleS1maWxlIC8uZ2Nsb3VkLWtleQogIC0gZ2Nsb3VkIGNvbmZpZyBzZXQgY29tcHV0ZS96b25lICRaT05FCiAgLSBnY2xvdWQgY29uZmlnIHNldCBwcm9qZWN0ICRQUk9KRUNUX0lECiAgLSBlY2hvICJGaW5pc2hlZCBzZXR0aW5nIHVwIEdvb2dsZSBjbG91ZCBhdXRocml6YXRpb24uIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFzZXRfYnVpbGRlcgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFzZXRfYnVpbGRlcgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">TUlOX0NPVkVSQUdFPTEwCg==</text>
+        <text encoding="base64">ICAtIGVjaG8gJEdDTE9VRF9LRVkgPiAvLmdjbG91ZC1rZXkKICAtIGdjbG91ZCBhdXRoIGFjdGl2YXRlLXNlcnZpY2UtYWNjb3VudCAtLWtleS1maWxlIC8uZ2Nsb3VkLWtleQogIC0gZ2Nsb3VkIGNvbmZpZyBzZXQgY29tcHV0ZS96b25lICRaT05FCiAgLSBnY2xvdWQgY29uZmlnIHNldCBwcm9qZWN0ICRQUk9KRUNUX0lECiAgLSBlY2hvICJGaW5pc2hlZCBzZXR0aW5nIHVwIEdvb2dsZSBjbG91ZCBhdXRocml6YXRpb24uIgo=</text>
       </register>
       <register name=":" type="4">
         <text>25</text>
