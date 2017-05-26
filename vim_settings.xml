@@ -647,11 +647,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="25" column="55" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" timestamp="1495632286409">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="18" column="62" />
-        <mark key="." line="18" column="62" />
-        <mark key="^" line="18" column="62" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" timestamp="1495787441997">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-unpack-dataset.sh" timestamp="1495727398280">
         <mark key="[" line="11" column="31" />
@@ -875,7 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="31" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="71" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
@@ -975,47 +975,47 @@
       <jump line="24" column="14" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/logging_util.py" />
       <jump line="57" column="78" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="86" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>0</text>
+        <text>run</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweXRob25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">TE9HX0ZPUk1BVCA9ICclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSktNnMgJShwcm9jZXNzKWQgJShwcm9jZXNzTmFtZSktMTBzICUoZnVuY05hbWUpczolKGxpbmVubyktM2QgfCAlKG1lc3NhZ2UpcycK</text>
+      <register name="0" type="4">
+        <text>5_15.27.57</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgQnVpbGQKCldoZW4gdGhlIGNvZGUgaXMgdGFnZ2VkLCB0aGUgR2l0bGFiIENJIHdpbGwgcnVuICdtYWtlIGJ1aWxkJyBhbmQgdXBsb2FkIHRoZSBkYXRhc2V0IHRvIEdvb2dsZSBDbG91ZCBTdG9yYWdlLgoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUgYXMgZHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5vdyA9IGR0Lm5vdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(app_name + '_%d-%m-%Y' + '.log')
-    handler_file = logging.FileHandler(l</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gZWNobyAkR0NMT1VEX0tFWSA+IC8uZ2Nsb3VkLWtleQogICAgLSBnY2xvdWQgYXV0aCBhY3RpdmF0ZS1zZXJ2aWNlLWFjY291bnQgLS1rZXktZmlsZSAvLmdjbG91ZC1rZXkKICAgIC0gZ2Nsb3VkIGNvbmZpZyBzZXQgY29tcHV0ZS96b25lICRaT05FCiAgICAtIGdjbG91ZCBjb25maWcgc2V0IHByb2plY3QgJFBST0pFQ1RfSUQKICAgIC0gZWNobyAiRmluaXNoZWQgc2V0dGluZyB1cCBHb29nbGUgY2xvdWQgYXV0aHJpemF0aW9uLiIK</text>
+        <text encoding="base64">ICAgICMgZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIGVjaG8gJEdDTE9VRF9LRVkgPiAvLmdjbG91ZC1rZXkKICAtIGdjbG91ZCBhdXRoIGFjdGl2YXRlLXNlcnZpY2UtYWNjb3VudCAtLWtleS1maWxlIC8uZ2Nsb3VkLWtleQogIC0gZ2Nsb3VkIGNvbmZpZyBzZXQgY29tcHV0ZS96b25lICRaT05FCiAgLSBnY2xvdWQgY29uZmlnIHNldCBwcm9qZWN0ICRQUk9KRUNUX0lECiAgLSBlY2hvICJGaW5pc2hlZCBzZXR0aW5nIHVwIEdvb2dsZSBjbG91ZCBhdXRocml6YXRpb24uIgo=</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUgYXMgZHQK</text>
       </register>
       <register name=":" type="4">
-        <text>25</text>
+        <text>.,.+7set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
@@ -1068,7 +1068,6 @@
         <entry>249</entry>
         <entry>142</entry>
         <entry>70</entry>
-        <entry>.,.+7set hlsearch! hlsearch?</entry>
         <entry>433</entry>
         <entry>77</entry>
         <entry>hsplit</entry>
@@ -1089,6 +1088,7 @@
         <entry>close</entry>
         <entry>only</entry>
         <entry>25</entry>
+        <entry>.,.+7set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
