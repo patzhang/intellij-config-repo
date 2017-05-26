@@ -96,6 +96,10 @@
         <mark key="^" line="45" column="6" />
         <mark key="." line="45" column="6" />
       </file>
+      <file name="$USER_HOME$/product-image-dataset/readme.txt" timestamp="1495809412957">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="37" column="85" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
         <mark key="[" line="13" column="37" />
         <mark key="]" line="17" column="15" />
@@ -120,6 +124,12 @@
         <mark key="]" line="29" column="52" />
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
+      </file>
+      <file name="$USER_HOME$/product-image-dataset/readme-reduced.txt" timestamp="1495809605157">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="202" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1490717763616">
         <mark key="[" line="17" column="49" />
@@ -170,6 +180,9 @@
         <mark key="]" line="9" column="24" />
         <mark key="^" line="22" column="23" />
         <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/which-logs-are-available/indexer/src/main.js" timestamp="1495203280903">
+        <mark key="'" line="233" column="2" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/logging_util.py" timestamp="1485183332984">
         <mark key="[" line="6" column="40" />
@@ -301,6 +314,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/train-all-data-in-one-folder.py" timestamp="1495809684296">
+        <mark key="'" line="46" column="59" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1495717999772">
         <mark key="'" line="48" column="11" />
@@ -722,6 +738,9 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/venv2/lib/python2.7/site-packages/google/cloud/storage/bucket.py" timestamp="1495202465894">
+        <mark key="'" line="242" column="8" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/context.py" timestamp="1487804476643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="11" />
@@ -734,14 +753,6 @@
         <mark key="]" line="41" column="18" />
         <mark key="." line="41" column="18" />
         <mark key="^" line="41" column="18" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_main.py" timestamp="1495634559988">
-        <mark key="a" line="23" column="38" />
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="5" />
-        <mark key="^" line="20" column="58" />
-        <mark key="." line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/run-move-files.sh" timestamp="1493222541309">
         <mark key="[" line="14" column="11" />
@@ -821,6 +832,15 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspaces/which-logs-are-available/indexer/test/parse-filename.spec.js" timestamp="1495202817120">
+        <mark key="'" line="49" column="22" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495622516461">
+        <mark key="[" line="147" column="28" />
+        <mark key="]" line="150" column="28" />
+        <mark key="." line="150" column="28" />
+        <mark key="^" line="150" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
         <mark key="[" line="191" column="85" />
@@ -876,7 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="31" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="71" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
       <jump line="24" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
@@ -976,25 +995,26 @@
       <jump line="57" column="78" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="86" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="12" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" />
+      <jump line="46" column="59" filename="$USER_HOME$/DL_Workspace/object-recognition/train-all-data-in-one-folder.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>run</text>
+        <text encoding="base64">ICAgICAgIDIxNDEgICAgIFdhaXRyb3NlIDEgMTAiIEZpcmUgUm9hc3RlZCBWZWdldGFibGUgJiBQZXN0byBQaXp6YSA1MzBn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxweXRob25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>5_15.27.57</text>
+      <register name="0" type="2">
+        <text encoding="base64">cm0gLXJmdiA1MDU1NTQwMDI2MjY4IDUwMDAxNjkzMjI4NjQgNTAwMDE2OTI3NzQyMyA1MDAwMTY5MTM1NzkyIDUwMDAxNjkwMzY0NTcgNTIwMjM5MDAxNTg3OCA1MDIyMzEzMzEyMTAxIDUwMDAxNjk2ODk3MDcgNTAwMDE2OTI3OTc5MyA1MDAwMTY5MDczMDE4IDUwMzg4NjIxMzEwODcgNTM5MTUxNTgxMDIxMSA1MDM2NTg5MjUwNTc5IDUwMDAxNjkzNDI1NDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">NTA2MDA0NTM3MDM4OSAgICAgICA1MDAwICAgICBOZXcgQ292ZW50IEdhcmRlbiBTbG93IFJvYXN0IFRvbWF0byBTb3VwIDYwMGcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgQnVpbGQKCldoZW4gdGhlIGNvZGUgaXMgdGFnZ2VkLCB0aGUgR2l0bGFiIENJIHdpbGwgcnVuICdtYWtlIGJ1aWxkJyBhbmQgdXBsb2FkIHRoZSBkYXRhc2V0IHRvIEdvb2dsZSBDbG91ZCBTdG9yYWdlLgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgQnVpbGQKCldoZW4gdGhlIGNvZGUgaXMgdGFnZ2VkLCB0aGUgR2l0bGFiIENJIHdpbGwgcnVuICdtYWtlIGJ1aWxkJyBhbmQgdXBsb2FkIHRoZSBkYXRhc2V0IHRvIEdvb2dsZSBDbG91ZCBTdG9yYWdlLgoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1009,10 +1029,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUgYXMgZHQK</text>
+        <text encoding="base64">ICAgICMgZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>.,.+7set hlsearch! hlsearch?</text>
