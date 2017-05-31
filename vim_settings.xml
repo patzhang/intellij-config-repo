@@ -114,10 +114,6 @@
         <mark key="^" line="45" column="6" />
         <mark key="." line="45" column="6" />
       </file>
-      <file name="$USER_HOME$/product-image-dataset/readme.txt" timestamp="1495811565200">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="37" column="85" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
         <mark key="[" line="13" column="37" />
         <mark key="]" line="17" column="15" />
@@ -188,10 +184,6 @@
         <mark key="]" line="7" column="5" />
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" timestamp="1495619485583">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="56" />
       </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/notebook/activate-venv3.sh" timestamp="1496237977153">
         <mark key="[" line="2" column="0" />
@@ -811,6 +803,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/notebook/install-jupyter-extensions.sh" timestamp="1496244912613">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="13" column="3" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/ve-v1.py" timestamp="1490287117955">
         <mark key="'" line="171" column="0" />
         <mark key="[" line="45" column="8" />
@@ -879,6 +877,12 @@
       <file name="/code.py" timestamp="1496241180343">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/context.py" timestamp="1487771679075">
         <mark key="[" line="5" column="107" />
         <mark key="]" line="6" column="0" />
@@ -897,10 +901,6 @@
         <mark key="]" line="13" column="57" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/documentation/MatrixVision/shopping_list.txt" timestamp="1495722721533">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="19" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" timestamp="1495553657096">
         <mark key="'" line="47" column="0" />
@@ -1073,40 +1073,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>source</text>
+        <text>$(jupyter --data-dir)/nbextensions</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHJvY2Vzc19pbWFnZV93aXRoX3BpbGxvdyhvcmlnaW5hbF9maWxlLCA=</text>
+        <text>${EXT_DIR}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgZnVuY3Rpb24gZGVzY3JpcHRpb24KICAgICIiIgo=</text>
+        <text encoding="base64">VGhpcyBpcyBhIHRlbXBsYXRlIGZvciBweXRob24zIHByb2plY3QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBhcHAK</text>
+        <text encoding="base64">ICAgICIiIgogICAgZnVuY3Rpb24gZGVzY3JpcHRpb24KICAgICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBtYWluCg==</text>
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBhcHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBtYWluCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBNYWtlZmlsZSBmb3IgYmFyY29kZS1pbWFnZS1kYXRhc2V0IGJ1aWxkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQoK</text>
+        <text encoding="base64">IyBNYWtlZmlsZSBmb3IgYmFyY29kZS1pbWFnZS1kYXRhc2V0IGJ1aWxkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFBJTAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RElNRU5TSU9OXzUxMiA9ICg1MTIsIDUxMikK</text>
+        <text encoding="base64">aW1wb3J0IFBJTAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RElNRU5TSU9OXzUxMiA9ICg1MTIsIDUxMikK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
