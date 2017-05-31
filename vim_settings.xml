@@ -19,11 +19,11 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/run-unit-tests.sh" timestamp="1496227714039">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="6" column="36" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="36" />
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/run-unit-tests.sh" timestamp="1496235858186">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
       </file>
       <file name="/a.dummy" timestamp="1496229227657">
         <mark key="[" line="0" column="0" />
@@ -47,11 +47,11 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/context.py" timestamp="1496234742734">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="3" column="20" />
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/context.py" timestamp="1496235720244">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/__init__.py" timestamp="1487804928877">
         <mark key="[" line="0" column="0" />
@@ -176,7 +176,7 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_app.py" timestamp="1496234833164">
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_app.py" timestamp="1496235717315">
         <mark key="'" line="14" column="34" />
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
@@ -1061,7 +1061,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -1070,34 +1070,34 @@
         <text encoding="base64">cHJvY2Vzc19pbWFnZV93aXRoX3BpbGxvdyhvcmlnaW5hbF9maWxlLCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBhcHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBNYWtlZmlsZSBmb3IgYmFyY29kZS1pbWFnZS1kYXRhc2V0IGJ1aWxkZXIK</text>
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBtYWluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFBJTAo=</text>
+        <text encoding="base64">IyBNYWtlZmlsZSBmb3IgYmFyY29kZS1pbWFnZS1kYXRhc2V0IGJ1aWxkZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RElNRU5TSU9OXzUxMiA9ICg1MTIsIDUxMikK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFBJTAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RElNRU5TSU9OXzUxMiA9ICg1MTIsIDUxMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZWRlbHRhLCBkYXRldGltZQpmcm9tIGdvb2dsZS5jbG91ZCBpbXBvcnQgc3RvcmFnZQpmcm9tIGdvb2dsZS5jbG91ZC5leGNlcHRpb25zIGltcG9ydCBOb3RGb3VuZApmcm9tIGdvb2dsZS5jbG91ZC5zdG9yYWdlIGltcG9ydCBCbG9iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IGNvcHlmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>.,$d</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
@@ -1154,8 +1154,8 @@
         <entry>only</entry>
         <entry>25</entry>
         <entry>.,.+7set hlsearch! hlsearch?</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>.,$d</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
