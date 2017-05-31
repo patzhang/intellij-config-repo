@@ -65,6 +65,12 @@
         <mark key="." line="32" column="71" />
         <mark key="^" line="32" column="71" />
       </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/notebook/active-venv3.sh" timestamp="1496237850739">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/requirements.txt" timestamp="1487160490834">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="13" />
@@ -186,6 +192,12 @@
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" timestamp="1495619485583">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="56" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/notebook/activate-venv3.sh" timestamp="1496237977153">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -413,12 +425,12 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" timestamp="1496230448880">
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" timestamp="1496237588167">
         <mark key="'" line="13" column="5" />
-        <mark key="[" line="52" column="50" />
-        <mark key="]" line="53" column="3" />
-        <mark key="." line="53" column="3" />
-        <mark key="^" line="53" column="3" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="50" column="3" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
@@ -1061,7 +1073,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -1070,28 +1082,28 @@
         <text encoding="base64">cHJvY2Vzc19pbWFnZV93aXRoX3BpbGxvdyhvcmlnaW5hbF9maWxlLCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBhcHAK</text>
+        <text encoding="base64">ICAgICIiIgogICAgZnVuY3Rpb24gZGVzY3JpcHRpb24KICAgICIiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBtYWluCg==</text>
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBhcHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBtYWluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBNYWtlZmlsZSBmb3IgYmFyY29kZS1pbWFnZS1kYXRhc2V0IGJ1aWxkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQoK</text>
+        <text encoding="base64">IyBNYWtlZmlsZSBmb3IgYmFyY29kZS1pbWFnZS1kYXRhc2V0IGJ1aWxkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFBJTAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RElNRU5TSU9OXzUxMiA9ICg1MTIsIDUxMikK</text>
+        <text encoding="base64">aW1wb3J0IFBJTAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RElNRU5TSU9OXzUxMiA9ICg1MTIsIDUxMikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1105,9 +1117,9 @@
       <last-offset />
       <last-pattern>main</last-pattern>
       <last-replace />
-      <last-substitute>tests</last-substitute>
+      <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
