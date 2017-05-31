@@ -47,7 +47,7 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/context.py" timestamp="1496229960401">
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/context.py" timestamp="1496234742734">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
@@ -176,7 +176,7 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_app.py" timestamp="1496230128520">
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_app.py" timestamp="1496234833164">
         <mark key="'" line="14" column="34" />
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
@@ -1061,7 +1061,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>join</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
