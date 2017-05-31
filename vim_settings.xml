@@ -461,6 +461,12 @@
         <mark key="^" line="14" column="68" />
         <mark key="." line="14" column="68" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements.txt" timestamp="1496248155733">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1490798450733">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="2" column="0" />
@@ -484,13 +490,6 @@
         <mark key="]" line="6" column="39" />
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/logging_util.py" timestamp="1496220388375">
-        <mark key="'" line="26" column="14" />
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
         <mark key="[" line="5" column="0" />
@@ -1073,7 +1072,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>$(jupyter --data-dir)/nbextensions</text>
+        <text>rc1</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
