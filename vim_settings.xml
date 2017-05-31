@@ -19,7 +19,13 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1495615720307">
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/run-unit-tests.sh" timestamp="1496227714039">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="36" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="6" column="36" />
+      </file>
+      <file name="/a.dummy" timestamp="1496229227657">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" timestamp="1495710580046">
@@ -40,6 +46,12 @@
         <mark key="]" line="30" column="13" />
         <mark key="^" line="30" column="25" />
         <mark key="." line="30" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/context.py" timestamp="1496229960401">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/__init__.py" timestamp="1487804928877">
         <mark key="[" line="0" column="0" />
@@ -106,6 +118,11 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/config.py" timestamp="1496228898109">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/logging_util.py" timestamp="1490606394975">
         <mark key="[" line="20" column="71" />
         <mark key="]" line="20" column="71" />
@@ -118,6 +135,12 @@
         <mark key="]" line="374" column="0" />
         <mark key="." line="374" column="0" />
         <mark key="^" line="370" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/CHANGES.md" timestamp="1496227469713">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/setup.py" timestamp="1494511945255">
         <mark key="[" line="29" column="46" />
@@ -152,6 +175,13 @@
         <mark key="]" line="39" column="63" />
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_app.py" timestamp="1496230128520">
+        <mark key="'" line="14" column="34" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="5" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" timestamp="1495619485583">
         <mark key="[" line="29" column="0" />
@@ -293,6 +323,13 @@
         <mark key="." line="34" column="5" />
         <mark key="^" line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" timestamp="1496230323313">
+        <mark key="'" line="36" column="43" />
+        <mark key="[" line="101" column="22" />
+        <mark key="]" line="101" column="24" />
+        <mark key="^" line="101" column="24" />
+        <mark key="." line="101" column="24" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495552143413">
         <mark key="'" line="35" column="12" />
         <mark key="[" line="11" column="0" />
@@ -376,10 +413,12 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" timestamp="1495634840835">
-        <mark key="'" line="129" column="6" />
-        <mark key="[" line="148" column="18" />
-        <mark key="]" line="148" column="30" />
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" timestamp="1496230448880">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="52" column="50" />
+        <mark key="]" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+        <mark key="^" line="53" column="3" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
@@ -472,6 +511,16 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="0" column="47" />
       </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_pillow.py" timestamp="1496229307295">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="26" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/.gitlab-ci.yml" timestamp="1496227543441">
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test_advanced.py" timestamp="1487804737088">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="8" />
@@ -507,6 +556,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/setup.py" timestamp="1496227911810">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/test_label_images.py" timestamp="1487807012507">
         <mark key="[" line="30" column="0" />
@@ -556,6 +611,18 @@
         <mark key="]" line="38" column="10" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" timestamp="1496228830114">
+        <mark key="'" line="41" column="3" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/requirements.txt" timestamp="1496227217019">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/data/Readme.txt" timestamp="1487173392585">
         <mark key="[" line="2" column="66" />
@@ -797,7 +864,7 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/code.py" timestamp="1495812044097">
+      <file name="/code.py" timestamp="1496227255033">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/context.py" timestamp="1487771679075">
@@ -891,42 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="16" column="37" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
-      <jump line="83" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="30" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="198" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="17" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_prepare_images.py" />
-      <jump line="42" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="184" column="37" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="232" column="51" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="126" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/config.py" />
-      <jump line="9" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" />
-      <jump line="261" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" />
-      <jump line="251" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" />
-      <jump line="8" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_convert_csv.py" />
-      <jump line="21" column="47" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/C1D05-Selected-SKUs.csv" />
-      <jump line="1" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/C1D05-Selected-SKUs.csv" />
-      <jump line="81" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/C1D05-Selected-SKUs.csv" />
-      <jump line="10" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" />
-      <jump line="31" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" />
-      <jump line="7" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" />
       <jump line="43" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" />
       <jump line="186" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="22" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
@@ -991,52 +1022,88 @@
       <jump line="65" column="11" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="225" column="12" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="443" column="12" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/.gitlab-ci.yml" />
+      <jump line="73" column="35" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="33" column="47" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="43" column="29" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="48" column="12" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="59" column="41" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="81" column="37" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="75" column="15" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="3" column="21" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="32" column="47" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="20" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="334" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="43" column="3" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="276" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="338" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="45" column="15" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="26" column="47" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="345" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="52" column="47" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="39" column="3" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" />
+      <jump line="13" column="34" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_app.py" />
+      <jump line="44" column="54" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="24" column="72" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="38" column="31" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="99" column="2" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="13" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="21" column="8" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="36" column="43" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
+      <jump line="18" column="4" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" />
+      <jump line="13" column="5" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>\</text>
+        <text>join</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>main</text>
       </register>
       <register name="0" type="4">
-        <text>multiprocessing.get_logger</text>
+        <text encoding="base64">cHJvY2Vzc19pbWFnZV93aXRoX3BpbGxvdyhvcmlnaW5hbF9maWxlLCA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgZGVmIG1ldHJpYyhwcmVkaWN0aW9uLCB0YXJnZXQpOgoKCg==</text>
+        <text encoding="base64">IyBNYWtlZmlsZSBmb3IgYmFyY29kZS1pbWFnZS1kYXRhc2V0IGJ1aWxkZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyB0cmFpbl9pbWFnZXMsIHRyYWluX2xhYmVscyA9IHRmLnRyYWluLnNodWZmbGVfYmF0Y2goCiMgICAgIFt0cmFpbl9zb3VyY2VfaW1hZ2UsIHRyYWluX29uZV9ob3RfbGFiZWxzXSwKIyAgICAgYmF0Y2hfc2l6ZT1iYXRjaF9zaXplLAojICAgICBudW1fdGhyZWFkcz0xLAojICAgICBjYXBhY2l0eT01MTIsCiMgICAgIG1pbl9hZnRlcl9kZXF1ZXVlPTI1NiwKIyAgICAgc2hhcGVzPVsoMTI4LCAxNjAsIDEpLCAobGVuKGZpbGVuYW1lcykpXQojICkKCgoKZGVmIG1vZGVsKGlucHV0LCByZXVzZT1GYWxzZSk6CiAgICB3aXRoIHNsaW0uYXJnX3Njb3BlKFtzbGltLmNvbnYyZCwgc2xpbS5mdWxseV9jb25uZWN0ZWRdLCByZXVzZT1yZXVzZSwKICAgICAgICAgICAgICAgICAgICAgICAgbm9ybWFsaXplcl9mbj1zbGltLmJhdGNoX25vcm0pOgogICAgICAgIG5ldHdvcmsgPSBzbGltLmNvbnYyZChpbnB1dCwgMTAsIFszLCAzXSwgc2NvcGU9J2NvbnYxJykKICAgICAgICBuZXR3b3JrID0gc2xpbS5tYXhfcG9vbDJkKG5ldHdvcmssIFsyLCAyXSwgc3RyaWRlPTIsIHNjb3BlPSdwb29sMScpCiAgICAgICAgbmV0d29yayA9IHNsaW0uY29udjJkKG5ldHdvcmssIDEwLCBbMywgM10sIHNjb3BlPSdjb252MicpCiAgICAgICAgbmV0d29yayA9IHNsaW0ubWF4X3Bvb2wyZChuZXR3b3JrLCBbMiwgMl0sIHN0cmlkZT0yLCBzY29wZT0ncG9vbDInKQogICAgICAgIG5ldHdvcmsgPSBzbGltLmNvbnYyZChuZXR3b3JrLCAxMCwgWzMsIDNdLCBzY29wZT0nY29udjMnKQogICAgICAgIG5ldHdvcmsgPSBzbGltLm1heF9wb29sMmQobmV0d29yaywgWzIsIDJdLCBzdHJpZGUgPSAyLCBzY29wZT0ncG9vbDMnKQogICAgICAgIG5ldHdvcmsgPSBzbGltLmNvbnYyZChuZXR3b3JrLCAxMCwgWzMsIDNdLCBzY29wZT0nY29udjQnKQogICAgICAgIG5ldHdvcmsgPSBzbGltLm1heF9wb29sMmQobmV0d29yaywgWzIsIDJdLCBzdHJpZGUgPSAyLCBzY29wZT0ncG9vbDQnKQogICAgICAgIG5ldHdvcmsgPSBzbGltLmNvbnYyZChuZXR3b3JrLCAxMCwgWzMsIDNdLCBzY29wZT0nY29udjUnKQogICAgICAgIG5ldHdvcmsgPSBzbGltLmZsYXR0ZW4obmV0d29yaykKICAgICAgICBuZXR3b3JrID0gc2xpbS5mdWxseV9jb25uZWN0ZWQobmV0d29yaywgNTAwLCBzY29wZT0nZmMxJykKICAgIG5ldHdvcmsgPSBzbGltLmZ1bGx5X2Nvbm5lY3RlZChuZXR3b3JrLCBudW1iZXJfb2ZfY2xhc3Nlcywgc2NvcGU9J291dHB1dCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV1c2U9cmV1c2UpCiAgICByZXR1cm4gbmV0d29yawoKbGFzdF9hY2N1cmFjeSA9IDAuMAoKZGVmIHNldHVwX3ZhbGlkYXRpb24oKToKICAgIGltYWdlcywgbGFiZWxzID0gdGYudHJhaW4uYmF0Y2goCiAgICAgICAgW3ZhbGlkYXRpb25fc291cmNlX2ltYWdlLCB2YWxpZGF0aW9uX2xhYmVsc10sCiAgICAgICAgYmF0Y2hfc2l6ZT1iYXRjaF9zaXplLAogICAgICAgIHNoYXBlcz1bKDEyOCwgMTYwLCAxKSwgKCldCiAgICApCgogICAgdmFsaWRhdGlvbl9wcmVkaWN0aW9uID0gbW9kZWwoaW1hZ2VzLCByZXVzZT1UcnVlKQogICAgcHJlZGljdGlvbiA9IHRmLnRvX2ludDMyKHRmLmFyZ21heCh2YWxpZGF0aW9uX3ByZWRpY3Rpb24sIGF4aXM9MSkpCgogICAgY29uZnVzaW9uX21hdHJpeCA9IHRmLlZhcmlhYmxlKAogICAgICAgIHRmLnplcm9zKFtudW1iZXJfb2ZfY2xhc3NlcywgbnVtYmVyX29mX2NsYXNzZXNdLCBkdHlwZT10Zi5pbnQzMiksCiAgICAgICAgbmFtZT0iY29uZnVzaW9uX21hdHJpeCIpCiAgICBjb25mdXNpb25fdXBkYXRlID0gdGYuYXNzaWduX2FkZChjb25mdXNpb25fbWF0cml4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGYuY29uZnVzaW9uX21hdHJpeChsYWJlbHMsIHByZWRpY3Rpb24sIG51bWJlcl9vZl9jbGFzc2VzKSkKICAgIGNvcnJlY3QgPSB0Zi5WYXJpYWJsZSh0Zi56ZXJvcygoKSwgZHR5cGU9dGYuZmxvYXQzMikpCiAgICBjb3JyZWN0X3VwZGF0ZSA9IHRmLmFzc2lnbl9hZGQoY29ycmVjdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0Zi5yZWR1Y2Vfc3VtKHRmLnRvX2Zsb2F0KHRmLmVxdWFsKGxhYmVscywgcHJlZGljdGlvbikpKSkKICAgIHJlc2V0X29wID0gW3RmLmluaXRpYWxpemVfdmFyaWFibGVzKFtjb25mdXNpb25fbWF0cml4LCBjb3JyZWN0XSldCiAgICB1cGRhdGVfb3BzID0gW2NvbmZ1c2lvbl91cGRhdGUsIGNvcnJlY3RfdXBkYXRlXQoKICAgIG51bV9leGFtcGxlcyA9IDUwMCAqIG51bWJlcl9vZl9jbGFzc2VzCiAgICBudW1fYmF0Y2hlcyA9IGludChtYXRoLmNlaWwobnVtX2V4YW1wbGVzIC8gZmxvYXQoYmF0Y2hfc2l6ZSkpKQoKICAgIGRlZiB2YWxpZGF0aW9uKHN2LCBzZXNzLCBsYXN0X2FjY3VyYWN5KToKICAgICAgICBzZXNzLnJ1bihyZXNldF9vcCkKICAgICAgICBmb3IgaSBpbiByYW5nZShudW1fYmF0Y2hlcyk6CiAgICAgICAgICAgIHNlc3MucnVuKHVwZGF0ZV9vcHMpCgogICAgICAgIGNvbmZ1c2lvbl9tYXRyaXhfdmFsdWUsIGNvcnJlY3RfdmFsdWUgPSBzZXNzLnJ1bihbY29uZnVzaW9uX21hdHJpeCwgY29ycmVjdF0pCiAgICAgICAgc3RlcCA9IHNlc3MucnVuKHN2Lmdsb2JhbF9zdGVwKQoKICAgICAgICBhY2N1cmFjeSA9IGNvcnJlY3RfdmFsdWUgLyBudW1fZXhhbXBsZXMKICAgICAgICBwcmludCgnQWNjdXJhY3kgYXQgJWQgaGFzIHZhbHVlOiAlZicgJSAoc3RlcCwgYWNjdXJhY3kpKQogICAgICAgIHByaW50KCdDb25mdXNpb24gbWF0cml4IGF0ICVkOicgJSAoc3RlcCkpCiAgICAgICAgZm9yIGksIHJvdyBpbiBlbnVtZXJhdGUoY29uZnVzaW9uX21hdHJpeF92YWx1ZSk6CiAgICAgICAgICAgIHByaW50KGJhcmNvZGVfbGlzdFtpXSArICI6XHQiICsgIlx0Ii5qb2luKG1hcChzdHIsIHJvdykpKQogICAgICAgIGlmIGFjY3VyYWN5IDwgbGFzdF9hY2N1cmFjeVsndmFsdWUnXToKICAgICAgICAgICAgc3Yuc3RvcCgpCiAgICAgICAgbGFzdF9hY2N1cmFjeVsndmFsdWUnXSA9IDAuNSAqIGxhc3RfYWNjdXJhY3lbJ3ZhbHVlJ10gKyAwLjUgKiBhY2N1cmFjeQogICAgICAgIHByaW50KCdsYXN0X2FjY3VyYWN5OicsIGxhc3RfYWNjdXJhY3lbJ3ZhbHVlJ10pCgogICAgcmV0dXJuIHZhbGlkYXRpb24KCgpkZWYgdHJhaW4oKToKICAgIHRmLmxvZ2dpbmcuc2V0X3ZlcmJvc2l0eSh0Zi5sb2dnaW5nLkRFQlVHKQogICAgbG9nX2RpciA9ICcuL2xvZ3MnCiAgICBncHVfb3B0aW9ucyA9IHRmLkdQVU9wdGlvbnMocGVyX3Byb2Nlc3NfZ3B1X21lbW9yeV9mcmFjdGlvbj0wLjMzMykKICAgIHNlc3Npb25fY29uZmlnID0gdGYuQ29uZmlnUHJvdG8oZ3B1X29wdGlvbnM9Z3B1X29wdGlvbnMpCiAgICBwcmVkaWN0aW9uID0gbW9kZWwodHJhaW5faW1hZ2VzKQogICAgc2xpbS5sb3NzZXMuc29mdG1heF9jcm9zc19lbnRyb3B5KHByZWRpY3Rpb24sIHRyYWluX2xhYmVscykKICAgIHRvdGFsX2xvc3MgPSBzbGltLmxvc3Nlcy5nZXRfdG90YWxfbG9zcygpCiAgICB0Zi5zdW1tYXJ5LnNjYWxhcignbG9zcycsIHRvdGFsX2xvc3MpCiAgICBvcHRpbWl6ZXIgPSB0Zi50cmFpbi5STVNQcm9wT3B0aW1pemVyKDAuMDAxLCAwLjkpCiAgICB0cmFpbl9vcCA9IHNsaW0ubGVhcm5pbmcuY3JlYXRlX3RyYWluX29wKHRvdGFsX2xvc3MsIG9wdGltaXplciwgc3VtbWFyaXplX2dyYWRpZW50cz1UcnVlKQogICAgdmFsaWRhdGlvbiA9IHNldHVwX3ZhbGlkYXRpb24oKQogICAgc3YgPSB0Zi50cmFpbi5TdXBlcnZpc29yKGxvZ2Rpcj1sb2dfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNhdmVfc3VtbWFyaWVzX3NlY3M9MjAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9tb2RlbF9zZWNzPTMwMCkKICAgIHdpdGggc3YubWFuYWdlZF9zZXNzaW9uKGNvbmZpZz1zZXNzaW9uX2NvbmZpZykgYXMgc2VzczoKICAgICAgICBwcmludCgiU3RhcnRpbmcgc2Vzc2lvbi4uLiIpCiAgICAgICAgbGFzdF9hY2N1cmFjeSA9IHsndmFsdWUnOiAwLjB9CiAgICAgICAgc3YubG9vcCg2MCwgdGFyZ2V0PXZhbGlkYXRpb24sIGFyZ3M9KHN2LCBzZXNzLCBsYXN0X2FjY3VyYWN5KSkKICAgICAgICB3aGlsZSBub3Qgc3Yuc2hvdWxkX3N0b3AoKToKICAgICAgICAgICAgc2Vzcy5ydW4odHJhaW5fb3ApCiAgICAgICAgc3Yuc3RvcCgpCgo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3NvbWV0aGluZyhzZWxmKToKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFBJTAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyB0cmFpbl9leGFtcGxlcyA9IGV4YW1wbGVzWzQwMDAqbnVtYmVyX29mX2NsYXNzZXM6NTAwMCpudW1iZXJfb2ZfY2xhc3Nlc10KIyB2YWxpZGF0aW9uX2V4YW1wbGVzID0gZXhhbXBsZXNbNTAwMCpudW1iZXJfb2ZfY2xhc3Nlczo1NTAwKm51bWJlcl9vZl9jbGFzc2VzXQojIHRlc3RfZXhhbXBsZXMgPSBleGFtcGxlc1s1NTAwKm51bWJlcl9vZl9jbGFzc2VzOjYwMDAqbnVtYmVyX29mX2NsYXNzZXNdCgo=</text>
+        <text encoding="base64">RElNRU5TSU9OXzUxMiA9ICg1MTIsIDUxMikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgYmFyY29kZV9zZXQK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">NTA2MDA0NTM3MDM4OSAgICAgICA1MDAwICAgICBOZXcgQ292ZW50IEdhcmRlbiBTbG93IFJvYXN0IFRvbWF0byBTb3VwIDYwMGcK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZWRlbHRhLCBkYXRldGltZQpmcm9tIGdvb2dsZS5jbG91ZCBpbXBvcnQgc3RvcmFnZQpmcm9tIGdvb2dsZS5jbG91ZC5leGNlcHRpb25zIGltcG9ydCBOb3RGb3VuZApmcm9tIGdvb2dsZS5jbG91ZC5zdG9yYWdlIGltcG9ydCBCbG9iCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IGNvcHlmaWxlCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>.,.+7set hlsearch! hlsearch?</text>
+        <text>.,$d</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace />
       <last-substitute>tests</last-substitute>
       <last-dir>1</last-dir>
@@ -1061,9 +1128,12 @@
         <entry>VERBOSITY</entry>
         <entry>OPTS</entry>
         <entry>test</entry>
-        <entry>tests</entry>
         <entry encoding="base64">XDxweXRob25cPg==</entry>
         <entry>model</entry>
+        <entry>tests</entry>
+        <entry>dataset</entry>
+        <entry>build</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
@@ -1076,8 +1146,6 @@
         <entry>vsplit</entry>
         <entry>8</entry>
         <entry>27</entry>
-        <entry>.,$d</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>23</entry>
         <entry>9</entry>
         <entry>split</entry>
@@ -1086,6 +1154,8 @@
         <entry>only</entry>
         <entry>25</entry>
         <entry>.,.+7set hlsearch! hlsearch?</entry>
+        <entry>set hlsearch! hlsearch?</entry>
+        <entry>.,$d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
