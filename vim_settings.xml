@@ -273,8 +273,8 @@
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" timestamp="1494599989462">
-        <mark key="'" line="365" column="4" />
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" timestamp="1496219982646">
+        <mark key="'" line="443" column="12" />
         <mark key="[" line="326" column="34" />
         <mark key="]" line="326" column="35" />
         <mark key="." line="326" column="35" />
@@ -442,10 +442,10 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/logging_util.py" timestamp="1495728941928">
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/logging_util.py" timestamp="1496220388375">
         <mark key="'" line="26" column="14" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="0" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="35" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
@@ -891,10 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="65" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="6" column="9" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="15" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="21" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
       <jump line="23" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" />
@@ -991,6 +987,10 @@
       <jump line="68" column="0" filename="$USER_HOME$/DL_Workspace/object-recognition/train-all-data-in-one-folder.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/object-recognition/train-all-data-in-one-folder.py" />
       <jump line="81" column="22" filename="$USER_HOME$/DL_Workspace/object-recognition/train-all-data-in-one-folder.py" />
+      <jump line="525" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
+      <jump line="65" column="11" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
+      <jump line="225" column="12" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
+      <jump line="443" column="12" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -999,8 +999,8 @@
       <register name="/" type="4">
         <text>model</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cm0gLXJmdiA1MDU1NTQwMDI2MjY4IDUwMDAxNjkzMjI4NjQgNTAwMDE2OTI3NzQyMyA1MDAwMTY5MTM1NzkyIDUwMDAxNjkwMzY0NTcgNTIwMjM5MDAxNTg3OCA1MDIyMzEzMzEyMTAxIDUwMDAxNjk2ODk3MDcgNTAwMDE2OTI3OTc5MyA1MDAwMTY5MDczMDE4IDUwMzg4NjIxMzEwODcgNTM5MTUxNTgxMDIxMSA1MDM2NTg5MjUwNTc5IDUwMDAxNjkzNDI1NDEK</text>
+      <register name="0" type="4">
+        <text>multiprocessing.get_logger</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1040,24 +1040,10 @@
       <last-replace />
       <last-substitute>tests</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>GCS</entry>
-        <entry>delete</entry>
-        <entry>}.</entry>
-        <entry>success</entry>
-        <entry encoding="base64">XDxiYXJjb2RlX3FcPg==</entry>
-        <entry>save_event</entry>
-        <entry encoding="base64">XDxiZmxcPg==</entry>
-        <entry encoding="base64">XDxCQVJDT0RFX0JVRl9MSVNUX0xFTlw+</entry>
-        <entry>suffix</entry>
-        <entry>get_device</entry>
-        <entry encoding="base64">XDxmaXJzdFVzZXJzXD4=</entry>
-        <entry>get_bucket</entry>
-        <entry>get_connection</entry>
-        <entry>parser</entry>
         <entry>\s\+$</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eVw+</entry>
@@ -1080,11 +1066,6 @@
         <entry>model</entry>
       </history-search>
       <history-cmd>
-        <entry>26</entry>
-        <entry>249</entry>
-        <entry>142</entry>
-        <entry>70</entry>
-        <entry>433</entry>
         <entry>77</entry>
         <entry>hsplit</entry>
         <entry>help</entry>
