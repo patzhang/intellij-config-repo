@@ -870,7 +870,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496412013874">
+      <file name="/Dummy.txt" timestamp="1496413606528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/requirements.txt" timestamp="1487160539992">
@@ -938,6 +938,12 @@
         <mark key="]" line="32" column="32" />
         <mark key="^" line="32" column="30" />
         <mark key="." line="32" column="30" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/docker-lab/doc/references.md" timestamp="1496413637379">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="65" />
+        <mark key="^" line="2" column="65" />
+        <mark key="." line="2" column="65" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/prepare_images.py" timestamp="1495615622794">
         <mark key="[" line="213" column="48" />
@@ -1216,6 +1222,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
