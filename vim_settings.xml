@@ -703,6 +703,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="22" column="43" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py" timestamp="1496670147700">
+        <mark key="[" line="174" column="4" />
+        <mark key="]" line="174" column="4" />
+        <mark key="." line="174" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="311" column="0" />
@@ -1004,7 +1009,8 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" timestamp="1496669976071">
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" timestamp="1496671271613">
+        <mark key="'" line="143" column="25" />
         <mark key="[" line="19" column="58" />
         <mark key="]" line="19" column="58" />
         <mark key="." line="19" column="58" />
@@ -1012,8 +1018,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="44" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
-      <jump line="38" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="68" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="76" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="78" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
@@ -1112,10 +1116,12 @@
       <jump line="229" column="8" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="183" column="67" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
+      <jump line="105" column="54" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" />
+      <jump line="143" column="25" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICMjIw==</text>
+        <text>return value</text>
       </register>
       <register name="/" type="4">
         <text>histog</text>
@@ -1151,7 +1157,7 @@
         <text encoding="base64">dGVuc29yZmxvdz09MS4xLjAKI3RlbnNvcmZsb3ctZ3B1PT0xLjEuMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>60</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
@@ -1217,9 +1223,9 @@
         <entry>25</entry>
         <entry>.,.+7set hlsearch! hlsearch?</entry>
         <entry>.,$d</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>84</entry>
         <entry>60</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
