@@ -202,8 +202,8 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496666374862">
-        <mark key="'" line="229" column="8" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496667158719">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="215" column="0" />
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
@@ -1010,8 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
-      <jump line="24" column="43" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="33" column="44" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="38" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="68" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
@@ -1110,13 +1108,15 @@
       <jump line="150" column="32" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="232" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="229" column="8" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
+      <jump line="183" column="67" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>graph</text>
+        <text>histog</text>
       </register>
       <register name="0" type="4">
         <text>product-image-dataset/data</text>
@@ -1153,9 +1153,9 @@
       </register>
     </registers>
     <search>
-      <last-search>graph</last-search>
+      <last-search>histog</last-search>
       <last-offset />
-      <last-pattern>graph</last-pattern>
+      <last-pattern>histog</last-pattern>
       <last-replace />
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
@@ -1191,6 +1191,9 @@
         <entry encoding="base64">XDxsYXN0X2FjY3VyYWN5XD4=</entry>
         <entry>FileWriter</entry>
         <entry>graph</entry>
+        <entry>scope</entry>
+        <entry>histogram</entry>
+        <entry>histog</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
