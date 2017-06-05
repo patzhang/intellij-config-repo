@@ -1009,8 +1009,8 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" timestamp="1496676043484">
-        <mark key="'" line="97" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" timestamp="1496677903950">
+        <mark key="'" line="119" column="65" />
         <mark key="[" line="160" column="8" />
         <mark key="]" line="160" column="21" />
         <mark key="." line="160" column="21" />
@@ -1018,7 +1018,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="78" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="3" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="32" column="59" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
@@ -1118,6 +1117,7 @@
       <jump line="105" column="54" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" />
       <jump line="143" column="25" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" />
       <jump line="97" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" />
+      <jump line="119" column="65" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
