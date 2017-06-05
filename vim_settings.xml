@@ -202,6 +202,13 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496664152382">
+        <mark key="'" line="210" column="0" />
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_app.py" timestamp="1496236891137">
         <mark key="'" line="14" column="34" />
         <mark key="[" line="7" column="5" />
@@ -1003,8 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="17" column="5" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="103" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="71" column="54" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="40" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
@@ -1103,43 +1108,45 @@
       <jump line="66" column="49" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="72" column="48" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="21" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
+      <jump line="210" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>CPU</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bootstrap</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkkKFZFTlYpL2Jpbi9waXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMtJChUWVBFKS50eHQK</text>
+      <register name="0" type="4">
+        <text>product-image-dataset/data</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVuc29yZmxvdz09MS4xLjAKI3RlbnNvcmZsb3ctZ3B1PT0xLjEuMAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cuY29udHJpYi5zbGltIGFzIHNsaW0K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlAZWNobyAiICBib290c3RyYXAtZ3B1ICAgOiBjcmVhdGUgdmlydHVhbGVudiBhbmQgaW5zdGFsbCBkZXBlbmRlbmNpZXMgZm9yIEdQVSIK</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ym9vdHN0cmFwCg==</text>
+        <text encoding="base64">dGVuc29yZmxvdz09MS4xLjAKI3RlbnNvcmZsb3ctZ3B1PT0xLjEuMAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">OiBfdmlydHVhbGVudiBfYm9vdHN0cmFwLWNvbW1vbgoJCV92aXJ0dWFsZW52CgkJJHtUWVBFfT1jcHUKCQlfYm9vdHN0cmFwLWNvbW1vbgoJCUBlY2hvICJCb290c3RyYXAgZm9yIENQVSBmaW5pc2hlZC4iCgpib290c3RyYXAtZ3B1OiBfdmlydHVhbGVudgoJCSR7VFlQRX09Z3B1CgkJX2Jvb3RzdHJhcC1jb21tb24KCQlAZWNobyAiQm9vdHN0cmFwIGZvciBHUFUgZmluaXNoZWQuIgo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlAZWNobwo=</text>
+        <text encoding="base64">CQlAZWNobyAiICBib290c3RyYXAtZ3B1ICAgOiBjcmVhdGUgdmlydHVhbGVudiBhbmQgaW5zdGFsbCBkZXBlbmRlbmNpZXMgZm9yIEdQVSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlAZWNobwo=</text>
+        <text encoding="base64">Ym9vdHN0cmFwCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlAZWNobwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">OiBfdmlydHVhbGVudiBfYm9vdHN0cmFwLWNvbW1vbgoJCV92aXJ0dWFsZW52CgkJJHtUWVBFfT1jcHUKCQlfYm9vdHN0cmFwLWNvbW1vbgoJCUBlY2hvICJCb290c3RyYXAgZm9yIENQVSBmaW5pc2hlZC4iCgpib290c3RyYXAtZ3B1OiBfdmlydHVhbGVudgoJCSR7VFlQRX09Z3B1CgkJX2Jvb3RzdHJhcC1jb21tb24KCQlAZWNobyAiQm9vdHN0cmFwIGZvciBHUFUgZmluaXNoZWQuIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkKFZFTlYpL2Jpbi9waXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMtJChUWVBFKS50eHQK</text>
+        <text encoding="base64">CQlAZWNobwo=</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
