@@ -73,6 +73,65 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Python 3.5.2 Default DEV pyenv interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/unix_training-0.2.11-py3.5.egg" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/dnspython-1.15.0-py3.5.egg!/" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/reportlab-3.2.0-py3.5-macosx-10.11-x86_64.egg" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/xhtml2pdf-0.0.6-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/django_autoconfig-0.7.0-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/html5lib-0.9999999-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/beautifulsoup4-4.4.1-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/Markdown-2.6.5-py3.5.egg!/" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/Django-1.8.8-py3.5.egg" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/Pillow-4.1.0-py3.5-macosx-10.11-x86_64.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/PyPDF2-1.26.0-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/olefile-0.44-py3.5.egg!/" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/plat-darwin" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages" />
+        <root url="file:///usr/local/Cellar/pyenv/1.0.7/versions/3.5.2/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/1446821748" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/unix_training-0.2.11-py3.5.egg" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/dnspython-1.15.0-py3.5.egg!/" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/reportlab-3.2.0-py3.5-macosx-10.11-x86_64.egg" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/xhtml2pdf-0.0.6-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/django_autoconfig-0.7.0-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/html5lib-0.9999999-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/beautifulsoup4-4.4.1-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/Markdown-2.6.5-py3.5.egg!/" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/Django-1.8.8-py3.5.egg" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/Pillow-4.1.0-py3.5-macosx-10.11-x86_64.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/PyPDF2-1.26.0-py3.5.egg!/" />
+        <root url="jar:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages/olefile-0.44-py3.5.egg!/" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/plat-darwin" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/site-packages" />
+        <root url="file:///usr/local/Cellar/pyenv/1.0.7/versions/3.5.2/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/1446821748" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6.0 (/usr/local/bin/python3) interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
