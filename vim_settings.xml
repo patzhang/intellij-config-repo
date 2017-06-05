@@ -1009,12 +1009,12 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" timestamp="1496673699993">
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" timestamp="1496676043484">
         <mark key="'" line="97" column="0" />
-        <mark key="[" line="19" column="58" />
-        <mark key="]" line="19" column="58" />
-        <mark key="." line="19" column="58" />
-        <mark key="^" line="0" column="21" />
+        <mark key="[" line="160" column="8" />
+        <mark key="]" line="160" column="21" />
+        <mark key="." line="160" column="21" />
+        <mark key="^" line="160" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -1121,13 +1121,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>return value</text>
+        <text>, False</text>
       </register>
       <register name="/" type="4">
         <text>histog</text>
       </register>
-      <register name="0" type="4">
-        <text>product-image-dataset/data</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1haW4oKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBDb3B5cmlnaHQgMjAxNyBHb29nbGUsIEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4KIwojIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwojIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KIyBZb3UgbWF5IG9idGFpbiBhIGNvcHkgb2YgdGhlIExpY2Vuc2UgYXQKIwojICAgICBodHRwOi8vd3d3LmFwYWNoZS5vcmcvbGljZW5zZXMvTElDRU5TRS0yLjAKIwojIFVubGVzcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdyBvciBhZ3JlZWQgdG8gaW4gd3JpdGluZywgc29mdHdhcmUKIyBkaXN0cmlidXRlZCB1bmRlciB0aGUgTGljZW5zZSBpcyBkaXN0cmlidXRlZCBvbiBhbiAiQVMgSVMiIEJBU0lTLAojIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgojIFNlZSB0aGUgTGljZW5zZSBmb3IgdGhlIHNwZWNpZmljIGxhbmd1YWdlIGdvdmVybmluZyBwZXJtaXNzaW9ucyBhbmQKIyBsaW1pdGF0aW9ucyB1bmRlciB0aGUgTGljZW5zZS4KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0K</text>
