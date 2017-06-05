@@ -202,8 +202,8 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496664887230">
-        <mark key="'" line="232" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496666374862">
+        <mark key="'" line="229" column="8" />
         <mark key="[" line="215" column="0" />
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
@@ -1010,7 +1010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="15" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="24" column="43" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="33" column="44" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
@@ -1110,13 +1109,14 @@
       <jump line="149" column="39" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="150" column="32" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="232" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
+      <jump line="229" column="8" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsYXN0X2FjY3VyYWN5XD4=</text>
+        <text>graph</text>
       </register>
       <register name="0" type="4">
         <text>product-image-dataset/data</text>
@@ -1153,9 +1153,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsYXN0X2FjY3VyYWN5XD4=</last-search>
+      <last-search>graph</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsYXN0X2FjY3VyYWN5XD4=</last-pattern>
+      <last-pattern>graph</last-pattern>
       <last-replace />
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
@@ -1189,6 +1189,8 @@
         <entry>gpu</entry>
         <entry>bootstrap</entry>
         <entry encoding="base64">XDxsYXN0X2FjY3VyYWN5XD4=</entry>
+        <entry>FileWriter</entry>
+        <entry>graph</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
