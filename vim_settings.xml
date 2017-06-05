@@ -183,12 +183,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" timestamp="1496658058567">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="10" />
-        <mark key="." line="60" column="10" />
-        <mark key="^" line="60" column="10" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" timestamp="1496661109699">
+        <mark key="'" line="72" column="48" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="77" />
+        <mark key="." line="20" column="77" />
+        <mark key="^" line="20" column="77" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/doc/GPU Installation.md" timestamp="1496409347687">
         <mark key="[" line="1" column="0" />
@@ -485,11 +485,10 @@
         <mark key="^" line="14" column="68" />
         <mark key="." line="14" column="68" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements.txt" timestamp="1496248155733">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements.txt" timestamp="1496661305072">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1490798450733">
         <mark key="[" line="1" column="31" />
@@ -1004,11 +1003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="48" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_main.py" />
-      <jump line="20" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_main.py" />
-      <jump line="129" column="6" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
-      <jump line="56" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="195" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="17" column="5" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="103" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
@@ -1085,71 +1079,76 @@
       <jump line="36" column="43" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="18" column="4" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" />
       <jump line="13" column="5" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" />
-      <jump line="58" column="4" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="9" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="39" column="5" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="62" column="15" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="64" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="67" column="9" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="69" column="15" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="78" column="1" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="2" column="9" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="3" column="91" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="24" column="27" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="29" column="17" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="30" column="17" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="55" column="38" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="57" column="11" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="65" column="8" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="70" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="60" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="63" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="58" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="30" column="77" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="39" column="5" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="64" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="2" column="9" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="3" column="91" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="74" column="39" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="52" column="7" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="66" column="49" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
+      <jump line="72" column="48" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>gpu</text>
+        <text>CPU</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYm9vdHN0cmFwXD4=</text>
+        <text>bootstrap</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CQk=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQlAZWNobwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlAZWNobwo=</text>
-      </register>
-      <register name="3" type="2">
+      <register name="0" type="2">
         <text encoding="base64">CQkkKFZFTlYpL2Jpbi9waXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMtJChUWVBFKS50eHQK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkkKFZFTlYpL2Jpbi9waXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMtY3B1LnR4dAo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">dGVuc29yZmxvdz09MS4xLjAKI3RlbnNvcmZsb3ctZ3B1PT0xLjEuMAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlAZWNobyAiICBib290c3RyYXAtZ3B1ICAgOiBjcmVhdGUgdmlydHVhbGVudiBhbmQgaW5zdGFsbCBkZXBlbmRlbmNpZXMgZm9yIEdQVSIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ym9vdHN0cmFwCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">OiBfdmlydHVhbGVudiBfYm9vdHN0cmFwLWNvbW1vbgoJCV92aXJ0dWFsZW52CgkJJHtUWVBFfT1jcHUKCQlfYm9vdHN0cmFwLWNvbW1vbgoJCUBlY2hvICJCb290c3RyYXAgZm9yIENQVSBmaW5pc2hlZC4iCgpib290c3RyYXAtZ3B1OiBfdmlydHVhbGVudgoJCSR7VFlQRX09Z3B1CgkJX2Jvb3RzdHJhcC1jb21tb24KCQlAZWNobyAiQm9vdHN0cmFwIGZvciBHUFUgZmluaXNoZWQuIgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlAZWNobwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlfYm9vdHN0cmFwCg==</text>
+        <text encoding="base64">CQlAZWNobwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlfYm9vdHN0cmFwCg==</text>
+        <text encoding="base64">CQlAZWNobwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlAZWNobyAiQm9vdHN0cmFwIGZvciBDUFUgZmluaXNoZWQuIgo=</text>
+        <text encoding="base64">CQkkKFZFTlYpL2Jpbi9waXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMtJChUWVBFKS50eHQK</text>
       </register>
       <register name=":" type="4">
-        <text>84</text>
+        <text>60</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYm9vdHN0cmFwXD4=</last-search>
+      <last-search>bootstrap</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYm9vdHN0cmFwXD4=</last-pattern>
+      <last-pattern>bootstrap</last-pattern>
       <last-replace />
       <last-substitute>main</last-substitute>
       <last-dir>1</last-dir>
@@ -1177,10 +1176,11 @@
         <entry>dataset</entry>
         <entry>build</entry>
         <entry>main</entry>
-        <entry>bootstrap</entry>
         <entry>_virutal</entry>
         <entry>_virtual</entry>
         <entry encoding="base64">XDxfYm9vdHN0cmFwXD4=</entry>
+        <entry>gpu</entry>
+        <entry>bootstrap</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
@@ -1204,6 +1204,7 @@
         <entry>.,$d</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>84</entry>
+        <entry>60</entry>
       </history-cmd>
       <history-expr />
       <history-input />
