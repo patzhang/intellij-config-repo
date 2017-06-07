@@ -585,10 +585,10 @@
         <mark key="^" line="45" column="48" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" timestamp="1496829217332">
-        <mark key="'" line="9" column="36" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" timestamp="1496834135330">
+        <mark key="'" line="27" column="4" />
         <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
+        <mark key="]" line="43" column="16" />
         <mark key="^" line="57" column="0" />
         <mark key="." line="34" column="0" />
       </file>
@@ -628,10 +628,10 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" timestamp="1496828992191">
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" timestamp="1496834131062">
         <mark key="'" line="206" column="56" />
-        <mark key="[" line="206" column="56" />
-        <mark key="]" line="206" column="56" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="123" column="19" />
         <mark key="^" line="206" column="56" />
         <mark key="." line="206" column="56" />
       </file>
@@ -908,7 +908,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496413606528">
+      <file name="/Dummy.txt" timestamp="1496834184098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/requirements.txt" timestamp="1487160539992">
@@ -1032,7 +1032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="56" column="37" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="70" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="72" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
@@ -1132,16 +1131,17 @@
       <jump line="82" column="55" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="206" column="56" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" />
       <jump line="9" column="36" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>, False</text>
       </register>
       <register name="/" type="4">
-        <text>histog</text>
+        <text>softmax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSByYXcgZm9ybXVsYXRpb24gb2YgY3Jvc3MtZW50cm9weSwKICAgICAgICAjCiAgICAgICAgIyB0Zi5yZWR1Y2VfbWVhbigtdGYucmVkdWNlX3N1bSh5XyAqIHRmLmxvZyh0Zi5zb2Z0bWF4KHkpKSwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZHVjdGlvbl9pbmRpY2VzPVsxXSkpCiAgICAgICAgIwogICAgICAgICMgY2FuIGJlIG51bWVyaWNhbGx5IHVuc3RhYmxlLgogICAgICAgICMKICAgICAgICAjIFNvIGhlcmUgd2UgdXNlIHRmLm5uLnNvZnRtYXhfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cyBvbiB0aGUKICAgICAgICAjIHJhdyBvdXRwdXRzIG9mIHRoZSBubl9sYXllciBhYm92ZSwgYW5kIHRoZW4gYXZlcmFnZSBhY3Jvc3MKICAgICAgICAjIHRoZSBiYXRjaC4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgVGhlIHJhdyBmb3JtdWxhdGlvbiBvZiBjcm9zcy1lbnRyb3B5LAogICAgIwogICAgIyAgIHRmLnJlZHVjZV9tZWFuKC10Zi5yZWR1Y2Vfc3VtKHlfICogdGYubG9nKHRmLm5uLnNvZnRtYXgoeSkpLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZHVjdGlvbl9pbmRpY2VzPVsxXSkpCiAgICAjCiAgICAjIGNhbiBiZSBudW1lcmljYWxseSB1bnN0YWJsZS4KICAgICMKICAgICMgU28gaGVyZSB3ZSB1c2UgdGYubm4uc29mdG1heF9jcm9zc19lbnRyb3B5X3dpdGhfbG9naXRzIG9uIHRoZSByYXcKICAgICMgb3V0cHV0cyBvZiAneScsIGFuZCB0aGVuIGF2ZXJhZ2UgYWNyb3NzIHRoZSBiYXRjaC4K</text>
@@ -1175,9 +1175,9 @@
       </register>
     </registers>
     <search>
-      <last-search>histog</last-search>
+      <last-search>softmax</last-search>
       <last-offset />
-      <last-pattern>histog</last-pattern>
+      <last-pattern>softmax</last-pattern>
       <last-replace />
       <last-substitute>histog</last-substitute>
       <last-dir>1</last-dir>
@@ -1216,6 +1216,7 @@
         <entry>scope</entry>
         <entry>histogram</entry>
         <entry>histog</entry>
+        <entry>softmax</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
