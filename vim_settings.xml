@@ -585,12 +585,12 @@
         <mark key="^" line="45" column="48" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" timestamp="1496834135330">
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" timestamp="1496840386726">
         <mark key="'" line="27" column="4" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="43" column="16" />
-        <mark key="^" line="57" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="45" column="69" />
+        <mark key="]" line="46" column="3" />
+        <mark key="^" line="46" column="3" />
+        <mark key="." line="46" column="3" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/CHANGES.md" timestamp="1495706074666">
         <mark key="[" line="6" column="23" />
@@ -1135,7 +1135,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, False</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>softmax</text>
