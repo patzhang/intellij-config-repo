@@ -448,6 +448,9 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" timestamp="1496846070617">
+        <mark key="'" line="141" column="4" />
+      </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" timestamp="1496237588167">
         <mark key="'" line="13" column="5" />
         <mark key="[" line="37" column="0" />
@@ -1033,10 +1036,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="24" column="14" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/logging_util.py" />
-      <jump line="57" column="78" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="86" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="12" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" />
       <jump line="46" column="59" filename="$USER_HOME$/DL_Workspace/object-recognition/train-all-data-in-one-folder.py" />
       <jump line="68" column="0" filename="$USER_HOME$/DL_Workspace/object-recognition/train-all-data-in-one-folder.py" />
@@ -1133,13 +1132,17 @@
       <jump line="47" column="5" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="9" column="23" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="59" column="4" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
+      <jump line="27" column="23" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
+      <jump line="141" column="4" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>merged</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIFRoZSByYXcgZm9ybXVsYXRpb24gb2YgY3Jvc3MtZW50cm9weSwKICAgICAgICAjCiAgICAgICAgIyB0Zi5yZWR1Y2VfbWVhbigtdGYucmVkdWNlX3N1bSh5XyAqIHRmLmxvZyh0Zi5zb2Z0bWF4KHkpKSwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZHVjdGlvbl9pbmRpY2VzPVsxXSkpCiAgICAgICAgIwogICAgICAgICMgY2FuIGJlIG51bWVyaWNhbGx5IHVuc3RhYmxlLgogICAgICAgICMKICAgICAgICAjIFNvIGhlcmUgd2UgdXNlIHRmLm5uLnNvZnRtYXhfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cyBvbiB0aGUKICAgICAgICAjIHJhdyBvdXRwdXRzIG9mIHRoZSBubl9sYXllciBhYm92ZSwgYW5kIHRoZW4gYXZlcmFnZSBhY3Jvc3MKICAgICAgICAjIHRoZSBiYXRjaC4K</text>
@@ -1176,12 +1179,12 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>merged</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>merged</last-pattern>
       <last-replace />
       <last-substitute>histog</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1219,6 +1222,7 @@
         <entry>histog</entry>
         <entry>softmax</entry>
         <entry>print</entry>
+        <entry>merged</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
