@@ -565,6 +565,12 @@
         <mark key="." line="32" column="13" />
         <mark key="^" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/.gitignore" timestamp="1497006029439">
+        <mark key="[" line="95" column="10" />
+        <mark key="]" line="98" column="10" />
+        <mark key="^" line="98" column="10" />
+        <mark key="." line="98" column="10" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test_advanced.py" timestamp="1487804737088">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="8" />
@@ -1005,6 +1011,12 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/tfrecord_util/test.md" timestamp="1497006817496">
+        <mark key="[" line="8" column="71" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 6 Almost Finished/src/main/java/pl/refactoring/videostore/original/finished/ProgressivePointsCalculator.java" timestamp="1488374971046">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="67" />
@@ -1150,8 +1162,8 @@
       <register name="/" type="4">
         <text>merged</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoZSByYXcgZm9ybXVsYXRpb24gb2YgY3Jvc3MtZW50cm9weSwKICAgICAgICAjCiAgICAgICAgIyB0Zi5yZWR1Y2VfbWVhbigtdGYucmVkdWNlX3N1bSh5XyAqIHRmLmxvZyh0Zi5zb2Z0bWF4KHkpKSwKICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZHVjdGlvbl9pbmRpY2VzPVsxXSkpCiAgICAgICAgIwogICAgICAgICMgY2FuIGJlIG51bWVyaWNhbGx5IHVuc3RhYmxlLgogICAgICAgICMKICAgICAgICAjIFNvIGhlcmUgd2UgdXNlIHRmLm5uLnNvZnRtYXhfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cyBvbiB0aGUKICAgICAgICAjIHJhdyBvdXRwdXRzIG9mIHRoZSBubl9sYXllciBhYm92ZSwgYW5kIHRoZW4gYXZlcmFnZSBhY3Jvc3MKICAgICAgICAjIHRoZSBiYXRjaC4K</text>
+      <register name="0" type="4">
+        <text>http://www.robots.ox.ac.uk/~vgg/data/flowers/17/17flowers.tgz</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgVGhlIHJhdyBmb3JtdWxhdGlvbiBvZiBjcm9zcy1lbnRyb3B5LAogICAgIwogICAgIyAgIHRmLnJlZHVjZV9tZWFuKC10Zi5yZWR1Y2Vfc3VtKHlfICogdGYubG9nKHRmLm5uLnNvZnRtYXgoeSkpLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZHVjdGlvbl9pbmRpY2VzPVsxXSkpCiAgICAjCiAgICAjIGNhbiBiZSBudW1lcmljYWxseSB1bnN0YWJsZS4KICAgICMKICAgICMgU28gaGVyZSB3ZSB1c2UgdGYubm4uc29mdG1heF9jcm9zc19lbnRyb3B5X3dpdGhfbG9naXRzIG9uIHRoZSByYXcKICAgICMgb3V0cHV0cyBvZiAneScsIGFuZCB0aGVuIGF2ZXJhZ2UgYWNyb3NzIHRoZSBiYXRjaC4K</text>
