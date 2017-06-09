@@ -183,12 +183,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" timestamp="1496661109699">
-        <mark key="'" line="72" column="48" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="77" />
-        <mark key="." line="20" column="77" />
-        <mark key="^" line="20" column="77" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" timestamp="1497004215966">
+        <mark key="'" line="73" column="48" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/doc/GPU Installation.md" timestamp="1496409347687">
         <mark key="[" line="1" column="0" />
@@ -948,7 +948,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496844215512" />
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" timestamp="1495182912649">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="1" column="11" />
@@ -1146,7 +1145,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>via</text>
       </register>
       <register name="/" type="4">
         <text>merged</text>
@@ -1192,24 +1191,10 @@
       <last-replace />
       <last-substitute>histog</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>output</entry>
-        <entry encoding="base64">XDxESVJfREFUQVNFVF9EQVRBXD4=</entry>
-        <entry>page</entry>
-        <entry>Readme</entry>
-        <entry>Downloaded</entry>
-        <entry>readme.txt</entry>
-        <entry>json</entry>
-        <entry>clear</entry>
-        <entry>readme</entry>
-        <entry>nose</entry>
-        <entry encoding="base64">XDxWRVJCT1NJVFlcPg==</entry>
-        <entry>VERBOSITY</entry>
-        <entry>OPTS</entry>
-        <entry>test</entry>
         <entry encoding="base64">XDxweXRob25cPg==</entry>
         <entry>model</entry>
         <entry>tests</entry>
@@ -1232,8 +1217,6 @@
         <entry>merged</entry>
       </history-search>
       <history-cmd>
-        <entry>77</entry>
-        <entry>hsplit</entry>
         <entry>help</entry>
         <entry>w</entry>
         <entry>%s/\s\+$</entry>
