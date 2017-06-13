@@ -764,11 +764,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1497343901147">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="58" />
-        <mark key="^" line="12" column="58" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1497349790952">
+        <mark key="'" line="14" column="60" />
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
         <mark key="[" line="57" column="22" />
@@ -980,10 +981,10 @@
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" timestamp="1497343861293">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" timestamp="1497349762884">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="26" column="48" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="50" column="33" />
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
@@ -1068,7 +1069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/.gitlab-ci.yml" />
       <jump line="73" column="35" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="33" column="47" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="43" column="29" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
@@ -1168,16 +1168,17 @@
       <jump line="23" column="74" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="33" column="45" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="14" column="60" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>something</text>
+        <text>original_for_crop.png</text>
       </register>
       <register name="/" type="4">
         <text>copy_file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdpdmVuCiAgICAgICAgdGVzdHNfZGlyID0gcGF0aC5yZWFscGF0aChvcy5wYXRoLmFic3BhdGgob3MucGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkKICAgICAgICBpbWdfaW5wdXQgPSBwYXRoLmpvaW4odGVzdHNfZGlyLCAnaW5wdXQvb3JpZ2luYWxfZm9yX2Nyb3AucG5nJykKICAgICAgICBvdXRwdXRfZGlyID0gcGF0aC5qb2luKHRlc3RzX2RpciwgJ291dHB1dCcpCiAgICAgICAgc2VsZi5hc3N1cmVfZGlyX2V4aXN0aW5nKG91dHB1dF9kaXIpCiAgICAgICAgaW1nX291dHB1dCA9IHBhdGguam9pbihvdXRwdXRfZGlyLCAncmVzdWx0X2Nyb3BwZWRfMTAyNC5wbmcnKQogICAgICAgICMgd2hlbgogICAgICAgIGltYWdlID0gSW1hZ2Uub3BlbihpbWdfaW5wdXQpCiAgICAgICAgYm94ID0gKDAsIDAsIDEwMjQsIDEwMjQpCiAgICAgICAgY3JvcHBlZCA9IGltYWdlLmNyb3AoYm94KQogICAgICAgIGNyb3BwZWQuc2F2ZShpbWdfb3V0cHV0KQogICAgICAgICMgdGhlbgogICAgICAgIGNyb3BwZWRfaW1nID0gSW1hZ2Uub3BlbihpbWdfb3V0cHV0KQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoaW1hZ2Uuc2l6ZSwgKDEyODAsIDEwMjQpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY3JvcHBlZF9pbWcuc2l6ZSwgKDEwMjQsIDEwMjQpKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoY3JvcHBlZF9pbWcuZm9ybWF0LCAiUE5HIikKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNyb3BwZWRfaW1nLm1vZGUsICdSR0InKQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBhc3N1cmVfZGlyX2V4aXN0aW5nKGRpcmVjdG9yeSk6CiAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGRpcmVjdG9yeSk6CiAgICAgICAgICAgIG9zLm1ha2VkaXJzKGRpcmVjdG9yeSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
