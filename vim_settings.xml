@@ -289,7 +289,7 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1495552877350">
+      <file name="/Python Console" timestamp="1497353831070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -764,12 +764,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1497350212595">
-        <mark key="'" line="18" column="60" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="24" column="64" />
-        <mark key="^" line="24" column="64" />
-        <mark key="." line="24" column="64" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1497353818107">
+        <mark key="'" line="15" column="60" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
         <mark key="[" line="57" column="22" />
@@ -901,10 +901,10 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1497276486346">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1497353223300">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="18" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="178" column="31" />
         <mark key="." line="44" column="18" />
         <mark key="^" line="44" column="18" />
       </file>
@@ -938,7 +938,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496834184098">
+      <file name="/Dummy.txt" timestamp="1497353333409">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/requirements.txt" timestamp="1487160539992">
@@ -1172,40 +1172,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_input</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
         <text>copy_file</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBhc3N1cmVfZGlyX2V4aXN0aW5nKGRpcmVjdG9yeSk6CiAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGRpcmVjdG9yeSk6CiAgICAgICAgICAgIG9zLm1ha2VkaXJzKGRpcmVjdG9yeSkK</text>
+      <register name="0" type="4">
+        <text>CROP_REGION</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKFRydWUsIEZhbHNlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">REFUQVNFVF9WRVJTSU9OX01BSk9SID0gJ3YnICsgVkVSX01BSk9SCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">REFUQVNFVF9WRVJTSU9OID0gJ3YxLjEnCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyB3aGVuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2ZpbGUgPSBvcy5wYXRoLmJhc2VuYW1lKGltZykKICAgICAgICAgICAgaW1nX3Jlc3VsdCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBvdXRwdXRfZmlsZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBwcm9jZXNzX2ltYWdlX3dpdGhfcGlsbG93Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgVGhlIHJhdyBmb3JtdWxhdGlvbiBvZiBjcm9zcy1lbnRyb3B5LAogICAgIwogICAgIyAgIHRmLnJlZHVjZV9tZWFuKC10Zi5yZWR1Y2Vfc3VtKHlfICogdGYubG9nKHRmLm5uLnNvZnRtYXgoeSkpLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZHVjdGlvbl9pbmRpY2VzPVsxXSkpCiAgICAjCiAgICAjIGNhbiBiZSBudW1lcmljYWxseSB1bnN0YWJsZS4KICAgICMKICAgICMgU28gaGVyZSB3ZSB1c2UgdGYubm4uc29mdG1heF9jcm9zc19lbnRyb3B5X3dpdGhfbG9naXRzIG9uIHRoZSByYXcKICAgICMgb3V0cHV0cyBvZiAneScsIGFuZCB0aGVuIGF2ZXJhZ2UgYWNyb3NzIHRoZSBiYXRjaC4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNyb3BwZWRfaW1nLnNpemUsICgxMDI0LCAxMDI0KSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNyb3BwZWRfaW1nLmZvcm1hdCwgIlBORyIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjcm9wcGVkX2ltZy5tb2RlLCAnUkdCJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1hZ2Uuc2l6ZSwgKDEyODAsIDEwMjQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBodHRwczovL3d3dy50ZW5zb3JmbG93Lm9yZy9nZXRfc3RhcnRlZC9tbmlzdC9iZWdpbm5lcnMK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNtYWdlLnNpemUsICgxMjgwLCAxMDI0KSkK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
