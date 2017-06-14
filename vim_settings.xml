@@ -454,8 +454,8 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" timestamp="1496846070617">
-        <mark key="'" line="141" column="4" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" timestamp="1497447544283">
+        <mark key="'" line="173" column="16" />
       </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" timestamp="1496237588167">
         <mark key="'" line="13" column="5" />
@@ -601,12 +601,12 @@
         <mark key="^" line="45" column="48" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" timestamp="1496845404947">
-        <mark key="'" line="59" column="4" />
-        <mark key="[" line="61" column="70" />
-        <mark key="]" line="62" column="19" />
-        <mark key="^" line="62" column="19" />
-        <mark key="." line="62" column="19" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" timestamp="1497447578931">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="0" column="105" />
+        <mark key="]" line="1" column="55" />
+        <mark key="^" line="1" column="55" />
+        <mark key="." line="1" column="55" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/CHANGES.md" timestamp="1495706074666">
         <mark key="[" line="6" column="23" />
@@ -1074,8 +1074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="12" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
-      <jump line="59" column="41" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="81" column="37" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="75" column="15" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="3" column="21" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
@@ -1174,13 +1172,15 @@
       <jump line="10" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="42" column="26" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="41" column="32" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
+      <jump line="173" column="16" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>img</text>
       </register>
       <register name="/" type="4">
-        <text>weight</text>
+        <text>Adam</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aG9tZV9kaXIgPSBvcy5wYXRoLmV4cGFuZHVzZXIoJ34nKQpkYXRhX2RpciA9ICdwcm9kdWN0LWltYWdlLWRhdGFzZXQvZGF0YScKcm9vdF9kaXIgPSBvcy5wYXRoLmpvaW4oaG9tZV9kaXIsIGRhdGFfZGlyKQo=</text>
@@ -1217,9 +1217,9 @@
       </register>
     </registers>
     <search>
-      <last-search>weight</last-search>
+      <last-search>Adam</last-search>
       <last-offset />
-      <last-pattern>weight</last-pattern>
+      <last-pattern>Adam</last-pattern>
       <last-replace />
       <last-substitute>merged</last-substitute>
       <last-dir>1</last-dir>
@@ -1251,6 +1251,7 @@
         <entry>copy_file</entry>
         <entry>[5</entry>
         <entry>weight</entry>
+        <entry>Adam</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
