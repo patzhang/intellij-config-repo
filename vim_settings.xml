@@ -40,11 +40,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-cpu.txt" timestamp="1496656490261">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-unpack-dataset.sh" timestamp="1495630609351">
         <mark key="'" line="17" column="3" />
         <mark key="[" line="30" column="12" />
@@ -124,11 +119,6 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/config.py" timestamp="1496228898109">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/logging_util.py" timestamp="1490606394975">
         <mark key="[" line="20" column="71" />
@@ -410,11 +400,6 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" timestamp="1495710325973">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="165" column="86" />
@@ -454,6 +439,9 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" timestamp="1497454895009">
+        <mark key="'" line="139" column="55" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" timestamp="1497447544283">
         <mark key="'" line="173" column="16" />
       </file>
@@ -469,11 +457,6 @@
         <mark key="]" line="30" column="3" />
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495536727920">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/cognex-settings-DM362/Readme.txt" timestamp="1493127834030">
         <mark key="[" line="2" column="71" />
@@ -539,11 +522,6 @@
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-gpu.txt" timestamp="1496656516502">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-service/Readme.md" timestamp="1494493452665">
         <mark key="'" line="0" column="1" />
@@ -690,11 +668,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/requirements.txt" timestamp="1496227217019">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/data/Readme.txt" timestamp="1487173392585">
         <mark key="[" line="2" column="66" />
         <mark key="]" line="4" column="18" />
@@ -740,11 +713,6 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py" timestamp="1496670147700">
-        <mark key="[" line="174" column="4" />
-        <mark key="]" line="174" column="4" />
-        <mark key="." line="174" column="4" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="311" column="0" />
@@ -770,6 +738,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="17" column="13" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1497455031771">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="236" column="28" />
+        <mark key="^" line="236" column="28" />
+        <mark key="." line="236" column="28" />
       </file>
       <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
         <mark key="[" line="57" column="22" />
@@ -938,7 +912,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497447588344">
+      <file name="/Dummy.txt" timestamp="1497455061847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/requirements.txt" timestamp="1487160539992">
@@ -1074,8 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="37" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
-      <jump line="75" column="15" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="3" column="21" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="32" column="47" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="20" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
@@ -1174,13 +1146,15 @@
       <jump line="41" column="32" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="72" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="173" column="16" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
+      <jump line="21" column="37" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
+      <jump line="139" column="55" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>img</text>
       </register>
       <register name="/" type="4">
-        <text>Adam</text>
+        <text>cert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aG9tZV9kaXIgPSBvcy5wYXRoLmV4cGFuZHVzZXIoJ34nKQpkYXRhX2RpciA9ICdwcm9kdWN0LWltYWdlLWRhdGFzZXQvZGF0YScKcm9vdF9kaXIgPSBvcy5wYXRoLmpvaW4oaG9tZV9kaXIsIGRhdGFfZGlyKQo=</text>
@@ -1217,9 +1191,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Adam</last-search>
+      <last-search>cert</last-search>
       <last-offset />
-      <last-pattern>Adam</last-pattern>
+      <last-pattern>cert</last-pattern>
       <last-replace />
       <last-substitute>merged</last-substitute>
       <last-dir>1</last-dir>
@@ -1252,6 +1226,9 @@
         <entry>[5</entry>
         <entry>weight</entry>
         <entry>Adam</entry>
+        <entry>certif</entry>
+        <entry>certi</entry>
+        <entry>cert</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
