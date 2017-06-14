@@ -968,6 +968,10 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1497436196613">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="42" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" timestamp="1495182912649">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="1" column="11" />
@@ -1177,8 +1181,8 @@
       <register name="/" type="4">
         <text>copy_file</text>
       </register>
-      <register name="0" type="4">
-        <text>CROP_REGION</text>
+      <register name="0" type="2">
+        <text encoding="base64">aG9tZV9kaXIgPSBvcy5wYXRoLmV4cGFuZHVzZXIoJ34nKQpkYXRhX2RpciA9ICdwcm9kdWN0LWltYWdlLWRhdGFzZXQvZGF0YScKcm9vdF9kaXIgPSBvcy5wYXRoLmpvaW4oaG9tZV9kaXIsIGRhdGFfZGlyKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
