@@ -739,9 +739,9 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1497455031771">
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="236" column="28" />
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1497455222398">
+        <mark key="[" line="261" column="2" />
+        <mark key="]" line="261" column="28" />
         <mark key="^" line="236" column="28" />
         <mark key="." line="236" column="28" />
       </file>
@@ -1156,8 +1156,8 @@
       <register name="/" type="4">
         <text>cert</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aG9tZV9kaXIgPSBvcy5wYXRoLmV4cGFuZHVzZXIoJ34nKQpkYXRhX2RpciA9ICdwcm9kdWN0LWltYWdlLWRhdGFzZXQvZGF0YScKcm9vdF9kaXIgPSBvcy5wYXRoLmpvaW4oaG9tZV9kaXIsIGRhdGFfZGlyKQo=</text>
+      <register name="0" type="4">
+        <text>sudo update-ca-certificates</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
