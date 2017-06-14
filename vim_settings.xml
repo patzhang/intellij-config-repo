@@ -968,7 +968,8 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1497436196613">
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1497444223565">
+        <mark key="'" line="41" column="32" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="42" />
       </file>
@@ -1073,9 +1074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="35" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
-      <jump line="33" column="47" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
-      <jump line="43" column="29" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="48" column="12" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="59" column="41" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="81" column="37" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
@@ -1173,13 +1171,16 @@
       <jump line="33" column="45" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="14" column="60" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
+      <jump line="42" column="26" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
+      <jump line="41" column="32" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>img</text>
       </register>
       <register name="/" type="4">
-        <text>copy_file</text>
+        <text>weight</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aG9tZV9kaXIgPSBvcy5wYXRoLmV4cGFuZHVzZXIoJ34nKQpkYXRhX2RpciA9ICdwcm9kdWN0LWltYWdlLWRhdGFzZXQvZGF0YScKcm9vdF9kaXIgPSBvcy5wYXRoLmpvaW4oaG9tZV9kaXIsIGRhdGFfZGlyKQo=</text>
@@ -1216,9 +1217,9 @@
       </register>
     </registers>
     <search>
-      <last-search>copy_file</last-search>
+      <last-search>weight</last-search>
       <last-offset />
-      <last-pattern>copy_file</last-pattern>
+      <last-pattern>weight</last-pattern>
       <last-replace />
       <last-substitute>merged</last-substitute>
       <last-dir>1</last-dir>
@@ -1248,6 +1249,8 @@
         <entry>merged</entry>
         <entry>load the product json</entry>
         <entry>copy_file</entry>
+        <entry>[5</entry>
+        <entry>weight</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
