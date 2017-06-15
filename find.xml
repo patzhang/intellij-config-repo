@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="dockerfile" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +15,17 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>d</mask>
+      <mask>do</mask>
+      <mask>doc</mask>
+      <mask>dock</mask>
+      <mask>docker</mask>
+      <mask>dockerfi</mask>
+      <mask>dockerfil</mask>
+      <mask>dockerfile</mask>
     </recentFileMasks>
   </component>
 </application>
