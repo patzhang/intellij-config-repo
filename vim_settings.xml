@@ -875,10 +875,10 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1497353223300">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="178" column="31" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1497519712335">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="18" />
         <mark key="." line="44" column="18" />
         <mark key="^" line="44" column="18" />
       </file>
@@ -1048,7 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
       <jump line="162" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
       <jump line="334" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
@@ -1148,56 +1147,57 @@
       <jump line="139" column="55" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
       <jump line="58" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_cnn.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_cnn.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>img</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>cert</text>
+        <text>5000</text>
       </register>
       <register name="0" type="4">
         <text>sudo update-ca-certificates</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cWF6MTIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB3aGVuCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdVcGxvYWRpbmcge30gdG8ge30gLi4uJy5mb3JtYXQoZmlsZSwgYnVja2V0X25hbWUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2ZpbGUgPSBvcy5wYXRoLmJhc2VuYW1lKGltZykKICAgICAgICAgICAgaW1nX3Jlc3VsdCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBvdXRwdXRfZmlsZSkK</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3MgPSBGYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtYWluIGltcG9ydCBwcm9jZXNzX2ltYWdlX3dpdGhfcGlsbG93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNyb3BwZWRfaW1nLnNpemUsICgxMDI0LCAxMDI0KSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGNyb3BwZWRfaW1nLmZvcm1hdCwgIlBORyIpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChjcm9wcGVkX2ltZy5tb2RlLCAnUkdCJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKG1hZ2Uuc2l6ZSwgKDEyODAsIDEwMjQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB3aGVuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHNtYWdlLnNpemUsICgxMjgwLCAxMDI0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2ZpbGUgPSBvcy5wYXRoLmJhc2VuYW1lKGltZykKICAgICAgICAgICAgaW1nX3Jlc3VsdCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBvdXRwdXRfZmlsZSkK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>cert</last-search>
+      <last-search>5000</last-search>
       <last-offset />
-      <last-pattern>cert</last-pattern>
+      <last-pattern>5000</last-pattern>
       <last-replace />
       <last-substitute>merged</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1229,6 +1229,7 @@
         <entry>certif</entry>
         <entry>certi</entry>
         <entry>cert</entry>
+        <entry>5000</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
