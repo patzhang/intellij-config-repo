@@ -439,8 +439,8 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" timestamp="1497454895009">
-        <mark key="'" line="139" column="55" />
+      <file name="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" timestamp="1497599326117">
+        <mark key="'" line="96" column="9" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" timestamp="1497447544283">
         <mark key="'" line="173" column="16" />
@@ -1048,7 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
       <jump line="162" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
       <jump line="334" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
       <jump line="43" column="3" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
@@ -1144,17 +1143,18 @@
       <jump line="72" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="173" column="16" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
       <jump line="21" column="37" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
-      <jump line="139" column="55" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
       <jump line="58" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_cnn.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_cnn.py" />
       <jump line="102" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="139" column="12" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
+      <jump line="96" column="9" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>5000</text>
+        <text>group</text>
       </register>
       <register name="0" type="4">
         <text>sudo update-ca-certificates</text>
@@ -1191,9 +1191,9 @@
       </register>
     </registers>
     <search>
-      <last-search>5000</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>5000</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace />
       <last-substitute>merged</last-substitute>
       <last-dir>1</last-dir>
@@ -1230,6 +1230,7 @@
         <entry>certi</entry>
         <entry>cert</entry>
         <entry>5000</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
