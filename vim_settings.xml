@@ -381,7 +381,7 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1495717999772">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1497619472540">
         <mark key="'" line="48" column="11" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -745,7 +745,8 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1497617281764">
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1497619361654">
+        <mark key="'" line="242" column="0" />
         <mark key="[" line="261" column="2" />
         <mark key="]" line="261" column="28" />
         <mark key="^" line="236" column="28" />
@@ -1060,7 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
       <jump line="334" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
       <jump line="43" column="3" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
       <jump line="276" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
@@ -1160,13 +1160,14 @@
       <jump line="102" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="139" column="12" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
       <jump line="96" column="9" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
+      <jump line="242" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>rc0</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>gcloud</text>
       </register>
       <register name="0" type="4">
         <text>sudo update-ca-certificates</text>
@@ -1203,9 +1204,9 @@
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search>gcloud</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>gcloud</last-pattern>
       <last-replace />
       <last-substitute>merged</last-substitute>
       <last-dir>1</last-dir>
@@ -1243,6 +1244,7 @@
         <entry>cert</entry>
         <entry>5000</entry>
         <entry>group</entry>
+        <entry>gcloud</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
