@@ -40,6 +40,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-cpu.txt" timestamp="1496656490261">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-unpack-dataset.sh" timestamp="1495630609351">
         <mark key="'" line="17" column="3" />
         <mark key="[" line="30" column="12" />
@@ -119,6 +124,11 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/config.py" timestamp="1496228898109">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/logging_util.py" timestamp="1490606394975">
         <mark key="[" line="20" column="71" />
@@ -400,6 +410,11 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" timestamp="1495710325973">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="165" column="86" />
@@ -457,6 +472,11 @@
         <mark key="]" line="30" column="3" />
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495536727920">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/cognex-settings-DM362/Readme.txt" timestamp="1493127834030">
         <mark key="[" line="2" column="71" />
@@ -528,6 +548,11 @@
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-gpu.txt" timestamp="1496656516502">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-service/Readme.md" timestamp="1494493452665">
         <mark key="'" line="0" column="1" />
@@ -674,6 +699,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/requirements.txt" timestamp="1496227217019">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/data/Readme.txt" timestamp="1487173392585">
         <mark key="[" line="2" column="66" />
         <mark key="]" line="4" column="18" />
@@ -718,6 +748,11 @@
         <mark key="]" line="22" column="43" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="22" column="43" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py" timestamp="1496670147700">
+        <mark key="[" line="174" column="4" />
+        <mark key="]" line="174" column="4" />
+        <mark key="." line="174" column="4" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
@@ -1005,6 +1040,11 @@
         <mark key="^" line="214" column="3" />
         <mark key="." line="214" column="3" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/kubernetes-gpu-cluster/deployment.yaml" timestamp="1497622562866">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
@@ -1173,31 +1213,31 @@
         <text>sudo update-ca-certificates</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cWF6MTIK</text>
+        <text encoding="base64">ICAgICAgLSBob3N0UGF0aDoKICAgICAgICAgIHBhdGg6IC91c3IvbGliL3g4Nl82NC1saW51eC1nbnUvbGliY3VkYS5zby4zNzUuMzkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">cWF6MTIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdVcGxvYWRpbmcge30gdG8ge30gLi4uJy5mb3JtYXQoZmlsZSwgYnVja2V0X25hbWUpKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3MgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdVcGxvYWRpbmcge30gdG8ge30gLi4uJy5mb3JtYXQoZmlsZSwgYnVja2V0X25hbWUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3MgPSBGYWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB3aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2ZpbGUgPSBvcy5wYXRoLmJhc2VuYW1lKGltZykKICAgICAgICAgICAgaW1nX3Jlc3VsdCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBvdXRwdXRfZmlsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB3aGVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
