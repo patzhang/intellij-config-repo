@@ -514,6 +514,12 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
       </file>
+      <file name="$USER_HOME$/Workspaces/docker-lab/doc/kubernetes/Readme.md" timestamp="1497603772301">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="47" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
         <mark key="[" line="5" column="0" />
       </file>
@@ -1017,6 +1023,12 @@
         <mark key="^" line="2" column="67" />
         <mark key="." line="2" column="67" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/kubernetes-gpu-guide/deployments/linux-gpu-deployment.yaml" timestamp="1497603886409">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="45" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="21" column="49" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -1151,7 +1163,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>0</text>
+        <text>rc0</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
