@@ -252,6 +252,9 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification/inception_keras.py" timestamp="1497868254742">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task3_CombiningToAssembleFurniture.java" timestamp="1494410782887">
         <mark key="[" line="21" column="97" />
         <mark key="]" line="22" column="3" />
@@ -930,6 +933,11 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification/readData.py" timestamp="1497868303407">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/output/Readme.txt" timestamp="1485205216636">
         <mark key="[" line="0" column="49" />
         <mark key="]" line="0" column="49" />
@@ -969,7 +977,7 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/code.py" timestamp="1497605057697">
+      <file name="/code.py" timestamp="1497868397678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
@@ -1101,7 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="54" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="24" column="72" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="38" column="31" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
@@ -1201,6 +1208,7 @@
       <jump line="253" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="265" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification/inception_keras.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1213,31 +1221,31 @@
         <text>sudo update-ca-certificates</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBob3N0UGF0aDoKICAgICAgICAgIHBhdGg6IC91c3IvbGliL3g4Nl82NC1saW51eC1nbnUvbGliY3VkYS5zby4zNzUuMzkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmVyYm9zZT12ZXJib3NlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cWF6MTIK</text>
+        <text encoding="base64">ICAgICAgLSBob3N0UGF0aDoKICAgICAgICAgIHBhdGg6IC91c3IvbGliL3g4Nl82NC1saW51eC1nbnUvbGliY3VkYS5zby4zNzUuMzkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">cWF6MTIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdVcGxvYWRpbmcge30gdG8ge30gLi4uJy5mb3JtYXQoZmlsZSwgYnVja2V0X25hbWUpKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3MgPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdVcGxvYWRpbmcge30gdG8ge30gLi4uJy5mb3JtYXQoZmlsZSwgYnVja2V0X25hbWUpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3MgPSBGYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB3aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
