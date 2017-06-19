@@ -917,8 +917,8 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1497519712335">
-        <mark key="'" line="102" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1497865408456">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="16" />
         <mark key="]" line="44" column="18" />
         <mark key="." line="44" column="18" />
@@ -1101,19 +1101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="43" column="3" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="276" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="338" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="45" column="15" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="26" column="47" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="345" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="52" column="47" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="39" column="3" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" />
-      <jump line="13" column="34" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_app.py" />
       <jump line="44" column="54" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="24" column="72" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
@@ -1184,7 +1171,6 @@
       <jump line="70" column="33" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_cnn.py" />
       <jump line="22" column="22" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="306" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="47" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="23" column="74" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="33" column="45" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1201,13 +1187,27 @@
       <jump line="139" column="12" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
       <jump line="96" column="9" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
       <jump line="242" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="47" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="99" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="220" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="272" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="279" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="301" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="315" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="334" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="104" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="107" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="253" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="265" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>rc0</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>gcloud</text>
+        <text>5000</text>
       </register>
       <register name="0" type="4">
         <text>sudo update-ca-certificates</text>
@@ -1244,9 +1244,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gcloud</last-search>
+      <last-search>5000</last-search>
       <last-offset />
-      <last-pattern>gcloud</last-pattern>
+      <last-pattern>5000</last-pattern>
       <last-replace />
       <last-substitute>merged</last-substitute>
       <last-dir>1</last-dir>
@@ -1282,9 +1282,10 @@
         <entry>certif</entry>
         <entry>certi</entry>
         <entry>cert</entry>
-        <entry>5000</entry>
         <entry>group</entry>
         <entry>gcloud</entry>
+        <entry>logger.info</entry>
+        <entry>5000</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
