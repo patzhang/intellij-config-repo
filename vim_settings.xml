@@ -264,8 +264,8 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-classification/inception_keras.py" timestamp="1497868254742">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification/inception_keras.py" timestamp="1498054860113">
+        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task3_CombiningToAssembleFurniture.java" timestamp="1494410782887">
         <mark key="[" line="21" column="97" />
@@ -1001,7 +1001,7 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/code.py" timestamp="1498037810622">
+      <file name="/code.py" timestamp="1498054893100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
@@ -1133,7 +1133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="8" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="36" column="43" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" />
       <jump line="18" column="4" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" />
       <jump line="13" column="5" filename="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" />
@@ -1233,6 +1232,7 @@
       <jump line="302" column="40" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="45" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification/inception_keras.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
