@@ -18,7 +18,7 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1497883369359">
+      <file name="/a.dummy" timestamp="1498138219320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" timestamp="1495710580046">
@@ -699,12 +699,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498129157134">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="16" />
-        <mark key="^" line="45" column="16" />
-        <mark key="." line="45" column="16" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498138585150">
+        <mark key="'" line="319" column="4" />
+        <mark key="[" line="310" column="55" />
+        <mark key="]" line="311" column="3" />
+        <mark key="^" line="311" column="3" />
+        <mark key="." line="311" column="3" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/run-move-files.sh" timestamp="1493222541309">
         <mark key="[" line="14" column="11" />
@@ -854,7 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="63" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="58" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="30" column="77" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
@@ -954,16 +953,17 @@
       <jump line="303" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
       <jump line="302" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
       <jump line="335" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
+      <jump line="319" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>readme.txt'</text>
+        <text>readme.txt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXRfZGF0YXNldFw+</text>
+        <text encoding="base64">XDxnY3NfdXBsb2FkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>check_readme_in_gcs(target_dataset, 'readme.txt')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBzdG9yYWdlLkNsaWVudChwcm9qZWN0PUdDU19QUk9KRUNUKQogICAgICAgIGJ1Y2tldCA9IGNsaWVudC5nZXRfYnVja2V0KGJ1Y2tldF9uYW1lPWJ1Y2tldF9uYW1lKQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CgoK</text>
@@ -997,9 +997,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXRfZGF0YXNldFw+</last-search>
+      <last-search encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXRfZGF0YXNldFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-pattern>
       <last-replace />
       <last-substitute>merged</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,6 +1042,7 @@
         <entry>download_to_filename</entry>
         <entry>download_to_file</entry>
         <entry encoding="base64">XDx0YXJnZXRfZGF0YXNldFw+</entry>
+        <entry encoding="base64">XDxnY3NfdXBsb2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
