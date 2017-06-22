@@ -699,12 +699,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498138585150">
-        <mark key="'" line="319" column="4" />
-        <mark key="[" line="310" column="55" />
-        <mark key="]" line="311" column="3" />
-        <mark key="^" line="311" column="3" />
-        <mark key="." line="311" column="3" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498139795801">
+        <mark key="'" line="364" column="15" />
+        <mark key="[" line="372" column="7" />
+        <mark key="]" line="372" column="7" />
+        <mark key="^" line="372" column="10" />
+        <mark key="." line="372" column="7" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/run-move-files.sh" timestamp="1493222541309">
         <mark key="[" line="14" column="11" />
@@ -854,17 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="58" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="30" column="77" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="39" column="5" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="64" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="2" column="9" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="3" column="91" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="74" column="39" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="52" column="7" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="66" column="49" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="72" column="48" filename="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" />
       <jump line="21" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="210" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" />
@@ -954,54 +943,65 @@
       <jump line="302" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
       <jump line="335" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
       <jump line="319" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="372" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="246" column="39" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="362" column="6" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="365" column="37" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="31" column="57" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="247" column="48" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="366" column="46" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="29" column="2" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="30" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="363" column="6" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="364" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>readme.txt</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnY3NfdXBsb2FkXD4=</text>
+        <text>readme.txt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQgPSBzdG9yYWdlLkNsaWVudChwcm9qZWN0PUdDU19QUk9KRUNUKQogICAgICAgIGJ1Y2tldCA9IGNsaWVudC5nZXRfYnVja2V0KGJ1Y2tldF9uYW1lPWJ1Y2tldF9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBibG9iID0gQmxvYihvYmplY3RfbmFtZSwgYnVja2V0KQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgoK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBleGlzdHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IGRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCclWS0lbS0lZF8lSC4lTS4lUycpCiAgICB0YXJnZXRfZGF0YXNldCA9IFVOREVSU0NPUkUuam9pbigodGFyZ2V0X2RhdGFzZXQsIHRpbWVzdGFtcCkpCg==</text>
+        <text encoding="base64">ICAgIAoKZm9yIGkgaW4gcmFuZ2UoNSk6CiAgICBsb2dnZXIuaW5mbygnVXBsb2FkaW5nIGZpbGVzIGF0IHt9IHRpbWVzIC4uLicuZm9ybWF0KGkgKyAxKSkKICAgIHN1Y2Nlc3MgPSBnY3NfdXBsb2FkKGJ1Y2tldF9uYW1lLCBmaWxlLCBvYmplY3RfbmFtZSkKICAgIGlmIHN1Y2Nlc3M6CiAgICAgICAgYnJlYWsKCgpkZWYgZ2NzX3VwbG9hZChidWNrZXRfbmFtZSwgZmlsZSwgb2JqZWN0X25hbWUpOgogICAgbG9nZ2VyLmRlYnVnKCdVcGxvYWRpbmcge30gdG8ge30gLi4uJy5mb3JtYXQoZmlsZSwgYnVja2V0X25hbWUpKQogICAgdHJ5OgogICAgICAgIGNsaWVudCA9IHN0b3JhZ2UuQ2xpZW50KHByb2plY3Q9R0NTX1BST0pFQ1QpCiAgICAgICAgYnVja2V0ID0gY2xpZW50LmdldF9idWNrZXQoYnVja2V0X25hbWU9YnVja2V0X25hbWUpCiAgICAgICAgYmxvYiA9IEJsb2Iob2JqZWN0X25hbWUsIGJ1Y2tldCkKICAgICAgICB3aXRoIG9wZW4oZmlsZSwgJ3JiJykgYXMgZjoKICAgICAgICAgICAgYmxvYi51cGxvYWRfZnJvbV9maWxlKGYpCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdVcGxvYWRlZCB7fSBhcyB7fScuZm9ybWF0KGZpbGUsIGJsb2IubmFtZSkpCiAgICAgICAgICAgIHN1Y2Nlc3MgPSBUcnVlCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdDaGVja2luZyB7fSBpbiBHQ1MgLi4uJy5mb3JtYXQob2JqZWN0X25hbWUpKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHJhbmRvbV9kYXJrZW4oaW1hZ2UpOgogICAgIiIiR2l2ZW4gYW4gaW1hZ2UgKGZyb20gSW1hZ2Uub3BlbiksIHJhbmRvbWx5IGRhcmtlbiBhIHBhcnQgb2YgaXQuIiIiCiAgICB3LCBoID0gaW1hZ2Uuc2l6ZQoKICAgICMgTWFrZSBhIHJhbmRvbSBib3guCiAgICB4MSwgeTEgPSByYW5kb20ucmFuZGludCgwLCB3KSwgcmFuZG9tLnJhbmRpbnQoMCwgaCkKICAgIHgyLCB5MiA9IHJhbmRvbS5yYW5kaW50KHgxLCB3KSwgcmFuZG9tLnJhbmRpbnQoeTEsIGgpCgogICAgIyBMb29wIHRocm91Z2ggZXZlcnkgcGl4ZWwgb2Ygb3VyIGJveCAoKkdBU1AqKSBhbmQgZGFya2VuLgogICAgZm9yIGkgaW4gcmFuZ2UoeDEsIHgyKToKICAgICAgICBmb3IgaiBpbiByYW5nZSh5MSwgeTIpOgogICAgICAgICAgICBuZXdfdmFsdWUgPSB0dXBsZShbaW50KHggKiAwLjUpIGZvciB4IGluIGltYWdlLmdldHBpeGVsKChpLCBqKSldKQogICAgICAgICAgICBpbWFnZS5wdXRwaXhlbCgoaSwgaiksIG5ld192YWx1ZSkKICAgIHJldHVybiBpbWFnZQoKZGVmIF9nZW5lcmF0b3IoYmF0Y2hfc2l6ZSwgWCwgeSk6CiAgICAiIiJHZW5lcmF0ZSBiYXRjaGVzIG9mIHRyYWluaW5nIGRhdGEgZm9yZXZlci4iIiIKICAgIHdoaWxlIDE6CiAgICAgICAgYmF0Y2hfWCwgYmF0Y2hfeSA9IFtdLCBbXQogICAgICAgIGZvciBpIGluIHJhbmdlKGJhdGNoX3NpemUpOgogICAgICAgICAgICBzYW1wbGVfaW5kZXggPSByYW5kb20ucmFuZGludCgwLCBsZW4oWCkgLSAxKQogICAgICAgICAgICBzYSA9IHlbc2FtcGxlX2luZGV4XQogICAgICAgICAgICBpbWFnZSwgc2EgPSBwcm9jZXNzX2ltYWdlKFhbc2FtcGxlX2luZGV4XSwgc2EsIGF1Z21lbnQ9VHJ1ZSkKICAgICAgICAgICAgYmF0Y2hfWC5hcHBlbmQoaW1hZ2UpCiAgICAgICAgICAgIGJhdGNoX3kuYXBwZW5kKHNhKQogICAgICAgIHlpZWxkIG5wLmFycmF5KGJhdGNoX1gpLCBucC5hcnJheShiYXRjaF95KQoK</text>
+        <text encoding="base64">ICAgIHRpbWVzdGFtcCA9IGRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCclWS0lbS0lZF8lSC4lTS4lUycpCiAgICB0YXJnZXRfZGF0YXNldCA9IFVOREVSU0NPUkUuam9pbigodGFyZ2V0X2RhdGFzZXQsIHRpbWVzdGFtcCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCB0cWRtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9YX3koZGF0YV9maWxlKToKICAgICIiIlJlYWQgdGhlIGxvZyBmaWxlIGFuZCB0dXJuIGl0IGludG8gWC95IHBhaXJzLiBBZGQgYW4gb2Zmc2V0IHRvIGxlZnQgaW1hZ2VzLCByZW1vdmUgZnJvbSByaWdodCBpbWFnZXMuIiIiCiAgICBYLCB5ID0gW10sIFtdCiAgICBzdGVlcmluZ19vZmZzZXQgPSAwLjQKICAgIHdpdGggb3BlbihkYXRhX2ZpbGUpIGFzIGZpbjoKICAgICAgICBmb3IgXywgbGVmdF9pbWcsIHJpZ2h0X2ltZywgc3RlZXJpbmdfYW5nbGUsIF8sIF8sIHNwZWVkIGluIGNzdi5yZWFkZXIoZmluKToKICAgICAgICAgICAgaWYgZmxvYXQoc3BlZWQpIDwgMjA6IGNvbnRpbnVlICAjIHRocm93IGF3YXkgbG93LXNwZWVkIHNhbXBsZXMKICAgICAgICAgICAgWCArPSBbbGVmdF9pbWcuc3RyaXAoKSwgcmlnaHRfaW1nLnN0cmlwKCldCiAgICAgICAgICAgIHkgKz0gW2Zsb2F0KHN0ZWVyaW5nX2FuZ2xlKSArIHN0ZWVyaW5nX29mZnNldCwgZmxvYXQoc3RlZXJpbmdfYW5nbGUpIC0gc3RlZXJpbmdfb2Zmc2V0XQogICAgcmV0dXJuIFgsIHkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-search>
+      <last-search>readme.txt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-pattern>
+      <last-pattern>readme.txt</last-pattern>
       <last-replace />
-      <last-substitute>merged</last-substitute>
+      <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1043,6 +1043,8 @@
         <entry>download_to_file</entry>
         <entry encoding="base64">XDx0YXJnZXRfZGF0YXNldFw+</entry>
         <entry encoding="base64">XDxnY3NfdXBsb2FkXD4=</entry>
+        <entry encoding="base64">XDxyZWFkbWVcPg==</entry>
+        <entry>readme.txt</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
