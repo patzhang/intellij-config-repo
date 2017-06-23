@@ -711,12 +711,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498145280080">
-        <mark key="'" line="300" column="8" />
-        <mark key="[" line="329" column="27" />
-        <mark key="]" line="329" column="31" />
-        <mark key="^" line="329" column="31" />
-        <mark key="." line="329" column="31" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498205386512">
+        <mark key="'" line="198" column="17" />
+        <mark key="[" line="215" column="65" />
+        <mark key="]" line="215" column="84" />
+        <mark key="^" line="215" column="84" />
+        <mark key="." line="215" column="84" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/run-move-files.sh" timestamp="1493222541309">
         <mark key="[" line="14" column="11" />
@@ -866,7 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" />
       <jump line="119" column="65" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" />
       <jump line="82" column="55" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="206" column="56" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" />
@@ -966,10 +965,11 @@
       <jump line="46" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="231" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="300" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="198" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, 'r'</text>
+        <text encoding="base64">ZmlsZSA=</text>
       </register>
       <register name="/" type="4">
         <text>with open</text>
@@ -1005,7 +1005,7 @@
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>325</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
@@ -1083,8 +1083,8 @@
         <entry>.,$d</entry>
         <entry>84</entry>
         <entry>60</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>325</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
