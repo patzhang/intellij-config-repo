@@ -6,33 +6,14 @@
       <file name="/start_script.py" timestamp="1494412043064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v2/horse_vision_v2.py" timestamp="1492686209268">
-        <mark key="'" line="419" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="341" column="21" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/label_images.py" timestamp="1494854741513">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/run-unit-tests.sh" timestamp="1496235858186">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-      </file>
       <file name="/a.dummy" timestamp="1498138219320">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" timestamp="1495710580046">
-        <mark key="[" line="4" column="75" />
-        <mark key="]" line="4" column="84" />
-        <mark key="." line="4" column="84" />
-        <mark key="^" line="4" column="84" />
       </file>
       <file name="$USER_HOME$/WorkspacesExamples/py_proj_structure/tests/test_basic.py" timestamp="1485188475224">
         <mark key="[" line="7" column="0" />
@@ -40,47 +21,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-cpu.txt" timestamp="1496656490261">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-unpack-dataset.sh" timestamp="1495630609351">
-        <mark key="'" line="17" column="3" />
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="13" />
-        <mark key="^" line="30" column="25" />
-        <mark key="." line="30" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/context.py" timestamp="1496235720244">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/__init__.py" timestamp="1487804928877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
-        <mark key="[" line="32" column="67" />
-        <mark key="]" line="32" column="71" />
-        <mark key="." line="32" column="71" />
-        <mark key="^" line="32" column="71" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/notebook/active-venv3.sh" timestamp="1496237850739">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/requirements.txt" timestamp="1487160490834">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitignore" timestamp="1494940589145">
         <mark key="[" line="92" column="5" />
@@ -88,53 +33,17 @@
         <mark key="." line="95" column="9" />
         <mark key="^" line="95" column="9" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495630266550">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="12" column="50" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/os_util.py" timestamp="1487778943991">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/barcode_scanner.py" timestamp="1494318770959">
-        <mark key="[" line="79" column="116" />
-        <mark key="]" line="80" column="28" />
-        <mark key="^" line="80" column="28" />
-        <mark key="." line="80" column="28" />
-      </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task4_ErrorHandling.java" timestamp="1494412416010">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="6" />
         <mark key="^" line="45" column="6" />
         <mark key="." line="45" column="6" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/config.py" timestamp="1496228898109">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/logging_util.py" timestamp="1490606394975">
-        <mark key="[" line="20" column="71" />
-        <mark key="]" line="20" column="71" />
-        <mark key="^" line="20" column="71" />
-        <mark key="." line="20" column="71" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/horse_vision_v1.py" timestamp="1490285274621">
         <mark key="'" line="360" column="4" />
@@ -148,12 +57,6 @@
         <mark key="]" line="6" column="3" />
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/setup.py" timestamp="1494511945255">
-        <mark key="[" line="29" column="46" />
-        <mark key="]" line="29" column="52" />
-        <mark key="." line="29" column="52" />
-        <mark key="^" line="29" column="52" />
       </file>
       <file name="$USER_HOME$/product-image-dataset/readme-reduced.txt" timestamp="1495809605157">
         <mark key="[" line="0" column="0" />
@@ -169,19 +72,6 @@
       </file>
       <file name="/" timestamp="1495206900461">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
-        <mark key="'" line="7" column="6" />
-        <mark key="[" line="13" column="61" />
-        <mark key="]" line="13" column="63" />
-        <mark key="^" line="13" column="63" />
-        <mark key="." line="13" column="63" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-readme.txt" timestamp="1496411964854">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" timestamp="1497004215966">
         <mark key="'" line="73" column="48" />
@@ -201,6 +91,493 @@
         <mark key="]" line="39" column="63" />
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v4.py" timestamp="1490349099026">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-readme.txt" timestamp="1495630693285">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_linux.sh" timestamp="1487156886440">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task3_CombiningToAssembleFurniture.java" timestamp="1494410782887">
+        <mark key="[" line="21" column="97" />
+        <mark key="]" line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_process_file.py" timestamp="1494949703595">
+        <mark key="[" line="18" column="65" />
+        <mark key="]" line="18" column="64" />
+        <mark key="." line="18" column="64" />
+        <mark key="^" line="18" column="64" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" timestamp="1495643694725">
+        <mark key="'" line="41" column="16" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="38" column="50" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/logging_util.py" timestamp="1487179005530">
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test-requirements.txt" timestamp="1487802452015">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/dataset_builder/config.py" timestamp="1488446710452">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" timestamp="1495018142600">
+        <mark key="'" line="90" column="8" />
+        <mark key="[" line="52" column="84" />
+        <mark key="]" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-virtualenv/Readme.md" timestamp="1493730851671">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task5_IntoPractice_GitHub.java" timestamp="1494413687614">
+        <mark key="'" line="34" column="33" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="26" column="37" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495552143413">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="109" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/deploy.txt" timestamp="1485774813890">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/train-all-data-in-one-folder.py" timestamp="1495812294288">
+        <mark key="'" line="81" column="22" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset_readme.txt" timestamp="1495209969136">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="43" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/setup.py" timestamp="1487860699776">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="89" />
+        <mark key="." line="1" column="51" />
+        <mark key="^" line="1" column="51" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_mlp.py" timestamp="1497258917233">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="68" />
+        <mark key="^" line="59" column="33" />
+        <mark key="." line="59" column="33" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" timestamp="1497447544283">
+        <mark key="'" line="173" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" timestamp="1496237588167">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="50" column="3" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495536727920">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="21" column="5" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/logging_util.py" timestamp="1490272765407">
+        <mark key="[" line="6" column="38" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-gpu.txt" timestamp="1496656516502">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/.gitlab-ci.yml" timestamp="1496227543441">
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="46" />
+        <mark key="." line="0" column="46" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/summary.txt" timestamp="1495008812356">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task2_TransformationsCuttingTheForest.java" timestamp="1494410096957">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="45" column="48" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/test_label_images.py" timestamp="1487807012507">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="5" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_macOS.sh" timestamp="1487156919377">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" timestamp="1496834131062">
+        <mark key="'" line="206" column="56" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="123" column="19" />
+        <mark key="^" line="206" column="56" />
+        <mark key="." line="206" column="56" />
+      </file>
+      <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task1_Basics.java" timestamp="1494408885678">
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="56" column="37" />
+        <mark key="^" line="56" column="37" />
+        <mark key="." line="56" column="37" />
+      </file>
+      <file name="$USER_HOME$/temp/s3-error/error1.xml" timestamp="1489768934328">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="38" column="10" />
+        <mark key="." line="37" column="4" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/requirements.txt" timestamp="1496227217019">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_convert_csv.py" timestamp="1495552764883">
+        <mark key="'" line="12" column="30" />
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1498142845747">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+        <mark key="^" line="22" column="50" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1497353818107">
+        <mark key="'" line="15" column="60" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1497619361654">
+        <mark key="'" line="242" column="0" />
+        <mark key="[" line="261" column="2" />
+        <mark key="]" line="261" column="28" />
+        <mark key="^" line="236" column="28" />
+        <mark key="." line="236" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
+        <mark key="[" line="57" column="22" />
+        <mark key="]" line="57" column="41" />
+        <mark key="^" line="57" column="41" />
+        <mark key="." line="57" column="41" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/virtualenv/create-venv.sh" timestamp="1494604734519">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1490799613128">
+        <mark key="'" line="7" column="34" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="73" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/continuous_acquisition.py" timestamp="1490116339875">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/notebook/install-jupyter-extensions.sh" timestamp="1496244912613">
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498210151704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification/readData.py" timestamp="1498060804851">
+        <mark key="'" line="161" column="26" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="158" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/output/Readme.txt" timestamp="1485205216636">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/svg_util.py" timestamp="1487246124395">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498142713304">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1498140927769">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="53" />
+        <mark key="^" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" timestamp="1495182912649">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
+        <mark key="'" line="418" column="16" />
+        <mark key="[" line="191" column="85" />
+        <mark key="]" line="191" column="86" />
+        <mark key="^" line="191" column="121" />
+        <mark key="." line="191" column="86" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/kubernetes-gpu-cluster/deployment.yaml" timestamp="1497622562866">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/tfrecord_util/test.md" timestamp="1497025129752">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/Readme.txt" timestamp="1495198708235">
+        <mark key="[" line="3" column="75" />
+        <mark key="]" line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+      </file>
+      <file name="/fragment.java" timestamp="1488382605686">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v2.py" timestamp="1490347199101">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" timestamp="1496677903950">
+        <mark key="'" line="119" column="65" />
+        <mark key="[" line="160" column="8" />
+        <mark key="]" line="160" column="21" />
+        <mark key="." line="160" column="21" />
+        <mark key="^" line="160" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v2/horse_vision_v2.py" timestamp="1492686209268">
+        <mark key="'" line="419" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="341" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/run-unit-tests.sh" timestamp="1496235858186">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" timestamp="1495710580046">
+        <mark key="[" line="4" column="75" />
+        <mark key="]" line="4" column="84" />
+        <mark key="." line="4" column="84" />
+        <mark key="^" line="4" column="84" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-cpu.txt" timestamp="1496656490261">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-unpack-dataset.sh" timestamp="1495630609351">
+        <mark key="'" line="17" column="3" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="13" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="30" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/context.py" timestamp="1496235720244">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
+        <mark key="[" line="32" column="67" />
+        <mark key="]" line="32" column="71" />
+        <mark key="." line="32" column="71" />
+        <mark key="^" line="32" column="71" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/notebook/active-venv3.sh" timestamp="1496237850739">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/requirements.txt" timestamp="1487160490834">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495630266550">
+        <mark key="'" line="12" column="9" />
+        <mark key="[" line="12" column="50" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+      </file>
+      <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/barcode_scanner.py" timestamp="1494318770959">
+        <mark key="[" line="79" column="116" />
+        <mark key="]" line="80" column="28" />
+        <mark key="^" line="80" column="28" />
+        <mark key="." line="80" column="28" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/config.py" timestamp="1496228898109">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/logging_util.py" timestamp="1490606394975">
+        <mark key="[" line="20" column="71" />
+        <mark key="]" line="20" column="71" />
+        <mark key="^" line="20" column="71" />
+        <mark key="." line="20" column="71" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/setup.py" timestamp="1494511945255">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+        <mark key="^" line="29" column="52" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="13" column="61" />
+        <mark key="]" line="13" column="63" />
+        <mark key="^" line="13" column="63" />
+        <mark key="." line="13" column="63" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-readme.txt" timestamp="1496411964854">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496667158719">
         <mark key="'" line="0" column="0" />
@@ -228,35 +605,11 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v4.py" timestamp="1490349099026">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="3" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="31" column="3" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline.py" timestamp="1497884980812">
         <mark key="'" line="58" column="10" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-readme.txt" timestamp="1495630693285">
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_linux.sh" timestamp="1487156886440">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/logging_util.py" timestamp="1485183332984">
         <mark key="[" line="6" column="40" />
@@ -267,42 +620,11 @@
       <file name="$USER_HOME$/DL_Workspace/product-image-classification/inception_keras.py" timestamp="1498054860113">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task3_CombiningToAssembleFurniture.java" timestamp="1494410782887">
-        <mark key="[" line="21" column="97" />
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_process_file.py" timestamp="1494949703595">
-        <mark key="[" line="18" column="65" />
-        <mark key="]" line="18" column="64" />
-        <mark key="." line="18" column="64" />
-        <mark key="^" line="18" column="64" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" timestamp="1495643694725">
-        <mark key="'" line="41" column="16" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="38" column="50" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/rfrecord_util.py" timestamp="1487841012807">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/logging_util.py" timestamp="1487179005530">
-        <mark key="[" line="11" column="60" />
-        <mark key="]" line="11" column="58" />
-        <mark key="." line="11" column="58" />
-        <mark key="^" line="11" column="58" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test-requirements.txt" timestamp="1487802452015">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
       </file>
       <file name="/Python Console" timestamp="1497353831070">
         <mark key="[" line="0" column="0" />
@@ -329,30 +651,11 @@
         <mark key="." line="304" column="3" />
         <mark key="^" line="304" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/dataset_builder/config.py" timestamp="1488446710452">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-      </file>
       <file name="$USER_HOME$/Workspaces/which-logs-are-available/.gitignore" timestamp="1495201156589">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="23" />
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" timestamp="1495018142600">
-        <mark key="'" line="90" column="8" />
-        <mark key="[" line="52" column="84" />
-        <mark key="]" line="53" column="3" />
-        <mark key="." line="53" column="3" />
-        <mark key="^" line="53" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-virtualenv/Readme.md" timestamp="1493730851671">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 2 Pricing Interface/src/main/java/pl/refactoring/videostore/ocp_pricing/AllInclusivePricing.java" timestamp="1488385910154">
         <mark key="[" line="10" column="18" />
@@ -373,13 +676,6 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task5_IntoPractice_GitHub.java" timestamp="1494413687614">
-        <mark key="'" line="34" column="33" />
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="26" column="37" />
-      </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/Makefile" timestamp="1496230323313">
         <mark key="'" line="36" column="43" />
         <mark key="[" line="101" column="22" />
@@ -394,31 +690,11 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495552143413">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="109" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="35" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/deploy.txt" timestamp="1485774813890">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="9" column="5" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/mandelbrot-set/display_fractal.py" timestamp="1487322748008">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/object-recognition/train-all-data-in-one-folder.py" timestamp="1495812294288">
-        <mark key="'" line="81" column="22" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1497619472540">
         <mark key="'" line="48" column="11" />
@@ -426,18 +702,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="34" column="11" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset_readme.txt" timestamp="1495209969136">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="43" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/setup.py" timestamp="1487860699776">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="89" />
-        <mark key="." line="1" column="51" />
-        <mark key="^" line="1" column="51" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" timestamp="1495710325973">
         <mark key="[" line="4" column="5" />
@@ -464,12 +728,6 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_mlp.py" timestamp="1497258917233">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="68" />
-        <mark key="^" line="59" column="33" />
-        <mark key="." line="59" column="33" />
-      </file>
       <file name="$USER_HOME$/WorkspacesExamples/py_proj_structure/tests/test_advanced.py" timestamp="1485189346411">
         <mark key="[" line="11" column="8" />
         <mark key="]" line="11" column="13" />
@@ -485,27 +743,6 @@
       </file>
       <file name="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" timestamp="1497599326117">
         <mark key="'" line="96" column="9" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" timestamp="1497447544283">
-        <mark key="'" line="173" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" timestamp="1496237588167">
-        <mark key="'" line="13" column="5" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="50" column="3" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495536727920">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="21" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/cognex-settings-DM362/Readme.txt" timestamp="1493127834030">
         <mark key="[" line="2" column="71" />
@@ -550,23 +787,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="35" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images.sh" timestamp="1487152996655">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="43" column="4" />
         <mark key="^" line="43" column="4" />
         <mark key="." line="43" column="4" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/logging_util.py" timestamp="1490272765407">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Workspaces/docker-lab/doc/kubernetes/Readme.md" timestamp="1497603772301">
         <mark key="[" line="3" column="0" />
@@ -574,19 +799,11 @@
         <mark key="^" line="4" column="47" />
         <mark key="." line="4" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
-        <mark key="[" line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/run-unit-tests.sh" timestamp="1487807120850">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="7" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-gpu.txt" timestamp="1496656516502">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-service/Readme.md" timestamp="1494493452665">
         <mark key="'" line="0" column="1" />
@@ -602,12 +819,6 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/.gitlab-ci.yml" timestamp="1496227543441">
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="32" column="13" />
-        <mark key="." line="32" column="13" />
-        <mark key="^" line="32" column="13" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/.gitignore" timestamp="1497883824974">
         <mark key="[" line="98" column="10" />
         <mark key="]" line="98" column="11" />
@@ -620,29 +831,11 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="46" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/summary.txt" timestamp="1495008812356">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/download_images_wildcard.sh" timestamp="1487246665477">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task2_TransformationsCuttingTheForest.java" timestamp="1494410096957">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="45" column="48" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" timestamp="1497447578931">
         <mark key="'" line="74" column="0" />
@@ -663,42 +856,17 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/test_label_images.py" timestamp="1487807012507">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="5" column="40" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/create-venv.sh" timestamp="1488214647012">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
         <mark key="^" line="6" column="34" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_macOS.sh" timestamp="1487156919377">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/Readme.md" timestamp="1493222877304">
         <mark key="[" line="20" column="37" />
         <mark key="]" line="21" column="12" />
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" timestamp="1496834131062">
-        <mark key="'" line="206" column="56" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="123" column="19" />
-        <mark key="^" line="206" column="56" />
-        <mark key="." line="206" column="56" />
-      </file>
-      <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task1_Basics.java" timestamp="1494408885678">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="56" column="37" />
-        <mark key="^" line="56" column="37" />
-        <mark key="." line="56" column="37" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" timestamp="1495708578200">
         <mark key="'" line="48" column="8" />
@@ -720,12 +888,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/temp/s3-error/error1.xml" timestamp="1489768934328">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="38" column="10" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/main.py" timestamp="1496228830114">
         <mark key="'" line="41" column="3" />
         <mark key="[" line="15" column="0" />
@@ -733,35 +895,17 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/requirements.txt" timestamp="1496227217019">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/data/Readme.txt" timestamp="1487173392585">
         <mark key="[" line="2" column="66" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_convert_csv.py" timestamp="1495552764883">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="12" column="49" />
-        <mark key="." line="13" column="32" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/requirements.txt" timestamp="1493730297938">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="7" column="10" />
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/main.py" timestamp="1490715442785">
         <mark key="'" line="18" column="44" />
@@ -775,13 +919,6 @@
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1498142845747">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="50" />
-        <mark key="^" line="22" column="50" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py" timestamp="1496670147700">
         <mark key="[" line="174" column="4" />
@@ -806,26 +943,6 @@
         <mark key="]" line="5" column="11" />
         <mark key="." line="5" column="11" />
         <mark key="^" line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1497353818107">
-        <mark key="'" line="15" column="60" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="17" column="13" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1497619361654">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="261" column="2" />
-        <mark key="]" line="261" column="28" />
-        <mark key="^" line="236" column="28" />
-        <mark key="." line="236" column="28" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
-        <mark key="[" line="57" column="22" />
-        <mark key="]" line="57" column="41" />
-        <mark key="^" line="57" column="41" />
-        <mark key="." line="57" column="41" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/requirements.txt" timestamp="1488224668716">
         <mark key="[" line="2" column="0" />
@@ -883,17 +1000,18 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/virtualenv/create-venv.sh" timestamp="1494604734519">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="6" column="34" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/virtualenv/activate-venv.sh" timestamp="1494604727675">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline_v1.py" timestamp="1498217463124">
+        <mark key="'" line="42" column="3" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/logs/Readme.txt" timestamp="1485205226139">
         <mark key="[" line="0" column="47" />
@@ -906,13 +1024,6 @@
         <mark key="]" line="7" column="7" />
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1490799613128">
-        <mark key="'" line="7" column="34" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="73" column="43" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/dataset_utils.py" timestamp="1497883766761">
         <mark key="[" line="0" column="0" />
@@ -938,18 +1049,6 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/continuous_acquisition.py" timestamp="1490116339875">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/notebook/install-jupyter-extensions.sh" timestamp="1496244912613">
-        <mark key="[" line="13" column="3" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="13" column="3" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/ve-v1.py" timestamp="1490287117955">
         <mark key="'" line="171" column="0" />
         <mark key="[" line="45" column="8" />
@@ -963,36 +1062,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498210151704">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="15" />
-        <mark key="]" line="47" column="18" />
-        <mark key="^" line="47" column="18" />
-        <mark key="." line="47" column="18" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/run-move-files.sh" timestamp="1493222541309">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-classification/readData.py" timestamp="1498060804851">
-        <mark key="'" line="161" column="26" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="158" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/output/Readme.txt" timestamp="1485205216636">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="0" column="49" />
-        <mark key="." line="0" column="49" />
-        <mark key="^" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/svg_util.py" timestamp="1487246124395">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test-requirements.txt" timestamp="1495705923662">
         <mark key="[" line="0" column="13" />
@@ -1006,9 +1080,6 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498142713304">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/requirements.txt" timestamp="1487160539992">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="1" column="0" />
@@ -1021,15 +1092,6 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/code.py" timestamp="1498140927769">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
-        <mark key="[" line="2" column="49" />
-        <mark key="]" line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-        <mark key="." line="2" column="53" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/context.py" timestamp="1487771679075">
         <mark key="[" line="5" column="107" />
         <mark key="]" line="6" column="0" />
@@ -1040,13 +1102,6 @@
         <mark key="'" line="41" column="32" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="42" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products.json" timestamp="1495182912649">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/opencv_tests.py" timestamp="1494946795474">
         <mark key="[" line="13" column="0" />
@@ -1067,13 +1122,6 @@
         <mark key="." line="150" column="28" />
         <mark key="^" line="150" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
-        <mark key="'" line="418" column="16" />
-        <mark key="[" line="191" column="85" />
-        <mark key="]" line="191" column="86" />
-        <mark key="^" line="191" column="121" />
-        <mark key="." line="191" column="86" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/camera_test_v5.py" timestamp="1490368585411">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="32" />
@@ -1091,24 +1139,6 @@
         <mark key="]" line="214" column="3" />
         <mark key="^" line="214" column="3" />
         <mark key="." line="214" column="3" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/kubernetes-gpu-cluster/deployment.yaml" timestamp="1497622562866">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/tfrecord_util/test.md" timestamp="1497025129752">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 6 Almost Finished/src/main/java/pl/refactoring/videostore/original/finished/ProgressivePointsCalculator.java" timestamp="1488374971046">
         <mark key="[" line="2" column="40" />
@@ -1128,32 +1158,8 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/Readme.txt" timestamp="1495198708235">
-        <mark key="[" line="3" column="75" />
-        <mark key="]" line="3" column="46" />
-        <mark key="^" line="3" column="46" />
-        <mark key="." line="3" column="46" />
-      </file>
-      <file name="/fragment.java" timestamp="1488382605686">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v2.py" timestamp="1490347199101">
-        <mark key="'" line="33" column="15" />
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="33" column="15" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="15" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tb_tutorial/mnist.py" timestamp="1496677903950">
-        <mark key="'" line="119" column="65" />
-        <mark key="[" line="160" column="8" />
-        <mark key="]" line="160" column="21" />
-        <mark key="." line="160" column="21" />
-        <mark key="^" line="160" column="21" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="47" column="5" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="9" column="23" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="59" column="4" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
@@ -1253,10 +1259,11 @@
       <jump line="109" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="53" column="28" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline.py" />
+      <jump line="54" column="3" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline_v1.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>101</text>
+        <text>(100, 100, 3))</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
@@ -1265,31 +1272,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdHVhbF90b3RhbCA9IGNoZWNrX3RvdGFsX2ZpbGVzKG91dHB1dF9kaXIpCiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnUmVzdWx0czoge30gaGF2ZSB7fSBpbWFnZSBmaWxlcyBhdCB7fScuZm9ybWF0KGJhcmNvZGUsIGFjdHVhbF90b3RhbCwgb3V0cHV0X2RpcikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBjbCBpbiBjb252X2xheWVyczoKICAgICAgICBtb2RlbC5hZGQoQ29udm9sdXRpb24yRChjbCwgMywgMywgYWN0aXZhdGlvbj0nZWx1JykpCiAgICAgICAgbW9kZWwuYWRkKE1heFBvb2xpbmcyRCgpKQogICAgbW9kZWwuYWRkKEZsYXR0ZW4oKSkKICAgIGZvciBkbCBpbiBkZW5zZV9sYXllcnM6CiAgICAgICAgbW9kZWwuYWRkKERlbnNlKGRsLCBhY3RpdmF0aW9uPSdlbHUnKSkKICAgICAgICBtb2RlbC5hZGQoRHJvcG91dCgwLjUpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcHJvY2VzcyB0aGUgZG93bmxvYWRlZCBmaWxlCg==</text>
+        <text encoding="base64">ICAgICIiIlJldHVybiBhIG1vZGVsIGZyb20gZmlsZSBvciB0byB0cmFpbiBvbi4iIiIKICAgIGlmIGxvYWQgYW5kIGNoZWNrcG9pbnQ6CiAgICAgICAgcmV0dXJuIGxvYWRfbW9kZWwoY2hlY2twb2ludCkKCiAgICBjb252X2xheWVycywgZGVuc2VfbGF5ZXJzID0gWzMyLCAzMiwgNjQsIDEyOF0sIFsxMDI0LCA1MTJdCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9jZXNzIHRoZSBkb3dubG9hZGVkIGZpbGUKICAgICAgICAgICAgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihESVJfREFUQVNFVF9EQVRBLCBiYXJjb2RlKQogICAgICAgICAgICBhc3N1cmVfZGlyX2V4aXN0aW5nKG91dHB1dF9kaXIpCgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdGluZyA9ICd7fS97fSAtIHt9OiB7fScuZm9ybWF0KGNvdW50LCBUT1RBTF9JTUFHRVMsIGRhdGVfc3RyaW5nLCBpbWdfZmlsZSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGZpbGVfb3JpZ2luYWwsIHNvdXJjZV9ibG9iX25hbWUpOgogICAgIyByZXRyeSA1IHRpbWVzIHRvIGRvd25sb2FkIGEgZmlsZSBmcm9tIEdDUwogICAgc3VjY2Vzc2Z1bCA9IEZhbHNlCiAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICBzdWNjZXNzZnVsID0gZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCiAgICAgICAgaWYgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiBzdWNjZXNzZnVsCgoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2VfZGlyID0gcGF0aC5qb2luKGN1cnJlbnRfZGlyLCAnLi4vZGF0YXNldF9idWlsZGVyLycsIERBVEFTRVRfU1JDX0RJUikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgcHJvY2VzcyB0aGUgZG93bmxvYWRlZCBmaWxlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9jZXNzIHRoZSBkb3dubG9hZGVkIGZpbGUKICAgICAgICAgICAgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihESVJfREFUQVNFVF9EQVRBLCBiYXJjb2RlKQogICAgICAgICAgICBhc3N1cmVfZGlyX2V4aXN0aW5nKG91dHB1dF9kaXIpCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdGluZyA9ICd7fS97fSAtIHt9OiB7fScuZm9ybWF0KGNvdW50LCBUT1RBTF9JTUFHRVMsIGRhdGVfc3RyaW5nLCBpbWdfZmlsZSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGZpbGVfb3JpZ2luYWwsIHNvdXJjZV9ibG9iX25hbWUpOgogICAgIyByZXRyeSA1IHRpbWVzIHRvIGRvd25sb2FkIGEgZmlsZSBmcm9tIEdDUwogICAgc3VjY2Vzc2Z1bCA9IEZhbHNlCiAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICBzdWNjZXNzZnVsID0gZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCiAgICAgICAgaWYgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiBzdWNjZXNzZnVsCgoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrX3N0YXR1c193aXRoX3JlYWRtZV9maWxlX2luX2djcyhidWNrZXQsIGRhdGFzZXRfY29kZV9kaXIpOgogICAgIyByZWFkbWUudHh0IGZpbGUgaXMgdXNlZCBmb3IgY29udGludW91cyBidWlsZGluZyB0aGUgc2FtZSBkYXRhc2V0IHdpdGggbXVsdGlwbGUgYnVpbGQgam9icyAoaWYgc29tZSBmYWlsKQogICAgYmxvYiA9IGNoZWNrX2ZpbGVfaW5fZ2NzKFJFQURNRV9GSUxFKQogICAgaWYgYmxvYiBpcyBOb25lOgogICAgICAgICMgaW5pdGlhbGlzZSByZWFkbWUgZmlsZSBmcm9tIHRoZSBleGlzdGluZyB0ZW1wbGF0ZSBpbiBzb3VyY2UgZGlyZWN0b3J5CiAgICAgICAgcmVhZG1lX2ZpbGUgPSBpbml0X3JlYWRtZShzb3VyY2VfZGlyPWRhdGFzZXRfY29kZV9kaXIsIGRlc3RfZGlyPURJUl9EQVRBU0VUX0RBVEEpCiAgICBlbHNlOgogICAgICAgIHJlYWRtZV9maWxlID0gZG93bmxvYWRfZmlsZShidWNrZXQ9YnVja2V0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYmxvYl9uYW1lPWJsb2IubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdGluYXRpb25fZmlsZV9uYW1lPScvJy5qb2luKChESVJfREFUQVNFVF9EQVRBLCBSRUFETUVfRklMRSkpKQogICAgdXBsb2FkZWRfYmMgPSB1cGxvYWRlZF9iYXJjb2RlcyhyZWFkbWVfZmlsZSkKICAgIHJldHVybiByZWFkbWVfZmlsZSwgdXBsb2FkZWRfYmMKCgpkZWYgb3V0cHV0X2Vudmlyb25tZW50X2luZm8oKToKICAgIGxvZ2dlci5kZWJ1ZygncGF0aDoge30nLmZvcm1hdChzeXMucGF0aCkpCiAgICAjIG91dHB1dCBob3N0IG5hbWUKICAgIGxvZ2dlci5pbmZvKCdSdW5uaW5nIGpvYiBhdCB7fScuZm9ybWF0KHNvY2tldC5nZXRob3N0bmFtZSgpKSkKICAgICMgb3V0cHV0IHRoZSBmcmVlIGRpc2sgc3BhY2UgaW5mb3JtYXRpb24KICAgIGxvZ2dlci5pbmZvKCdEaXNrIHVzYWdlIGluZm9ybWF0aW9uOiAnKQogICAgb3Muc3lzdGVtKCdkZiAta2ggLycpCgoKZGVmIGluaXRpYWxpemVfbG9jYWxfZGlyZWN0b3JpZXMoKToKICAgICMgaW5pdGlhbGlzZSBsb2NhbCBkaXJlY3RvcmllcwogICAgbG9nZ2VyLndhcm5pbmcoJ0VtcHR5aW5nIGRvd25sb2FkaW5nIGltYWdlIGRpcmVjdG9yeToge30nLmZvcm1hdChESVJfT1JJR0lOQUxfUFJPRFVDVF9JTUFHRVMpKQogICAgYXNzdXJlX2Rpcl9leGlzdGluZ19hbmRfZW1wdHkoRElSX09SSUdJTkFMX1BST0RVQ1RfSU1BR0VTKQogICAgbG9nZ2VyLndhcm5pbmcoJ0VtcHR5aW5nIGdlbmVyYXRpbmcgaW1hZ2UgZGlyZWN0b3J5OiB7fScuZm9ybWF0KERJUl9PUklHSU5BTF9QUk9EVUNUX0lNQUdFUykpCiAgICBhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eShESVJfREFUQVNFVF9EQVRBKQogICAgY3VycmVudF9kaXIgPSBnZXRfY3VycmVudF9kaXIoKQogICAgbG9nZ2VyLmluZm8oJ1dvcmtpbmcgZGlyZWN0b3J5OiB7fScuZm9ybWF0KGN1cnJlbnRfZGlyKSkKICAgIHNvdXJjZV9kaXIgPSBwYXRoLmpvaW4oY3VycmVudF9kaXIsIERBVEFTRVRfU1JDX0RJUikKICAgIHJldHVybiBzb3VyY2VfZGlyCgoK</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfZGlyID0gcGF0aC5qb2luKGN1cnJlbnRfZGlyLCAnLi4vZGF0YXNldF9idWlsZGVyLycsIERBVEFTRVRfU1JDX0RJUikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
