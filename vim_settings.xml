@@ -413,6 +413,9 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/prd_img_ds.py" timestamp="1498229331653">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
         <mark key="[" line="191" column="85" />
@@ -506,9 +509,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/cnn_keras.py" timestamp="1498228455026">
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/cnn_keras.py" timestamp="1498229236514">
         <mark key="'" line="21" column="3" />
-        <mark key="[" line="63" column="64" />
+        <mark key="[" line="64" column="43" />
+        <mark key="]" line="64" column="52" />
+        <mark key="^" line="64" column="52" />
+        <mark key="." line="64" column="52" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495630266550">
         <mark key="'" line="12" column="9" />
@@ -710,6 +716,7 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.5/site-packages/keras/datasets/mnist.py" timestamp="1498229285168" />
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_process_file.py" timestamp="1495019103551">
         <mark key="'" line="0" column="8" />
         <mark key="[" line="7" column="0" />
@@ -927,9 +934,9 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498227975866">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="91" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498229165302">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="56" />
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
@@ -1240,13 +1247,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">Y29udl9sYXllcnMsIA==</text>
+        <text>mnist</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnZfbGF5ZXJzLCBkZW5zZV9sYXllcnMgPSBbMzIsIDMyLCA2NCwgMTI4XSwgWzEwMjQsIDUxMl0K</text>
+        <text encoding="base64">KFhfdHJhaW4sIHlfdHJhaW4pLCAoWF90ZXN0LCB5X3Rlc3QpID0gbW5pc3QubG9hZF9kYXRhKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgCg==</text>
