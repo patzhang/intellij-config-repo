@@ -12,8 +12,15 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1498138219320">
+      <file name="/a.dummy" timestamp="1498228288847">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
+        <mark key="'" line="65" column="4" />
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesExamples/py_proj_structure/tests/test_basic.py" timestamp="1485188475224">
         <mark key="[" line="7" column="0" />
@@ -227,11 +234,6 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495536727920">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="21" column="5" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="35" />
@@ -246,11 +248,6 @@
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
         <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-gpu.txt" timestamp="1496656516502">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/.gitlab-ci.yml" timestamp="1496227543441">
         <mark key="[" line="32" column="11" />
@@ -306,11 +303,6 @@
         <mark key="]" line="38" column="10" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/requirements.txt" timestamp="1496227217019">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_convert_csv.py" timestamp="1495552764883">
         <mark key="'" line="12" column="30" />
@@ -428,11 +420,6 @@
         <mark key="^" line="191" column="121" />
         <mark key="." line="191" column="86" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/kubernetes-gpu-cluster/deployment.yaml" timestamp="1497622562866">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
@@ -488,11 +475,6 @@
         <mark key="." line="4" column="84" />
         <mark key="^" line="4" column="84" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-cpu.txt" timestamp="1496656490261">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-unpack-dataset.sh" timestamp="1495630609351">
         <mark key="'" line="17" column="3" />
         <mark key="[" line="30" column="12" />
@@ -524,6 +506,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/cnn_keras.py" timestamp="1498228455026">
+        <mark key="'" line="21" column="3" />
+        <mark key="[" line="63" column="64" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495630266550">
         <mark key="'" line="12" column="9" />
         <mark key="[" line="12" column="50" />
@@ -548,11 +534,6 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/config.py" timestamp="1496228898109">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/logging_util.py" timestamp="1490606394975">
         <mark key="[" line="20" column="71" />
@@ -702,11 +683,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="34" column="11" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" timestamp="1495710325973">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
         <mark key="'" line="0" column="0" />
@@ -920,11 +896,6 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py" timestamp="1496670147700">
-        <mark key="[" line="174" column="4" />
-        <mark key="]" line="174" column="4" />
-        <mark key="." line="174" column="4" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="311" column="0" />
@@ -955,6 +926,12 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498227975866">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/virtualenv/install.sh" timestamp="1487784820835">
         <mark key="[" line="10" column="15" />
@@ -1160,8 +1137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="5" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
-      <jump line="9" column="23" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="59" column="4" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="41" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
       <jump line="84" column="8" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
@@ -1260,46 +1235,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="53" column="28" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline.py" />
       <jump line="54" column="3" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline_v1.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" />
+      <jump line="21" column="3" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/cnn_keras.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>(100, 100, 3))</text>
+        <text encoding="base64">Y29udl9sYXllcnMsIA==</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdHVhbF90b3RhbCA9IGNoZWNrX3RvdGFsX2ZpbGVzKG91dHB1dF9kaXIpCiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnUmVzdWx0czoge30gaGF2ZSB7fSBpbWFnZSBmaWxlcyBhdCB7fScuZm9ybWF0KGJhcmNvZGUsIGFjdHVhbF90b3RhbCwgb3V0cHV0X2RpcikpCg==</text>
+        <text encoding="base64">ICAgIGNvbnZfbGF5ZXJzLCBkZW5zZV9sYXllcnMgPSBbMzIsIDMyLCA2NCwgMTI4XSwgWzEwMjQsIDUxMl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBjbCBpbiBjb252X2xheWVyczoKICAgICAgICBtb2RlbC5hZGQoQ29udm9sdXRpb24yRChjbCwgMywgMywgYWN0aXZhdGlvbj0nZWx1JykpCiAgICAgICAgbW9kZWwuYWRkKE1heFBvb2xpbmcyRCgpKQogICAgbW9kZWwuYWRkKEZsYXR0ZW4oKSkKICAgIGZvciBkbCBpbiBkZW5zZV9sYXllcnM6CiAgICAgICAgbW9kZWwuYWRkKERlbnNlKGRsLCBhY3RpdmF0aW9uPSdlbHUnKSkKICAgICAgICBtb2RlbC5hZGQoRHJvcG91dCgwLjUpKQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIlJldHVybiBhIG1vZGVsIGZyb20gZmlsZSBvciB0byB0cmFpbiBvbi4iIiIKICAgIGlmIGxvYWQgYW5kIGNoZWNrcG9pbnQ6CiAgICAgICAgcmV0dXJuIGxvYWRfbW9kZWwoY2hlY2twb2ludCkKCiAgICBjb252X2xheWVycywgZGVuc2VfbGF5ZXJzID0gWzMyLCAzMiwgNjQsIDEyOF0sIFsxMDI0LCA1MTJdCgo=</text>
+        <text encoding="base64">ICAgIGZvciBjbCBpbiBjb252X2xheWVyczoKICAgICAgICBtb2RlbC5hZGQoQ29udm9sdXRpb24yRChjbCwgMywgMywgYWN0aXZhdGlvbj0nZWx1JykpCiAgICAgICAgbW9kZWwuYWRkKE1heFBvb2xpbmcyRCgpKQogICAgbW9kZWwuYWRkKEZsYXR0ZW4oKSkKICAgIGZvciBkbCBpbiBkZW5zZV9sYXllcnM6CiAgICAgICAgbW9kZWwuYWRkKERlbnNlKGRsLCBhY3RpdmF0aW9uPSdlbHUnKSkKICAgICAgICBtb2RlbC5hZGQoRHJvcG91dCgwLjUpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIlJldHVybiBhIG1vZGVsIGZyb20gZmlsZSBvciB0byB0cmFpbiBvbi4iIiIKICAgIGlmIGxvYWQgYW5kIGNoZWNrcG9pbnQ6CiAgICAgICAgcmV0dXJuIGxvYWRfbW9kZWwoY2hlY2twb2ludCkKCiAgICBjb252X2xheWVycywgZGVuc2VfbGF5ZXJzID0gWzMyLCAzMiwgNjQsIDEyOF0sIFsxMDI0LCA1MTJdCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJvY2VzcyB0aGUgZG93bmxvYWRlZCBmaWxlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9jZXNzIHRoZSBkb3dubG9hZGVkIGZpbGUKICAgICAgICAgICAgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihESVJfREFUQVNFVF9EQVRBLCBiYXJjb2RlKQogICAgICAgICAgICBhc3N1cmVfZGlyX2V4aXN0aW5nKG91dHB1dF9kaXIpCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdGluZyA9ICd7fS97fSAtIHt9OiB7fScuZm9ybWF0KGNvdW50LCBUT1RBTF9JTUFHRVMsIGRhdGVfc3RyaW5nLCBpbWdfZmlsZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGZpbGVfb3JpZ2luYWwsIHNvdXJjZV9ibG9iX25hbWUpOgogICAgIyByZXRyeSA1IHRpbWVzIHRvIGRvd25sb2FkIGEgZmlsZSBmcm9tIEdDUwogICAgc3VjY2Vzc2Z1bCA9IEZhbHNlCiAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICBzdWNjZXNzZnVsID0gZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCiAgICAgICAgaWYgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiBzdWNjZXNzZnVsCgoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2VfZGlyID0gcGF0aC5qb2luKGN1cnJlbnRfZGlyLCAnLi4vZGF0YXNldF9idWlsZGVyLycsIERBVEFTRVRfU1JDX0RJUikK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgcHJvY2VzcyB0aGUgZG93bmxvYWRlZCBmaWxlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9jZXNzIHRoZSBkb3dubG9hZGVkIGZpbGUKICAgICAgICAgICAgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihESVJfREFUQVNFVF9EQVRBLCBiYXJjb2RlKQogICAgICAgICAgICBhc3N1cmVfZGlyX2V4aXN0aW5nKG91dHB1dF9kaXIpCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdGluZyA9ICd7fS97fSAtIHt9OiB7fScuZm9ybWF0KGNvdW50LCBUT1RBTF9JTUFHRVMsIGRhdGVfc3RyaW5nLCBpbWdfZmlsZSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGZpbGVfb3JpZ2luYWwsIHNvdXJjZV9ibG9iX25hbWUpOgogICAgIyByZXRyeSA1IHRpbWVzIHRvIGRvd25sb2FkIGEgZmlsZSBmcm9tIEdDUwogICAgc3VjY2Vzc2Z1bCA9IEZhbHNlCiAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICBzdWNjZXNzZnVsID0gZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCiAgICAgICAgaWYgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiBzdWNjZXNzZnVsCgoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfZGlyID0gcGF0aC5qb2luKGN1cnJlbnRfZGlyLCAnLi4vZGF0YXNldF9idWlsZGVyLycsIERBVEFTRVRfU1JDX0RJUikK</text>
+      </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>help window</text>
       </register>
     </registers>
     <search>
@@ -1369,12 +1346,10 @@
         <entry>%s/\s\+$</entry>
         <entry>15</entry>
         <entry>6</entry>
-        <entry>vsplit</entry>
         <entry>8</entry>
         <entry>27</entry>
         <entry>23</entry>
         <entry>9</entry>
-        <entry>split</entry>
         <entry>unsplit</entry>
         <entry>close</entry>
         <entry>only</entry>
@@ -1385,6 +1360,10 @@
         <entry>60</entry>
         <entry>325</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>vsplit</entry>
+        <entry>split</entry>
+        <entry>help move</entry>
+        <entry>help window</entry>
       </history-cmd>
       <history-expr />
       <history-input />
