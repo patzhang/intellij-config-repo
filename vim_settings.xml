@@ -711,12 +711,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498207227515">
-        <mark key="'" line="358" column="29" />
-        <mark key="[" line="96" column="60" />
-        <mark key="]" line="96" column="76" />
-        <mark key="^" line="96" column="76" />
-        <mark key="." line="96" column="76" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1498210151704">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+        <mark key="." line="47" column="18" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/run-move-files.sh" timestamp="1493222541309">
         <mark key="[" line="14" column="11" />
@@ -866,10 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="56" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" />
-      <jump line="27" column="4" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
-      <jump line="21" column="4" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
-      <jump line="66" column="8" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="18" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="68" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="47" column="5" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
@@ -900,9 +896,7 @@
       <jump line="139" column="12" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
       <jump line="96" column="9" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
       <jump line="242" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="47" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="99" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="109" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="220" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="272" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="279" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -959,59 +953,65 @@
       <jump line="225" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="294" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="348" column="75" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="46" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="231" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="300" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="198" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="219" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="358" column="29" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="94" column="29" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="299" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="115" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="126" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="47" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="109" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Failed to download {} from GCS after retries!</text>
+        <text>101</text>
       </register>
       <register name="/" type="4">
-        <text>Failed to download</text>
+        <text>15</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRvd25sb2FkIHt9IGZyb20gR0NTIGFmdGVyIHJldHJpZXMhJy5mb3JtYXQoc291cmNlX2Jsb2JfbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdHVhbF90b3RhbCA9IGNoZWNrX3RvdGFsX2ZpbGVzKG91dHB1dF9kaXIpCiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnUmVzdWx0czoge30gaGF2ZSB7fSBpbWFnZSBmaWxlcyBhdCB7fScuZm9ybWF0KGJhcmNvZGUsIGFjdHVhbF90b3RhbCwgb3V0cHV0X2RpcikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdGluZyA9ICd7fS97fSAtIHt9OiB7fScuZm9ybWF0KGNvdW50LCBUT1RBTF9JTUFHRVMsIGRhdGVfc3RyaW5nLCBpbWdfZmlsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGZpbGVfb3JpZ2luYWwsIHNvdXJjZV9ibG9iX25hbWUpOgogICAgIyByZXRyeSA1IHRpbWVzIHRvIGRvd25sb2FkIGEgZmlsZSBmcm9tIEdDUwogICAgc3VjY2Vzc2Z1bCA9IEZhbHNlCiAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICBzdWNjZXNzZnVsID0gZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCiAgICAgICAgaWYgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiBzdWNjZXNzZnVsCgoK</text>
+        <text encoding="base64">ICAgICMgcHJvY2VzcyB0aGUgZG93bmxvYWRlZCBmaWxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2VfZGlyID0gcGF0aC5qb2luKGN1cnJlbnRfZGlyLCAnLi4vZGF0YXNldF9idWlsZGVyLycsIERBVEFTRVRfU1JDX0RJUikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9jZXNzIHRoZSBkb3dubG9hZGVkIGZpbGUKICAgICAgICAgICAgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihESVJfREFUQVNFVF9EQVRBLCBiYXJjb2RlKQogICAgICAgICAgICBhc3N1cmVfZGlyX2V4aXN0aW5nKG91dHB1dF9kaXIpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19zdGluZyA9ICd7fS97fSAtIHt9OiB7fScuZm9ybWF0KGNvdW50LCBUT1RBTF9JTUFHRVMsIGRhdGVfc3RyaW5nLCBpbWdfZmlsZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGNoZWNrX3N0YXR1c193aXRoX3JlYWRtZV9maWxlX2luX2djcyhidWNrZXQsIGRhdGFzZXRfY29kZV9kaXIpOgogICAgIyByZWFkbWUudHh0IGZpbGUgaXMgdXNlZCBmb3IgY29udGludW91cyBidWlsZGluZyB0aGUgc2FtZSBkYXRhc2V0IHdpdGggbXVsdGlwbGUgYnVpbGQgam9icyAoaWYgc29tZSBmYWlsKQogICAgYmxvYiA9IGNoZWNrX2ZpbGVfaW5fZ2NzKFJFQURNRV9GSUxFKQogICAgaWYgYmxvYiBpcyBOb25lOgogICAgICAgICMgaW5pdGlhbGlzZSByZWFkbWUgZmlsZSBmcm9tIHRoZSBleGlzdGluZyB0ZW1wbGF0ZSBpbiBzb3VyY2UgZGlyZWN0b3J5CiAgICAgICAgcmVhZG1lX2ZpbGUgPSBpbml0X3JlYWRtZShzb3VyY2VfZGlyPWRhdGFzZXRfY29kZV9kaXIsIGRlc3RfZGlyPURJUl9EQVRBU0VUX0RBVEEpCiAgICBlbHNlOgogICAgICAgIHJlYWRtZV9maWxlID0gZG93bmxvYWRfZmlsZShidWNrZXQ9YnVja2V0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYmxvYl9uYW1lPWJsb2IubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdGluYXRpb25fZmlsZV9uYW1lPScvJy5qb2luKChESVJfREFUQVNFVF9EQVRBLCBSRUFETUVfRklMRSkpKQogICAgdXBsb2FkZWRfYmMgPSB1cGxvYWRlZF9iYXJjb2RlcyhyZWFkbWVfZmlsZSkKICAgIHJldHVybiByZWFkbWVfZmlsZSwgdXBsb2FkZWRfYmMKCgpkZWYgb3V0cHV0X2Vudmlyb25tZW50X2luZm8oKToKICAgIGxvZ2dlci5kZWJ1ZygncGF0aDoge30nLmZvcm1hdChzeXMucGF0aCkpCiAgICAjIG91dHB1dCBob3N0IG5hbWUKICAgIGxvZ2dlci5pbmZvKCdSdW5uaW5nIGpvYiBhdCB7fScuZm9ybWF0KHNvY2tldC5nZXRob3N0bmFtZSgpKSkKICAgICMgb3V0cHV0IHRoZSBmcmVlIGRpc2sgc3BhY2UgaW5mb3JtYXRpb24KICAgIGxvZ2dlci5pbmZvKCdEaXNrIHVzYWdlIGluZm9ybWF0aW9uOiAnKQogICAgb3Muc3lzdGVtKCdkZiAta2ggLycpCgoKZGVmIGluaXRpYWxpemVfbG9jYWxfZGlyZWN0b3JpZXMoKToKICAgICMgaW5pdGlhbGlzZSBsb2NhbCBkaXJlY3RvcmllcwogICAgbG9nZ2VyLndhcm5pbmcoJ0VtcHR5aW5nIGRvd25sb2FkaW5nIGltYWdlIGRpcmVjdG9yeToge30nLmZvcm1hdChESVJfT1JJR0lOQUxfUFJPRFVDVF9JTUFHRVMpKQogICAgYXNzdXJlX2Rpcl9leGlzdGluZ19hbmRfZW1wdHkoRElSX09SSUdJTkFMX1BST0RVQ1RfSU1BR0VTKQogICAgbG9nZ2VyLndhcm5pbmcoJ0VtcHR5aW5nIGdlbmVyYXRpbmcgaW1hZ2UgZGlyZWN0b3J5OiB7fScuZm9ybWF0KERJUl9PUklHSU5BTF9QUk9EVUNUX0lNQUdFUykpCiAgICBhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eShESVJfREFUQVNFVF9EQVRBKQogICAgY3VycmVudF9kaXIgPSBnZXRfY3VycmVudF9kaXIoKQogICAgbG9nZ2VyLmluZm8oJ1dvcmtpbmcgZGlyZWN0b3J5OiB7fScuZm9ybWF0KGN1cnJlbnRfZGlyKSkKICAgIHNvdXJjZV9kaXIgPSBwYXRoLmpvaW4oY3VycmVudF9kaXIsIERBVEFTRVRfU1JDX0RJUikKICAgIHJldHVybiBzb3VyY2VfZGlyCgoK</text>
+        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGZpbGVfb3JpZ2luYWwsIHNvdXJjZV9ibG9iX25hbWUpOgogICAgIyByZXRyeSA1IHRpbWVzIHRvIGRvd25sb2FkIGEgZmlsZSBmcm9tIEdDUwogICAgc3VjY2Vzc2Z1bCA9IEZhbHNlCiAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICBzdWNjZXNzZnVsID0gZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCiAgICAgICAgaWYgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgYnJlYWsKICAgIHJldHVybiBzdWNjZXNzZnVsCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VfZGlyID0gcGF0aC5qb2luKGN1cnJlbnRfZGlyLCAnLi4vZGF0YXNldF9idWlsZGVyLycsIERBVEFTRVRfU1JDX0RJUikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9wZW4ocmVhZG1lX2ZpbGUsICdyJykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIGNoZWNrX3N0YXR1c193aXRoX3JlYWRtZV9maWxlX2luX2djcyhidWNrZXQsIGRhdGFzZXRfY29kZV9kaXIpOgogICAgIyByZWFkbWUudHh0IGZpbGUgaXMgdXNlZCBmb3IgY29udGludW91cyBidWlsZGluZyB0aGUgc2FtZSBkYXRhc2V0IHdpdGggbXVsdGlwbGUgYnVpbGQgam9icyAoaWYgc29tZSBmYWlsKQogICAgYmxvYiA9IGNoZWNrX2ZpbGVfaW5fZ2NzKFJFQURNRV9GSUxFKQogICAgaWYgYmxvYiBpcyBOb25lOgogICAgICAgICMgaW5pdGlhbGlzZSByZWFkbWUgZmlsZSBmcm9tIHRoZSBleGlzdGluZyB0ZW1wbGF0ZSBpbiBzb3VyY2UgZGlyZWN0b3J5CiAgICAgICAgcmVhZG1lX2ZpbGUgPSBpbml0X3JlYWRtZShzb3VyY2VfZGlyPWRhdGFzZXRfY29kZV9kaXIsIGRlc3RfZGlyPURJUl9EQVRBU0VUX0RBVEEpCiAgICBlbHNlOgogICAgICAgIHJlYWRtZV9maWxlID0gZG93bmxvYWRfZmlsZShidWNrZXQ9YnVja2V0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VfYmxvYl9uYW1lPWJsb2IubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzdGluYXRpb25fZmlsZV9uYW1lPScvJy5qb2luKChESVJfREFUQVNFVF9EQVRBLCBSRUFETUVfRklMRSkpKQogICAgdXBsb2FkZWRfYmMgPSB1cGxvYWRlZF9iYXJjb2RlcyhyZWFkbWVfZmlsZSkKICAgIHJldHVybiByZWFkbWVfZmlsZSwgdXBsb2FkZWRfYmMKCgpkZWYgb3V0cHV0X2Vudmlyb25tZW50X2luZm8oKToKICAgIGxvZ2dlci5kZWJ1ZygncGF0aDoge30nLmZvcm1hdChzeXMucGF0aCkpCiAgICAjIG91dHB1dCBob3N0IG5hbWUKICAgIGxvZ2dlci5pbmZvKCdSdW5uaW5nIGpvYiBhdCB7fScuZm9ybWF0KHNvY2tldC5nZXRob3N0bmFtZSgpKSkKICAgICMgb3V0cHV0IHRoZSBmcmVlIGRpc2sgc3BhY2UgaW5mb3JtYXRpb24KICAgIGxvZ2dlci5pbmZvKCdEaXNrIHVzYWdlIGluZm9ybWF0aW9uOiAnKQogICAgb3Muc3lzdGVtKCdkZiAta2ggLycpCgoKZGVmIGluaXRpYWxpemVfbG9jYWxfZGlyZWN0b3JpZXMoKToKICAgICMgaW5pdGlhbGlzZSBsb2NhbCBkaXJlY3RvcmllcwogICAgbG9nZ2VyLndhcm5pbmcoJ0VtcHR5aW5nIGRvd25sb2FkaW5nIGltYWdlIGRpcmVjdG9yeToge30nLmZvcm1hdChESVJfT1JJR0lOQUxfUFJPRFVDVF9JTUFHRVMpKQogICAgYXNzdXJlX2Rpcl9leGlzdGluZ19hbmRfZW1wdHkoRElSX09SSUdJTkFMX1BST0RVQ1RfSU1BR0VTKQogICAgbG9nZ2VyLndhcm5pbmcoJ0VtcHR5aW5nIGdlbmVyYXRpbmcgaW1hZ2UgZGlyZWN0b3J5OiB7fScuZm9ybWF0KERJUl9PUklHSU5BTF9QUk9EVUNUX0lNQUdFUykpCiAgICBhc3N1cmVfZGlyX2V4aXN0aW5nX2FuZF9lbXB0eShESVJfREFUQVNFVF9EQVRBKQogICAgY3VycmVudF9kaXIgPSBnZXRfY3VycmVudF9kaXIoKQogICAgbG9nZ2VyLmluZm8oJ1dvcmtpbmcgZGlyZWN0b3J5OiB7fScuZm9ybWF0KGN1cnJlbnRfZGlyKSkKICAgIHNvdXJjZV9kaXIgPSBwYXRoLmpvaW4oY3VycmVudF9kaXIsIERBVEFTRVRfU1JDX0RJUikKICAgIHJldHVybiBzb3VyY2VfZGlyCgoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgY2hlY2sgaWYgcmVhZG1lLnR4dCBmaWxlIGV4aXN0aW5nIGluIEdDUwogICAgIyByZXR1cm4gYSBsaXN0IG9mIGJhcmNvZGVzIHRoYXQgaGF2ZSBiZWVuIHVwbG9hZGVkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>Failed to download</last-search>
+      <last-search>15</last-search>
       <last-offset />
-      <last-pattern>Failed to download</last-pattern>
+      <last-pattern>15</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1050,7 +1050,6 @@
         <entry>group</entry>
         <entry>gcloud</entry>
         <entry>logger.info</entry>
-        <entry>5000</entry>
         <entry>download_to_filename</entry>
         <entry>download_to_file</entry>
         <entry encoding="base64">XDx0YXJnZXRfZGF0YXNldFw+</entry>
@@ -1063,6 +1062,12 @@
         <entry>DEB</entry>
         <entry>with open</entry>
         <entry>Failed to download</entry>
+        <entry>upload_file_to_gcs</entry>
+        <entry>Results:</entry>
+        <entry encoding="base64">XDxjb3VudFw+</entry>
+        <entry>5000</entry>
+        <entry>listdir</entry>
+        <entry>15</entry>
       </history-search>
       <history-cmd>
         <entry>help</entry>
