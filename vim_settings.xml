@@ -218,9 +218,6 @@
         <mark key="^" line="59" column="33" />
         <mark key="." line="59" column="33" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" timestamp="1497447544283">
-        <mark key="'" line="173" column="16" />
-      </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/app.py" timestamp="1496237588167">
         <mark key="'" line="13" column="5" />
         <mark key="[" line="37" column="0" />
@@ -364,6 +361,10 @@
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
         <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Reduced.csv" timestamp="1498469771441">
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="12" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1490799613128">
         <mark key="'" line="7" column="34" />
@@ -626,6 +627,10 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" timestamp="1498469803633">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/notebook/activate-venv3.sh" timestamp="1496237977153">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -649,9 +654,6 @@
         <mark key="]" line="7" column="3" />
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-classification/inception_keras.py" timestamp="1498054860113">
-        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/rfrecord_util.py" timestamp="1487841012807">
         <mark key="[" line="0" column="18" />
@@ -778,9 +780,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="12" column="39" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" timestamp="1497599326117">
-        <mark key="'" line="96" column="9" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/cognex-settings-DM362/Readme.txt" timestamp="1493127834030">
         <mark key="[" line="2" column="71" />
@@ -1312,8 +1311,8 @@
       <register name="/" type="4">
         <text>15</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyBkYXRhIHByZS1wcm9jZXNzaW5nClhfdHJhaW4gPSBYX3RyYWluLnJlc2hhcGUoLTEsIDEsMjgsIDI4KS8yNTUuClhfdGVzdCA9IFhfdGVzdC5yZXNoYXBlKC0xLCAxLDI4LCAyOCkvMjU1Lgp5X3RyYWluID0gbnBfdXRpbHMudG9fY2F0ZWdvcmljYWwoeV90cmFpbiwgbnVtX2NsYXNzZXM9MTApCnlfdGVzdCA9IG5wX3V0aWxzLnRvX2NhdGVnb3JpY2FsKHlfdGVzdCwgbnVtX2NsYXNzZXM9MTApCg==</text>
+      <register name="0" type="4">
+        <text>5036589250579</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBodHRwczovL2hhY2tlcm5vb24uY29tL3RyYWluaW5nLWEtZGVlcC1sZWFybmluZy1tb2RlbC10by1zdGVlci1hLWNhci1pbi05OS1saW5lcy1vZi1jb2RlLWJhOTRlMDQ1NmU2YQoKCg==</text>
