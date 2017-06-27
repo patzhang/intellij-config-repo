@@ -779,10 +779,10 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="28" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" timestamp="1498554735468">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" timestamp="1498555496960">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="163" column="4" />
         <mark key="^" line="159" column="5" />
         <mark key="." line="163" column="0" />
       </file>
@@ -1208,8 +1208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="60" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="42" column="26" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="41" column="32" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="72" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
@@ -1307,6 +1305,8 @@
       <jump line="7" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" />
       <jump line="37" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" />
       <jump line="1" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
+      <jump line="152" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
+      <jump line="154" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
     </jumps>
     <registers>
@@ -1316,8 +1316,8 @@
       <register name="/" type="4">
         <text>4025500181871</text>
       </register>
-      <register name="0" type="4">
-        <text>5060360502014</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiUmFjaGVsJ3MgT3JnYW5pYyBMb3cgRmF0IE1hbmdvIFlvZ3VydCA0NTBnIiwKICAgICAgImJhcmNvZGUiOiAiNTAyMTYzODEyMjczMCIsCiAgICAgICJza3UiOiAiNTQxMDkwMTEiLAogICAgICAidXJsIjogImh0dHBzOi8vd3d3Lm9jYWRvLmNvbS93ZWJzaG9wL3Byb2R1Y3QvUmFjaGVscy1PcmdhbmljLUxvdy1GYXQtTWFuZ28tWW9ndXJ0LzU0MTA5MDExIgogICAgfSwKICAgIHsKICAgICAgIm5hbWUiOiAiTXVsbGVyIENvcm5lciBCbGlzcywgR3JlZWsgU3R5bGUgV2hpcHBlZCBZb2dodXJ0ICYgTGVtb24gQ29tcG90ZSA0IHggMTEwZyIsCiAgICAgICJiYXJjb2RlIjogIjQwMjU1MDAxODE4NzEiLAogICAgICAic2t1IjogIjI1MDA1NDAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9NdWxsZXItQ29ybmVyLUJsaXNzLUdyZWVrLVN0eWxlLVdoaXBwZWQtWW9naHVydC0tTGVtb24tQ29tcG90ZS8yNTAwNTQwMTEiCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAidXJsIjogIiIK</text>
