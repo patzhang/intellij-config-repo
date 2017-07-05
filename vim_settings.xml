@@ -80,7 +80,6 @@
       <file name="/" timestamp="1495206900461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/C1D05-Selected-SKUs.csv" timestamp="1498550899226" />
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" timestamp="1497004215966">
         <mark key="'" line="73" column="48" />
         <mark key="[" line="20" column="12" />
@@ -423,6 +422,11 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/documentation/MatrixVision/shopping_list.txt" timestamp="1499261685940">
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="18" column="30" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/prd_img_ds.py" timestamp="1498229923653">
         <mark key="'" line="13" column="42" />
@@ -1208,7 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="26" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="41" column="32" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="72" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="173" column="16" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
@@ -1308,6 +1311,7 @@
       <jump line="152" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="154" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
+      <jump line="24" column="15" filename="$USER_HOME$/Workspaces/10x-vision-evolution/documentation/MatrixVision/shopping_list.txt" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1317,7 +1321,7 @@
         <text>4025500181871</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiUmFjaGVsJ3MgT3JnYW5pYyBMb3cgRmF0IE1hbmdvIFlvZ3VydCA0NTBnIiwKICAgICAgImJhcmNvZGUiOiAiNTAyMTYzODEyMjczMCIsCiAgICAgICJza3UiOiAiNTQxMDkwMTEiLAogICAgICAidXJsIjogImh0dHBzOi8vd3d3Lm9jYWRvLmNvbS93ZWJzaG9wL3Byb2R1Y3QvUmFjaGVscy1PcmdhbmljLUxvdy1GYXQtTWFuZ28tWW9ndXJ0LzU0MTA5MDExIgogICAgfSwKICAgIHsKICAgICAgIm5hbWUiOiAiTXVsbGVyIENvcm5lciBCbGlzcywgR3JlZWsgU3R5bGUgV2hpcHBlZCBZb2dodXJ0ICYgTGVtb24gQ29tcG90ZSA0IHggMTEwZyIsCiAgICAgICJiYXJjb2RlIjogIjQwMjU1MDAxODE4NzEiLAogICAgICAic2t1IjogIjI1MDA1NDAxMSIsCiAgICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cub2NhZG8uY29tL3dlYnNob3AvcHJvZHVjdC9NdWxsZXItQ29ybmVyLUJsaXNzLUdyZWVrLVN0eWxlLVdoaXBwZWQtWW9naHVydC0tTGVtb24tQ29tcG90ZS8yNTAwNTQwMTEiCiAgICB9Cg==</text>
+        <text encoding="base64">TGVucywgQy1Nb3VudAo4bW0gZm9jYWwgbGVuZ3RoLCBGMS40LCBzZW5zb3Igc2l6ZSB1cCB0byAyLzMiLAo0IE1lZ2FwaXhlbCwgTU9EIDAuMW0sIEJGTCA5Ljc0bW0sIGFudGktdmlicmF0aW9uCndpdGggaW50ZXJjaGFuZ2VhYmxlIGlyaXMgcGxhdGVzLCBEaXN0b3J0aW9uIC0wLjYlLAphbmdsZSBvZiB2aWV3IEg6NTfCsCBWOjQ0wrAgRDo2N8KwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAidXJsIjogIiIK</text>
@@ -1361,44 +1365,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxweXRob25cPg==</entry>
-        <entry>model</entry>
-        <entry>tests</entry>
-        <entry>dataset</entry>
-        <entry>build</entry>
-        <entry>main</entry>
-        <entry>_virutal</entry>
-        <entry>_virtual</entry>
-        <entry encoding="base64">XDxfYm9vdHN0cmFwXD4=</entry>
-        <entry>gpu</entry>
-        <entry>bootstrap</entry>
-        <entry encoding="base64">XDxsYXN0X2FjY3VyYWN5XD4=</entry>
-        <entry>FileWriter</entry>
-        <entry>graph</entry>
-        <entry>scope</entry>
-        <entry>histogram</entry>
-        <entry>histog</entry>
-        <entry>softmax</entry>
-        <entry>print</entry>
-        <entry>merged</entry>
-        <entry>load the product json</entry>
-        <entry>copy_file</entry>
-        <entry>[5</entry>
-        <entry>weight</entry>
-        <entry>Adam</entry>
-        <entry>certif</entry>
-        <entry>certi</entry>
-        <entry>cert</entry>
-        <entry>group</entry>
-        <entry>gcloud</entry>
-        <entry>logger.info</entry>
-        <entry>download_to_filename</entry>
-        <entry>download_to_file</entry>
-        <entry encoding="base64">XDx0YXJnZXRfZGF0YXNldFw+</entry>
-        <entry encoding="base64">XDxnY3NfdXBsb2FkXD4=</entry>
-        <entry encoding="base64">XDxyZWFkbWVcPg==</entry>
-        <entry>readme.txt</entry>
-        <entry encoding="base64">XDxqb2luXD4=</entry>
         <entry encoding="base64">XDxvcGVuXD4=</entry>
         <entry encoding="base64">XDxidWNrZXRfbmFtZVw+</entry>
         <entry>DEB</entry>
@@ -1421,9 +1387,6 @@
         <entry>4025500181871</entry>
       </history-search>
       <history-cmd>
-        <entry>help</entry>
-        <entry>w</entry>
-        <entry>%s/\s\+$</entry>
         <entry>15</entry>
         <entry>6</entry>
         <entry>8</entry>
