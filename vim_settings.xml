@@ -356,6 +356,12 @@
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="41" />
       </file>
+      <file name="$USER_HOME$/WorkspacesDart/myapp/lib/main.dart" timestamp="1499955373517">
+        <mark key="[" line="59" column="7" />
+        <mark key="]" line="59" column="6" />
+        <mark key="." line="59" column="6" />
+        <mark key="^" line="59" column="6" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/virtualenv/create-venv.sh" timestamp="1494604734519">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
@@ -1315,10 +1321,10 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>++</text>
       </register>
       <register name="/" type="4">
-        <text>4025500181871</text>
+        <text>tapp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TGVucywgQy1Nb3VudAo4bW0gZm9jYWwgbGVuZ3RoLCBGMS40LCBzZW5zb3Igc2l6ZSB1cCB0byAyLzMiLAo0IE1lZ2FwaXhlbCwgTU9EIDAuMW0sIEJGTCA5Ljc0bW0sIGFudGktdmlicmF0aW9uCndpdGggaW50ZXJjaGFuZ2VhYmxlIGlyaXMgcGxhdGVzLCBEaXN0b3J0aW9uIC0wLjYlLAphbmdsZSBvZiB2aWV3IEg6NTfCsCBWOjQ0wrAgRDo2N8KwCg==</text>
@@ -1355,13 +1361,13 @@
       </register>
     </registers>
     <search>
-      <last-search>4025500181871</last-search>
+      <last-search>tapp</last-search>
       <last-offset />
-      <last-pattern>4025500181871</last-pattern>
+      <last-pattern>tapp</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1385,6 +1391,8 @@
         <entry>15878</entry>
         <entry>5021638122730</entry>
         <entry>4025500181871</entry>
+        <entry>Button clicked</entry>
+        <entry>tapp</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
