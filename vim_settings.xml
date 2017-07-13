@@ -336,6 +336,13 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
       </file>
+      <file name="$USER_HOME$/WorkspacesDart/meal_planner/.gitignore" timestamp="1499957329180">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1497353818107">
         <mark key="'" line="15" column="60" />
         <mark key="[" line="15" column="0" />
@@ -410,7 +417,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499343096618">
+      <file name="/Dummy.txt" timestamp="1499957165980">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1498140927769">
@@ -1218,7 +1225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="32" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" />
       <jump line="72" column="0" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" />
       <jump line="173" column="16" filename="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial_summaries/mnist_with_summaries.py" />
       <jump line="21" column="37" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
@@ -1318,6 +1324,7 @@
       <jump line="154" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="24" column="15" filename="$USER_HOME$/Workspaces/10x-vision-evolution/documentation/MatrixVision/shopping_list.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/WorkspacesDart/meal_planner/.gitignore" />
     </jumps>
     <registers>
       <register name="-" type="4">
