@@ -619,11 +619,11 @@
         <mark key="^" line="13" column="63" />
         <mark key="." line="13" column="63" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-readme.txt" timestamp="1496411964854">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="14" column="7" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-readme.txt" timestamp="1500037786678">
+        <mark key="[" line="7" column="78" />
+        <mark key="]" line="7" column="78" />
+        <mark key="^" line="7" column="78" />
+        <mark key="." line="7" column="78" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496667158719">
         <mark key="'" line="0" column="0" />
@@ -1328,7 +1328,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>++</text>
+        <text> </text>
       </register>
       <register name="/" type="4">
         <text>211</text>
