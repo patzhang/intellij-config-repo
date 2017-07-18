@@ -236,6 +236,10 @@
         <mark key="]" line="26" column="4" />
         <mark key="." line="21" column="5" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/26sku-5000img-v1.2/readme.txt" timestamp="1500386122529">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="45" column="101" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="35" />
@@ -557,6 +561,11 @@
         <mark key="]" line="78" column="42" />
         <mark key="^" line="78" column="42" />
         <mark key="." line="78" column="42" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/36sku-5000img-v1.3-2/readme.txt" timestamp="1500386127148">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="45" column="102" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495630266550">
         <mark key="'" line="12" column="9" />
@@ -1339,8 +1348,8 @@
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="4">
-        <text>https://www.ocado.com/webshop/product/Waitrose-Duchy-Organic-Tenderstem-Broccoli/60775011</text>
+      <register name="0" type="2">
+        <text encoding="base64">NTAzODg2MjEzMTA4NyAgICAgICA1MDAwICAgICBJbm5vY2VudCBDb2NvbnV0IFdhdGVyIDUwMG1sCjUwMzY1ODkyNTA1NzkgICAgICAgNTAwMCAgICAgTGl0dGxlIFllbydzIEZydWl0ZWQgTHRkIEVkaXRpb24gWW9ndXJ0IDkwZwo1MDAwMTY5MzQyNTQxICAgICAgIDUwMDAgICAgIFdhaXRyb3NlIDEgMTAiIEZpcmUgUm9hc3RlZCBWZWdldGFibGUgJiBQZXN0byBQaXp6YSA1MzBnCjUwMjE2MzgxMjI3MzAgICAgICAgNTAwMCAgICAgUmFjaGVsJ3MgT3JnYW5pYyBMb3cgRmF0IE1hbmdvIFlvZ3VydCA0NTBnCjQwMjU1MDAxODE4NzEgICAgICAgNTAwMCAgICAgTXVsbGVyIENvcm5lciBCbGlzcywgR3JlZWsgU3R5bGUgV2hpcHBlZCBZb2dodXJ0ICYgTGVtb24gQ29tcG90ZSA0IHggMTEwZwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiIiwKICAgICAgImJhcmNvZGUiOiAiIiwKICAgICAgInNrdSI6ICIiLAogICAgICAidXJsIjogIiIKICAgIH0sCgo=</text>
