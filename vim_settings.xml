@@ -424,7 +424,7 @@
       <file name="/Dummy.txt" timestamp="1500306331974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1500469539225">
+      <file name="/code.py" timestamp="1500470003193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
@@ -1392,16 +1392,10 @@
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Results:</entry>
-        <entry encoding="base64">XDxjb3VudFw+</entry>
-        <entry>listdir</entry>
-        <entry>15</entry>
-        <entry>useradd</entry>
-        <entry>adduser</entry>
         <entry>5103</entry>
         <entry>7178</entry>
         <entry>00013</entry>
