@@ -402,6 +402,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1500995206451">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="52" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1500647596480">
         <mark key="'" line="47" column="15" />
         <mark key="[" line="63" column="75" />
@@ -424,7 +430,7 @@
       <file name="/Dummy.txt" timestamp="1500306331974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1500994620347">
+      <file name="/code.py" timestamp="1500995581202">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
@@ -439,11 +445,6 @@
         <mark key="]" line="1" column="11" />
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/documentation/MatrixVision/shopping_list.txt" timestamp="1499261685940">
-        <mark key="'" line="24" column="15" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="18" column="30" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/prd_img_ds.py" timestamp="1498229923653">
         <mark key="'" line="13" column="42" />
@@ -512,6 +513,12 @@
         <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/unpack-dataset.sh" timestamp="1500995004647">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" timestamp="1495710580046">
         <mark key="[" line="4" column="75" />
@@ -597,6 +604,12 @@
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1500995105994">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="^" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
         <mark key="[" line="13" column="37" />
@@ -786,11 +799,6 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.5/site-packages/keras/datasets/mnist.py" timestamp="1498229400898">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="46" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_process_file.py" timestamp="1495019103551">
         <mark key="'" line="0" column="8" />
         <mark key="[" line="7" column="0" />
@@ -823,11 +831,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/readme.txt" timestamp="1498142833132">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/datetime_util.py" timestamp="1493971202155">
         <mark key="[" line="13" column="0" />
@@ -1033,6 +1036,10 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1500995991702">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="414" column="7" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498550490983">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="33" column="55" />
@@ -1181,11 +1188,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1498039012566">
-        <mark key="'" line="41" column="32" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="42" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/opencv_tests.py" timestamp="1494946795474">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="57" />
@@ -1246,8 +1248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification/inception_keras.py" />
-      <jump line="226" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="161" column="26" filename="$USER_HOME$/DL_Workspace/product-image-classification/readData.py" />
       <jump line="91" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="97" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1346,10 +1346,12 @@
       <jump line="423" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="47" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="53" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">ICggbSAvIHDCoG1lYW5zIG1pbnVzIC8gcGx1cyAp</text>
       </register>
       <register name="/" type="4">
         <text>DEBUG</text>
@@ -1361,25 +1363,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWtkaXIgcHJvZHVjdC1pbWFnZS1kYXRhc2V0LXYxXzIwMTctMDUtMjVfMTUuMjcuNTcKY2QgcHJvZHVjdC1pbWFnZS1kYXRhc2V0LXYxXzIwMTctMDUtMjVfMTUuMjcuNTcK</text>
+        <text encoding="base64">T3VyIGNhbWVyYSBrZWVwIGNhcHR1cmluZyBpbWFnZXMgZXZlcnkgMjUgbWlsbGlzZWNvbmRzLiBXaGVuIHRoZXJlIGlzIGEgYmFyY29kZSByZWFkaW5nIChhIHByb2R1Y3QgaXMgc2Nhbm5lZCksCnRoZSBtYWNoaW5lIHZpc2lvbiBzeXN0ZW0gc2F2ZXMgZm91ciBpbWFnZXMsIHdoaWNoIGFyZSBvbmUgaW1hZ2UgYmVmb3JlIHRoZSBiYXJjb2RlIHJlYWRpbmcgKHRpbWVzdGFtcCBtaW51cyB4IG1pbGxpc2Vjb25kcykKYW5kIHRocmVlIGltYWdlcyBhZnRlciB0aGUgYmFyY29kZSByZWFkaW5nICh0aW1lc3RhbXAgcGx1cyB5IG1pbGxpc2Vjb25kcykuIFRoZSB0aW1lc3RhbXAgc3BlY2lmaWVzIHdoZW4gaXQgcmVhZHMgYSBiYXJjb2RlLgoKKiBEYXRhc2V0IHN0cnVjdHVyZToKICAgMSkgYWxsIHRoZSBpbWFnZXMgZm9yIGVhY2ggYmFyY29kZSBoYXZlIGJlZW4gcHV0IHRvZ2V0aGVyIGluIGEgdGFyYmFsbCBmaWxlLgogICAyKSB1bnBhY2stZGF0YXNldC5zaCBjYW4gZXh0cmFjdCBhbGwgdGhlIHRhcmJhbGwgZmlsZXMgaW4gb25lIGdvLgogICAzKSBwcm9kdWN0cy5qc29uIGZpbGUgZGVzY3JpYmVzIHRoZSBkZXRhaWxzIG9mIGVhY2ggYmFyY29kZS4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9uYW1lID0gYmxvYi5uYW1lLnNwbGl0KCcvJylbMl0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIENoYW5nZWQgdG8gaWdub3JlIHRoZSBpbWFnZXMgY2FwdHVyZWQgYmVmb3JlIGJhcmNvZGUgcmVhZGluZywgc28gd2UgbmVlZCAxLzQgbW9yZSBpbWFnZXMgdG8gZm9yIHRoZQogICAgICAgICMgX21fIGltYWdlcy4gT25seSBrZWVwIHRoZSAzLzQgX3BfIGltYWdlcyBjYXB0dXJlZCBhZnRlciBiYXJjb2RlIHJlYWRpbmcuCiAgICAgICAgbGVmdF9jb3VudCA9IChUT1RBTF9JTUFHRVMgLSBjb3VudCkgJSAzICogNCArIDEKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0X2NvdW50ID0gVE9UQUxfSU1BR0VTIC0gY291bnQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0X2NvdW50ID0gCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">bWtkaXIgcHJvZHVjdC1pbWFnZS1kYXRhc2V0LXYxXzIwMTctMDUtMjVfMTUuMjcuNTcKY2QgcHJvZHVjdC1pbWFnZS1kYXRhc2V0LXYxXzIwMTctMDUtMjVfMTUuMjcuNTcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9uYW1lID0gYmxvYi5uYW1lLnNwbGl0KCcvJylbMl0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIENoYW5nZWQgdG8gaWdub3JlIHRoZSBpbWFnZXMgY2FwdHVyZWQgYmVmb3JlIGJhcmNvZGUgcmVhZGluZywgc28gd2UgbmVlZCAxLzQgbW9yZSBpbWFnZXMgdG8gZm9yIHRoZQogICAgICAgICMgX21fIGltYWdlcy4gT25seSBrZWVwIHRoZSAzLzQgX3BfIGltYWdlcyBjYXB0dXJlZCBhZnRlciBiYXJjb2RlIHJlYWRpbmcuCiAgICAgICAgbGVmdF9jb3VudCA9IChUT1RBTF9JTUFHRVMgLSBjb3VudCkgJSAzICogNCArIDEKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0X2NvdW50ID0gVE9UQUxfSU1BR0VTIC0gY291bnQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzaHV0aWwgaW1wb3J0IGNvcHlmaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0X2NvdW50ID0gCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
