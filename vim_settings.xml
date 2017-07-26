@@ -236,6 +236,12 @@
         <mark key="]" line="26" column="4" />
         <mark key="." line="21" column="5" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/utils/logging_util.py" timestamp="1501090884254">
+        <mark key="[" line="15" column="78" />
+        <mark key="]" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+        <mark key="^" line="16" column="43" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/26sku-5000img-v1.2/readme.txt" timestamp="1500386122529">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="45" column="101" />
@@ -251,6 +257,10 @@
         <mark key="]" line="6" column="39" />
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/logging_util.py" timestamp="1501090843570">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="112" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
         <mark key="[" line="5" column="0" />
@@ -402,11 +412,10 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1500995206451">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="52" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1501091668517">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1501084879835">
         <mark key="'" line="47" column="15" />
@@ -430,7 +439,7 @@
       <file name="/Dummy.txt" timestamp="1500306331974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1501083518760">
+      <file name="/code.py" timestamp="1501090946959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
@@ -820,12 +829,6 @@
         <mark key="^" line="216" column="101" />
         <mark key="." line="218" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/38-skus-v1.json" timestamp="1500282881598">
-        <mark key="'" line="6738" column="0" />
-        <mark key="[" line="8742" column="5" />
-        <mark key="]" line="8742" column="13" />
-        <mark key="." line="7785" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/cognex-settings-DM362/Readme.txt" timestamp="1493127834030">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="4" column="0" />
@@ -1036,12 +1039,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1501086834645">
-        <mark key="'" line="349" column="4" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="5" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="5" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1501092064427">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="76" />
+        <mark key="]" line="44" column="79" />
+        <mark key="^" line="44" column="79" />
+        <mark key="." line="44" column="79" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498550490983">
         <mark key="[" line="29" column="0" />
@@ -1251,7 +1254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
       <jump line="322" column="38" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
       <jump line="323" column="71" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
       <jump line="65" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
@@ -1349,58 +1351,59 @@
       <jump line="386" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="29" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="104" column="29" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="403" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
+      <jump line="60" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>dataset_webcaml.</text>
-      </register>
-      <register name="/" type="4">
         <text>DEBUG</text>
       </register>
+      <register name="/" type="4">
+        <text>DEB</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAuY29udGV4dCBpbXBvcnQgZGF0YXNldF9idWlsZGVyCg==</text>
+        <text encoding="base64">TE9HX0ZPUk1BVCA9ICclKGFzY3RpbWUpcyAlKGxldmVsbmFtZSktNnMgJShwcm9jZXNzKWQgJShwcm9jZXNzTmFtZSktMTBzICUoZnVuY05hbWUpczolKGxpbmVubyktM2QgfCAlKG1lc3NhZ2UpcycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGZpbGVfb3JpZ2luYWwsIHNvdXJjZV9ibG9iX25hbWUpOgogICAgIyByZXRyeSA1IHRpbWVzIHRvIGRvd25sb2FkIGEgZmlsZSBmcm9tIEdDUwogICAgc3VjY2Vzc2Z1bCA9IEZhbHNlCiAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICBzdWNjZXNzZnVsID0gZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCiAgICAgICAgaWYgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBlbHNlOgogICAgICAgICAgICB0aW1lLnNsZWVwKDIpICAgIyB3YWl0IGZvciAyIHNlY29uZHMKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ1dhaXQgYWZ0ZXIgdHJpZWQge30gdGltZXMgLi4uJy5mb3JtYXQoaSArIDEpKQogICAgcmV0dXJuIHN1Y2Nlc3NmdWwKCgpkZWYgZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGRlc3RpbmF0aW9uX2ZpbGVfbmFtZSk6CiAgICBzdWNjZXNzID0gRmFsc2UKICAgIHRyeToKICAgICAgICBsb2dnZXIuZGVidWcoJ0Rvd25sb2FkaW5nIHt9IGZyb20ge30gLi4uJy5mb3JtYXQoc291cmNlX2Jsb2JfbmFtZSwgYnVja2V0KSkKICAgICAgICBibG9iID0gYnVja2V0LmJsb2Ioc291cmNlX2Jsb2JfbmFtZSkKICAgICAgICBibG9iLmRvd25sb2FkX3RvX2ZpbGVuYW1lKGRlc3RpbmF0aW9uX2ZpbGVfbmFtZSkKICAgICAgICBzdWNjZXNzID0gVHJ1ZQogICAgICAgIGxvZ2dlci5kZWJ1ZygnRG93bmxvYWRlZCB7fScuZm9ybWF0KHNvdXJjZV9ibG9iX25hbWUpKQogICAgZXhjZXB0IE5vdEZvdW5kOgogICAgICAgIGxvZ2dlci5lcnJvcignU29ycnksIGJ1Y2tldCB7fSBkb2VzIG5vdCBleGlzdCEnLmZvcm1hdChidWNrZXQubmFtZSkpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4OgogICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRvd25sb2FkIHt9IGZyb20gR0NTLiB7fScuZm9ybWF0KHNvdXJjZV9ibG9iX25hbWUsIGV4KSkKCiAgICByZXR1cm4gc3VjY2VzcwoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHByb2Nlc3NfaW1hZ2Vfd2l0aF9waWxsb3cob3JpZ2luYWxfZmlsZSwgZGltZW5zaW9uLCBvdXRwdXRfZGlyKToKICAgIGltYWdlX25hbWUgPSBOb25lCiAgICB0cnk6CiAgICAgICAgaW1nX29yaWdpbmFsID0gSW1hZ2Uub3BlbihvcmlnaW5hbF9maWxlKQogICAgICAgIGFzc2VydCBpbWdfb3JpZ2luYWwuc2l6ZSA9PSBESU1FTlNJT05fT1JJR0lOQUxfUElMTE9XCgogICAgICAgIGltZ19jcm9wcGVkID0gaW1nX29yaWdpbmFsLmNyb3AoQ1JPUF9SRUdJT04pCiAgICAgICAgaW1nX3Jlc2l6ZWQgPSBpbWdfY3JvcHBlZC5yZXNpemUoZGltZW5zaW9uKQoKICAgICAgICBvdXRwdXRfZmlsZSA9IG9zLnBhdGguYmFzZW5hbWUob3JpZ2luYWxfZmlsZSkKICAgICAgICBpbWdfcmVzdWx0ID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXIsIG91dHB1dF9maWxlKQogICAgICAgIGltZ19yZXNpemVkLnNhdmUoaW1nX3Jlc3VsdCkKICAgICAgICBpbWFnZV9uYW1lID0gb3V0cHV0X2ZpbGUKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbG9nZ2VyLmVycm9yKCdGYWlsZWQgdG8gcHJvY2VzcyB7fScuZm9ybWF0KG9yaWdpbmFsX2ZpbGUpKQogICAgcmV0dXJuIGltYWdlX25hbWUKCgo=</text>
+        <text encoding="base64">KiBJbWFnZSBmaWxlIG5hbWluZyBjb252ZW50aW9uOiBiYXJjb2RlX3RpbWVzdGFtcF9wXzAucG5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaW1nX29yaWdpbmFsLnNoYXBlWzA6Ml0gPT0gRElNRU5TSU9OX09SSUdJTkFMX09QRU5DVgoKICAgICAgICAjIENyb3AgZnJvbSB4LCB5LCB3LCBoIGJ5IHNsaWNpbmcgYXJyYXlbeTpoLCB4OnddCiAgICAgICAgaW1nX2Nyb3BwZWQgPSBpbWdfb3JpZ2luYWxbMDoxMDI0LCAwOjEwMjRdCg==</text>
+        <text encoding="base64">ZnJvbSBjb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RElNRU5TSU9OX09SSUdJTkFMX09QRU5DViA9ICgxMDI0LCAxMjgwKQpESU1FTlNJT05fT1JJR0lOQUxfUElMTE9XID0gKDEyODAsIDEwMjQpCg==</text>
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RElNRU5TSU9OXzUxMiA9ICg1MTIsIDUxMikKRElNRU5TSU9OXzI1NiA9ICgyNTYsIDI1NikK</text>
+        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGZpbGVfb3JpZ2luYWwsIHNvdXJjZV9ibG9iX25hbWUpOgogICAgIyByZXRyeSA1IHRpbWVzIHRvIGRvd25sb2FkIGEgZmlsZSBmcm9tIEdDUwogICAgc3VjY2Vzc2Z1bCA9IEZhbHNlCiAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICBzdWNjZXNzZnVsID0gZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCiAgICAgICAgaWYgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBlbHNlOgogICAgICAgICAgICB0aW1lLnNsZWVwKDIpICAgIyB3YWl0IGZvciAyIHNlY29uZHMKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ1dhaXQgYWZ0ZXIgdHJpZWQge30gdGltZXMgLi4uJy5mb3JtYXQoaSArIDEpKQogICAgcmV0dXJuIHN1Y2Nlc3NmdWwKCgpkZWYgZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGRlc3RpbmF0aW9uX2ZpbGVfbmFtZSk6CiAgICBzdWNjZXNzID0gRmFsc2UKICAgIHRyeToKICAgICAgICBsb2dnZXIuZGVidWcoJ0Rvd25sb2FkaW5nIHt9IGZyb20ge30gLi4uJy5mb3JtYXQoc291cmNlX2Jsb2JfbmFtZSwgYnVja2V0KSkKICAgICAgICBibG9iID0gYnVja2V0LmJsb2Ioc291cmNlX2Jsb2JfbmFtZSkKICAgICAgICBibG9iLmRvd25sb2FkX3RvX2ZpbGVuYW1lKGRlc3RpbmF0aW9uX2ZpbGVfbmFtZSkKICAgICAgICBzdWNjZXNzID0gVHJ1ZQogICAgICAgIGxvZ2dlci5kZWJ1ZygnRG93bmxvYWRlZCB7fScuZm9ybWF0KHNvdXJjZV9ibG9iX25hbWUpKQogICAgZXhjZXB0IE5vdEZvdW5kOgogICAgICAgIGxvZ2dlci5lcnJvcignU29ycnksIGJ1Y2tldCB7fSBkb2VzIG5vdCBleGlzdCEnLmZvcm1hdChidWNrZXQubmFtZSkpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4OgogICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRvd25sb2FkIHt9IGZyb20gR0NTLiB7fScuZm9ybWF0KHNvdXJjZV9ibG9iX25hbWUsIGV4KSkKCiAgICByZXR1cm4gc3VjY2VzcwoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHByb2Nlc3NfaW1hZ2Vfd2l0aF9waWxsb3cob3JpZ2luYWxfZmlsZSwgZGltZW5zaW9uLCBvdXRwdXRfZGlyKToKICAgIGltYWdlX25hbWUgPSBOb25lCiAgICB0cnk6CiAgICAgICAgaW1nX29yaWdpbmFsID0gSW1hZ2Uub3BlbihvcmlnaW5hbF9maWxlKQogICAgICAgIGFzc2VydCBpbWdfb3JpZ2luYWwuc2l6ZSA9PSBESU1FTlNJT05fT1JJR0lOQUxfUElMTE9XCgogICAgICAgIGltZ19jcm9wcGVkID0gaW1nX29yaWdpbmFsLmNyb3AoQ1JPUF9SRUdJT04pCiAgICAgICAgaW1nX3Jlc2l6ZWQgPSBpbWdfY3JvcHBlZC5yZXNpemUoZGltZW5zaW9uKQoKICAgICAgICBvdXRwdXRfZmlsZSA9IG9zLnBhdGguYmFzZW5hbWUob3JpZ2luYWxfZmlsZSkKICAgICAgICBpbWdfcmVzdWx0ID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXIsIG91dHB1dF9maWxlKQogICAgICAgIGltZ19yZXNpemVkLnNhdmUoaW1nX3Jlc3VsdCkKICAgICAgICBpbWFnZV9uYW1lID0gb3V0cHV0X2ZpbGUKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbG9nZ2VyLmVycm9yKCdGYWlsZWQgdG8gcHJvY2VzcyB7fScuZm9ybWF0KG9yaWdpbmFsX2ZpbGUpKQogICAgcmV0dXJuIGltYWdlX25hbWUKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaW1nX29yaWdpbmFsLnNoYXBlWzA6Ml0gPT0gRElNRU5TSU9OX09SSUdJTkFMX09QRU5DVgoKICAgICAgICAjIENyb3AgZnJvbSB4LCB5LCB3LCBoIGJ5IHNsaWNpbmcgYXJyYXlbeTpoLCB4OnddCiAgICAgICAgaW1nX2Nyb3BwZWQgPSBpbWdfb3JpZ2luYWxbMDoxMDI0LCAwOjEwMjRdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgVGhpcyBtZXRob2QgY29udGFpbnMgdGhlIGxvZ2ljIGZvciBzZWxlY3RpbmcgaW1hZ2VzIGZvciB0aGUgZGF0YXNldC4KICAgIFRoZSBjaGFsbGVuZ2UgaXMgd2lsZGNhcmQgbmFtZXMgY2Fubm90IGJlIHVzZWQgaW4gZ29vZ2xlLWNsb3VkIFB5dGhvbiBjbGllbnQgYW5kCiAgICBpdCBvbmx5IHN1cHBvcnRzIHByZWZpeC4gZ3N1dGlsIGNhbiBiZSBjb25zaWRlcmVkIGZvciB3aWxkY2FyZCBuYW1lcy4KICAgIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMjQ1NzU0NTIvd2lsZGNhcmRzLWluLWdjcy1idWNrZXQtamF2YS1jbGllbnQtYXBpCgogICAgVGhpcyBtZXRob2QgY2hlY2tzIHRoZSBibG9icyBmcm9tIHRoZSBzdGFydCBkYXRlIHRvIHRvZGF5LiAgSWYgdGhlIHRvdGFsIG51bWJlciBvZiBibG9icyBpcyBtb3JlIHRoYW4gdGhlCiAgICB0b3RhbCBudW1iZXIgb2YgaW1hZ2VzIHJlcXVpcmVkLCBpdCBzdG9wcyB0byBjaGVjayBmb3IgdGhlIG5leHQgZGF5LgogICAgIiIiCiAgICBwcmVmaXggPSAnLycuam9pbigoZGF0ZV9zdHJpbmcsIGJhcmNvZGUpKQoKICAgIHJldHVybiBidWNrZXQubGlzdF9ibG9icyhwcmVmaXg9cHJlZml4KQo=</text>
+        <text encoding="base64">RElNRU5TSU9OX09SSUdJTkFMX09QRU5DViA9ICgxMDI0LCAxMjgwKQpESU1FTlNJT05fT1JJR0lOQUxfUElMTE9XID0gKDEyODAsIDEwMjQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>DEBUG</last-search>
+      <last-search>DEB</last-search>
       <last-offset />
-      <last-pattern>DEBUG</last-pattern>
+      <last-pattern>DEB</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1422,8 +1425,9 @@
         <entry>copyfile</entry>
         <entry>rmtree</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
-        <entry>INFO</entry>
         <entry>DEBUG</entry>
+        <entry>INFO</entry>
+        <entry>DEB</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
