@@ -1036,10 +1036,10 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1500999463357">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1501075155684">
         <mark key="'" line="29" column="19" />
-        <mark key="[" line="45" column="89" />
-        <mark key="]" line="45" column="90" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="86" />
         <mark key="^" line="91" column="43" />
         <mark key="." line="45" column="90" />
       </file>
@@ -1360,7 +1360,7 @@
         <text>DEBUG</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9jZXNzIHRoZSBkb3dubG9hZGVkIGZpbGUKICAgICAgICAgICAgaW1nX2ZpbGUgPSBwcm9jZXNzX2ltYWdlKG9yaWdpbmFsX2ZpbGU9ZmlsZV9vcmlnaW5hbCwgZGltZW5zaW9uPURJTUVOU0lPTl8yNTYsIG91dHB1dF9kaXI9b3V0cHV0X2RpcikKICAgICAgICAgICAgaWYgaW1nX2ZpbGUgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBjb3VudCArPSAxCiAgICAgICAgICAgICAgICBsb2dfc3RpbmcgPSAne30ve30gLSB7fToge30nLmZvcm1hdChjb3VudCwgVE9UQUxfSU1BR0VTLCBkYXRlX3N0cmluZywgaW1nX2ZpbGUpCiAgICAgICAgICAgICAgICBpZiBjb3VudCAlIDUwID09IDA6CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8obG9nX3N0aW5nKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcobG9nX3N0aW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWdfcmVzaXplZCA9IGN2Mi5yZXNpemUoaW1nX2Nyb3BwZWQsIGRpbWVuc2lvbiwgaW50ZXJwb2xhdGlvbj1jdjIuSU5URVJfQVJFQSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
