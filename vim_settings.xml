@@ -412,10 +412,11 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1501091668517">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1501145637822">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1501084879835">
         <mark key="'" line="47" column="15" />
@@ -1039,12 +1040,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1501092064427">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1501145562965">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="76" />
-        <mark key="]" line="44" column="79" />
-        <mark key="^" line="44" column="79" />
-        <mark key="." line="44" column="79" />
+        <mark key="[" line="41" column="82" />
+        <mark key="]" line="41" column="90" />
+        <mark key="^" line="41" column="90" />
+        <mark key="." line="41" column="90" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498550490983">
         <mark key="[" line="29" column="0" />
@@ -1357,7 +1358,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>* Image format: t</text>
       </register>
       <register name="/" type="4">
         <text>DEB</text>
