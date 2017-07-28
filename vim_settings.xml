@@ -412,11 +412,11 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1501145637822">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1501250114919">
+        <mark key="[" line="5" column="60" />
+        <mark key="]" line="5" column="62" />
+        <mark key="." line="5" column="62" />
+        <mark key="^" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1501239283362">
         <mark key="'" line="47" column="15" />
@@ -440,7 +440,7 @@
       <file name="/Dummy.txt" timestamp="1501164182958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1501238923078">
+      <file name="/code.py" timestamp="1501250384338">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
@@ -1040,12 +1040,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1501145562965">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="82" />
-        <mark key="]" line="41" column="90" />
-        <mark key="^" line="41" column="90" />
-        <mark key="." line="41" column="90" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1501249799744">
+        <mark key="'" line="366" column="0" />
+        <mark key="[" line="122" column="103" />
+        <mark key="]" line="123" column="9" />
+        <mark key="^" line="123" column="9" />
+        <mark key="." line="123" column="9" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498550490983">
         <mark key="[" line="29" column="0" />
@@ -1084,12 +1084,12 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="25" column="55" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" timestamp="1501144669082">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="26" column="68" />
-        <mark key="]" line="26" column="68" />
-        <mark key="^" line="26" column="68" />
-        <mark key="." line="26" column="68" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" timestamp="1501250563278">
+        <mark key="'" line="29" column="68" />
+        <mark key="[" line="25" column="92" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-unpack-dataset.sh" timestamp="1495727398280">
         <mark key="[" line="11" column="31" />
@@ -1255,11 +1255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="71" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
-      <jump line="65" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
-      <jump line="278" column="28" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
-      <jump line="303" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
-      <jump line="302" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
       <jump line="335" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main-v1.py" />
       <jump line="319" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="372" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1355,43 +1350,48 @@
       <jump line="60" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="18" column="36" filename="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="119" column="10" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
+      <jump line="68" column="81" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
+      <jump line="83" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
+      <jump line="366" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
+      <jump line="26" column="68" filename="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>* Image format: t</text>
+        <text>180</text>
       </register>
       <register name="/" type="4">
         <text>ID_IN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyb3AgZnJvbSB4LCB5LCB3LCBoIGJ5IHNsaWNpbmcgYXJyYXlbeTpoLCB4OnddCg==</text>
+        <text encoding="base64">RElNRU5TSU9OXzMyMF8xODAgPSAoMzIwLCAxODApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBvcmlnaW5hbF9maWxlOiAKICAgIDpwYXJhbSBkaW1lbnNpb246IAogICAgOnBhcmFtIG91dHB1dF9kaXI6IAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBJbWFnZSBmaWxlIG5hbWluZyBjb252ZW50aW9uOiBiYXJjb2RlX3RpbWVzdGFtcF9wXzAucG5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGZpbGVfb3JpZ2luYWwsIHNvdXJjZV9ibG9iX25hbWUpOgogICAgIyByZXRyeSA1IHRpbWVzIHRvIGRvd25sb2FkIGEgZmlsZSBmcm9tIEdDUwogICAgc3VjY2Vzc2Z1bCA9IEZhbHNlCiAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICBzdWNjZXNzZnVsID0gZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGZpbGVfb3JpZ2luYWwpCiAgICAgICAgaWYgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgYnJlYWsKICAgICAgICBlbHNlOgogICAgICAgICAgICB0aW1lLnNsZWVwKDIpICAgIyB3YWl0IGZvciAyIHNlY29uZHMKICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ1dhaXQgYWZ0ZXIgdHJpZWQge30gdGltZXMgLi4uJy5mb3JtYXQoaSArIDEpKQogICAgcmV0dXJuIHN1Y2Nlc3NmdWwKCgpkZWYgZG93bmxvYWRfZmlsZShidWNrZXQsIHNvdXJjZV9ibG9iX25hbWUsIGRlc3RpbmF0aW9uX2ZpbGVfbmFtZSk6CiAgICBzdWNjZXNzID0gRmFsc2UKICAgIHRyeToKICAgICAgICBsb2dnZXIuZGVidWcoJ0Rvd25sb2FkaW5nIHt9IGZyb20ge30gLi4uJy5mb3JtYXQoc291cmNlX2Jsb2JfbmFtZSwgYnVja2V0KSkKICAgICAgICBibG9iID0gYnVja2V0LmJsb2Ioc291cmNlX2Jsb2JfbmFtZSkKICAgICAgICBibG9iLmRvd25sb2FkX3RvX2ZpbGVuYW1lKGRlc3RpbmF0aW9uX2ZpbGVfbmFtZSkKICAgICAgICBzdWNjZXNzID0gVHJ1ZQogICAgICAgIGxvZ2dlci5kZWJ1ZygnRG93bmxvYWRlZCB7fScuZm9ybWF0KHNvdXJjZV9ibG9iX25hbWUpKQogICAgZXhjZXB0IE5vdEZvdW5kOgogICAgICAgIGxvZ2dlci5lcnJvcignU29ycnksIGJ1Y2tldCB7fSBkb2VzIG5vdCBleGlzdCEnLmZvcm1hdChidWNrZXQubmFtZSkpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4OgogICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRvd25sb2FkIHt9IGZyb20gR0NTLiB7fScuZm9ybWF0KHNvdXJjZV9ibG9iX25hbWUsIGV4KSkKCiAgICByZXR1cm4gc3VjY2VzcwoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHByb2Nlc3NfaW1hZ2Vfd2l0aF9waWxsb3cob3JpZ2luYWxfZmlsZSwgZGltZW5zaW9uLCBvdXRwdXRfZGlyKToKICAgIGltYWdlX25hbWUgPSBOb25lCiAgICB0cnk6CiAgICAgICAgaW1nX29yaWdpbmFsID0gSW1hZ2Uub3BlbihvcmlnaW5hbF9maWxlKQogICAgICAgIGFzc2VydCBpbWdfb3JpZ2luYWwuc2l6ZSA9PSBESU1FTlNJT05fT1JJR0lOQUxfUElMTE9XCgogICAgICAgIGltZ19jcm9wcGVkID0gaW1nX29yaWdpbmFsLmNyb3AoQ1JPUF9SRUdJT04pCiAgICAgICAgaW1nX3Jlc2l6ZWQgPSBpbWdfY3JvcHBlZC5yZXNpemUoZGltZW5zaW9uKQoKICAgICAgICBvdXRwdXRfZmlsZSA9IG9zLnBhdGguYmFzZW5hbWUob3JpZ2luYWxfZmlsZSkKICAgICAgICBpbWdfcmVzdWx0ID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXIsIG91dHB1dF9maWxlKQogICAgICAgIGltZ19yZXNpemVkLnNhdmUoaW1nX3Jlc3VsdCkKICAgICAgICBpbWFnZV9uYW1lID0gb3V0cHV0X2ZpbGUKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbG9nZ2VyLmVycm9yKCdGYWlsZWQgdG8gcHJvY2VzcyB7fScuZm9ybWF0KG9yaWdpbmFsX2ZpbGUpKQogICAgcmV0dXJuIGltYWdlX25hbWUKCgo=</text>
+        <text encoding="base64">KiBJbWFnZSBmaWxlIG5hbWluZyBjb252ZW50aW9uOiBiYXJjb2RlX3RpbWVzdGFtcF9wXzAucG5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaW1nX29yaWdpbmFsLnNoYXBlWzA6Ml0gPT0gRElNRU5TSU9OX09SSUdJTkFMX09QRU5DVgoKICAgICAgICAjIENyb3AgZnJvbSB4LCB5LCB3LCBoIGJ5IHNsaWNpbmcgYXJyYXlbeTpoLCB4OnddCiAgICAgICAgaW1nX2Nyb3BwZWQgPSBpbWdfb3JpZ2luYWxbMDoxMDI0LCAwOjEwMjRdCg==</text>
+        <text encoding="base64">ZnJvbSBjb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RElNRU5TSU9OX09SSUdJTkFMX09QRU5DViA9ICgxMDI0LCAxMjgwKQpESU1FTlNJT05fT1JJR0lOQUxfUElMTE9XID0gKDEyODAsIDEwMjQpCg==</text>
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
