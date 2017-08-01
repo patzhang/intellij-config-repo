@@ -242,6 +242,12 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
+      <file name="$USER_HOME$/WorkspacesDart/meal_planner/android/app/build.gradle" timestamp="1501604635105">
+        <mark key="[" line="67" column="1" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="35" />
@@ -1366,31 +1372,31 @@
         <text encoding="base64">RElNRU5TSU9OXzMyMF8xODAgPSAoMzIwLCAxODApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBvcmlnaW5hbF9maWxlOiAKICAgIDpwYXJhbSBkaW1lbnNpb246IAogICAgOnBhcmFtIG91dHB1dF9kaXI6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJyAgICAgICAgICAgICAgICAgICAgICAgIC8vbmV3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBvcmlnaW5hbF9maWxlOiAKICAgIDpwYXJhbSBkaW1lbnNpb246IAogICAgOnBhcmFtIG91dHB1dF9kaXI6IAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiBJbWFnZSBmaWxlIG5hbWluZyBjb252ZW50aW9uOiBiYXJjb2RlX3RpbWVzdGFtcF9wXzAucG5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
