@@ -231,22 +231,16 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products_full.json" timestamp="1495536727920">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="21" column="5" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/utils/logging_util.py" timestamp="1501090884254">
         <mark key="[" line="15" column="78" />
         <mark key="]" line="16" column="43" />
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/WorkspacesDart/meal_planner/android/app/build.gradle" timestamp="1501604635105">
-        <mark key="[" line="67" column="1" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="0" />
+      <file name="$USER_HOME$/WorkspacesDart/meal_planner/android/app/build.gradle" timestamp="1501605507895">
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
         <mark key="[" line="4" column="29" />
@@ -266,11 +260,6 @@
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
         <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-gpu.txt" timestamp="1496656516502">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/.gitlab-ci.yml" timestamp="1496227543441">
         <mark key="[" line="32" column="11" />
@@ -326,11 +315,6 @@
         <mark key="]" line="38" column="10" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/requirements.txt" timestamp="1496227217019">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_convert_csv.py" timestamp="1495552764883">
         <mark key="'" line="12" column="30" />
@@ -435,7 +419,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501164182958">
+      <file name="/Dummy.txt" timestamp="1501606065565">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1501591607663">
@@ -467,11 +451,6 @@
         <mark key="]" line="191" column="86" />
         <mark key="^" line="191" column="121" />
         <mark key="." line="191" column="86" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/kubernetes-gpu-cluster/deployment.yaml" timestamp="1497622562866">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
         <mark key="[" line="6" column="7" />
@@ -534,11 +513,6 @@
         <mark key="." line="4" column="84" />
         <mark key="^" line="4" column="84" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/requirements-cpu.txt" timestamp="1496656490261">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-unpack-dataset.sh" timestamp="1495630609351">
         <mark key="'" line="17" column="3" />
         <mark key="[" line="30" column="12" />
@@ -577,11 +551,6 @@
         <mark key="^" line="78" column="42" />
         <mark key="." line="78" column="42" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/36sku-5000img-v1.3-2/readme.txt" timestamp="1500386127148">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="45" column="102" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/unpack-dataset.sh" timestamp="1495630266550">
         <mark key="'" line="12" column="9" />
         <mark key="[" line="12" column="50" />
@@ -608,11 +577,6 @@
         <mark key="^" line="80" column="28" />
         <mark key="." line="80" column="28" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.5/site-packages/keras/utils/data_utils.py" timestamp="1498229697441">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1501083459303">
         <mark key="[" line="5" column="72" />
         <mark key="]" line="5" column="72" />
@@ -624,11 +588,6 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
         <mark key="^" line="17" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/main/config.py" timestamp="1496228898109">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/logging_util.py" timestamp="1490606394975">
         <mark key="[" line="20" column="71" />
@@ -776,10 +735,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" timestamp="1495710325973">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
+      <file name="$USER_HOME$/WorkspacesDart/meal_planner/android/build.gradle" timestamp="1501606063970">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="14" column="47" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
         <mark key="'" line="0" column="0" />
@@ -1002,11 +962,6 @@
         <mark key="]" line="20" column="42" />
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.6/site-packages/tensorflow/python/ops/random_ops.py" timestamp="1496670147700">
-        <mark key="[" line="174" column="4" />
-        <mark key="]" line="174" column="4" />
-        <mark key="." line="174" column="4" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/move_files.py" timestamp="1493723733272">
         <mark key="'" line="45" column="0" />
@@ -1369,25 +1324,25 @@
         <text>ID_IN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RElNRU5TSU9OXzMyMF8xODAgPSAoMzIwLCAxODApCg==</text>
+        <text encoding="base64">ICAgIHByb2plY3QuZXZhbHVhdGlvbkRlcGVuZHNPbignOmFwcCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJyAgICAgICAgICAgICAgICAgICAgICAgIC8vbmV3Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBvcmlnaW5hbF9maWxlOiAKICAgIDpwYXJhbSBkaW1lbnNpb246IAogICAgOnBhcmFtIG91dHB1dF9kaXI6IAogICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJyAgICAgICAgICAgICAgICAgICAgICAgIC8vbmV3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBvcmlnaW5hbF9maWxlOiAKICAgIDpwYXJhbSBkaW1lbnNpb246IAogICAgOnBhcmFtIG91dHB1dF9kaXI6IAogICAgOnJldHVybjogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1399,7 +1354,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>51</text>
+        <text>23</text>
       </register>
     </registers>
     <search>
@@ -1438,10 +1393,8 @@
         <entry>6</entry>
         <entry>8</entry>
         <entry>27</entry>
-        <entry>23</entry>
         <entry>9</entry>
         <entry>unsplit</entry>
-        <entry>25</entry>
         <entry>.,.+7set hlsearch! hlsearch?</entry>
         <entry>.,$d</entry>
         <entry>84</entry>
@@ -1455,6 +1408,8 @@
         <entry>help window</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>51</entry>
+        <entry>25</entry>
+        <entry>23</entry>
       </history-cmd>
       <history-expr />
       <history-input />
