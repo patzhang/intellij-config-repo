@@ -1192,6 +1192,12 @@
         <mark key="^" line="214" column="3" />
         <mark key="." line="214" column="3" />
       </file>
+      <file name="$USER_HOME$/WorkspacesDart/meal_planner/lib/Ingredient.dart" timestamp="1501684563408">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 6 Almost Finished/src/main/java/pl/refactoring/videostore/original/finished/ProgressivePointsCalculator.java" timestamp="1488374971046">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="67" />
@@ -1321,7 +1327,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>14.</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
         <text>ID_IN</text>
@@ -1357,7 +1363,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>23</text>
+        <text>26</text>
       </register>
     </registers>
     <search>
@@ -1413,6 +1419,7 @@
         <entry>51</entry>
         <entry>25</entry>
         <entry>23</entry>
+        <entry>26</entry>
       </history-cmd>
       <history-expr />
       <history-input />
