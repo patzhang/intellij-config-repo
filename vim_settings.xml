@@ -735,10 +735,10 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="$USER_HOME$/WorkspacesDart/meal_planner/android/build.gradle" timestamp="1501606063970">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="38" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/WorkspacesDart/meal_planner/android/build.gradle" timestamp="1501668759405">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
         <mark key="^" line="14" column="47" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
@@ -1320,8 +1320,8 @@
       <register name="/" type="4">
         <text>ID_IN</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2plY3QuZXZhbHVhdGlvbkRlcGVuZHNPbignOmFwcCcpCg==</text>
+      <register name="0" type="4">
+        <text>com.android.tools.build:gradle:2.2.3'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
