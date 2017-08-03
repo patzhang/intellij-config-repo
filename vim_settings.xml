@@ -429,7 +429,7 @@
       <file name="/Dummy.txt" timestamp="1501681957259">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1501672740056">
+      <file name="/code.py" timestamp="1501766404816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/README.md" timestamp="1496244106892">
@@ -1373,12 +1373,10 @@
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Button clicked</entry>
-        <entry>tapp</entry>
         <entry>211</entry>
         <entry encoding="base64">XDw1MDAwMTY5ODg0MDk2XD4=</entry>
         <entry>5000169884096</entry>
@@ -1401,7 +1399,6 @@
         <entry>Exposure</entry>
       </history-search>
       <history-cmd>
-        <entry>6</entry>
         <entry>8</entry>
         <entry>27</entry>
         <entry>9</entry>
