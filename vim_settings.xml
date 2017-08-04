@@ -40,6 +40,12 @@
         <mark key="." line="95" column="9" />
         <mark key="^" line="95" column="9" />
       </file>
+      <file name="$USER_HOME$/WorkspacesDart/meal_planner/android/app/src/main/AndroidManifest.xml" timestamp="1501843699313">
+        <mark key="[" line="18" column="81" />
+        <mark key="]" line="18" column="91" />
+        <mark key="." line="18" column="91" />
+        <mark key="^" line="18" column="91" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/os_util.py" timestamp="1487778943991">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1322,7 +1328,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>int</text>
+        <text>meal_planner</text>
       </register>
       <register name="/" type="4">
         <text>Exposure</text>
