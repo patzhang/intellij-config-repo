@@ -339,11 +339,11 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="56" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspaces/docker-lab/doc/docker-notes.org" timestamp="1504696078790">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="7" column="40" />
+      <file name="$USER_HOME$/Workspaces/docker-lab/doc/docker-notes.org" timestamp="1504699952851">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="39" column="2" />
+        <mark key="." line="39" column="2" />
+        <mark key="^" line="39" column="2" />
       </file>
       <file name="$USER_HOME$/temp/s3-error/error1.xml" timestamp="1489768934328">
         <mark key="[" line="12" column="0" />
@@ -461,7 +461,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504172010584">
+      <file name="/Dummy.txt" timestamp="1504700125871">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1504535483504">
@@ -1378,7 +1378,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">b3RlOiA=</text>
       </register>
       <register name="/" type="4">
         <text>Acro</text>
@@ -1387,31 +1387,31 @@
         <text encoding="base64">ICAgIyBSdW4gYSBkb2NrZXIgY29udGFpbmVyIHdpdGhvdXQgZXhpdGluZwogICBkb2NrZXIgcnVuIC1kdCAtLW5hbWUgY29udGFpbmVyX25hbWUgaW1hZ2VfbmFtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIytFTkRfU1JDCg==</text>
+        <text encoding="base64">ICAgKioqIG9sZCBPY2FkbyBkb2NrZXIgcmVwbzogaHR0cHM6Ly9kay50ZWNoLmNpdC5sYXN0bWlsZS5jb20vcmVwb3NpdG9yaWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIytCRUdJTl9TUkMgc2gK</text>
+        <text encoding="base64">ICAgIytFTkRfU1JDCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsbCBhcnJheXMgc2hvdWxkIGNvbnRhaW4gdGhlIHNhbWUgbnVtYmVyIG9mIHNhbXBsZXMuCg==</text>
+        <text encoding="base64">ICAgIytCRUdJTl9TUkMgc2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsga2V5ID0gIm0iLCBhcHAgPSAiRW1hY3MiIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFsbCBhcnJheXMgc2hvdWxkIGNvbnRhaW4gdGhlIHNhbWUgbnVtYmVyIG9mIHNhbXBsZXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb21waWxlIHRoZSBtb2RlbCAoc2hvdWxkIGJlIGRvbmUgKmFmdGVyKiBzZXR0aW5nIGxheWVycyB0byBub24tdHJhaW5hYmxlKQo=</text>
+        <text encoding="base64">ICAgIHsga2V5ID0gIm0iLCBhcHAgPSAiRW1hY3MiIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb21waWxlIHRoZSBtb2RlbCAoc2hvdWxkIGJlIGRvbmUgKmFmdGVyKiBzZXR0aW5nIGxheWVycyB0byBub24tdHJhaW5hYmxlKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdvb2dsZS5nbXMuZ29vZ2xlLXNlcnZpY2VzJwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>26</text>
