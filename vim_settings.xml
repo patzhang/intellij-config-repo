@@ -339,11 +339,11 @@
         <mark key="^" line="56" column="37" />
         <mark key="." line="56" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspaces/docker-lab/doc/docker-notes.org" timestamp="1504700983540">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="36" column="2" />
-        <mark key="." line="36" column="2" />
-        <mark key="^" line="36" column="2" />
+      <file name="$USER_HOME$/Workspaces/docker-lab/doc/docker-notes.org" timestamp="1504702753230">
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/temp/s3-error/error1.xml" timestamp="1489768934328">
         <mark key="[" line="12" column="0" />
@@ -1378,7 +1378,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">b3RlOiA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Acro</text>
