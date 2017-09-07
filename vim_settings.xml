@@ -1243,9 +1243,10 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" timestamp="1504782661791">
-        <mark key="[" line="30" column="55" />
-        <mark key="]" line="30" column="55" />
+      <file name="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" timestamp="1504794342911">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="54" />
         <mark key="^" line="28" column="5" />
         <mark key="." line="30" column="55" />
       </file>
@@ -1299,9 +1300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="62" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="180" column="29" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="384" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="78" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="331" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="346" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1399,6 +1397,9 @@
       <jump line="53" column="2" filename="$USER_HOME$/WorkspacesDart/meal_planner/pubspec.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/.dotfiles/hammerspoon/hammerspoon.symlink/init.lua" />
       <jump line="50" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/.gitignore" />
+      <jump line="27" column="54" filename="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" />
+      <jump line="29" column="25" filename="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1408,7 +1409,37 @@
         <text>Acro</text>
       </register>
       <register name="0" type="4">
-        <text>$REGISTRY/$GROUP/$IMAGE_NAME:$VERSION</text>
+        <text>image: ubuntu:16.04
+
+variables:
+  REGISTRY: internal.docker.tech.lastmile.com
+  GROUP: 10x
+  IMAGE_NAME: flutter-builder
+  VERSION: 0.1
+
+before_script:
+  - export DEBIAN_FRONTEND=noninteractive
+  - apt-get -y update
+  - apt-get -y install docker.io
+
+stages:
+  - build
+  - publish
+
+build:
+  stage: build
+  script:
+    - docker build -t $REGISTRY/$GROUP/$IMAGE_NAME:$VERSION .
+
+publish:
+  only:
+    - tags
+  stage: publish
+  script:
+    - docker build -t $REGISTRY/$GROUP/$IMAGE_NAME:$VERSION .
+      # DOCKER_USERNAME and DOCKER_PASSWORD are defined as secret variables
+    - docker login -u=&quot;$DOCKER_USERNAME&quot; -p=&quot;$DOCKER_PASSWORD&quot; $REGISTRY
+    - docker push $REGISTRY/$GROUP/$IMAGE_NAME:$VERSION</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAjIERPQ0tFUl9VU0VSTkFNRSBhbmQgRE9DS0VSX1BBU1NXT1JEIGFyZSBkZWZpbmVkIGFzIHNlY3JldCB2YXJpYWJsZXMK</text>
