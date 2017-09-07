@@ -1243,12 +1243,12 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" timestamp="1504794342911">
+      <file name="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" timestamp="1504795737551">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="54" />
-        <mark key="^" line="28" column="5" />
-        <mark key="." line="30" column="55" />
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="30" column="41" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495622516461">
         <mark key="[" line="147" column="28" />
@@ -1403,7 +1403,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>internal.docker.tech.lastmile.com/10x/flutter-builder:0.1</text>
+        <text>_NAME</text>
       </register>
       <register name="/" type="4">
         <text>Acro</text>
