@@ -1243,11 +1243,11 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" timestamp="1504704629885">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="4" />
+      <file name="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" timestamp="1504782069307">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495622516461">
         <mark key="[" line="147" column="28" />
