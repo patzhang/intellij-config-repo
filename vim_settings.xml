@@ -467,7 +467,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504705152597">
+      <file name="/Dummy.txt" timestamp="1504777797962">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1504535483504">
@@ -581,11 +581,11 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1504705646629">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1504777761302">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="47" />
         <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="4" column="47" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
         <mark key="[" line="32" column="67" />
@@ -1402,7 +1402,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IGxpYnN0ZGMrKzY=</text>
       </register>
       <register name="/" type="4">
         <text>Acro</text>
