@@ -587,11 +587,11 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1504802137750">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="11" />
-        <mark key="^" line="20" column="8" />
-        <mark key="." line="20" column="11" />
+      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1504807843610">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="36" />
+        <mark key="^" line="32" column="34" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
         <mark key="[" line="32" column="67" />
@@ -1409,13 +1409,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">dXAg</text>
+        <text>-162.4069837-linux.</text>
       </register>
       <register name="/" type="4">
         <text>Acro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkb2NrZXIgcHVzaCBpbnRlcm5hbC5kb2NrZXIudGVjaC5sYXN0bWlsZS5jb20vMTB4L2ZsdXR0ZXItYnVpbGRlcjowLjEK</text>
+        <text encoding="base64">RU5WIEFORFJPSURfSE9NRT0iL3Jvb3QvYW5kcm9pZC1zZGsiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
