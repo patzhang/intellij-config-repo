@@ -584,12 +584,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1504819108869">
+      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1504821045231">
         <mark key="'" line="13" column="11" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="11" />
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="53" column="37" />
+        <mark key="^" line="53" column="37" />
+        <mark key="." line="53" column="37" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
         <mark key="[" line="32" column="67" />
