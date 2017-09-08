@@ -584,12 +584,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1504858598022">
+      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1504859995950">
         <mark key="'" line="13" column="11" />
-        <mark key="[" line="53" column="21" />
-        <mark key="]" line="53" column="37" />
-        <mark key="^" line="53" column="37" />
-        <mark key="." line="53" column="37" />
+        <mark key="[" line="25" column="2" />
+        <mark key="]" line="25" column="54" />
+        <mark key="^" line="25" column="54" />
+        <mark key="." line="25" column="54" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
         <mark key="[" line="32" column="67" />
@@ -1407,7 +1407,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>install</text>
       </register>
       <register name="/" type="4">
         <text>Acro</text>
@@ -1416,31 +1416,31 @@
         <text encoding="base64">UlVOIGVjaG8gIj09PT09PT09PT09PT09PT09PT09PT09PSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBOb3RlOiB0aGlzIGlzIG5vdCBuZWNlc3NhcnkgZm9yIEZsdXR0ZXIgYnVpbGQK</text>
+        <text encoding="base64">IyB0ZXN0IGZsdXR0ZXIgdGVzdCBhbmQgYnVpbGQKI0FERCBtZWFsLXBsYW5uZXIgL3Jvb3QvbWVhbC1wbGFubmVyCiNXT1JLRElSIC9yb290L21lYWwtcGxhbm5lcgojUlVOIGZsdXR0ZXIgdGVzdAojUlVOIGVjaG8gIj09PT09PT09PT09PT09PT09PT09PT09PSIKI1JVTiBmbHV0dGVyIGJ1aWxkIGFwayAtdCBsaWIvTWFpbi5kYXJ0CiNSVU4gZWNobyAiPT09PT09PT09PT09PT09PT09PT09PT09IgojUlVOIGxzIC1hbCAvcm9vdC9tZWFsLXBsYW5uZXIvYnVpbGQvYXBwL291dHB1dHMvYXBrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5WIEFORFJPSURfSE9NRT0iL3Jvb3QvYW5kcm9pZC1zZGsiCg==</text>
+        <text encoding="base64">IyBjaGVjayB0aGUgZW52aXJvbm1lbnQKUlVOIGZsdXR0ZXIgZG9jdG8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBOb3RlOiB0aGlzIGlzIG5vdCBuZWNlc3NhcnkgZm9yIEZsdXR0ZXIgYnVpbGQKIyBpbnN0YWxsIEFuZHJvaWQgU3R1ZGlvCiNSVU4gd2dldCBodHRwczovL2RsLmdvb2dsZS5jb20vZGwvYW5kcm9pZC9zdHVkaW8vaWRlLXppcHMvMi4zLjMuMC9hbmRyb2lkLXN0dWRpby1pZGUtMTYyLjQwNjk4MzctbGludXguemlwIC1PICRET1dOTE9BRC9hbmRyb2lkLXN0dWRpby1pZGUuemlwCiNSVU4gdW56aXAgJERPV05MT0FEL2FuZHJvaWQtc3R1ZGlvLWlkZS56aXAKI0VOViBQQVRIPSIvcm9vdC9hbmRyb2lkLXN0dWRpby9iaW46JFBBVEgiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIGRvd25sb2FkCkVOViBET1dOTE9BRD0icm9vdC9kb3dubG9hZCIKClJVTiBta2RpciBhbmRyb2lkLXNkawpFTlYgQU5EUk9JRF9IT01FPSIvcm9vdC9hbmRyb2lkLXNkayIKCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBOb3RlOiB0aGlzIGlzIG5vdCBuZWNlc3NhcnkgZm9yIEZsdXR0ZXIgYnVpbGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIHVuemlwIC9yb290L2FuZHJvaWQtc3R1ZGlvLWlkZS56aXAKRU5WIFBBVEg9Ii9yb290L2FuZHJvaWQtc3R1ZGlvL2JpbjokUEFUSCIKCg==</text>
+        <text encoding="base64">RU5WIEFORFJPSURfSE9NRT0iL3Jvb3QvYW5kcm9pZC1zZGsiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I0FERCAuL2Rvd25sb2FkIC9yb290CgojUlVOIHVuemlwIC9yb290L3Nkay10b29scy1saW51eC56aXAgLWQgJEFORFJPSURfSE9NRQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
