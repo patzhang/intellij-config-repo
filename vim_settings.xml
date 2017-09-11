@@ -595,12 +595,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1505145944398">
+      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1505147017391">
         <mark key="'" line="32" column="18" />
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="31" column="9" />
-        <mark key="." line="31" column="9" />
-        <mark key="^" line="31" column="9" />
+        <mark key="[" line="45" column="62" />
+        <mark key="]" line="45" column="62" />
+        <mark key="." line="45" column="62" />
+        <mark key="^" line="48" column="32" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
         <mark key="[" line="32" column="67" />
@@ -1423,13 +1423,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>r</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>{</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICYmIGFwdC1nZXQgcmVtb3ZlIC15IGN1cmwgZ2l0IFwKICYmIGFwdCBhdXRvcmVtb3ZlIC15IFwKICYmIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
+      <register name="0" type="4">
+        <text>sdkmanager --uninstall &quot;patcher;v4&quot; &quot;emulator&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBhcHQtZ2V0IHJlbW92ZSAteSB1bnppcCAmJiBcCiAgYXB0IGF1dG9yZW1vdmUgLXkgJiYgXAogIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
