@@ -595,11 +595,11 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1505137744328">
+      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1505139652096">
         <mark key="'" line="13" column="27" />
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
         <mark key="^" line="24" column="28" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
@@ -1432,34 +1432,34 @@
         <text encoding="base64">UlVOIGFwayB1cGRhdGUgXAogJiYgYXBrIGFkZCBvcGVuamRrOCBiYXNoIGN1cmwgd2dldCBnaXQgXAogJiYgcm0gLXJmIC92YXIvY2FjaGUvYXBrLyoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkNNRCBbImJhc2giXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjbGVhbiB1cApSVU4gcm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICBhcHQtdXRpbHMgXAo=</text>
+        <text encoding="base64">IyBjbGVhbiB1cApSVU4gcm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICBhcHQtdXRpbHMgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICB1bnppcCBcCg==</text>
+        <text encoding="base64">ICAgICBhcHQtdXRpbHMgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICB3Z2V0IFwK</text>
+        <text encoding="base64">ICAgICB1bnppcCBcCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LXRvb2xzIiBcCiAgICAgICJwbGF0Zm9ybXM7JHtBTkRST0lEX0FQSV9MRVZFTFN9Igo=</text>
+        <text encoding="base64">ICAgICB3Z2V0IFwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LXRvb2xzIiBcCiAgICAgICJwbGF0Zm9ybXM7JHtBTkRST0lEX0FQSV9MRVZFTFN9Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WIFBBVEggJHtQQVRIfToke0FORFJPSURfSE9NRX0vdG9vbHM6JHtBTkRST0lEX0hPTUV9L3BsYXRmb3JtLXRvb2xzCgojIHNldHVwIEZsdXR0ZXIgZnJvbSBodHRwczovL2dpdGh1Yi5jb20vZmx1dHRlci9mbHV0dGVyCldPUktESVIgL29wdApSVU4gZ2l0IGNsb25lIC1iIG1hc3RlciBodHRwczovL2dpdGh1Yi5jb20vZmx1dHRlci9mbHV0dGVyLmdpdAoKRU5WIFBBVEg9Ii9vcHQvZmx1dHRlci9iaW46JFBBVEgiCgojIGNoZWNrIHRoZSBlbnZpcm9ubWVudApXT1JLRElSIC8KI1JVTiBmbHV0dGVyIGRvY3Rvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>split-v</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -1506,7 +1506,6 @@
         <entry>84</entry>
         <entry>60</entry>
         <entry>325</entry>
-        <entry>vsplit</entry>
         <entry>help move</entry>
         <entry>close</entry>
         <entry>only</entry>
@@ -1521,6 +1520,7 @@
         <entry>9</entry>
         <entry>15,25d</entry>
         <entry>split-v</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
