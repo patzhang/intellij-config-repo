@@ -1459,7 +1459,7 @@
         <text encoding="base64">RU5WIFBBVEggJHtQQVRIfToke0FORFJPSURfSE9NRX0vdG9vbHM6JHtBTkRST0lEX0hPTUV9L3BsYXRmb3JtLXRvb2xzCgojIHNldHVwIEZsdXR0ZXIgZnJvbSBodHRwczovL2dpdGh1Yi5jb20vZmx1dHRlci9mbHV0dGVyCldPUktESVIgL29wdApSVU4gZ2l0IGNsb25lIC1iIG1hc3RlciBodHRwczovL2dpdGh1Yi5jb20vZmx1dHRlci9mbHV0dGVyLmdpdAoKRU5WIFBBVEg9Ii9vcHQvZmx1dHRlci9iaW46JFBBVEgiCgojIGNoZWNrIHRoZSBlbnZpcm9ubWVudApXT1JLRElSIC8KI1JVTiBmbHV0dGVyIGRvY3Rvcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>15,25d</text>
+        <text>split-v</text>
       </register>
     </registers>
     <search>
@@ -1520,6 +1520,7 @@
         <entry>split</entry>
         <entry>9</entry>
         <entry>15,25d</entry>
+        <entry>split-v</entry>
       </history-cmd>
       <history-expr />
       <history-input />
