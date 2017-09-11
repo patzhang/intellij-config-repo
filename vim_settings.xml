@@ -266,12 +266,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" timestamp="1505130356058">
+      <file name="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" timestamp="1505133867795">
         <mark key="'" line="28" column="8" />
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="1" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="10" column="1" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
         <mark key="[" line="4" column="29" />
@@ -1423,7 +1423,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ubuntu:16.04</text>
       </register>
       <register name="/" type="4">
         <text>-c</text>

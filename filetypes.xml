@@ -6,6 +6,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="added flutter" type="PLAIN_TEXT" />
       <mapping ext="alpine" type="PLAIN_TEXT" />
+      <mapping ext="justflutter" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
