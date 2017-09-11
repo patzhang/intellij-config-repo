@@ -595,12 +595,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1505142898487">
+      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1505143518117">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
         <mark key="[" line="32" column="67" />
@@ -1423,40 +1423,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/opt/flutter/</text>
+        <text>curl git</text>
       </register>
       <register name="/" type="4">
         <text>-c</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIGFwayB1cGRhdGUgXAogJiYgYXBrIGFkZCBvcGVuamRrOCBiYXNoIGN1cmwgd2dldCBnaXQgXAogJiYgcm0gLXJmIC92YXIvY2FjaGUvYXBrLyoK</text>
+        <text encoding="base64">ICYmIGFwdC1nZXQgcmVtb3ZlIC15IGN1cmwgZ2l0IFwKICYmIGFwdCBhdXRvcmVtb3ZlIC15IFwKICYmIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIFBBVEg9IiRQQVRIOiR7RkxVVFRFUl9IT01FfS9iaW4iCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIGFuZHJvaWQtc2RrLWxpbnV4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIGRvd25sb2FkCkVOViBET1dOTE9BRD0iL29wdC9kb3dubG9hZCIK</text>
+        <text encoding="base64">UlVOIG1rZGlyIGFuZHJvaWQtc2RrLWxpbnV4CkVOViBBTkRST0lEX0hPTUU9Ii9vcHQvYW5kcm9pZC1zZGstbGludXgiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CkNNRCBbImJhc2giXQo=</text>
+        <text encoding="base64">IyBTZXQgdXAgZGlyZWN0b3JpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIFBBVEg9IiRQQVRIOiR7RkxVVFRFUl9IT01FfS9iaW4iCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBjbGVhbiB1cApSVU4gcm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIGRvd25sb2FkCkVOViBET1dOTE9BRD0iL29wdC9kb3dubG9hZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBhcHQtdXRpbHMgXAo=</text>
+        <text encoding="base64">CkNNRCBbImJhc2giXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBhcHQtdXRpbHMgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICB1bnppcCBcCg==</text>
+        <text encoding="base64">IyBjbGVhbiB1cApSVU4gcm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICB3Z2V0IFwK</text>
+        <text encoding="base64">ICAgICBhcHQtdXRpbHMgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
