@@ -595,12 +595,12 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1505147017391">
+      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1505205278465">
         <mark key="'" line="32" column="18" />
-        <mark key="[" line="45" column="62" />
-        <mark key="]" line="45" column="62" />
-        <mark key="." line="45" column="62" />
-        <mark key="^" line="48" column="32" />
+        <mark key="[" line="51" column="40" />
+        <mark key="]" line="52" column="24" />
+        <mark key="." line="52" column="24" />
+        <mark key="^" line="52" column="24" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/linux_continuous_capture_v1.py" timestamp="1490266733307">
         <mark key="[" line="32" column="67" />
@@ -1423,10 +1423,10 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>{</text>
+        <text encoding="base64">XDwmXD4=</text>
       </register>
       <register name="0" type="4">
         <text>sdkmanager --uninstall &quot;patcher;v4&quot; &quot;emulator&quot;</text>
@@ -1459,17 +1459,17 @@
         <text encoding="base64">UlVOIG1rZGlyIGFuZHJvaWQtc2RrLWxpbnV4Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>{</last-search>
+      <last-search encoding="base64">XDwmXD4=</last-search>
       <last-offset />
-      <last-pattern>{</last-pattern>
+      <last-pattern encoding="base64">XDwmXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1498,6 +1498,7 @@
         <entry>-c</entry>
         <entry>}</entry>
         <entry>{</entry>
+        <entry encoding="base64">XDwmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>8</entry>
@@ -1516,13 +1517,13 @@
         <entry>25</entry>
         <entry>23</entry>
         <entry>26</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>19</entry>
         <entry>split</entry>
         <entry>9</entry>
         <entry>15,25d</entry>
         <entry>split-v</entry>
         <entry>vsplit</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
