@@ -441,12 +441,11 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1501239283362">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1505295578411">
         <mark key="'" line="47" column="15" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="57" />
-        <mark key="." line="63" column="78" />
-        <mark key="^" line="63" column="78" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/output/Readme.txt" timestamp="1485205216636">
         <mark key="[" line="0" column="49" />
@@ -467,7 +466,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505233084958">
+      <file name="/Dummy.txt" timestamp="1505296079495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1505235134079">
@@ -1408,34 +1407,34 @@
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBybSAtcmYgL3Zhci9saWIvYXB0L2xpc3RzLyoK</text>
+        <text encoding="base64">ICAgIG9zLnBhdGguam9pbigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcHQtZ2V0IGNsZWFuCg==</text>
+        <text encoding="base64">ICBybSAtcmYgL3Zhci9saWIvYXB0L2xpc3RzLyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcHQtZ2V0IGNsZWFuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIGZsdXR0ZXIgZG9jdG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBjaGVjayB0aGUgZW52aXJvbm1lbnQgYW5kIGluc3RhbGwgRGFydCBhbmQgcmVsYXRlZCBzdHVmZiB1c2luZyBHaXQK</text>
+        <text encoding="base64">UlVOIGZsdXR0ZXIgZG9jdG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RU5WIEZMVVRURVJfSE9NRSAvb3B0L2ZsdXR0ZXIKRU5WIEZMVVRURVJfUkVQTyBodHRwczovL2dpdGh1Yi5jb20vZmx1dHRlci9mbHV0dGVyLmdpdAojIGFscGhhIGJyYW5jaCBpcyByZWNvbW1lbmRlZCwgYnV0IGl0IGlzIHZlcnkgb3V0LW9mLWRhdGUuIFNvIG1hc3RlciBpcyB1c2VkLgpFTlYgRkxVVFRFUl9CUkFOQ0ggbWFzdGVyCkVOViBQQVRIICRQQVRIOiRGTFVUVEVSX0hPTUUvYmluCgojIHNldCB1cCBGbHV0dGVyIGZyb20gaHR0cHM6Ly9naXRodWIuY29tL2ZsdXR0ZXIvZmx1dHRlcgpSVU4gbWtkaXIgJEZMVVRURVJfSE9NRSAmJiBcCiAgZ2l0IGNsb25lIC1iICRGTFVUVEVSX0JSQU5DSCAkRkxVVFRFUl9SRVBPICRGTFVUVEVSX0hPTUUKCg==</text>
+        <text encoding="base64">IyBjaGVjayB0aGUgZW52aXJvbm1lbnQgYW5kIGluc3RhbGwgRGFydCBhbmQgcmVsYXRlZCBzdHVmZiB1c2luZyBHaXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RU5WIEZMVVRURVJfSE9NRSAvb3B0L2ZsdXR0ZXIKRU5WIEZMVVRURVJfUkVQTyBodHRwczovL2dpdGh1Yi5jb20vZmx1dHRlci9mbHV0dGVyLmdpdAojIGFscGhhIGJyYW5jaCBpcyByZWNvbW1lbmRlZCwgYnV0IGl0IGlzIHZlcnkgb3V0LW9mLWRhdGUuIFNvIG1hc3RlciBpcyB1c2VkLgpFTlYgRkxVVFRFUl9CUkFOQ0ggbWFzdGVyCkVOViBQQVRIICRQQVRIOiRGTFVUVEVSX0hPTUUvYmluCgojIHNldCB1cCBGbHV0dGVyIGZyb20gaHR0cHM6Ly9naXRodWIuY29tL2ZsdXR0ZXIvZmx1dHRlcgpSVU4gbWtkaXIgJEZMVVRURVJfSE9NRSAmJiBcCiAgZ2l0IGNsb25lIC1iICRGTFVUVEVSX0JSQU5DSCAkRkxVVFRFUl9SRVBPICRGTFVUVEVSX0hPTUUKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBybSAtcmYgJEZMVVRURVJfSE9NRS8uZ2l0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBybSAtcmYgJEZMVVRURVJfSE9NRS8uZ2l0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vmap</text>
