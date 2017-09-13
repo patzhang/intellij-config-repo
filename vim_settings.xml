@@ -105,11 +105,11 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505308022894">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="187" />
-        <mark key="." line="7" column="187" />
-        <mark key="^" line="7" column="187" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505310952004">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -190,6 +190,13 @@
         <mark key="]" line="2" column="13" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" timestamp="1505311677135">
+        <mark key="'" line="15" column="33" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task5_IntoPractice_GitHub.java" timestamp="1494413687614">
         <mark key="'" line="34" column="33" />
@@ -286,11 +293,11 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_import_sku.py" timestamp="1505302424552">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="34" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_import_sku.py" timestamp="1505311809994">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
         <mark key="[" line="5" column="0" />
@@ -478,7 +485,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505302044156">
+      <file name="/Dummy.txt" timestamp="1505309722628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1505299023625">
@@ -730,7 +737,7 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1505302555546">
+      <file name="/Python Console" timestamp="1505308772699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -1324,11 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="10" filename="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_car.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
-      <jump line="7" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" />
-      <jump line="37" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" />
-      <jump line="1" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="152" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="154" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
@@ -1424,10 +1426,15 @@
       <jump line="13" column="54" filename="$USER_HOME$/DL_Workspace/patricknet-dashboard/indexer/src/main.js" />
       <jump line="10500" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference_v1.5/dashboard-2017-09-13.json" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" />
+      <jump line="10" column="9" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
+      <jump line="12" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
+      <jump line="16" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>u</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
@@ -1437,34 +1444,34 @@
     Call http</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRzLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvdW50ID0gY291bnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHFkbT09NC4xNC4wCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCA9IDkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICIiIgogICAgVGhpcyBtYW5hZ2VyIGhhbmRsZXMgdGhlIGltYWdlIHN0YXRzIHJldHJpZXZlZCBmcm9tIFBhdHJpY2tOZXQgZGFzaGJvYXJkCiAgICAiIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1LmRhc2hib2FyZF9tYW5hZ2VyIGltcG9ydCBEYXNoYm9hcmRNYW5hZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdpdmVuCg==</text>
+        <text encoding="base64">ICAgIHN0YXRzID0gZ2V0X2ltYWdlX3N0YXRzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAzCg==</text>
+        <text encoding="base64">REFTSEJPQVJEX0lNQUdFU19VUkwgPSAnaHR0cHM6Ly9vY2Fkb2xhYnMuY29tL3BhdHJpY2tuZXQtZGFzaGJvYXJkL2FwaS9pbWFnZXMnCgpSRUZFUkVSID0gJ2h0dHBzOi8vbG9naW4ubGFzdG1pbGUuY29tL3BhbmRhc3NvL29hdXRoMi9sb2dpbj9yZXNwb25zZV90eXBlPWNvZGUmcmVkaXJlY3RfdXJpPWh0dHBzJTNBJTJGJTJGb2NhZG9sYWJzLmNvbSUyRnZlcmlmeS5wYW5kYXNzbyZzdGF0ZT1veElaR3dEWUttcHkwR29NVmdselI0M2wmY2xpZW50X2lkPW9jYWRvbGFicycKCmRlZiBnZXRfaW1hZ2Vfc3RhdHMoKToKICAgICIiIgogICAgQ2FsbCBodHRwczovL29jYWRvbGFicy5jb20vcGF0cmlja25ldC1kYXNoYm9hcmQvYXBpL2ltYWdlcwogICAgdG8gcmV0cmlldmUgdGhlIGltYWdlIHN0YXR1cyBpbiBhIEpTT04gcmVzcG9uc2UuCiAgICA6cmV0dXJuOiBhIEpTT04gcmVzcG9uc2UKICAgICIiIgogICAgdXJsID0gREFTSEJPQVJEX0lNQUdFU19VUkwKICAgIGhlYWRlcnMgPSB7J1JlZmVyZXInOiBSRUZFUkVSfQogICAgc3RhdHMgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzKQoKICAgIHJldHVybiBzdGF0cwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgZAo=</text>
+        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1LmltcG9ydF9za3UgaW1wb3J0IGdldF9pbWFnZV9zdGF0cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0cyA9IGdldF9pbWFnZV9zdGF0cygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGguam9pbigpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYW5hZ2VyID0gRGFzaGJvYXJkTWFuYWdlcihTVEFUU19KU09OKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
