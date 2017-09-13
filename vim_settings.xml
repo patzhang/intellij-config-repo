@@ -207,10 +207,10 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" timestamp="1505315682489">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" timestamp="1505319179169">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="19" column="67" />
         <mark key="^" line="30" column="40" />
         <mark key="." line="2" column="0" />
       </file>
@@ -262,11 +262,11 @@
         <mark key="^" line="59" column="33" />
         <mark key="." line="59" column="33" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" timestamp="1505317455017">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" timestamp="1505319144257">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/Readme.org" timestamp="1504694741827">
         <mark key="[" line="24" column="0" />
@@ -1455,13 +1455,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)'./</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0cyA9ICcuL2lucHV0L2ltYWdlX3N0YXRzX3Rlc3QuanNvbicKICAgICAgICAjIHdoZW4KICAgICAgICBtYW5hZ2VyID0gRGFzaGJvYXJkTWFuYWdlcihzdGF0cykK</text>
+        <text encoding="base64">ICAgICAgICBleGlzdHMgPSBvcy5wYXRoLmV4aXN0cyhzZWxmLnN0YXRzX2pzb24pCiAgICAgICAgaWYgZXhpc3RzOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgdG9kbzogdHJ5IHRvIGRvd25sb2FkIGltYWdlIHN0YXRzIEpTT04gZnJvbSBkYXNoYm9hcmQKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCdJbWFnZSBzdGF0cyBKU09OIGZpbGUgZG9lcyBub3QgZXhpc3QhJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHBhdGgK</text>
@@ -1494,7 +1494,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -1554,7 +1554,6 @@
         <entry>23</entry>
         <entry>26</entry>
         <entry>19</entry>
-        <entry>split</entry>
         <entry>9</entry>
         <entry>15,25d</entry>
         <entry>split-v</entry>
@@ -1563,6 +1562,7 @@
         <entry>nmap</entry>
         <entry>vmap</entry>
         <entry>vsplit</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
