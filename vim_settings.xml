@@ -1429,6 +1429,9 @@
       <register name="1" type="2">
         <text encoding="base64">ICBybSAtcmYgL3Zhci9saWIvYXB0L2xpc3RzLyoK</text>
       </register>
+      <register name="q" type="4">
+        <text />
+      </register>
       <register name="2" type="2">
         <text encoding="base64">ICBhcHQtZ2V0IGNsZWFuCg==</text>
       </register>
@@ -1454,7 +1457,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>vmap</text>
       </register>
     </registers>
     <search>
@@ -1519,6 +1522,9 @@
         <entry>split-v</entry>
         <entry>vsplit</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>map</entry>
+        <entry>nmap</entry>
+        <entry>vmap</entry>
       </history-cmd>
       <history-expr />
       <history-input />
