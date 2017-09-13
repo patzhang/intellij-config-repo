@@ -22,11 +22,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_dashboardManager.py" timestamp="1505317181283">
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="36" column="43" />
-        <mark key="." line="36" column="43" />
-        <mark key="^" line="36" column="43" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_dashboardManager.py" timestamp="1505318383774">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/WorkspacesExamples/py_proj_structure/tests/test_basic.py" timestamp="1485188475224">
         <mark key="[" line="7" column="0" />
@@ -754,7 +754,7 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1505317189743">
+      <file name="/Python Console" timestamp="1505318390851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -1455,7 +1455,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IC0+IE5vbmU=</text>
+        <text>)'./</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
@@ -1464,34 +1464,34 @@
         <text encoding="base64">ICAgICAgICBzdGF0cyA9ICcuL2lucHV0L2ltYWdlX3N0YXRzX3Rlc3QuanNvbicKICAgICAgICAjIHdoZW4KICAgICAgICBtYW5hZ2VyID0gRGFzaGJvYXJkTWFuYWdlcihzdGF0cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3NmdWwgPSBtYW5hZ2VyLmxvYWRfaW1hZ2Vfc3RhdHMoKQogICAgcHJpbnQoc3VjY2Vzc2Z1bCkK</text>
+        <text encoding="base64">aW1wb3J0IHBhdGgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwZXI6ICImcG91bmQ7Mi42OCBwZXIgMTAwZyIsCg==</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3NmdWwgPSBtYW5hZ2VyLmxvYWRfaW1hZ2Vfc3RhdHMoKQogICAgcHJpbnQoc3VjY2Vzc2Z1bCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdoZW4K</text>
+        <text encoding="base64">ICAgICAgICBwZXI6ICImcG91bmQ7Mi42OCBwZXIgMTAwZyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdpdmVuCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdoZW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdpdmVuCiAgICAgICAgc3RhdHMgPSAnLi9pbnB1dC9pbWFnZV9zdGF0c190ZXN0Lmpzb24nCiAgICAgICAgIyB3aGVuCiAgICAgICAgbWFuYWdlciA9IERhc2hib2FyZE1hbmFnZXIoc3RhdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGdpdmVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0X21hbmFnZXIoc2VsZik6CiAgICAgICAgIyBnaXZlbgogICAgICAgIHN0YXRzID0gJy4vaW5wdXQvaW1hZ2Vfc3RhdHNfdGVzdC5qc29uJwogICAgICAgICMgd2hlbgogICAgICAgIG1hbmFnZXIgPSBEYXNoYm9hcmRNYW5hZ2VyKHN0YXRzKQogICAgICAgIHJldHVybiBtYW5hZ2VyCgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGdpdmVuCiAgICAgICAgc3RhdHMgPSAnLi9pbnB1dC9pbWFnZV9zdGF0c190ZXN0Lmpzb24nCiAgICAgICAgIyB3aGVuCiAgICAgICAgbWFuYWdlciA9IERhc2hib2FyZE1hbmFnZXIoc3RhdHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBpbml0X21hbmFnZXIoc2VsZik6CiAgICAgICAgIyBnaXZlbgogICAgICAgIHN0YXRzID0gJy4vaW5wdXQvaW1hZ2Vfc3RhdHNfdGVzdC5qc29uJwogICAgICAgICMgd2hlbgogICAgICAgIG1hbmFnZXIgPSBEYXNoYm9hcmRNYW5hZ2VyKHN0YXRzKQogICAgICAgIHJldHVybiBtYW5hZ2VyCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdERhc2hib2FyZE1hbmFnZXIoVGVzdENhc2UpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
