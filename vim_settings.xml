@@ -105,11 +105,10 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505299578421">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505302532708">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -153,6 +152,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="38" column="50" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification/product_image_classification/modelling/inception_networks.py" timestamp="1502201821045">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/logging_util.py" timestamp="1487179005530">
         <mark key="[" line="11" column="60" />
@@ -286,6 +290,12 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_import_sku.py" timestamp="1505302424552">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="34" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
         <mark key="[" line="5" column="0" />
       </file>
@@ -319,6 +329,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="^" line="45" column="48" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesDart/meal_planner/assets/tmp/Readme.md" timestamp="1501846113370">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/test_label_images.py" timestamp="1487807012507">
         <mark key="[" line="30" column="0" />
@@ -472,7 +487,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505296079495">
+      <file name="/Dummy.txt" timestamp="1505302044156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1505299023625">
@@ -724,7 +739,7 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1497353831070">
+      <file name="/Python Console" timestamp="1505302555546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -780,6 +795,11 @@
         <mark key="]" line="101" column="24" />
         <mark key="^" line="101" column="24" />
         <mark key="." line="101" column="24" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dl-py3-test/venv3/lib/python3.5/site-packages/keras/models.py" timestamp="1504540995123">
+        <mark key="[" line="1036" column="0" />
+        <mark key="]" line="1036" column="0" />
+        <mark key="." line="1036" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline.py" timestamp="1498216622799">
         <mark key="'" line="53" column="28" />
@@ -1068,11 +1088,12 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" timestamp="1498061089421">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" timestamp="1505302075131">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/requirements.txt" timestamp="1488224668716">
         <mark key="[" line="2" column="0" />
@@ -1317,7 +1338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="45" filename="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_car.py" />
       <jump line="103" column="10" filename="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_car.py" />
       <jump line="0" column="0" filename="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" />
       <jump line="7" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" />
@@ -1417,49 +1437,51 @@
       <jump line="59" column="14" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="13" column="54" filename="$USER_HOME$/DL_Workspace/patricknet-dashboard/indexer/src/main.js" />
       <jump line="10500" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference_v1.5/dashboard-2017-09-13.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>3</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+      <register name="0" type="4">
+        <text>&quot;
+    Call http</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGguam9pbigpCg==</text>
+        <text encoding="base64">ICAgIHN0YXRzLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBybSAtcmYgL3Zhci9saWIvYXB0L2xpc3RzLyoK</text>
+        <text encoding="base64">dHFkbT09NC4xNC4wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcHQtZ2V0IGNsZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIGZsdXR0ZXIgZG9jdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGdpdmVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBjaGVjayB0aGUgZW52aXJvbm1lbnQgYW5kIGluc3RhbGwgRGFydCBhbmQgcmVsYXRlZCBzdHVmZiB1c2luZyBHaXQK</text>
+        <text encoding="base64">ICAgIHJldHVybiAzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RU5WIEZMVVRURVJfSE9NRSAvb3B0L2ZsdXR0ZXIKRU5WIEZMVVRURVJfUkVQTyBodHRwczovL2dpdGh1Yi5jb20vZmx1dHRlci9mbHV0dGVyLmdpdAojIGFscGhhIGJyYW5jaCBpcyByZWNvbW1lbmRlZCwgYnV0IGl0IGlzIHZlcnkgb3V0LW9mLWRhdGUuIFNvIG1hc3RlciBpcyB1c2VkLgpFTlYgRkxVVFRFUl9CUkFOQ0ggbWFzdGVyCkVOViBQQVRIICRQQVRIOiRGTFVUVEVSX0hPTUUvYmluCgojIHNldCB1cCBGbHV0dGVyIGZyb20gaHR0cHM6Ly9naXRodWIuY29tL2ZsdXR0ZXIvZmx1dHRlcgpSVU4gbWtkaXIgJEZMVVRURVJfSE9NRSAmJiBcCiAgZ2l0IGNsb25lIC1iICRGTFVUVEVSX0JSQU5DSCAkRkxVVFRFUl9SRVBPICRGTFVUVEVSX0hPTUUKCg==</text>
+        <text encoding="base64">ICAgZAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBybSAtcmYgJEZMVVRURVJfSE9NRS8uZ2l0Cg==</text>
+        <text encoding="base64">ICAgIG9zLnBhdGguam9pbigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vmap</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -1523,11 +1545,11 @@
         <entry>9</entry>
         <entry>15,25d</entry>
         <entry>split-v</entry>
-        <entry>vsplit</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>map</entry>
         <entry>nmap</entry>
         <entry>vmap</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
