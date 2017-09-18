@@ -275,12 +275,12 @@
         <mark key="^" line="59" column="33" />
         <mark key="." line="59" column="33" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" timestamp="1505750486346">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" timestamp="1505751817980">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="35" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="35" />
+        <mark key="[" line="26" column="59" />
+        <mark key="]" line="26" column="59" />
+        <mark key="^" line="26" column="59" />
+        <mark key="." line="26" column="59" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/Readme.org" timestamp="1504694741827">
         <mark key="[" line="24" column="0" />
@@ -788,7 +788,7 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1505750490096">
+      <file name="/Python Console" timestamp="1505751822497">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -1109,8 +1109,8 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" timestamp="1505750228117">
-        <mark key="'" line="50" column="8" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" timestamp="1505751621135">
+        <mark key="'" line="45" column="28" />
         <mark key="[" line="53" column="25" />
         <mark key="]" line="53" column="52" />
         <mark key="." line="53" column="52" />
@@ -1405,7 +1405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="81" column="55" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="24" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="61" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1505,10 +1504,11 @@
       <jump line="39" column="9" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" />
       <jump line="25" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
       <jump line="47" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
+      <jump line="45" column="28" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.append(new_products)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdfcHJkc1w+</text>
