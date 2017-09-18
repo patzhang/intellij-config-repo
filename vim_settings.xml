@@ -22,9 +22,9 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_dashboardManager.py" timestamp="1505748390899">
-        <mark key="[" line="41" column="54" />
-        <mark key="]" line="41" column="62" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_dashboardManager.py" timestamp="1505749591569">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="40" />
         <mark key="^" line="40" column="40" />
         <mark key="." line="41" column="54" />
       </file>
@@ -121,11 +121,12 @@
       <file name="/Python Script.txt.ft" timestamp="1505317057923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505745205070">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505749447205">
         <mark key="'" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -274,12 +275,12 @@
         <mark key="^" line="59" column="33" />
         <mark key="." line="59" column="33" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" timestamp="1505747190283">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" timestamp="1505750486346">
         <mark key="'" line="0" column="10" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="26" column="39" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="35" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/Readme.org" timestamp="1504694741827">
         <mark key="[" line="24" column="0" />
@@ -477,12 +478,12 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" timestamp="1505745712001">
-        <mark key="'" line="6" column="21" />
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="23" column="41" />
-        <mark key="." line="27" column="28" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" timestamp="1505749768708">
+        <mark key="'" line="8" column="29" />
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+        <mark key="." line="18" column="40" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1490799613128">
         <mark key="'" line="7" column="34" />
@@ -509,12 +510,12 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505748580936">
-        <mark key="'" line="14" column="24" />
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="32" column="14" />
-        <mark key="^" line="32" column="14" />
-        <mark key="." line="32" column="14" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505749358703">
+        <mark key="'" line="39" column="9" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="26" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/output/Readme.txt" timestamp="1485205216636">
         <mark key="[" line="0" column="49" />
@@ -787,7 +788,7 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1505746571982">
+      <file name="/Python Console" timestamp="1505750490096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -1108,11 +1109,12 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" timestamp="1505746569773">
-        <mark key="[" line="31" column="40" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="31" column="40" />
-        <mark key="^" line="31" column="61" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" timestamp="1505750228117">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="53" column="25" />
+        <mark key="]" line="53" column="52" />
+        <mark key="." line="53" column="52" />
+        <mark key="^" line="53" column="52" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1505317071367">
         <mark key="[" line="0" column="0" />
@@ -1403,10 +1405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6738" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/38-skus-v1.json" />
-      <jump line="214" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
-      <jump line="435" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="32" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="462" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="81" column="55" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="24" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1503,59 +1501,63 @@
       <jump line="18" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" />
       <jump line="25" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" />
       <jump line="0" column="10" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" />
+      <jump line="13" column="29" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" />
+      <jump line="39" column="9" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>return</text>
+        <text>.append(new_products)</text>
       </register>
       <register name="/" type="4">
-        <text>app</text>
+        <text encoding="base64">XDxuZXdfcHJkc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGJjX3RvX3NrdVsnJ10sICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nX2RpciA9IG9zLnBhdGgucmVhbHBhdGgob3MucGF0aC5hYnNwYXRoKG9zLnBhdGguc3BsaXQoaW5zcGVjdC5nZXRmaWxlKGluc3BlY3QuY3VycmVudGZyYW1lKCkpKVswXSkpCiAgICAgICAgc3RhdHMgPSBvcy5wYXRoLmpvaW4od29ya2luZ19kaXIsICdpbnB1dC9pbWFnZV9zdGF0cy5qc29uJykKICAgICAgICBtYW5hZ2VyID0gRGFzaGJvYXJkTWFuYWdlcihzdGF0cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIFRlc3REYXNoYm9hcmRNYW5hZ2VyKFRlc3RDYXNlKToK</text>
+        <text encoding="base64">UkVRVUlSRURfSU1BR0VTID0gNDAwMAoKU1RBVFNfSlNPTiA9ICcuL2lucHV0L2ltYWdlX3N0YXRzLmpzb24nClBSRF9KU09OID0gJy4uL2RhdGFzZXQvdjEtcHJvZHVjdHMuanNvbicKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIFRlc3REYXNoYm9hcmRNYW5hZ2VyKFRlc3RDYXNlKToK</text>
+        <text encoding="base64">ICAgICAgICBuZXdfYmFyY29kZXMgPSBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG5ld19wcm9kdWN0cy5hcHBlbmQoJzUwMjc2MzIwMDExMTgnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtcyA9IHNlbGYuanNvbl9tZ3IuanNvbl9pdGVtcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIFRlc3REYXNoYm9hcmRNYW5hZ2VyKFRlc3RDYXNlKToK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>app</last-search>
+      <last-search encoding="base64">XDxuZXdfcHJkc1w+</last-search>
       <last-offset />
-      <last-pattern>app</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdfcHJkc1w+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1579,6 +1581,7 @@
         <entry>{</entry>
         <entry encoding="base64">XDwmXD4=</entry>
         <entry>app</entry>
+        <entry encoding="base64">XDxuZXdfcHJkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
