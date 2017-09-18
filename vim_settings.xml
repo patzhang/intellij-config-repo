@@ -121,11 +121,11 @@
       <file name="/Python Script.txt.ft" timestamp="1505317057923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505317315949">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505739297016">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -1038,11 +1038,12 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/README.md" timestamp="1505298862857">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="4" column="180" />
-        <mark key="^" line="4" column="180" />
-        <mark key="." line="4" column="180" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/README.md" timestamp="1505739714059">
+        <mark key="'" line="4" column="53" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="44" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/Readme.md" timestamp="1493222877304">
         <mark key="[" line="20" column="37" />
@@ -1387,7 +1388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/WorkspacesDart/meal_planner/.gitignore" />
       <jump line="156" column="88" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="1071" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/38-skus-v1.json" />
       <jump line="930" column="5" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/38-skus-v1.json" />
@@ -1487,10 +1487,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_dashboardManager.py" />
       <jump line="2" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
       <jump line="21" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_jsonFileManager.py" />
+      <jump line="4" column="53" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/README.md" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>barcodes</text>
+        <text>barcode_</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
@@ -1499,34 +1500,34 @@
         <text encoding="base64">ICAgICAgICAjIGdpdmVuCiAgICAgICAgbWFuYWdlciA9IHNlbGYuaW5pdF9tYW5hZ2VyKCkKICAgICAgICAjIHdoZW4KICAgICAgICBiYXJjb2RlcyA9IG1hbmFnZXIuZ2V0X2NvdW50X2J5X2JhcmNvZGVzKCkKICAgICAgICAjIHRoZW4KICAgICAgICBzZWxmLmFzc2VydEdyZWF0ZXIobGVuKGJhcmNvZGVzKSwgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBSRF9KU09OID0gJy4uL2RhdGFzZXQvdjEtcHJvZHVjdHMuanNvbicK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xvYWRfaW1hZ2Vfc3RhdHMoc2VsZik6CiAgICAgICAgIyBnaXZlbgogICAgICAgIG1hbmFnZXIgPSBzZWxmLmluaXRfbWFuYWdlcigpCiAgICAgICAgIyB3aGVuCiAgICAgICAgc3VjY2Vzc2Z1bCA9IG1hbmFnZXIubG9hZF9pbWFnZV9zdGF0cygpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHN1Y2Nlc3NmdWwpCgogICAgZGVmIHRlc3RfZ2V0X2l0ZW1zKHNlbGYpOgogICAgICAgICMgZ2l2ZW4KICAgICAgICBtYW5hZ2VyID0gc2VsZi5pbml0X21hbmFnZXIoKQogICAgICAgICMgd2hlbgogICAgICAgIGl0ZW1zID0gbWFuYWdlci5nZXRfaXRlbXMoKQogICAgICAgICMgdGhlbgogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKGl0ZW1zKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKGl0ZW1zKSwgNikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xvYWRfaW1hZ2Vfc3RhdHMoc2VsZik6CiAgICAgICAgIyBnaXZlbgogICAgICAgIG1hbmFnZXIgPSBzZWxmLmluaXRfbWFuYWdlcigpCiAgICAgICAgIyB3aGVuCiAgICAgICAgc3VjY2Vzc2Z1bCA9IG1hbmFnZXIubG9hZF9pbWFnZV9zdGF0cygpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHN1Y2Nlc3NmdWwpCgogICAgZGVmIHRlc3RfZ2V0X2l0ZW1zKHNlbGYpOgogICAgICAgICMgZ2l2ZW4KICAgICAgICBtYW5hZ2VyID0gc2VsZi5pbml0X21hbmFnZXIoKQogICAgICAgICMgd2hlbgogICAgICAgIGl0ZW1zID0gbWFuYWdlci5nZXRfaXRlbXMoKQogICAgICAgICMgdGhlbgogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKGl0ZW1zKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKGl0ZW1zKSwgNikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkX2ltYWdlX3N0YXRzKHNlbGYpOgogICAgICAgIGV4aXN0cyA9IG9zLnBhdGguZXhpc3RzKHNlbGYuc3RhdHNfanNvbikKICAgICAgICBpZiBleGlzdHM6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyB0b2RvOiB0cnkgdG8gZG93bmxvYWQgaW1hZ2Ugc3RhdHMgSlNPTiBmcm9tIGRhc2hib2FyZAogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0ltYWdlIHN0YXRzIEpTT04gZmlsZSBkb2VzIG5vdCBleGlzdCEnKQoKICAgIGRlZiBnZXRfaXRlbXMoc2VsZik6CiAgICAgICAgc3VjY2Vzc2Z1bCA9IHNlbGYubG9hZF9pbWFnZV9zdGF0cygpCiAgICAgICAgaWYgbm90IHN1Y2Nlc3NmdWw6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignRmFpbGVkIHRvIGxvYWQgaW1hZ2Ugc3RhdHMgSlNPTiBmaWxlLicpCiAgICAgICAgd2l0aCBvcGVuKHNlbGYuc3RhdHNfanNvbiwgJ3InKSBhcyBzdGF0c19kYXRhOgogICAgICAgICAgICBpdGVtcyA9IGpzb24ubG9hZChzdGF0c19kYXRhKQogICAgICAgICAgICByZXR1cm4gaXRlbXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX2pzb24gPSBzdGF0c19qc29uCiAgICAgICAgc2VsZi5zdGF0c19pdGVtcyA9IHNlbGYuZ2V0X2l0ZW1zKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBsb2FkX2ltYWdlX3N0YXRzKHNlbGYpOgogICAgICAgIGV4aXN0cyA9IG9zLnBhdGguZXhpc3RzKHNlbGYuc3RhdHNfanNvbikKICAgICAgICBpZiBleGlzdHM6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyB0b2RvOiB0cnkgdG8gZG93bmxvYWQgaW1hZ2Ugc3RhdHMgSlNPTiBmcm9tIGRhc2hib2FyZAogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0ltYWdlIHN0YXRzIEpTT04gZmlsZSBkb2VzIG5vdCBleGlzdCEnKQoKICAgIGRlZiBnZXRfaXRlbXMoc2VsZik6CiAgICAgICAgc3VjY2Vzc2Z1bCA9IHNlbGYubG9hZF9pbWFnZV9zdGF0cygpCiAgICAgICAgaWYgbm90IHN1Y2Nlc3NmdWw6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignRmFpbGVkIHRvIGxvYWQgaW1hZ2Ugc3RhdHMgSlNPTiBmaWxlLicpCiAgICAgICAgd2l0aCBvcGVuKHNlbGYuc3RhdHNfanNvbiwgJ3InKSBhcyBzdGF0c19kYXRhOgogICAgICAgICAgICBpdGVtcyA9IGpzb24ubG9hZChzdGF0c19kYXRhKQogICAgICAgICAgICByZXR1cm4gaXRlbXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldF9jb3VudF9ieV9iYXJjb2RlcyhzZWxmKToKICAgICAgICAjIGdpdmVuCiAgICAgICAgbWFuYWdlciA9IHNlbGYuaW5pdF9tYW5hZ2VyKCkKICAgICAgICAjIHdoZW4KICAgICAgICBiYXJjb2RlcyA9IG1hbmFnZXIuZ2V0X2NvdW50X2J5X2JhcmNvZGVzKCkKICAgICAgICAjIHRoZW4KICAgICAgICBzZWxmLmFzc2VydEdyZWF0ZXIobGVuKGJhcmNvZGVzKSwgMCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX2pzb24gPSBzdGF0c19qc29uCiAgICAgICAgc2VsZi5zdGF0c19pdGVtcyA9IHNlbGYuZ2V0X2l0ZW1zKCkK</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
@@ -1539,17 +1540,10 @@
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw1MDAwMTY5ODg0MDk2XD4=</entry>
-        <entry>5000169884096</entry>
-        <entry>4025500181871</entry>
-        <entry>json</entry>
-        <entry>3</entry>
-        <entry>5000</entry>
-        <entry>10</entry>
         <entry>shutil</entry>
         <entry encoding="base64">XDxzaHV0aWxcPg==</entry>
         <entry>copyfile</entry>
@@ -1572,12 +1566,6 @@
         <entry>app</entry>
       </history-search>
       <history-cmd>
-        <entry>8</entry>
-        <entry>27</entry>
-        <entry>unsplit</entry>
-        <entry>.,.+7set hlsearch! hlsearch?</entry>
-        <entry>.,$d</entry>
-        <entry>84</entry>
         <entry>60</entry>
         <entry>325</entry>
         <entry>help move</entry>
