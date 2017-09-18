@@ -121,10 +121,11 @@
       <file name="/Python Script.txt.ft" timestamp="1505317057923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505741745579">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505745205070">
+        <mark key="'" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -273,11 +274,12 @@
         <mark key="^" line="59" column="33" />
         <mark key="." line="59" column="33" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" timestamp="1505320388712">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" timestamp="1505745966584">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="30" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/Readme.org" timestamp="1504694741827">
         <mark key="[" line="24" column="0" />
@@ -475,12 +477,12 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" timestamp="1505743537077">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" timestamp="1505745712001">
         <mark key="'" line="6" column="21" />
-        <mark key="[" line="22" column="47" />
-        <mark key="]" line="23" column="41" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="28" />
         <mark key="^" line="23" column="41" />
-        <mark key="." line="23" column="41" />
+        <mark key="." line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1490799613128">
         <mark key="'" line="7" column="34" />
@@ -1106,10 +1108,10 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" timestamp="1505320646503">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" timestamp="1505745476063">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
         <mark key="^" line="23" column="38" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1505317071367">
@@ -1401,11 +1403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="5" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/38-skus-v1.json" />
-      <jump line="425" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="426" column="84" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="427" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="245" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="6738" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference/38-skus-v1.json" />
       <jump line="214" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-products.json" />
       <jump line="435" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1501,10 +1498,15 @@
       <jump line="6" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" />
       <jump line="5" column="71" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" />
       <jump line="12" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" />
+      <jump line="5" column="9" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" />
+      <jump line="18" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" />
+      <jump line="25" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" />
+      <jump line="0" column="10" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/product_manager.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>new_barcodes</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
@@ -1513,34 +1515,34 @@
         <text encoding="base64">U1RBVFNfSlNPTiA9ICcuL2lucHV0L2ltYWdlX3N0YXRzLmpzb24nClBSRF9KU09OID0gJy4uL2RhdGFzZXQvdjEtcHJvZHVjdHMuanNvbicKCgpkZWYgZmluZF9uZXdfYmFyY29kZXMocHJvZHVjdHMsIGJhcmNvZGVfY291bnRzLCB0b3RhbF9pbWFnZXMpOgogICAgcmV0dXJuIE5vbmUKCgpkZWYgbWFpbigpOgogICAgZG0gPSBEYXNoYm9hcmRNYW5hZ2VyKFNUQVRTX0pTT04pCiAgICBiYXJjb2RlX2NvdW50ID0gZG0uZ2V0X2NvdW50X2J5X2JhcmNvZGVzKCkKCiAgICBwbSA9IFByb2R1Y3RNYW5hZ2VyKFBSRF9KU09OKQogICAgcHJvZHVjdHMgPSBwbS5nZXRfcHJvZHVjdHMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CmNsYXNzIFRlc3RQcm9kdWN0TWFuYWdlcihUZXN0Q2FzZSk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFsaWZpZWRfYmFyY29kZXMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmRfbmV3X2JhcmNvZGVzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cyA9IHBtLmdldF9wcm9kdWN0cygpCg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RzID0gcG0uZ2V0X3Byb2R1Y3RzKAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYXJjb2RlX2NvdW50cyA9IGRtLmdldF9jb3VudF9ieV9iYXJjb2RlcygpCg==</text>
+        <text encoding="base64">ICAgIGJhcmNvZGVfY291bnQgPSBkbS5nZXRfY291bnRfYnlfYmFyY29kZXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
