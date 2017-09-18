@@ -121,11 +121,11 @@
       <file name="/Python Script.txt.ft" timestamp="1505317057923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505739297016">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="14" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505740607019">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -1038,12 +1038,12 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/README.md" timestamp="1505739714059">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/README.md" timestamp="1505739906917">
         <mark key="'" line="4" column="53" />
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="10" column="44" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="44" />
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="17" column="83" />
+        <mark key="^" line="17" column="83" />
+        <mark key="." line="17" column="83" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/Readme.md" timestamp="1493222877304">
         <mark key="[" line="20" column="37" />
@@ -1491,7 +1491,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>barcode_</text>
+        <text>pass</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
@@ -1500,34 +1500,34 @@
         <text encoding="base64">ICAgICAgICAjIGdpdmVuCiAgICAgICAgbWFuYWdlciA9IHNlbGYuaW5pdF9tYW5hZ2VyKCkKICAgICAgICAjIHdoZW4KICAgICAgICBiYXJjb2RlcyA9IG1hbmFnZXIuZ2V0X2NvdW50X2J5X2JhcmNvZGVzKCkKICAgICAgICAjIHRoZW4KICAgICAgICBzZWxmLmFzc2VydEdyZWF0ZXIobGVuKGJhcmNvZGVzKSwgMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFBSRF9KU09OID0gJy4uL2RhdGFzZXQvdjEtcHJvZHVjdHMuanNvbicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGZvciBiYXJjb2RlX2l0ZW0gaW4gYmFyY29kZV9jb3VudDoKICAgICAgICBiYXJjb2RlID0gYmFyY29kZV9pdGVtWydiYXJjb2RlJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgIFBSRF9KU09OID0gJy4uL2RhdGFzZXQvdjEtcHJvZHVjdHMuanNvbicK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xvYWRfaW1hZ2Vfc3RhdHMoc2VsZik6CiAgICAgICAgIyBnaXZlbgogICAgICAgIG1hbmFnZXIgPSBzZWxmLmluaXRfbWFuYWdlcigpCiAgICAgICAgIyB3aGVuCiAgICAgICAgc3VjY2Vzc2Z1bCA9IG1hbmFnZXIubG9hZF9pbWFnZV9zdGF0cygpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHN1Y2Nlc3NmdWwpCgogICAgZGVmIHRlc3RfZ2V0X2l0ZW1zKHNlbGYpOgogICAgICAgICMgZ2l2ZW4KICAgICAgICBtYW5hZ2VyID0gc2VsZi5pbml0X21hbmFnZXIoKQogICAgICAgICMgd2hlbgogICAgICAgIGl0ZW1zID0gbWFuYWdlci5nZXRfaXRlbXMoKQogICAgICAgICMgdGhlbgogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKGl0ZW1zKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKGl0ZW1zKSwgNikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkX2ltYWdlX3N0YXRzKHNlbGYpOgogICAgICAgIGV4aXN0cyA9IG9zLnBhdGguZXhpc3RzKHNlbGYuc3RhdHNfanNvbikKICAgICAgICBpZiBleGlzdHM6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyB0b2RvOiB0cnkgdG8gZG93bmxvYWQgaW1hZ2Ugc3RhdHMgSlNPTiBmcm9tIGRhc2hib2FyZAogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oJ0ltYWdlIHN0YXRzIEpTT04gZmlsZSBkb2VzIG5vdCBleGlzdCEnKQoKICAgIGRlZiBnZXRfaXRlbXMoc2VsZik6CiAgICAgICAgc3VjY2Vzc2Z1bCA9IHNlbGYubG9hZF9pbWFnZV9zdGF0cygpCiAgICAgICAgaWYgbm90IHN1Y2Nlc3NmdWw6CiAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignRmFpbGVkIHRvIGxvYWQgaW1hZ2Ugc3RhdHMgSlNPTiBmaWxlLicpCiAgICAgICAgd2l0aCBvcGVuKHNlbGYuc3RhdHNfanNvbiwgJ3InKSBhcyBzdGF0c19kYXRhOgogICAgICAgICAgICBpdGVtcyA9IGpzb24ubG9hZChzdGF0c19kYXRhKQogICAgICAgICAgICByZXR1cm4gaXRlbXMK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xvYWRfaW1hZ2Vfc3RhdHMoc2VsZik6CiAgICAgICAgIyBnaXZlbgogICAgICAgIG1hbmFnZXIgPSBzZWxmLmluaXRfbWFuYWdlcigpCiAgICAgICAgIyB3aGVuCiAgICAgICAgc3VjY2Vzc2Z1bCA9IG1hbmFnZXIubG9hZF9pbWFnZV9zdGF0cygpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHN1Y2Nlc3NmdWwpCgogICAgZGVmIHRlc3RfZ2V0X2l0ZW1zKHNlbGYpOgogICAgICAgICMgZ2l2ZW4KICAgICAgICBtYW5hZ2VyID0gc2VsZi5pbml0X21hbmFnZXIoKQogICAgICAgICMgd2hlbgogICAgICAgIGl0ZW1zID0gbWFuYWdlci5nZXRfaXRlbXMoKQogICAgICAgICMgdGhlbgogICAgICAgIHNlbGYuYXNzZXJ0SXNOb3ROb25lKGl0ZW1zKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobGVuKGl0ZW1zKSwgNikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnN0YXRzX2pzb24gPSBzdGF0c19qc29uCiAgICAgICAgc2VsZi5zdGF0c19pdGVtcyA9IHNlbGYuZ2V0X2l0ZW1zKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
