@@ -121,11 +121,10 @@
       <file name="/Python Script.txt.ft" timestamp="1505317057923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505741294375">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="12" column="59" />
-        <mark key="^" line="12" column="59" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505741745579">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -476,12 +475,12 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" timestamp="1505741437398">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" timestamp="1505742131223">
         <mark key="'" line="6" column="21" />
-        <mark key="[" line="21" column="71" />
-        <mark key="]" line="22" column="29" />
-        <mark key="^" line="22" column="29" />
-        <mark key="." line="22" column="29" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="18" column="33" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1490799613128">
         <mark key="'" line="7" column="34" />
@@ -508,11 +507,11 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505741205629">
-        <mark key="[" line="4" column="46" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505742209229">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/output/Readme.txt" timestamp="1485205216636">
         <mark key="[" line="0" column="49" />
@@ -533,7 +532,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505309722628">
+      <file name="/Dummy.txt" timestamp="1505741699215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1505313872843">
@@ -1504,7 +1503,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>i</text>
+        <text>barcode_counts</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
@@ -1513,34 +1512,34 @@
         <text encoding="base64">U1RBVFNfSlNPTiA9ICcuL2lucHV0L2ltYWdlX3N0YXRzLmpzb24nClBSRF9KU09OID0gJy4uL2RhdGFzZXQvdjEtcHJvZHVjdHMuanNvbicKCgpkZWYgZmluZF9uZXdfYmFyY29kZXMocHJvZHVjdHMsIGJhcmNvZGVfY291bnRzLCB0b3RhbF9pbWFnZXMpOgogICAgcmV0dXJuIE5vbmUKCgpkZWYgbWFpbigpOgogICAgZG0gPSBEYXNoYm9hcmRNYW5hZ2VyKFNUQVRTX0pTT04pCiAgICBiYXJjb2RlX2NvdW50ID0gZG0uZ2V0X2NvdW50X2J5X2JhcmNvZGVzKCkKCiAgICBwbSA9IFByb2R1Y3RNYW5hZ2VyKFBSRF9KU09OKQogICAgcHJvZHVjdHMgPSBwbS5nZXRfcHJvZHVjdHMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cyA9IHBtLmdldF9wcm9kdWN0cygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSRVFVSVJFRF9JTUFHRVMgPSA0MDAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXJjb2RlX2NvdW50cyA9IGRtLmdldF9jb3VudF9ieV9iYXJjb2RlcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgpkZWYgbWFpbigpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGZpbmRfbmV3X2JhcmNvZGVzKHByb2R1Y3RzLCBiYXJjb2RlX2NvdW50cywgdG90YWxfaW1hZ2VzKToKICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIGZpbmRfbmV3X2JhcmNvZGVzKHByb2R1Y3RzLCBiYXJjb2RlX2NvdW50cywgdG90YWxfaW1hZ2VzKToKICAgIHJldHVybiBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTVEFUU19KU09OID0gJy4vaW5wdXQvaW1hZ2Vfc3RhdHMuanNvbicKICAgICAgICBQUkRfSlNPTiA9ICcuLi9kYXRhc2V0L3YxLXByb2R1Y3RzLmpzb24nCgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGZvciBiYXJjb2RlX2l0ZW0gaW4gYmFyY29kZV9jb3VudDoKICAgICAgICBiYXJjb2RlID0gYmFyY29kZV9pdGVtWydiYXJjb2RlJ10K</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBSRF9KU09OID0gJy4uL2RhdGFzZXQvdjEtcHJvZHVjdHMuanNvbicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
