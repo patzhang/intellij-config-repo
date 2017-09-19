@@ -12,7 +12,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1505818031774">
+      <file name="/a.dummy" timestamp="1505827939019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
@@ -34,9 +34,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_dashboardManager.py" timestamp="1505818216414">
-        <mark key="'" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/__init__.py" timestamp="1487804928877">
         <mark key="[" line="0" column="0" />
@@ -160,7 +157,7 @@
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" timestamp="1495643694725">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_read_csv_write_json.py" timestamp="1505827866129">
         <mark key="'" line="41" column="16" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -283,6 +280,10 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="50" column="3" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/import_sku/input/image_stats.json" timestamp="1505829009900">
+        <mark key="[" line="0" column="149578" />
+        <mark key="]" line="0" column="149590" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
@@ -435,10 +436,10 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1505817896910">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1505826193783">
         <mark key="'" line="15" column="60" />
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="19" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="61" />
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
@@ -472,12 +473,6 @@
         <mark key="]" line="2" column="9" />
         <mark key="." line="2" column="9" />
         <mark key="^" line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" timestamp="1505817002897">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1490799613128">
         <mark key="'" line="7" column="34" />
@@ -538,7 +533,7 @@
       <file name="/Dummy.txt" timestamp="1505741699215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1505819933186">
+      <file name="/code.py" timestamp="1505826085122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
@@ -573,6 +568,13 @@
         <mark key="]" line="191" column="86" />
         <mark key="^" line="191" column="121" />
         <mark key="." line="191" column="86" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" timestamp="1505828286740">
+        <mark key="'" line="0" column="4314" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="153830" />
+        <mark key="^" line="0" column="153830" />
+        <mark key="." line="0" column="153830" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
         <mark key="[" line="6" column="7" />
@@ -609,6 +611,11 @@
         <mark key="]" line="160" column="21" />
         <mark key="." line="160" column="21" />
         <mark key="^" line="160" column="21" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/dashboard_manager.py" timestamp="1505829470914">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v2/horse_vision_v2.py" timestamp="1492686209268">
         <mark key="'" line="419" column="4" />
@@ -688,6 +695,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="100" column="10" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/import_sku/test_barcodeManager.py" timestamp="1505828769080">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="20" />
@@ -744,6 +757,12 @@
         <mark key="." line="215" column="0" />
         <mark key="^" line="179" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/product_manager.py" timestamp="1505827085556">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="19" />
+        <mark key="^" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/test_app.py" timestamp="1496236891137">
         <mark key="'" line="14" column="34" />
         <mark key="[" line="7" column="5" />
@@ -781,7 +800,7 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1505818758474">
+      <file name="/Python Console" timestamp="1505829541310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -790,7 +809,7 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="/fragment.py" timestamp="1505316778386">
+      <file name="/fragment.py" timestamp="1505829396642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
@@ -852,6 +871,12 @@
         <mark key="]" line="24" column="40" />
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/main.py" timestamp="1505828040556">
+        <mark key="[" line="24" column="57" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/mandelbrot-set/display_fractal.py" timestamp="1487322748008">
         <mark key="[" line="24" column="4" />
@@ -963,11 +988,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" timestamp="1505819538390">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" timestamp="1505829572129">
         <mark key="'" line="13" column="16" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images.sh" timestamp="1487152996655">
         <mark key="[" line="0" column="19" />
@@ -1069,8 +1094,8 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1505317038625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" timestamp="1495708578200">
-        <mark key="'" line="48" column="8" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" timestamp="1505825782091">
+        <mark key="'" line="73" column="35" />
         <mark key="[" line="43" column="52" />
         <mark key="]" line="43" column="52" />
         <mark key="." line="43" column="52" />
@@ -1360,6 +1385,12 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="30" column="41" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/import_sku/test_productManager.py" timestamp="1505827520219">
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="54" />
+        <mark key="." line="53" column="54" />
+        <mark key="^" line="53" column="54" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495622516461">
         <mark key="[" line="147" column="28" />
         <mark key="]" line="150" column="28" />
@@ -1410,19 +1441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="247" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="172" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="283" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="290" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="248" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="19" column="3" filename="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/cnn_keras.py" />
-      <jump line="80" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="423" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="47" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="53" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
-      <jump line="51" column="28" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="386" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="29" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="104" column="29" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
@@ -1510,55 +1528,68 @@
       <jump line="13" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_dashboardManager.py" />
       <jump line="8" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" />
       <jump line="13" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="3" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="15" column="2" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="24" column="43" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="32" column="59" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="33" column="44" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="38" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="43" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="73" column="35" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
+      <jump line="10" column="76" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/import_sku/test_barcodeManager.py" />
+      <jump line="285" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" />
+      <jump line="0" column="4314" filename="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" />
+      <jump line="32" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/import_sku/test_barcodeManager.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>./</text>
+        <text>is</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdfcHJkc1w+</text>
+        <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAuY29udGV4dCBpbXBvcnQgaW1wb3J0X3NrdQo=</text>
+      <register name="0" type="4">
+        <text>0500036221621</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYmFyY29kZSA9PSAnMDUwMDAzNjIyMTYyMSc6CiAgICAgICAgICAgICAgICBwcmludCgndGhpcyBpcyAwNTAwMDM2MjIxNjIxJykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAgICAjIHRlc3RpbmcgMDUwMDAzNjIyMTYyMQogICAgICAgIG5ld19iYXJjb2Rlcy5hcHBlbmQoJzA1MDAwMzYyMjE2MjEnKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2t1X2l0ZW0gPSBza3VfZGV0YWlsc1tza3VdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIKIyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc2t1ID09ICd1bmRlZmluZWQnOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbignVW5kZWZpbmVkIFNLVSEnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1PRFVMRV9ESVJfMSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1IGltcG9ydCBCYXJjb2RlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IEpzb25GaWxlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IFByb2R1Y3RNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdEJhcmNvZGVNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdERhc2hib2FyZE1hbmFnZXIK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ZpbmRfbmV3X3Byb2R1Y3RzX3dpdGhfdW5kZWZpbmVkX3NrdShzZWxmKToKICAgICAgICAjIGdpdmVuCiAgICAgICAgZG0gPSBEYXNoYm9hcmRNYW5hZ2VyKHNlbGYuU1RBVFNfSlNPTikKICAgICAgICBwbSA9IFByb2R1Y3RNYW5hZ2VyKHNlbGYuUFJEX0pTT04pCiAgICAgICAgIyB3aGVuCiAgICAgICAgYm0gPSBCYXJjb2RlTWFuYWdlcihwbSwgZG0sIHNlbGYuUkVRVUlSRURfSU1BR0VTKQogICAgICAgIG5ld19wcm9kdWN0cyA9IGJtLmZpbmRfbmV3X3Byb2R1Y3RzKCkKICAgICAgICAjIHRoZW4KICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShuZXdfcHJvZHVjdHMpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChsZW4obmV3X3Byb2R1Y3RzKSwgMjYpCiAgICAgICAgZm9yIHByb2R1Y3QgaW4gcG0uZ2V0X3Byb2R1Y3RzKCk6CiAgICAgICAgICAgIGJjX29sZCA9IHByb2R1Y3RbJ2JhcmNvZGUnXQogICAgICAgICAgICBmb3IgcHJkIGluIG5ld19wcm9kdWN0czoKICAgICAgICAgICAgICAgIGlmIGJjX29sZCA9PSBwcmRbJ2JhcmNvZGUnXToKICAgICAgICAgICAgICAgICAgICBzZWxmLmZhaWwoJ3t9IGlzIGFscmVhZHkgaW5jbHVkZWQgaW4gdGhlIHNlbGVjdGVkIHByb2R1Y3RzLicuZm9ybWF0KGJjX29sZCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1IGltcG9ydCBCYXJjb2RlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IEpzb25GaWxlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IFByb2R1Y3RNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdEJhcmNvZGVNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdERhc2hib2FyZE1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1IGltcG9ydCBKc29uRmlsZU1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfcHJvZHVjdHNfanNvbiA9IG9zLnBhdGguam9pbihzZWxmLndvcmtpbmdfZGlyLCAnL291dHB1dC9wcm9kdWN0cy5qc29uJykK</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>54</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdfcHJkc1w+</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdfcHJkc1w+</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1587,6 +1618,7 @@
         <entry encoding="base64">XDwmXD4=</entry>
         <entry>app</entry>
         <entry encoding="base64">XDxuZXdfcHJkc1w+</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
@@ -1609,6 +1641,7 @@
         <entry>vsplit</entry>
         <entry>split</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>54</entry>
       </history-cmd>
       <history-expr />
       <history-input />
