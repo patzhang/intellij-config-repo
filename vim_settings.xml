@@ -124,13 +124,6 @@
       <file name="/Python Script.txt.ft" timestamp="1505317057923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" timestamp="1505749447205">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="54" />
-        <mark key="^" line="21" column="54" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -223,10 +216,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" timestamp="1505816898186">
-        <mark key="'" line="4" column="0" />
-        <mark key="^" line="27" column="15" />
-      </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task5_IntoPractice_GitHub.java" timestamp="1494413687614">
         <mark key="'" line="34" column="33" />
         <mark key="[" line="34" column="4" />
@@ -266,7 +255,7 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1505316955642">
+      <file name="/HTML File.txt.ft" timestamp="1505820021284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_mlp.py" timestamp="1497258917233">
@@ -549,7 +538,7 @@
       <file name="/Dummy.txt" timestamp="1505741699215">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1505313872843">
+      <file name="/code.py" timestamp="1505819933186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
@@ -639,13 +628,6 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" timestamp="1505818169134">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-unpack-dataset.sh" timestamp="1495630609351">
         <mark key="'" line="17" column="3" />
@@ -981,6 +963,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" timestamp="1505819538390">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images.sh" timestamp="1487152996655">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="43" column="4" />
@@ -1133,7 +1121,7 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1505317071367">
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1505820021407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/main.py" timestamp="1490715442785">
@@ -1422,7 +1410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="765" column="4" filename="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/python_stubs/335965385/posix.py" />
       <jump line="310" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="247" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="172" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1522,6 +1509,7 @@
       <jump line="19" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" />
       <jump line="13" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_dashboardManager.py" />
       <jump line="8" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" />
+      <jump line="13" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1534,7 +1522,7 @@
         <text encoding="base64">ZnJvbSAuY29udGV4dCBpbXBvcnQgaW1wb3J0X3NrdQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1543,25 +1531,25 @@
         <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIKIyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIKIyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1PRFVMRV9ESVJfMSwK</text>
+        <text encoding="base64">IyBmcm9tIC5jb250ZXh0IGltcG9ydCBkYXRhc2V0X2J1aWxkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1IGltcG9ydCBCYXJjb2RlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IEpzb25GaWxlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IFByb2R1Y3RNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdEJhcmNvZGVNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdERhc2hib2FyZE1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1PRFVMRV9ESVJfMSwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1IGltcG9ydCBCYXJjb2RlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IEpzb25GaWxlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IFByb2R1Y3RNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdEJhcmNvZGVNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdERhc2hib2FyZE1hbmFnZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1IGltcG9ydCBKc29uRmlsZU1hbmFnZXIK</text>
+        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1IGltcG9ydCBCYXJjb2RlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IEpzb25GaWxlTWFuYWdlcgpmcm9tIGltcG9ydF9za3UgaW1wb3J0IFByb2R1Y3RNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdEJhcmNvZGVNYW5hZ2VyCmZyb20gaW1wb3J0X3NrdSBpbXBvcnQgVGVzdERhc2hib2FyZE1hbmFnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1IGltcG9ydCBEYXNoYm9hcmRNYW5hZ2VyCg==</text>
+        <text encoding="base64">ZnJvbSBpbXBvcnRfc2t1IGltcG9ydCBKc29uRmlsZU1hbmFnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
