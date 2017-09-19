@@ -1109,11 +1109,11 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" timestamp="1505751621135">
-        <mark key="'" line="45" column="28" />
-        <mark key="[" line="53" column="25" />
-        <mark key="]" line="53" column="52" />
-        <mark key="." line="53" column="52" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" timestamp="1505815603279">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
         <mark key="^" line="53" column="52" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1505317071367">
@@ -1405,8 +1405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="55" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="24" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="61" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="187" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="46" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1505,6 +1503,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
       <jump line="47" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
       <jump line="45" column="28" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1517,34 +1517,34 @@
         <text encoding="base64">ICAgICAgICB3b3JraW5nX2RpciA9IG9zLnBhdGgucmVhbHBhdGgob3MucGF0aC5hYnNwYXRoKG9zLnBhdGguc3BsaXQoaW5zcGVjdC5nZXRmaWxlKGluc3BlY3QuY3VycmVudGZyYW1lKCkpKVswXSkpCiAgICAgICAgc3RhdHMgPSBvcy5wYXRoLmpvaW4od29ya2luZ19kaXIsICdpbnB1dC9pbWFnZV9zdGF0cy5qc29uJykKICAgICAgICBtYW5hZ2VyID0gRGFzaGJvYXJkTWFuYWdlcihzdGF0cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UkVRVUlSRURfSU1BR0VTID0gNDAwMAoKU1RBVFNfSlNPTiA9ICcuL2lucHV0L2ltYWdlX3N0YXRzLmpzb24nClBSRF9KU09OID0gJy4uL2RhdGFzZXQvdjEtcHJvZHVjdHMuanNvbicKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">UkVRVUlSRURfSU1BR0VTID0gNDAwMAoKU1RBVFNfSlNPTiA9ICcuL2lucHV0L2ltYWdlX3N0YXRzLmpzb24nClBSRF9KU09OID0gJy4uL2RhdGFzZXQvdjEtcHJvZHVjdHMuanNvbicKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfYmFyY29kZXMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5ld19wcm9kdWN0cy5hcHBlbmQoJzUwMjc2MzIwMDExMTgnKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdfYmFyY29kZXMgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG5ld19wcm9kdWN0cy5hcHBlbmQoJzUwMjc2MzIwMDExMTgnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIFRlc3REYXNoYm9hcmRNYW5hZ2VyKFRlc3RDYXNlKToK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZhaWwoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
