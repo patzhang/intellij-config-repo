@@ -869,6 +869,7 @@
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/dataset_fetcher/patricknet.py" timestamp="1506421205057" />
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" timestamp="1501766235664">
         <mark key="'" line="398" column="33" />
         <mark key="[" line="147" column="70" />
@@ -1282,7 +1283,7 @@
         <mark key="^" line="6" column="59" />
         <mark key="." line="6" column="59" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-unpack-dataset.sh" timestamp="1495727398280">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v1-unpack-dataset.sh" timestamp="1506421078786">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
@@ -1633,10 +1634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shutil</entry>
-        <entry encoding="base64">XDxzaHV0aWxcPg==</entry>
-        <entry>copyfile</entry>
-        <entry>rmtree</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry>DEBUG</entry>
         <entry>INFO</entry>
@@ -1659,7 +1656,6 @@
         <entry encoding="base64">XDxSRUFETUVfRklMRVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>60</entry>
         <entry>325</entry>
         <entry>help move</entry>
         <entry>close</entry>
