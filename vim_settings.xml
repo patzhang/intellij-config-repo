@@ -438,6 +438,13 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
       </file>
+      <file name="$USER_HOME$/Workspaces/docker-lab/doc/notes-docker.org" timestamp="1506425994333">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="117" column="80" />
+        <mark key="]" line="117" column="80" />
+        <mark key="^" line="116" column="41" />
+        <mark key="." line="117" column="80" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1505826193783">
         <mark key="'" line="15" column="60" />
         <mark key="[" line="13" column="0" />
@@ -1478,7 +1485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="68" filename="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" />
       <jump line="241" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="310" column="27" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="311" column="66" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
@@ -1578,10 +1584,11 @@
       <jump line="289" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="363" column="22" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="365" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/docker-lab/doc/notes-docker.org" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>join</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRUFETUVfRklMRVw+</text>
