@@ -438,12 +438,12 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspaces/docker-lab/doc/notes-docker.org" timestamp="1506425994333">
+      <file name="$USER_HOME$/Workspaces/docker-lab/doc/notes-docker.org" timestamp="1506428542890">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="117" column="80" />
-        <mark key="]" line="117" column="80" />
-        <mark key="^" line="116" column="41" />
-        <mark key="." line="117" column="80" />
+        <mark key="[" line="112" column="44" />
+        <mark key="]" line="113" column="43" />
+        <mark key="^" line="113" column="43" />
+        <mark key="." line="113" column="43" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_processing_real_images.py" timestamp="1505826193783">
         <mark key="'" line="15" column="60" />
