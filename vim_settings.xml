@@ -12,7 +12,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1505832628663">
+      <file name="/a.dummy" timestamp="1506601927992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
@@ -550,7 +550,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506539374676">
+      <file name="/Dummy.txt" timestamp="1506603509801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1506539748307">
@@ -829,6 +829,12 @@
         <mark key="]" line="8" column="22" />
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/download_dataset.py" timestamp="1506602368110">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/rfrecord_util.py" timestamp="1487841012807">
         <mark key="[" line="0" column="18" />
@@ -1138,6 +1144,13 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/dataset_fetcher/product_image_fetcher.py" timestamp="1506602970257">
+        <mark key="'" line="100" column="26" />
+        <mark key="[" line="100" column="25" />
+        <mark key="]" line="100" column="36" />
+        <mark key="." line="100" column="36" />
+        <mark key="^" line="100" column="36" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_barcodeManager.py" timestamp="1505818793226">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="33" />
@@ -1251,6 +1264,11 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/setup.py" timestamp="1506603492604">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/virtualenv/install.sh" timestamp="1487784820835">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="17" />
@@ -1307,6 +1325,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/readme.md" timestamp="1506603328228">
+        <mark key="'" line="35" column="13" />
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="37" column="49" />
+        <mark key="." line="37" column="49" />
+        <mark key="^" line="37" column="49" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/logs/Readme.txt" timestamp="1485205226139">
         <mark key="[" line="0" column="47" />
@@ -1484,17 +1509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="310" column="27" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="311" column="66" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="367" column="8" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="389" column="50" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="390" column="33" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="397" column="58" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="398" column="33" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="25" column="33" filename="$USER_HOME$/WorkspacesDart/meal_planner/lib/Main.dart" />
-      <jump line="53" column="2" filename="$USER_HOME$/WorkspacesDart/meal_planner/pubspec.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/.dotfiles/hammerspoon/hammerspoon.symlink/init.lua" />
       <jump line="50" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/.gitignore" />
       <jump line="27" column="54" filename="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" />
       <jump line="29" column="25" filename="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" />
@@ -1584,59 +1598,70 @@
       <jump line="363" column="22" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="365" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/docker-lab/doc/notes-docker.org" />
+      <jump line="30" column="20" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/dataset_fetcher/product_image_fetcher.py" />
+      <jump line="93" column="38" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/dataset_fetcher/product_image_fetcher.py" />
+      <jump line="99" column="26" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/dataset_fetcher/product_image_fetcher.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/readme.md" />
+      <jump line="44" column="0" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/readme.md" />
+      <jump line="37" column="49" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/readme.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/readme.md" />
+      <jump line="39" column="24" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/readme.md" />
+      <jump line="52" column="18" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/readme.md" />
+      <jump line="71" column="39" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/readme.md" />
+      <jump line="35" column="13" filename="$USER_HOME$/DL_Workspace/dataset-fetcher/readme.md" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>*</text>
+        <text>patricknet</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRUFETUVfRklMRVw+</text>
+        <text>patricknet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoJ3N5cyBwYXRoOiB7fScuZm9ybWF0KHN5cy5wYXRoKSkK</text>
+        <text encoding="base64">b3V0cHV0X2RpcmVjdG9yeSA9IGdldF9wcm9kdWN0X2ltYWdlcygicGF0cmlja25ldCIsICIxLjUiLCAiLzEweC1kYXRhc2V0cyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzdF9kaXJlY3RvcnkgKyAnL3BhdHJpY2tuZXQvJyArIHZlcnNpb24K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgcHJpbnQoJ0ZhaWxlZCB0byBkZWxldGUgcHJvZHVjdHMuanNvbiBmaWxlIScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihhbGxfcHJvZHVjdHMpLCA2MikK</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgcHJpbnQoJ0ZhaWxlZCB0byBkZWxldGUgcHJvZHVjdHMuanNvbiBmaWxlIScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX21nciA9IEpzb25GaWxlTWFuYWdlcihvdXRwdXRfcHJvZHVjdHNfanNvbikKICAgICAgICB0b3RhbCA9IGxlbihqc29uX21nci5qc29uX2l0ZW1zWydwcm9kdWN0cyddKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodG90YWwsIDYyKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihhbGxfcHJvZHVjdHMpLCA2MikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnc3lzIHBhdGg6IHt9Jy5mb3JtYXQoc3lzLnBhdGgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBqc29uX21nciA9IEpzb25GaWxlTWFuYWdlcihvdXRwdXRfcHJvZHVjdHNfanNvbikKICAgICAgICB0b3RhbCA9IGxlbihqc29uX21nci5qc29uX2l0ZW1zWydwcm9kdWN0cyddKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodG90YWwsIDYyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnc3lzIHBhdGg6IHt9Jy5mb3JtYXQoc3lzLnBhdGgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdpdmVuCiAgICAgICAgIyB3aGVuCiAgICAgICAgIyB0aGVuICAgIAogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoVHJ1ZSwgRmFsc2UpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSRUFETUVfRklMRVw+</last-search>
+      <last-search>patricknet</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRUFETUVfRklMRVw+</last-pattern>
+      <last-pattern>patricknet</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1660,6 +1685,9 @@
         <entry>test</entry>
         <entry>readme</entry>
         <entry encoding="base64">XDxSRUFETUVfRklMRVw+</entry>
+        <entry encoding="base64">XDxwYXRyaWNrbmV0XD4=</entry>
+        <entry>exam</entry>
+        <entry>patricknet</entry>
       </history-search>
       <history-cmd>
         <entry>325</entry>
