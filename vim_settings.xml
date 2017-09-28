@@ -246,6 +246,9 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="105" column="0" />
       </file>
+      <file name="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" timestamp="1506608723494">
+        <mark key="'" line="274" column="26" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset_readme.txt" timestamp="1495209969136">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
@@ -449,12 +452,12 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" timestamp="1506605914210">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="109" column="46" />
-        <mark key="]" line="110" column="15" />
-        <mark key="." line="110" column="15" />
-        <mark key="^" line="110" column="15" />
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" timestamp="1506609236862">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="41" column="18" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1505313988745">
         <mark key="'" line="87" column="0" />
@@ -533,10 +536,10 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/upload-docker-image.sh" timestamp="1506606120499">
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="2" column="54" />
-        <mark key="." line="2" column="54" />
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/upload-docker-image.sh" timestamp="1506609376201">
+        <mark key="[" line="2" column="59" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1505896550046">
@@ -581,7 +584,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506606809674">
+      <file name="/Dummy.txt" timestamp="1506609260281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1506539748307">
@@ -1181,12 +1184,12 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/dataset_fetcher/product_image_fetcher.py" timestamp="1506602970257">
+      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/dataset_fetcher/product_image_fetcher.py" timestamp="1506608837885">
         <mark key="'" line="100" column="26" />
-        <mark key="[" line="100" column="25" />
-        <mark key="]" line="100" column="36" />
-        <mark key="." line="100" column="36" />
-        <mark key="^" line="100" column="36" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="55" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_barcodeManager.py" timestamp="1505818793226">
         <mark key="[" line="11" column="18" />
@@ -1546,15 +1549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="16" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="4" column="90" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="26" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="18" column="4" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="9" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="10" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="11" column="3" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="36" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="34" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile.bak" />
       <jump line="13" column="27" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="41" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" />
       <jump line="7" column="2" filename="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" />
@@ -1646,55 +1640,64 @@
       <jump line="52" column="39" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/requirements.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/requirements.txt" />
       <jump line="45" column="52" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/expand_job_templates.py" />
+      <jump line="89" column="4" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
+      <jump line="275" column="57" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
+      <jump line="360" column="51" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
+      <jump line="421" column="67" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
+      <jump line="481" column="59" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
+      <jump line="92" column="47" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
+      <jump line="273" column="43" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
+      <jump line="274" column="26" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
+      <jump line="10" column="11" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">NiwgMzIsIA==</text>
+        <text>dataset_version</text>
       </register>
       <register name="/" type="4">
-        <text>simple</text>
+        <text>DATA</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwYW5kKAogIGVwb2Nocz1bMjAwXSwKICB1c2VfYXVnbWVudGF0aW9ucz1bVHJ1ZSwgRmFsc2VdLAogIHRyYWluX3Byb3BvcnRpb25zPVswLjhdLAogIGZpbHRlcl9zaXplcz1bM10sCiAgcG9vbGluZ19zaXplcz1bMl0sCiAgbnVtX2xheWVycz1bMiwgNl0sCiAgbnVtX2ZpbHRlcnM9WzE2LCAzMiwgNjRdCikK</text>
+      <register name="0" type="4">
+        <text>'/' + sku + '/' + filename, dest_filename</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">IyBkYXRhc2V0X3ZlcnNpb24gPSBnZXRfcGFyYW0oJ0RBVEFTRVRfVkVSU0lPTicsICcxLjUnLCBzdHIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwYW5kKAogIGVwb2Nocz1bMjAwXSwKICB1c2VfYXVnbWVudGF0aW9ucz1bVHJ1ZSwgRmFsc2VdLAogIHRyYWluX3Byb3BvcnRpb25zPVswLjhdLAogIGZpbHRlcl9zaXplcz1bM10sCiAgcG9vbGluZ19zaXplcz1bMl0sCiAgbnVtX2xheWVycz1bMiwgNl0sCiAgbnVtX2ZpbHRlcnM9WzE2LCAzMiwgNjRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2h1dGlsLmNvcHlmaWxlKHVucGFja2VkX2RpcmVjdG9yeSArICcvJyArIHNrdSArICcvJyArIGZpbGVuYW1lLCBkZXN0X2ZpbGVuYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsaWRhdGVfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVkFMSURBVEVfUFJPUE9SVElPTicsIDAuMSwgZmxvYXQpCnRlc3RfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVEVTVF9QUk9QT1JUSU9OJywgMS4wLCBmbG9hdCkK</text>
+        <text encoding="base64">ZXhwYW5kKAogIGVwb2Nocz1bMjAwXSwKICB1c2VfYXVnbWVudGF0aW9ucz1bVHJ1ZSwgRmFsc2VdLAogIHRyYWluX3Byb3BvcnRpb25zPVswLjhdLAogIGZpbHRlcl9zaXplcz1bM10sCiAgcG9vbGluZ19zaXplcz1bMl0sCiAgbnVtX2xheWVycz1bMiwgNl0sCiAgbnVtX2ZpbHRlcnM9WzE2LCAzMiwgNjRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdF9kaXJlY3RvcnkgKyAnL3BhdHJpY2tuZXQvJyArIHZlcnNpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dmFsaWRhdGVfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVkFMSURBVEVfUFJPUE9SVElPTicsIDAuMSwgZmxvYXQpCnRlc3RfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVEVTVF9QUk9QT1JUSU9OJywgMS4wLCBmbG9hdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzdF9kaXJlY3RvcnkgKyAnL3BhdHJpY2tuZXQvJyArIHZlcnNpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgcHJpbnQoJ0ZhaWxlZCB0byBkZWxldGUgcHJvZHVjdHMuanNvbiBmaWxlIScpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
       </register>
     </registers>
     <search>
-      <last-search>simple</last-search>
+      <last-search>DATA</last-search>
       <last-offset />
-      <last-pattern>simple</last-pattern>
+      <last-pattern>DATA</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1732,6 +1735,10 @@
         <entry>valid</entry>
         <entry>dataset</entry>
         <entry>simple</entry>
+        <entry>symbol</entry>
+        <entry>version</entry>
+        <entry>DATASET</entry>
+        <entry>DATA</entry>
       </history-search>
       <history-cmd>
         <entry>325</entry>
