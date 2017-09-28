@@ -296,12 +296,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" timestamp="1506612469788">
-        <mark key="'" line="53" column="39" />
-        <mark key="[" line="13" column="63" />
-        <mark key="]" line="13" column="64" />
-        <mark key="." line="13" column="64" />
-        <mark key="^" line="26" column="30" />
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" timestamp="1506613725035">
+        <mark key="'" line="49" column="28" />
+        <mark key="[" line="59" column="19" />
+        <mark key="]" line="59" column="23" />
+        <mark key="." line="59" column="23" />
+        <mark key="^" line="59" column="23" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
@@ -1554,7 +1554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="27" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="41" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" />
       <jump line="7" column="2" filename="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" />
       <jump line="40" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" />
@@ -1654,6 +1653,7 @@
       <jump line="273" column="43" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
       <jump line="274" column="26" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
       <jump line="10" column="11" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
+      <jump line="49" column="28" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1666,34 +1666,34 @@
         <text>'/' + sku + '/' + filename, dest_filename</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBkYXRhc2V0X3ZlcnNpb24gPSBnZXRfcGFyYW0oJ0RBVEFTRVRfVkVSU0lPTicsICcxLjUnLCBzdHIpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIAoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2h1dGlsLmNvcHlmaWxlKHVucGFja2VkX2RpcmVjdG9yeSArICcvJyArIHNrdSArICcvJyArIGZpbGVuYW1lLCBkZXN0X2ZpbGVuYW1lKQo=</text>
+        <text encoding="base64">IyBkYXRhc2V0X3ZlcnNpb24gPSBnZXRfcGFyYW0oJ0RBVEFTRVRfVkVSU0lPTicsICcxLjUnLCBzdHIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2h1dGlsLmNvcHlmaWxlKHVucGFja2VkX2RpcmVjdG9yeSArICcvJyArIHNrdSArICcvJyArIGZpbGVuYW1lLCBkZXN0X2ZpbGVuYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwYW5kKAogIGVwb2Nocz1bMjAwXSwKICB1c2VfYXVnbWVudGF0aW9ucz1bVHJ1ZSwgRmFsc2VdLAogIHRyYWluX3Byb3BvcnRpb25zPVswLjhdLAogIGZpbHRlcl9zaXplcz1bM10sCiAgcG9vbGluZ19zaXplcz1bMl0sCiAgbnVtX2xheWVycz1bMiwgNl0sCiAgbnVtX2ZpbHRlcnM9WzE2LCAzMiwgNjRdCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwYW5kKAogIGVwb2Nocz1bMjAwXSwKICB1c2VfYXVnbWVudGF0aW9ucz1bVHJ1ZSwgRmFsc2VdLAogIHRyYWluX3Byb3BvcnRpb25zPVswLjhdLAogIGZpbHRlcl9zaXplcz1bM10sCiAgcG9vbGluZ19zaXplcz1bMl0sCiAgbnVtX2xheWVycz1bMiwgNl0sCiAgbnVtX2ZpbHRlcnM9WzE2LCAzMiwgNjRdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsaWRhdGVfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVkFMSURBVEVfUFJPUE9SVElPTicsIDAuMSwgZmxvYXQpCnRlc3RfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVEVTVF9QUk9QT1JUSU9OJywgMS4wLCBmbG9hdCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdF9kaXJlY3RvcnkgKyAnL3BhdHJpY2tuZXQvJyArIHZlcnNpb24K</text>
+        <text encoding="base64">dmFsaWRhdGVfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVkFMSURBVEVfUFJPUE9SVElPTicsIDAuMSwgZmxvYXQpCnRlc3RfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVEVTVF9QUk9QT1JUSU9OJywgMS4wLCBmbG9hdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzdF9kaXJlY3RvcnkgKyAnL3BhdHJpY2tuZXQvJyArIHZlcnNpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
