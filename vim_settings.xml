@@ -35,6 +35,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/requirements.txt" timestamp="1506606318795">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/__init__.py" timestamp="1487804928877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -287,6 +293,13 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="50" column="3" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" timestamp="1506606452329">
+        <mark key="'" line="53" column="39" />
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="26" column="37" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="30" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
         <mark key="]" line="30" column="3" />
@@ -369,6 +382,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/Dockerfile" timestamp="1506605950909">
+        <mark key="[" line="11" column="92" />
+        <mark key="]" line="11" column="93" />
+        <mark key="." line="11" column="93" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/test_label_images.py" timestamp="1487807012507">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -431,12 +449,12 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" timestamp="1506605055645">
-        <mark key="'" line="12" column="45" />
-        <mark key="[" line="36" column="47" />
-        <mark key="]" line="36" column="48" />
-        <mark key="." line="36" column="48" />
-        <mark key="^" line="52" column="33" />
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" timestamp="1506605914210">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="109" column="46" />
+        <mark key="]" line="110" column="15" />
+        <mark key="." line="110" column="15" />
+        <mark key="^" line="110" column="15" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1505313988745">
         <mark key="'" line="87" column="0" />
@@ -515,6 +533,12 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/upload-docker-image.sh" timestamp="1506606120499">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="54" />
+        <mark key="." line="2" column="54" />
+        <mark key="^" line="2" column="50" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1505896550046">
         <mark key="'" line="365" column="14" />
         <mark key="[" line="24" column="13" />
@@ -557,7 +581,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506603509801">
+      <file name="/Dummy.txt" timestamp="1506606809674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1506539748307">
@@ -786,6 +810,12 @@
         <mark key="]" line="7" column="78" />
         <mark key="^" line="7" column="78" />
         <mark key="." line="7" column="78" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/expand_job_templates.py" timestamp="1506606774507">
+        <mark key="'" line="45" column="52" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496667158719">
         <mark key="'" line="0" column="0" />
@@ -1516,13 +1546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="24" filename="$USER_HOME$/WorkspacesDart/meal_planner/.gitlab-ci.yml" />
-      <jump line="21" column="6" filename="$USER_HOME$/WorkspacesDart/meal_planner/.gitlab-ci.yml" />
-      <jump line="29" column="4" filename="$USER_HOME$/WorkspacesDart/meal_planner/.gitlab-ci.yml" />
-      <jump line="22" column="47" filename="$USER_HOME$/WorkspacesDart/meal_planner/.gitlab-ci.yml" />
-      <jump line="13" column="0" filename="$USER_HOME$/WorkspacesDart/meal_planner/.gitlab-ci.yml" />
-      <jump line="14" column="6" filename="$USER_HOME$/WorkspacesDart/meal_planner/.gitlab-ci.yml" />
-      <jump line="17" column="3" filename="$USER_HOME$/WorkspacesDart/meal_planner/.gitlab-ci.yml" />
       <jump line="30" column="16" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="4" column="90" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="26" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
@@ -1616,55 +1639,62 @@
       <jump line="128" column="0" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
       <jump line="12" column="45" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
+      <jump line="58" column="66" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
+      <jump line="14" column="17" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" />
+      <jump line="53" column="39" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" />
+      <jump line="52" column="39" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/requirements.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/requirements.txt" />
+      <jump line="45" column="52" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/expand_job_templates.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>patricknet</text>
+        <text encoding="base64">NiwgMzIsIA==</text>
       </register>
       <register name="/" type="4">
-        <text>patrick</text>
+        <text>simple</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGF0YXNldF9kaXIgPSBnZXRfcHJvZHVjdF9pbWFnZXMoCiAgICBkYXRhc2V0X25hbWUgPSAicGF0cmlja25ldCIsCiAgICB2ZXJzaW9uID0gZGF0YXNldF92ZXJzaW9uLCAKICAgIGRlc3RfZGlyZWN0b3J5ID0gIi8xMHgtZGF0YXNldHMiLCAKICAgIHRyYWluX3Byb3BvcnRpb24gPSB0cmFpbl9wcm9wb3J0aW9uLCAKICAgIHZhbGlkYXRlX3Byb3BvcnRpb24gPSB2YWxpZGF0ZV9wcm9wb3J0aW9uLCAKICAgIHRlc3RfcHJvcG9ydGlvbiA9IHRlc3RfcHJvcG9ydGlvbgopCg==</text>
+        <text encoding="base64">ZXhwYW5kKAogIGVwb2Nocz1bMjAwXSwKICB1c2VfYXVnbWVudGF0aW9ucz1bVHJ1ZSwgRmFsc2VdLAogIHRyYWluX3Byb3BvcnRpb25zPVswLjhdLAogIGZpbHRlcl9zaXplcz1bM10sCiAgcG9vbGluZ19zaXplcz1bMl0sCiAgbnVtX2xheWVycz1bMiwgNl0sCiAgbnVtX2ZpbHRlcnM9WzE2LCAzMiwgNjRdCikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdF9kaXJlY3RvcnkgKyAnL3BhdHJpY2tuZXQvJyArIHZlcnNpb24K</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZXhwYW5kKAogIGVwb2Nocz1bMjAwXSwKICB1c2VfYXVnbWVudGF0aW9ucz1bVHJ1ZSwgRmFsc2VdLAogIHRyYWluX3Byb3BvcnRpb25zPVswLjhdLAogIGZpbHRlcl9zaXplcz1bM10sCiAgcG9vbGluZ19zaXplcz1bMl0sCiAgbnVtX2xheWVycz1bMiwgNl0sCiAgbnVtX2ZpbHRlcnM9WzE2LCAzMiwgNjRdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsaWRhdGVfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVkFMSURBVEVfUFJPUE9SVElPTicsIDAuMSwgZmxvYXQpCnRlc3RfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVEVTVF9QUk9QT1JUSU9OJywgMS4wLCBmbG9hdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgcHJpbnQoJ0ZhaWxlZCB0byBkZWxldGUgcHJvZHVjdHMuanNvbiBmaWxlIScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzdF9kaXJlY3RvcnkgKyAnL3BhdHJpY2tuZXQvJyArIHZlcnNpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGxlbihhbGxfcHJvZHVjdHMpLCA2MikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX21nciA9IEpzb25GaWxlTWFuYWdlcihvdXRwdXRfcHJvZHVjdHNfanNvbikKICAgICAgICB0b3RhbCA9IGxlbihqc29uX21nci5qc29uX2l0ZW1zWydwcm9kdWN0cyddKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwodG90YWwsIDYyKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnc3lzIHBhdGg6IHt9Jy5mb3JtYXQoc3lzLnBhdGgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgcHJpbnQoJ0ZhaWxlZCB0byBkZWxldGUgcHJvZHVjdHMuanNvbiBmaWxlIScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>29</text>
       </register>
     </registers>
     <search>
-      <last-search>patrick</last-search>
+      <last-search>simple</last-search>
       <last-offset />
-      <last-pattern>patrick</last-pattern>
+      <last-pattern>simple</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1689,13 +1719,19 @@
         <entry encoding="base64">XDwmXD4=</entry>
         <entry>app</entry>
         <entry encoding="base64">XDxuZXdfcHJkc1w+</entry>
-        <entry>test</entry>
         <entry>readme</entry>
         <entry encoding="base64">XDxSRUFETUVfRklMRVw+</entry>
         <entry encoding="base64">XDxwYXRyaWNrbmV0XD4=</entry>
         <entry>exam</entry>
         <entry>patricknet</entry>
         <entry>patrick</entry>
+        <entry>train</entry>
+        <entry>flow_from</entry>
+        <entry>tet</entry>
+        <entry>test</entry>
+        <entry>valid</entry>
+        <entry>dataset</entry>
+        <entry>simple</entry>
       </history-search>
       <history-cmd>
         <entry>325</entry>
@@ -1718,6 +1754,8 @@
         <entry>split</entry>
         <entry>54</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>129</entry>
+        <entry>29</entry>
       </history-cmd>
       <history-expr />
       <history-input />
