@@ -584,7 +584,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506609260281">
+      <file name="/Dummy.txt" timestamp="1506611558369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1506539748307">
@@ -870,11 +870,11 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/download_dataset.py" timestamp="1506602368110">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
+      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/download_dataset.py" timestamp="1506611542995">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="59" />
+        <mark key="^" line="3" column="59" />
+        <mark key="." line="3" column="59" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/rfrecord_util.py" timestamp="1487841012807">
         <mark key="[" line="0" column="18" />
@@ -1304,7 +1304,7 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/setup.py" timestamp="1506603492604">
+      <file name="$USER_HOME$/DL_Workspace/dataset-fetcher/setup.py" timestamp="1506611811551">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
@@ -1652,7 +1652,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>dataset_version</text>
+        <text>, train_proportion=0, validate_proportion=0.5, test_proportion=0.5)</text>
       </register>
       <register name="/" type="4">
         <text>DATA</text>
