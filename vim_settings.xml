@@ -1552,12 +1552,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506968898268">
-        <mark key="'" line="69" column="63" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="77" />
-        <mark key="^" line="35" column="58" />
-        <mark key="." line="35" column="58" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506970194617">
+        <mark key="'" line="70" column="63" />
+        <mark key="[" line="35" column="62" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="28" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
