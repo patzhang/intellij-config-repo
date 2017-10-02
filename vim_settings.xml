@@ -12,7 +12,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1506955383314">
+      <file name="/a.dummy" timestamp="1506958884047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
@@ -1050,8 +1050,8 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" timestamp="1506954531438">
-        <mark key="'" line="10" column="11" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" timestamp="1506958454355">
+        <mark key="'" line="64" column="0" />
         <mark key="[" line="180" column="0" />
         <mark key="]" line="192" column="13" />
       </file>
@@ -1283,12 +1283,11 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" timestamp="1505302075131">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" timestamp="1506958696056">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="15" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="13" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/requirements.txt" timestamp="1488224668716">
         <mark key="[" line="2" column="0" />
@@ -1552,12 +1551,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506957444099">
-        <mark key="'" line="36" column="25" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="29" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506959409273">
+        <mark key="'" line="69" column="63" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="53" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1567,15 +1566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="59" column="14" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
-      <jump line="13" column="54" filename="$USER_HOME$/DL_Workspace/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="10500" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/reference_v1.5/dashboard-2017-09-13.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" />
-      <jump line="10" column="9" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
-      <jump line="11" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
-      <jump line="12" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
       <jump line="16" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
       <jump line="9" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_dashboardManager.py" />
       <jump line="18" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_dashboardManager.py" />
@@ -1664,58 +1654,67 @@
       <jump line="18" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="83" column="18" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
       <jump line="162" column="12" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
-      <jump line="10" column="11" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
       <jump line="46" column="41" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="36" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="3" column="7" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="10" column="13" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="13" column="18" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="14" column="23" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="16" column="54" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="32" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="69" column="63" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ID0gaW1hZ2VfdDE=</text>
+        <text>self.</text>
       </register>
       <register name="/" type="4">
-        <text>tmp</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIGtlZXBfcHJvZHVjdF9pbWFnZShpbWFnZSxkaWYseGMseWMsdGhyZXNob2xkLFMpOgogICAgcmVzID0gJ1MgPSB7fScuZm9ybWF0KFMpCiAgICBjMSA9IChpbWFnZS5zaGFwZVswXS14YykgPCB0aHJlc2hvbGQKICAgIGMyID0gKGltYWdlLnNoYXBlWzFdLXljKSA8IHRocmVzaG9sZAogICAgYzMgPSAoeGMgPCB0aHJlc2hvbGQpCiAgICBjNCA9ICh5YyA8IHRocmVzaG9sZCkKICAgIGlmIGMxIG9yIGMyIG9yIGMzIG9yIGM0OgogICAgICAgIHJlcyArPSAnIGNsb3NlIHRvIGVkZ2Uge30ge30nLmZvcm1hdCh4Yyx5YykKICAgIAogICAgaWYgZGlmLm1lYW4oKSA8PSAxZS01OgogICAgICAgIHJlcyArPSAnIG1lYW4ge30nLmZvcm1hdChkaWYubWVhbigpKQogICAgCiAgICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNlbGVjdGVkOgogICAgICAgICAgICByZXR1cm4gc2VsZi5yZXN1bHQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRtcF9pbWFnZSA9IE5vbmUK</text>
+        <text encoding="base64">UElYRUxfS0VFUF9QRVJDRU5UID0gMC45OSAgIyBrZWVwIDk5JSBvZiB0aGUgY2hhbmdlZCBwaXhlbHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc3VsdCA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiAKCg==</text>
+        <text encoding="base64">ICAgIFNJR01PSURfU1RSRU5HVEggPSA0MAogICAgU0lHTU9JRF9DVVRPRkYgPSAwLjUKICAgIENMT1NFX1RPX0VER0VfVEhSRVNIT0xEID0gMjAwICAjIDIwMCBwaXhlbHMgZnJvbSB0aGUgZWRnZQogICAgUElYRUxfS0VFUF9QRVJDRU5UID0gMC45OSAgIyBrZWVwIDk5JSBvZiB0aGUgY2hhbmdlZCBwaXhlbHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZnJvbSBzY2lweSBpbXBvcnQgbmRhcnJheQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbG9zZV90b19sZWZ0ID0gKHNlbGYueGMgPCBzZWxmLkNMT1NFX1RPX0VER0VfVEhSRVNIT0xEKQogICAgICAgIGNsb3NlX3RvX3RvcCA9IChzZWxmLnljIDwgc2VsZi5DTE9TRV9UT19FREdFX1RIUkVTSE9MRCkK</text>
+        <text encoding="base64">c2NpcHk9PTAuMTkuMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnhjID0geGMKICAgICAgICBzZWxmLnljID0geWMKICAgICAgICBzZWxmLnMgPSBzCg==</text>
+        <text encoding="base64">dHFkbT09NC4xNC4wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKCiAgICAgICAgcmV0dXJuIHJlcywgZGlmLCB4YywgeWMsIHMK</text>
+        <text encoding="base64">aW1wb3J0IG5kYXJyYXkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHRoZSBhc3N1bXB0aW9uIGlzIGltYWdlX3QwIGFuZCBpbWFnZV90MSBoYXZlIHRoZSBzYXZlIHNoYXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>tmp</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>tmp</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1762,6 +1761,7 @@
         <entry>classes</entry>
         <entry>ndimage</entry>
         <entry>tmp</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>325</entry>
