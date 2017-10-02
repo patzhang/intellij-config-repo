@@ -446,6 +446,13 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1506961094882">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="2" column="9" />
@@ -585,10 +592,10 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506616149294">
+      <file name="/Dummy.txt" timestamp="1506960014980">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1506953256552">
+      <file name="/code.py" timestamp="1506960831332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
@@ -814,12 +821,6 @@
         <mark key="]" line="7" column="78" />
         <mark key="^" line="7" column="78" />
         <mark key="." line="7" column="78" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/expand_job_templates.py" timestamp="1506606774507">
-        <mark key="'" line="45" column="52" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496667158719">
         <mark key="'" line="0" column="0" />
@@ -1489,10 +1490,10 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" timestamp="1497349762884">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_pillow.py" timestamp="1506960223712">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="47" column="0" />
-        <mark key="]" line="50" column="33" />
+        <mark key="]" line="50" column="34" />
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
@@ -1566,13 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_dashboardManager.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_dashboardManager.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/dashboard_manager.py" />
-      <jump line="21" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_jsonFileManager.py" />
-      <jump line="4" column="53" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/README.md" />
-      <jump line="6" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" />
       <jump line="5" column="71" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" />
       <jump line="12" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" />
       <jump line="13" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/import_sku.py" />
@@ -1666,46 +1660,53 @@
       <jump line="64" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
       <jump line="32" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="69" column="63" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="15" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="18" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="21" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="27" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>self.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGtlZXBfcHJvZHVjdF9pbWFnZShpbWFnZSxkaWYseGMseWMsdGhyZXNob2xkLFMpOgogICAgcmVzID0gJ1MgPSB7fScuZm9ybWF0KFMpCiAgICBjMSA9IChpbWFnZS5zaGFwZVswXS14YykgPCB0aHJlc2hvbGQKICAgIGMyID0gKGltYWdlLnNoYXBlWzFdLXljKSA8IHRocmVzaG9sZAogICAgYzMgPSAoeGMgPCB0aHJlc2hvbGQpCiAgICBjNCA9ICh5YyA8IHRocmVzaG9sZCkKICAgIGlmIGMxIG9yIGMyIG9yIGMzIG9yIGM0OgogICAgICAgIHJlcyArPSAnIGNsb3NlIHRvIGVkZ2Uge30ge30nLmZvcm1hdCh4Yyx5YykKICAgIAogICAgaWYgZGlmLm1lYW4oKSA8PSAxZS01OgogICAgICAgIHJlcyArPSAnIG1lYW4ge30nLmZvcm1hdChkaWYubWVhbigpKQogICAgCiAgICByZXR1cm4gcmVzCg==</text>
+      <register name="0" type="4">
+        <text>path.join(tests_dir, 'input/segmentation_filter/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNlbGVjdGVkOgogICAgICAgICAgICByZXR1cm4gc2VsZi5yZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UElYRUxfS0VFUF9QRVJDRU5UID0gMC45OSAgIyBrZWVwIDk5JSBvZiB0aGUgY2hhbmdlZCBwaXhlbHMK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBzZWdtZW50YXRpb25fZmlsdGVyIGltcG9ydCBTZWdtZW50YXRpb25GaWx0ZXIK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNJR01PSURfU1RSRU5HVEggPSA0MAogICAgU0lHTU9JRF9DVVRPRkYgPSAwLjUKICAgIENMT1NFX1RPX0VER0VfVEhSRVNIT0xEID0gMjAwICAjIDIwMCBwaXhlbHMgZnJvbSB0aGUgZWRnZQogICAgUElYRUxfS0VFUF9QRVJDRU5UID0gMC45OSAgIyBrZWVwIDk5JSBvZiB0aGUgY2hhbmdlZCBwaXhlbHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBzY2lweSBpbXBvcnQgbmRhcnJheQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2NpcHk9PTAuMTkuMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHFkbT09NC4xNC4wCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnNlbGVjdGVkOgogICAgICAgICAgICByZXR1cm4gc2VsZi5yZXN1bHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG5kYXJyYXkK</text>
+        <text encoding="base64">UElYRUxfS0VFUF9QRVJDRU5UID0gMC45OSAgIyBrZWVwIDk5JSBvZiB0aGUgY2hhbmdlZCBwaXhlbHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZSBhc3N1bXB0aW9uIGlzIGltYWdlX3QwIGFuZCBpbWFnZV90MSBoYXZlIHRoZSBzYXZlIHNoYXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
