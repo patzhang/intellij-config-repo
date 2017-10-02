@@ -595,7 +595,7 @@
       <file name="/Dummy.txt" timestamp="1506960014980">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1506960831332">
+      <file name="/code.py" timestamp="1506968653387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
@@ -1552,12 +1552,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506959409273">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506968898268">
         <mark key="'" line="69" column="63" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="53" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="77" />
+        <mark key="^" line="35" column="58" />
+        <mark key="." line="35" column="58" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1670,13 +1670,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>dif</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
       </register>
-      <register name="0" type="4">
-        <text>path.join(tests_dir, 'input/segmentation_filter/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB5X2RpZmYgPSBzZWxmLnNpZ21vaWQoU0lHTU9JRF9TVFJFTkdUSCAqIChkaWZfbWVhbiAtIFNJR01PSURfQ1VUT0ZGKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
