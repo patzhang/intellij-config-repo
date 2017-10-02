@@ -12,7 +12,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1506954355572">
+      <file name="/a.dummy" timestamp="1506955383314">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
@@ -1552,12 +1552,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506954471187">
-        <mark key="'" line="20" column="18" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="8" column="33" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506956159392">
+        <mark key="'" line="49" column="41" />
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="47" column="38" />
+        <mark key="." line="47" column="38" />
+        <mark key="^" line="47" column="38" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1567,7 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="32" column="18" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="61" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="59" column="14" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
@@ -1667,10 +1666,11 @@
       <jump line="83" column="18" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
       <jump line="162" column="12" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
       <jump line="10" column="11" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="46" column="41" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, image_t0, image_t1</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>ndimage</text>
@@ -1679,34 +1679,34 @@
         <text encoding="base64">ZGVmIGtlZXBfcHJvZHVjdF9pbWFnZShpbWFnZSxkaWYseGMseWMsdGhyZXNob2xkLFMpOgogICAgcmVzID0gJ1MgPSB7fScuZm9ybWF0KFMpCiAgICBjMSA9IChpbWFnZS5zaGFwZVswXS14YykgPCB0aHJlc2hvbGQKICAgIGMyID0gKGltYWdlLnNoYXBlWzFdLXljKSA8IHRocmVzaG9sZAogICAgYzMgPSAoeGMgPCB0aHJlc2hvbGQpCiAgICBjNCA9ICh5YyA8IHRocmVzaG9sZCkKICAgIGlmIGMxIG9yIGMyIG9yIGMzIG9yIGM0OgogICAgICAgIHJlcyArPSAnIGNsb3NlIHRvIGVkZ2Uge30ge30nLmZvcm1hdCh4Yyx5YykKICAgIAogICAgaWYgZGlmLm1lYW4oKSA8PSAxZS01OgogICAgICAgIHJlcyArPSAnIG1lYW4ge30nLmZvcm1hdChkaWYubWVhbigpKQogICAgCiAgICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">ICAgICAgICBjbG9zZV90b19sZWZ0ID0gKHNlbGYueGMgPCBzZWxmLkNMT1NFX1RPX0VER0VfVEhSRVNIT0xEKQogICAgICAgIGNsb3NlX3RvX3RvcCA9IChzZWxmLnljIDwgc2VsZi5DTE9TRV9UT19FREdFX1RIUkVTSE9MRCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnhjID0geGMKICAgICAgICBzZWxmLnljID0geWMKICAgICAgICBzZWxmLnMgPSBzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzaWdtb2lkKHgpOgogICAgICAgIHJldHVybiAxIC8gKDEgKyBucC5leHAoLXgpKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiByZWx1KHgpOgogICAgICAgIGlmIHggPCAwOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB4Cgo=</text>
+        <text encoding="base64">ICAgICAgICAKCiAgICAgICAgcmV0dXJuIHJlcywgZGlmLCB4YywgeWMsIHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzaWdtb2lkKHgpOgogICAgICAgIHJldHVybiAxIC8gKDEgKyBucC5leHAoLXgpKQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiByZWx1KHgpOgogICAgICAgIGlmIHggPCAwOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB4Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzaWdtb2lkKHgpOgogICAgICAgIHJldHVybiAxIC8gKDEgKyBucC5leHAoLXgpKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiByZWx1KHgpOgogICAgICAgIGlmIHggPCAwOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB4Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5Lm5kaW1hZ2UgaW1wb3J0IGltcmVhZAo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzaWdtb2lkKHgpOgogICAgICAgIHJldHVybiAxIC8gKDEgKyBucC5leHAoLXgpKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiByZWx1KHgpOgogICAgICAgIGlmIHggPCAwOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB4Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
