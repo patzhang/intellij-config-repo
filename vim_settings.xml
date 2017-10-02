@@ -12,7 +12,7 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1506601927992">
+      <file name="/a.dummy" timestamp="1506954355572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
@@ -588,7 +588,7 @@
       <file name="/Dummy.txt" timestamp="1506616149294">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1506952539587">
+      <file name="/code.py" timestamp="1506953256552">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
@@ -1049,6 +1049,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" timestamp="1506954531438">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="192" column="13" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/camera/logging_util.py" timestamp="1490266660505">
         <mark key="'" line="24" column="59" />
@@ -1547,11 +1552,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506952565613">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="7" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1506954471187">
+        <mark key="'" line="20" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1561,10 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" />
-      <jump line="8" column="21" filename="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" />
-      <jump line="27" column="8" filename="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" />
-      <jump line="39" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="32" column="18" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
       <jump line="61" column="0" filename="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" />
@@ -1661,59 +1663,63 @@
       <jump line="49" column="28" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" />
       <jump line="51" column="27" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
       <jump line="115" column="41" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="18" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="83" column="18" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="162" column="12" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
+      <jump line="10" column="11" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>, image_t0, image_t1</text>
       </register>
       <register name="/" type="4">
-        <text>classes</text>
+        <text>ndimage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvbGxvd19saW5rcz1UcnVlLAo=</text>
+        <text encoding="base64">ZGVmIGtlZXBfcHJvZHVjdF9pbWFnZShpbWFnZSxkaWYseGMseWMsdGhyZXNob2xkLFMpOgogICAgcmVzID0gJ1MgPSB7fScuZm9ybWF0KFMpCiAgICBjMSA9IChpbWFnZS5zaGFwZVswXS14YykgPCB0aHJlc2hvbGQKICAgIGMyID0gKGltYWdlLnNoYXBlWzFdLXljKSA8IHRocmVzaG9sZAogICAgYzMgPSAoeGMgPCB0aHJlc2hvbGQpCiAgICBjNCA9ICh5YyA8IHRocmVzaG9sZCkKICAgIGlmIGMxIG9yIGMyIG9yIGMzIG9yIGM0OgogICAgICAgIHJlcyArPSAnIGNsb3NlIHRvIGVkZ2Uge30ge30nLmZvcm1hdCh4Yyx5YykKICAgIAogICAgaWYgZGlmLm1lYW4oKSA8PSAxZS01OgogICAgICAgIHJlcyArPSAnIG1lYW4ge30nLmZvcm1hdChkaWYubWVhbigpKQogICAgCiAgICByZXR1cm4gcmVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIAoK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBkYXRhc2V0X3ZlcnNpb24gPSBnZXRfcGFyYW0oJ0RBVEFTRVRfVkVSU0lPTicsICcxLjUnLCBzdHIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2h1dGlsLmNvcHlmaWxlKHVucGFja2VkX2RpcmVjdG9yeSArICcvJyArIHNrdSArICcvJyArIGZpbGVuYW1lLCBkZXN0X2ZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzaWdtb2lkKHgpOgogICAgICAgIHJldHVybiAxIC8gKDEgKyBucC5leHAoLXgpKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiByZWx1KHgpOgogICAgICAgIGlmIHggPCAwOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB4Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzaWdtb2lkKHgpOgogICAgICAgIHJldHVybiAxIC8gKDEgKyBucC5leHAoLXgpKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwYW5kKAogIGVwb2Nocz1bMjAwXSwKICB1c2VfYXVnbWVudGF0aW9ucz1bVHJ1ZSwgRmFsc2VdLAogIHRyYWluX3Byb3BvcnRpb25zPVswLjhdLAogIGZpbHRlcl9zaXplcz1bM10sCiAgcG9vbGluZ19zaXplcz1bMl0sCiAgbnVtX2xheWVycz1bMiwgNl0sCiAgbnVtX2ZpbHRlcnM9WzE2LCAzMiwgNjRdCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiByZWx1KHgpOgogICAgICAgIGlmIHggPCAwOgogICAgICAgICAgICByZXR1cm4gMAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiB4Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsaWRhdGVfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVkFMSURBVEVfUFJPUE9SVElPTicsIDAuMSwgZmxvYXQpCnRlc3RfcHJvcG9ydGlvbiA9IGdldF9wYXJhbSgnVEVTVF9QUk9QT1JUSU9OJywgMS4wLCBmbG9hdCkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdF9kaXJlY3RvcnkgKyAnL3BhdHJpY2tuZXQvJyArIHZlcnNpb24K</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5Lm5kaW1hZ2UgaW1wb3J0IGltcmVhZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIAoK</text>
       </register>
       <register name=":" type="4">
-        <text>vsplit</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>classes</last-search>
+      <last-search>ndimage</last-search>
       <last-offset />
-      <last-pattern>classes</last-pattern>
+      <last-pattern>ndimage</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1754,6 +1760,7 @@
         <entry>10x</entry>
         <entry>follow</entry>
         <entry>classes</entry>
+        <entry>ndimage</entry>
       </history-search>
       <history-cmd>
         <entry>325</entry>
@@ -1773,12 +1780,12 @@
         <entry>nmap</entry>
         <entry>vmap</entry>
         <entry>54</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>129</entry>
         <entry>29</entry>
         <entry>split</entry>
         <entry>vslpit</entry>
         <entry>vsplit</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
