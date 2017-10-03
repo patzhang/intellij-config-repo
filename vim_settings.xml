@@ -539,12 +539,12 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507055462799">
-        <mark key="'" line="92" column="15" />
-        <mark key="[" line="92" column="26" />
-        <mark key="]" line="90" column="84" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="91" column="7" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507061399441">
+        <mark key="'" line="93" column="15" />
+        <mark key="[" line="99" column="34" />
+        <mark key="]" line="108" column="45" />
+        <mark key="^" line="108" column="45" />
+        <mark key="." line="108" column="45" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505816882512">
         <mark key="'" line="39" column="9" />
@@ -1679,43 +1679,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>original_file=file_original</text>
+        <text>file_a</text>
       </register>
       <register name="/" type="4">
         <text>blob</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGYgPSBwZC5EYXRhRnJhbWUoYWxsX2ZuYW1lcyxjb2x1bW5zPVsnY2xhc3MnLCdiYXJjb2RlJywnZGF0ZScsJ3RpbWUnLCdzaWduJywnbnVtYmVyJywnZmlsZW5hbWUnXSkKZGYgPSBkZi5zb3J0X3ZhbHVlcyhieT0nbnVtYmVyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZV9iID0gYm5hbWVzW2kgKyAxXS5zcGxpdCgnLycpWzJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBibG9icy5zb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBJZ25vcmUgdGhlIF9tXyBpbWFnZXMsIGJlY2F1c2UgdGhleSB3ZXJlIGNhcHR1cmVkIGJlZm9yZSBiYXJjb2RlIHJlYWRpbmdzLgogICAgICAgICAgICAjIFRoZXkgbWF5IG5vdCBjb250YWluIGEgcHJvZHVjdCBvciBvbmx5IGNvbnRhaW4gYSB2ZXJ5IGxpdHRsZSBwYXJ0IG9mIHRoZSBwcm9kdWN0LgogICAgICAgICAgICAjIEl0IHNob3VsZCBub3QgYmUgaW5jbHVkZWQgaW4gdGhlIHRyYWluaW5nIG9yIHRlc3QgZGF0YS4KICAgICAgICAgICAgZmlsZV9uYW1lID0gYmxvYi5uYW1lLnNwbGl0KCcvJylbMl0KICAgICAgICAgICAgaWYgJ19tXycgaW4gZmlsZV9uYW1lOgogICAgICAgICAgICAgICAgY29udGludWUKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlX2EgPSBmaWxlX2EKICAgICAgICAgICAgICAgIGlmIGkgKyAxIDwgdG90YWw6CiAgICAgICAgICAgICAgICAgICAgaW1hZ2VfYiA9IGJuYW1lc1tpICsgMV0uc3BsaXQoJy8nKVsyXQogICAgICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltYWdlMiBpcyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHByb2Nlc3NfaW1hZ2Vfd2l0aF9vcGVuY3Yob3JpZ2luYWxfZmlsZSwgZGltZW5zaW9uLCBvdXRwdXRfZGlyKToKICAgIGltYWdlX25hbWUgPSBOb25lCiAgICB0cnk6CiAgICAgICAgaW1nX29yaWdpbmFsID0gY3YyLmltcmVhZChvcmlnaW5hbF9maWxlKQogICAgICAgIGFzc2VydCBpbWdfb3JpZ2luYWwuc2hhcGVbMDoyXSA9PSBESU1FTlNJT05fT1JJR0lOQUxfT1BFTkNWCgogICAgICAgICMgQ3JvcCBmcm9tIHgsIHksIHcsIGggYnkgc2xpY2luZyBhcnJheVt5OmgsIHg6d10KICAgICAgICBpbWdfY3JvcHBlZCA9IGltZ19vcmlnaW5hbFswOjEwMjQsIDA6MTAyNF0KICAgICAgICBpbWdfcmVzaXplZCA9IGN2Mi5yZXNpemUoaW1nX2Nyb3BwZWQsIGRpbWVuc2lvbiwgaW50ZXJwb2xhdGlvbj1jdjIuSU5URVJfQVJFQSkKCiAgICAgICAgb3V0cHV0X2ZpbGUgPSBvcy5wYXRoLmJhc2VuYW1lKG9yaWdpbmFsX2ZpbGUpCiAgICAgICAgaW1nX3Jlc3VsdCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBvdXRwdXRfZmlsZSkKICAgICAgICBjdjIuaW13cml0ZShpbWdfcmVzdWx0LCBpbWdfcmVzaXplZCkKICAgICAgICBpbWFnZV9uYW1lID0gb3V0cHV0X2ZpbGUKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbG9nZ2VyLmVycm9yKCdGYWlsZWQgdG8gcHJvY2VzcyB0aGUgaW1hZ2Uge30nLmZvcm1hdChvcmlnaW5hbF9maWxlKSkKCiAgICByZXR1cm4gaW1hZ2VfbmFtZQoKCmRlZiBwcm9jZXNzX2ltYWdlX3dpdGhfcGlsbG93KG9yaWdpbmFsX2ZpbGUsIGRpbWVuc2lvbiwgb3V0cHV0X2Rpcik6CiAgICBpbWFnZV9uYW1lID0gTm9uZQogICAgdHJ5OgogICAgICAgIGltZ19vcmlnaW5hbCA9IEltYWdlLm9wZW4ob3JpZ2luYWxfZmlsZSkKICAgICAgICBhc3NlcnQgaW1nX29yaWdpbmFsLnNpemUgPT0gRElNRU5TSU9OX09SSUdJTkFMX1BJTExPVwoKICAgICAgICBpbWdfY3JvcHBlZCA9IGltZ19vcmlnaW5hbC5jcm9wKENST1BfUkVHSU9OKQogICAgICAgIGltZ19yZXNpemVkID0gaW1nX2Nyb3BwZWQucmVzaXplKGRpbWVuc2lvbikKCiAgICAgICAgb3V0cHV0X2ZpbGUgPSBvcy5wYXRoLmJhc2VuYW1lKG9yaWdpbmFsX2ZpbGUpCiAgICAgICAgaW1nX3Jlc3VsdCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBvdXRwdXRfZmlsZSkKICAgICAgICBpbWdfcmVzaXplZC5zYXZlKGltZ19yZXN1bHQpCiAgICAgICAgaW1hZ2VfbmFtZSA9IG91dHB1dF9maWxlCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIHByb2Nlc3Mge30nLmZvcm1hdChvcmlnaW5hbF9maWxlKSkKICAgIHJldHVybiBpbWFnZV9uYW1lCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRfZmlsZSA9IG9zLnBhdGguYmFzZW5hbWUoaW1hZ2UxKQogICAgICAgIGltZ19yZXN1bHQgPSBvcy5wYXRoLmpvaW4ob3V0cHV0X2Rpciwgb3V0cHV0X2ZpbGUpCiAgICAgICAgY3YyLmltd3JpdGUoaW1nX3Jlc3VsdCwgaW1nX3Jlc2l6ZWQpCiAgICAgICAgaW1hZ2VfbmFtZSA9IG91dHB1dF9maWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlX2IgPSBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHQgPSBpICsgMQo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
