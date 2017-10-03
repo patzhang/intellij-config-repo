@@ -546,10 +546,11 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507042591756">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507043412239">
+        <mark key="[" line="91" column="85" />
+        <mark key="]" line="92" column="7" />
+        <mark key="." line="92" column="7" />
+        <mark key="^" line="92" column="7" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505816882512">
         <mark key="'" line="39" column="9" />
@@ -1172,6 +1173,7 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
+      <file name="$USER_HOME$/.dotfiles/python/install/readme.org" timestamp="1507043754729" />
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/create-venv.sh" timestamp="1488214647012">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
