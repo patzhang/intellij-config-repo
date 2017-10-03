@@ -589,7 +589,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506981785491">
+      <file name="/Dummy.txt" timestamp="1507025373399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1506976936829">
@@ -1552,11 +1552,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507023493987">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="54" />
-        <mark key="^" line="40" column="17" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507025641257">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="59" column="22" />
+        <mark key="]" line="59" column="22" />
+        <mark key="^" line="33" column="37" />
+        <mark key="." line="59" column="22" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1566,7 +1567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
       <jump line="47" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
       <jump line="45" column="28" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
@@ -1666,47 +1666,48 @@
       <jump line="199" column="86" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
       <jump line="66" column="68" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
       <jump line="45" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="31" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2FwcGx5X2Nhc2VfNChzZWxmKToKICAgICAgICAjIGdpdmVuCiAgICAgICAgdGVzdHNfZGlyID0gcGF0aC5yZWFscGF0aChvcy5wYXRoLmFic3BhdGgob3MucGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkKICAgICAgICBmaWx0ZXJfdGVzdF9kaXIgPSBwYXRoLmpvaW4odGVzdHNfZGlyLCAnaW5wdXQvc2VnbWVudGF0aW9uX2ZpbHRlcicpCiAgICAgICAgaW1hZ2UxID0gcGF0aC5qb2luKGZpbHRlcl90ZXN0X2RpciwgJzU3MDczNjExMDAwNTNfMjAxNy0wNS0xM18yMy4wNy4xMi44MzBfcF8wNzMucG5nJykKICAgICAgICBpbWFnZTIgPSBwYXRoLmpvaW4oZmlsdGVyX3Rlc3RfZGlyLCAnNTcwNzM2MTEwMDA1M18yMDE3LTA1LTEzXzIzLjA3LjEyLjgzMF9wXzA0OC5wbmcnKQogICAgICAgIG91dHB1dF9kaXIgPSBwYXRoLmpvaW4odGVzdHNfZGlyLCAnb3V0cHV0JykKICAgICAgICBzZWxmLmFzc3VyZV9kaXJfZXhpc3Rpbmcob3V0cHV0X2RpcikKICAgICAgICBpbWdfb3V0cHV0ID0gcGF0aC5qb2luKG91dHB1dF9kaXIsICdyZXN1bHRfZmlsdGVyZWRfNC5wbmcnKQogICAgICAgICMgd2hlbgogICAgICAgIGltZzEgPSBpbXJlYWQoaW1hZ2UxKQogICAgICAgIGltZzIgPSBpbXJlYWQoaW1hZ2UyKQogICAgICAgIHNlZ19maWx0ZXIgPSBTZWdtZW50YXRpb25GaWx0ZXIoKQogICAgICAgIHJlc3VsdCwgc2VsZWN0ZWQsIHJlYXNvbiA9IHNlZ19maWx0ZXIuYXBwbHkoZmlyc3RfaW1hZ2U9aW1nMSwgc2Vjb25kX2ltYWdlPWltZzIpCiAgICAgICAgcmVzdWx0X2ltZyA9IGN2Mi5jdnRDb2xvcihyZXN1bHQsIGN2Mi5DT0xPUl9CR1IyUkdCKQogICAgICAgIGN2Mi5pbXdyaXRlKGltZ19vdXRwdXQsIHJlc3VsdF9pbWcpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnRJc05vdE5vbmUocmVzdWx0KQogICAgICAgIHNlbGYuYXNzZXJ0VHJ1ZShzZWxlY3RlZCkKICAgICAgICBwcmludCgnUmVhc29uOiB7fScuZm9ybWF0KHJlYXNvbikpCiAgICAgICAgZmlsdGVyZWRfaW1nID0gY3YyLmltcmVhZChpbWdfb3V0cHV0KQogICAgICAgIHByaW50KCdGaWx0ZXJlZCBpbWFnZSBzaGFwZToge30nLmZvcm1hdChmaWx0ZXJlZF9pbWcuc2hhcGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICB0MF9tZWFuID0gKHNlbGYuaW1hZ2VfdDAgLyAyNTUuMCkubWVhbihheGlzPTIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQgPSAoeGMgKyBzLCB5YyArIHMpCiAgICAgICAgICAgIHJlZ2lvbiA9ICgoMCwgMCksIHNlbGYuaW1hZ2VfdDAuc2hhcGVbOjJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQgPSAoeGMgKyBzLCB5YyArIHMpCiAgICAgICAgICAgIHJlZ2lvbiA9ICgoMCwgMCksIHNlbGYuaW1hZ2VfdDAuc2hhcGVbOjJdKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQgPSAoeGMgKyBzLCB5YyArIHMpCiAgICAgICAgICAgIHJlZ2lvbiA9ICgoMCwgMCksIHNlbGYuaW1hZ2VfdDAuc2hhcGVbOjJdKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQgPSAoeGMgKyBzLCB5YyArIHMpCiAgICAgICAgICAgIHJlZ2lvbiA9ICgoMCwgMCksIHNlbGYuaW1hZ2VfdDAuc2hhcGVbOjJdKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkaWZmX3JlZ2lvbiA9IGRpZltzZWxmLnJlbHUoeGMgLSBzKTp4YyArIHMsIHNlbGYucmVsdSh5YyAtIHMpOnljICsgc10K</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>if[self.relu(xc - s):xc + s, self.relu(yc - s):yc + s]
         while s</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBra2tra2tra2tra2tra2tra2trCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnRmlsdGVyZWQgaW1hZ2Ugc2hhcGU6IHt9Jy5mb3JtYXQoZmlsdGVyZWRfaW1nLnNoYXBlKSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJlZF9pbWcgPSBjdjIuaW1yZWFkKGltZ19vdXRwdXQpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydElzTm9uZShyZXN1bHQpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfaW1nID0gY3YyLmN2dENvbG9yKHJlc3VsdCwgY3YyLkNPTE9SX0JHUjJSR0IpCiAgICAgICAgY3YyLmltd3JpdGUoaW1nX291dHB1dCwgcmVzdWx0X2ltZykK</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJlZF9pbWcgPSBjdjIuaW1yZWFkKGltZ19vdXRwdXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
