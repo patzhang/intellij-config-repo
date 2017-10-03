@@ -443,12 +443,12 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1506982776430">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="95" column="86" />
-        <mark key="]" line="95" column="91" />
-        <mark key="." line="95" column="91" />
-        <mark key="^" line="95" column="91" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507029081194">
+        <mark key="'" line="124" column="18" />
+        <mark key="[" line="127" column="38" />
+        <mark key="]" line="127" column="38" />
+        <mark key="." line="127" column="38" />
+        <mark key="^" line="124" column="18" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
         <mark key="[" line="1" column="5" />
@@ -546,12 +546,12 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1506952180049">
-        <mark key="'" line="115" column="41" />
-        <mark key="[" line="47" column="15" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507029613252">
+        <mark key="'" line="203" column="12" />
+        <mark key="[" line="191" column="76" />
+        <mark key="]" line="192" column="7" />
+        <mark key="." line="192" column="7" />
+        <mark key="^" line="192" column="7" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505816882512">
         <mark key="'" line="39" column="9" />
@@ -991,6 +991,13 @@
         <mark key="]" line="7" column="49" />
         <mark key="." line="30" column="24" />
         <mark key="^" line="14" column="47" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v2-products.json" timestamp="1507028859166">
+        <mark key="'" line="147" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
         <mark key="'" line="0" column="0" />
@@ -1567,16 +1574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
-      <jump line="45" column="28" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
-      <jump line="53" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" />
-      <jump line="19" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_barcodeManager.py" />
-      <jump line="13" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_dashboardManager.py" />
-      <jump line="8" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/context.py" />
-      <jump line="13" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
-      <jump line="3" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="15" column="2" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="24" column="43" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
       <jump line="32" column="59" filename="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" />
@@ -1667,56 +1664,65 @@
       <jump line="66" column="68" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
       <jump line="45" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="31" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v2-products.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v2-products.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v2-products.json" />
+      <jump line="147" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v2-products.json" />
+      <jump line="90" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="124" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="182" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="196" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>(</text>
+        <text>cropped</text>
       </register>
       <register name="/" type="4">
-        <text>255</text>
+        <text>resize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0MF9tZWFuID0gKHNlbGYuaW1hZ2VfdDAgLyAyNTUuMCkubWVhbihheGlzPTIpCg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRfZmlsZSA9IG9zLnBhdGguYmFzZW5hbWUob3JpZ2luYWxfZmlsZSkKICAgICAgICBpbWdfcmVzdWx0ID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXIsIG91dHB1dF9maWxlKQogICAgICAgIGN2Mi5pbXdyaXRlKGltZ19yZXN1bHQsIGltZ19yZXNpemVkKQogICAgICAgIGltYWdlX25hbWUgPSBvdXRwdXRfZmlsZQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBsb2dnZXIuZXJyb3IoJ0ZhaWxlZCB0byBwcm9jZXNzIHRoZSBpbWFnZSB7fScuZm9ybWF0KG9yaWdpbmFsX2ZpbGUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRfaW1nID0gY3YyLmN2dENvbG9yKHJlc3VsdCwgY3YyLkNPTE9SX0JHUjJSR0IpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQgPSAoeGMgKyBzLCB5YyArIHMpCiAgICAgICAgICAgIHJlZ2lvbiA9ICgoMCwgMCksIHNlbGYuaW1hZ2VfdDAuc2hhcGVbOjJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQgPSAoeGMgKyBzLCB5YyArIHMpCiAgICAgICAgICAgIHJlZ2lvbiA9ICgoMCwgMCksIHNlbGYuaW1hZ2VfdDAuc2hhcGVbOjJdKQo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWZmX3JlZ2lvbiA9IGRpZltzZWxmLnJlbHUoeGMgLSBzKTp4YyArIHMsIHNlbGYucmVsdSh5YyAtIHMpOnljICsgc10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>if[self.relu(xc - s):xc + s, self.relu(yc - s):yc + s]
-        while s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBra2tra2tra2tra2tra2tra2trCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQgPSAoeGMgKyBzLCB5YyArIHMpCiAgICAgICAgICAgIHJlZ2lvbiA9ICgoMCwgMCksIHNlbGYuaW1hZ2VfdDAuc2hhcGVbOjJdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnRmlsdGVyZWQgaW1hZ2Ugc2hhcGU6IHt9Jy5mb3JtYXQoZmlsdGVyZWRfaW1nLnNoYXBlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9pbnQgPSAoeGMgKyBzLCB5YyArIHMpCiAgICAgICAgICAgIHJlZ2lvbiA9ICgoMCwgMCksIHNlbGYuaW1hZ2VfdDAuc2hhcGVbOjJdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJlZF9pbWcgPSBjdjIuaW1yZWFkKGltZ19vdXRwdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWZmX3JlZ2lvbiA9IGRpZltzZWxmLnJlbHUoeGMgLSBzKTp4YyArIHMsIHNlbGYucmVsdSh5YyAtIHMpOnljICsgc10K</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search>255</last-search>
+      <last-search>resize</last-search>
       <last-offset />
-      <last-pattern>255</last-pattern>
+      <last-pattern>resize</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxnY3NfdXBsb2FkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1766,6 +1772,7 @@
         <entry>image</entry>
         <entry>img1</entry>
         <entry>255</entry>
+        <entry>resize</entry>
       </history-search>
       <history-cmd>
         <entry>325</entry>
