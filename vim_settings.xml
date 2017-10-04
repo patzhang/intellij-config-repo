@@ -417,11 +417,11 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507150378227">
-        <mark key="[" line="235" column="44" />
-        <mark key="]" line="235" column="44" />
-        <mark key="." line="235" column="44" />
-        <mark key="^" line="235" column="44" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507152280176">
+        <mark key="[" line="234" column="32" />
+        <mark key="]" line="234" column="39" />
+        <mark key="." line="234" column="39" />
+        <mark key="^" line="234" column="39" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
         <mark key="[" line="1" column="5" />
@@ -1499,12 +1499,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507150174051">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507152008948">
         <mark key="'" line="76" column="98" />
-        <mark key="[" line="63" column="65" />
-        <mark key="]" line="63" column="65" />
-        <mark key="." line="63" column="65" />
-        <mark key="^" line="63" column="74" />
+        <mark key="[" line="30" column="72" />
+        <mark key="]" line="30" column="72" />
+        <mark key="." line="30" column="72" />
+        <mark key="^" line="30" column="79" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1617,7 +1617,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>i</text>
+        <text>, self.s</text>
       </register>
       <register name="/" type="4">
         <text>Segment</text>
