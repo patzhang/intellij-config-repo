@@ -417,12 +417,11 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507132443381">
-        <mark key="'" line="202" column="14" />
-        <mark key="[" line="207" column="32" />
-        <mark key="]" line="207" column="34" />
-        <mark key="^" line="207" column="34" />
-        <mark key="." line="207" column="34" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507150378227">
+        <mark key="[" line="235" column="44" />
+        <mark key="]" line="235" column="44" />
+        <mark key="." line="235" column="44" />
+        <mark key="^" line="235" column="44" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
         <mark key="[" line="1" column="5" />
@@ -839,7 +838,7 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1506981688533">
+      <file name="/Python Console" timestamp="1507150222594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
@@ -1500,12 +1499,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507147524399">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507150174051">
         <mark key="'" line="76" column="98" />
-        <mark key="[" line="76" column="89" />
-        <mark key="]" line="76" column="98" />
-        <mark key="." line="76" column="98" />
-        <mark key="^" line="76" column="98" />
+        <mark key="[" line="63" column="65" />
+        <mark key="]" line="63" column="65" />
+        <mark key="." line="63" column="65" />
+        <mark key="^" line="63" column="74" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1618,43 +1617,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>sum_</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>Segment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2FwcGx5X2Nhc2VfOShzZWxmKToKICAgICAgICAiIiIKICAgICAgICBGYWlsdXJlIGNhc2UgZm91bmQgZHVyaW5nIHRlc3RpbmcKICAgICAgICA6cmV0dXJuOgogICAgICAgICIiIgogICAgICAgICMgZ2l2ZW4KICAgICAgICB0ZXN0c19kaXIgPSBwYXRoLnJlYWxwYXRoKG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLnNwbGl0KGluc3BlY3QuZ2V0ZmlsZShpbnNwZWN0LmN1cnJlbnRmcmFtZSgpKSlbMF0pKQogICAgICAgIGZpbHRlcl90ZXN0X2RpciA9IHBhdGguam9pbih0ZXN0c19kaXIsICdpbnB1dC9zZWdtZW50YXRpb25fZmlsdGVyJykKICAgICAgICBpbWFnZTEgPSBwYXRoLmpvaW4oZmlsdGVyX3Rlc3RfZGlyLCAnMzE1NTI1MDM2MTgyNV8yMDE3LTA1LTA5XzA5LjMxLjI1LjA2OV9tXzAxNS5wbmcnKQogICAgICAgIGltYWdlMiA9IHBhdGguam9pbihmaWx0ZXJfdGVzdF9kaXIsICczMTU1MjUwMzYxODI1XzIwMTctMDUtMDlfMDkuMzEuMjUuMDY5X3BfMDA5LnBuZycpCiAgICAgICAgb3V0cHV0X2RpciA9IHBhdGguam9pbih0ZXN0c19kaXIsICdvdXRwdXQnKQogICAgICAgIHNlbGYuYXNzdXJlX2Rpcl9leGlzdGluZyhvdXRwdXRfZGlyKQogICAgICAgIGltZ19vdXRwdXQgPSBwYXRoLmpvaW4ob3V0cHV0X2RpciwgJ3Jlc3VsdF9maWx0ZXJlZF85LnBuZycpCiAgICAgICAgIyB3aGVuCiAgICAgICAgaW1nMSA9IGN2Mi5pbXJlYWQoaW1hZ2UxKQogICAgICAgIGltZzIgPSBjdjIuaW1yZWFkKGltYWdlMikKICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkKICAgICAgICByZXN1bHQsIHNlbGVjdGVkLCByZWFzb24gPSBzZWdfZmlsdGVyLmFwcGx5KGZpcnN0X2ltYWdlPWltZzEsIHNlY29uZF9pbWFnZT1pbWcyKQogICAgICAgIGN2Mi5pbXdyaXRlKGltZ19vdXRwdXQsIHJlc3VsdCkKICAgICAgICAjIHRoZW4KICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShyZXN1bHQpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNlbGVjdGVkKQogICAgICAgIHByaW50KCdSZWFzb246IHt9Jy5mb3JtYXQocmVhc29uKSkKICAgICAgICBmaWx0ZXJlZF9pbWcgPSBjdjIuaW1yZWFkKGltZ19vdXRwdXQpCiAgICAgICAgcHJpbnQoJ0ZpbHRlcmVkIGltYWdlIHNoYXBlOiB7fScuZm9ybWF0KGZpbHRlcmVkX2ltZy5zaGFwZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcxID0gc2VnX2ZpbHRlci5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1nMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhZGRpdGlvbmFsIG91dHB1dAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2FwcGx5X2Nhc2VfOWEoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgRmFpbHVyZSBjYXNlIGZvdW5kIGR1cmluZyB0ZXN0aW5nCiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIKICAgICAgICAjIGdpdmVuCiAgICAgICAgdGVzdHNfZGlyID0gcGF0aC5yZWFscGF0aChvcy5wYXRoLmFic3BhdGgob3MucGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkKICAgICAgICBmaWx0ZXJfdGVzdF9kaXIgPSBwYXRoLmpvaW4odGVzdHNfZGlyLCAnaW5wdXQvc2VnbWVudGF0aW9uX2ZpbHRlcicpCiAgICAgICAgaW1hZ2UxID0gcGF0aC5qb2luKGZpbHRlcl90ZXN0X2RpciwgJzMxNTUyNTAzNjE4MjVfMjAxNy0wNS0wOV8wOS4zMS4yNS4wNjlfbV8wMTUucG5nJykKICAgICAgICBpbWFnZTIgPSBwYXRoLmpvaW4oZmlsdGVyX3Rlc3RfZGlyLCAnMzE1NTI1MDM2MTgyNV8yMDE3LTA1LTA5XzA5LjMxLjI1LjA2OV9wXzAwOS5wbmcnKQogICAgICAgIG91dHB1dF9kaXIgPSBwYXRoLmpvaW4odGVzdHNfZGlyLCAnb3V0cHV0JykKICAgICAgICBzZWxmLmFzc3VyZV9kaXJfZXhpc3Rpbmcob3V0cHV0X2RpcikKICAgICAgICBpbWdfb3V0cHV0ID0gcGF0aC5qb2luKG91dHB1dF9kaXIsICdyZXN1bHRfZmlsdGVyZWRfOWEucG5nJykKICAgICAgICAjIHdoZW4KICAgICAgICBpbWcxID0gaW1yZWFkKGltYWdlMSkKICAgICAgICBpbWcyID0gaW1yZWFkKGltYWdlMikKICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkKICAgICAgICByZXN1bHQsIHNlbGVjdGVkLCByZWFzb24gPSBzZWdfZmlsdGVyLmFwcGx5KGZpcnN0X2ltYWdlPWltZzEsIHNlY29uZF9pbWFnZT1pbWcyKQogICAgICAgIHJlcyA9IGN2Mi5jdnRDb2xvcihyZXN1bHQsIGN2Mi5DT0xPUl9SR0IyQkdSKQogICAgICAgIGN2Mi5pbXdyaXRlKGltZ19vdXRwdXQsIHJlcykKICAgICAgICAjIHRoZW4KICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShyZXN1bHQpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNlbGVjdGVkKQogICAgICAgIHByaW50KCdSZWFzb246IHt9Jy5mb3JtYXQocmVhc29uKSkKICAgICAgICBmaWx0ZXJlZF9pbWcgPSBjdjIuaW1yZWFkKGltZ19vdXRwdXQpCiAgICAgICAgcHJpbnQoJ0ZpbHRlcmVkIGltYWdlIHNoYXBlOiB7fScuZm9ybWF0KGZpbHRlcmVkX2ltZy5zaGFwZSkpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhZGRpdGlvbmFsIG91dHB1dAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJlcyA9IGN2Mi5jdnRDb2xvcihyZXN1bHQsIGN2Mi5DT0xPUl9CR1IyUkdCKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnZW5lcmF0ZSB0aGUgZmlsdGVyZWQgZmlsZSBpbiBwbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhZGRpdGlvbmFsIG91dHB1dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhZGRpdGlvbmFsIG91dHB1dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2ZpbGVfcG5nID0gb3MucGF0aC5iYXNlbmFtZShpbWFnZTEpLnJlcGxhY2UoJy5wbmcnLCAnX2Zsci5wbmcnKSAgICMgc2F2ZSBhcyAucG5nIGZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBnZW5lcmF0ZSB0aGUgZmlsdGVyZWQgZmlsZSBpbiBwbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgYWZ0ZXIgZ2VuZXJhdGVkIHRoZSBmaWx0ZXJlZCBmaWxlLCBrZWVwIGEgY29weSBvZiB0aGUgb3JpZ2luYWwgZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
