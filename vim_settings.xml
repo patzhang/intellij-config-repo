@@ -554,7 +554,7 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="/code.py" timestamp="1507109028588">
+      <file name="/code.py" timestamp="1507120159769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
@@ -1118,7 +1118,6 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/.dotfiles/python/install/readme.org" timestamp="1507045146226" />
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/create-venv.sh" timestamp="1488214647012">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -1667,45 +1666,10 @@
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3VudFw+</entry>
-        <entry>DEBUG</entry>
-        <entry>INFO</entry>
-        <entry>DEB</entry>
-        <entry>12x</entry>
-        <entry>ID_IN</entry>
-        <entry>1000</entry>
-        <entry>Exposure</entry>
-        <entry>Acro</entry>
-        <entry>tag</entry>
-        <entry>rm</entry>
-        <entry>-c</entry>
-        <entry>}</entry>
-        <entry>{</entry>
-        <entry encoding="base64">XDwmXD4=</entry>
-        <entry>app</entry>
-        <entry encoding="base64">XDxuZXdfcHJkc1w+</entry>
-        <entry>readme</entry>
-        <entry encoding="base64">XDxSRUFETUVfRklMRVw+</entry>
-        <entry encoding="base64">XDxwYXRyaWNrbmV0XD4=</entry>
-        <entry>exam</entry>
-        <entry>patricknet</entry>
-        <entry>patrick</entry>
-        <entry>train</entry>
-        <entry>flow_from</entry>
-        <entry>tet</entry>
-        <entry>test</entry>
-        <entry>valid</entry>
-        <entry>dataset</entry>
-        <entry>simple</entry>
-        <entry>symbol</entry>
-        <entry>version</entry>
-        <entry>DATASET</entry>
-        <entry>DATA</entry>
-        <entry>10x</entry>
         <entry>follow</entry>
         <entry>classes</entry>
         <entry>ndimage</entry>
@@ -1728,10 +1692,6 @@
         <entry>shutil</entry>
       </history-search>
       <history-cmd>
-        <entry>325</entry>
-        <entry>help move</entry>
-        <entry>close</entry>
-        <entry>only</entry>
         <entry>help window</entry>
         <entry>51</entry>
         <entry>25</entry>
