@@ -734,8 +734,8 @@
         <mark key="^" line="80" column="28" />
         <mark key="." line="80" column="28" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" timestamp="1507122990401">
-        <mark key="'" line="66" column="68" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" timestamp="1507123807667">
+        <mark key="'" line="13" column="4" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="17" column="12" />
       </file>
@@ -1514,8 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="481" column="59" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
-      <jump line="92" column="47" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
       <jump line="273" column="43" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
       <jump line="274" column="26" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
       <jump line="10" column="11" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
@@ -1614,13 +1612,15 @@
       <jump line="166" column="54" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="129" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="2" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
+      <jump line="13" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>cvt1</text>
       </register>
       <register name="/" type="4">
-        <text>inline</text>
+        <text encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3Z0MSA9IGN2Mi5jdnRDb2xvcihpbWdfcmVzaXplZCwgY3YyLkNPTE9SX1JHQjJCR1IpCg==</text>
@@ -1660,9 +1660,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inline</last-search>
+      <last-search encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>inline</last-pattern>
+      <last-pattern encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
@@ -1691,6 +1691,8 @@
         <entry encoding="base64">XDxESVJfT1JJR0lOQUxfUFJPRFVDVF9JTUFHRVNcPg==</entry>
         <entry>shutil</entry>
         <entry>inline</entry>
+        <entry>imwrite</entry>
+        <entry encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
