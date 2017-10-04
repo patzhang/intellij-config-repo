@@ -513,7 +513,8 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507129776704">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507145803136">
+        <mark key="'" line="250" column="24" />
         <mark key="[" line="251" column="32" />
         <mark key="]" line="251" column="38" />
         <mark key="." line="251" column="38" />
@@ -1499,12 +1500,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507132070472">
-        <mark key="'" line="131" column="16" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="30" />
-        <mark key="." line="44" column="30" />
-        <mark key="^" line="127" column="34" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507146426651">
+        <mark key="'" line="134" column="16" />
+        <mark key="[" line="76" column="89" />
+        <mark key="]" line="76" column="98" />
+        <mark key="." line="76" column="98" />
+        <mark key="^" line="76" column="98" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1514,10 +1515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="27" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
-      <jump line="115" column="41" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="18" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="83" column="18" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
       <jump line="162" column="12" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
       <jump line="46" column="41" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="36" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
@@ -1579,7 +1576,6 @@
       <jump line="124" column="63" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="130" column="75" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="131" column="77" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="23" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="55" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="56" column="64" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="57" column="55" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1614,13 +1610,18 @@
       <jump line="131" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="218" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
       <jump line="202" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
+      <jump line="23" column="46" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="242" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="18" column="32" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="236" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="250" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>result</text>
+        <text>sum_</text>
       </register>
       <register name="/" type="4">
-        <text>069</text>
+        <text>Segment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2FwcGx5X2Nhc2VfOShzZWxmKToKICAgICAgICAiIiIKICAgICAgICBGYWlsdXJlIGNhc2UgZm91bmQgZHVyaW5nIHRlc3RpbmcKICAgICAgICA6cmV0dXJuOgogICAgICAgICIiIgogICAgICAgICMgZ2l2ZW4KICAgICAgICB0ZXN0c19kaXIgPSBwYXRoLnJlYWxwYXRoKG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLnNwbGl0KGluc3BlY3QuZ2V0ZmlsZShpbnNwZWN0LmN1cnJlbnRmcmFtZSgpKSlbMF0pKQogICAgICAgIGZpbHRlcl90ZXN0X2RpciA9IHBhdGguam9pbih0ZXN0c19kaXIsICdpbnB1dC9zZWdtZW50YXRpb25fZmlsdGVyJykKICAgICAgICBpbWFnZTEgPSBwYXRoLmpvaW4oZmlsdGVyX3Rlc3RfZGlyLCAnMzE1NTI1MDM2MTgyNV8yMDE3LTA1LTA5XzA5LjMxLjI1LjA2OV9tXzAxNS5wbmcnKQogICAgICAgIGltYWdlMiA9IHBhdGguam9pbihmaWx0ZXJfdGVzdF9kaXIsICczMTU1MjUwMzYxODI1XzIwMTctMDUtMDlfMDkuMzEuMjUuMDY5X3BfMDA5LnBuZycpCiAgICAgICAgb3V0cHV0X2RpciA9IHBhdGguam9pbih0ZXN0c19kaXIsICdvdXRwdXQnKQogICAgICAgIHNlbGYuYXNzdXJlX2Rpcl9leGlzdGluZyhvdXRwdXRfZGlyKQogICAgICAgIGltZ19vdXRwdXQgPSBwYXRoLmpvaW4ob3V0cHV0X2RpciwgJ3Jlc3VsdF9maWx0ZXJlZF85LnBuZycpCiAgICAgICAgIyB3aGVuCiAgICAgICAgaW1nMSA9IGN2Mi5pbXJlYWQoaW1hZ2UxKQogICAgICAgIGltZzIgPSBjdjIuaW1yZWFkKGltYWdlMikKICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkKICAgICAgICByZXN1bHQsIHNlbGVjdGVkLCByZWFzb24gPSBzZWdfZmlsdGVyLmFwcGx5KGZpcnN0X2ltYWdlPWltZzEsIHNlY29uZF9pbWFnZT1pbWcyKQogICAgICAgIGN2Mi5pbXdyaXRlKGltZ19vdXRwdXQsIHJlc3VsdCkKICAgICAgICAjIHRoZW4KICAgICAgICBzZWxmLmFzc2VydElzTm90Tm9uZShyZXN1bHQpCiAgICAgICAgc2VsZi5hc3NlcnRUcnVlKHNlbGVjdGVkKQogICAgICAgIHByaW50KCdSZWFzb246IHt9Jy5mb3JtYXQocmVhc29uKSkKICAgICAgICBmaWx0ZXJlZF9pbWcgPSBjdjIuaW1yZWFkKGltZ19vdXRwdXQpCiAgICAgICAgcHJpbnQoJ0ZpbHRlcmVkIGltYWdlIHNoYXBlOiB7fScuZm9ybWF0KGZpbHRlcmVkX2ltZy5zaGFwZSkpCg==</text>
@@ -1660,9 +1661,9 @@
       </register>
     </registers>
     <search>
-      <last-search>069</last-search>
+      <last-search>Segment</last-search>
       <last-offset />
-      <last-pattern>069</last-pattern>
+      <last-pattern>Segment</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
@@ -1695,6 +1696,7 @@
         <entry encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</entry>
         <entry>equ</entry>
         <entry>069</entry>
+        <entry>Segment</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
