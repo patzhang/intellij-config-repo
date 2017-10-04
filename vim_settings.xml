@@ -734,8 +734,8 @@
         <mark key="^" line="80" column="28" />
         <mark key="." line="80" column="28" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" timestamp="1507123807667">
-        <mark key="'" line="13" column="4" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" timestamp="1507125474873">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="17" column="12" />
       </file>
@@ -1514,7 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="43" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
       <jump line="274" column="26" filename="/usr/local/opt/pyenv/versions/3.5.2/lib/python3.5/shutil.py" />
       <jump line="10" column="11" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" />
       <jump line="49" column="28" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" />
@@ -1614,13 +1613,14 @@
       <jump line="2" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="84" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
       <jump line="13" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>cvt1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</text>
+        <text>equ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3Z0MSA9IGN2Mi5jdnRDb2xvcihpbWdfcmVzaXplZCwgY3YyLkNPTE9SX1JHQjJCR1IpCg==</text>
@@ -1660,9 +1660,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</last-search>
+      <last-search>equ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</last-pattern>
+      <last-pattern>equ</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
@@ -1693,6 +1693,7 @@
         <entry>inline</entry>
         <entry>imwrite</entry>
         <entry encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</entry>
+        <entry>equ</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
