@@ -545,7 +545,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507119039304">
+      <file name="/Dummy.txt" timestamp="1507122291178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/python/install/pip-install.sh" timestamp="1507056021294">
@@ -554,7 +554,7 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="/code.py" timestamp="1507120159769">
+      <file name="/code.py" timestamp="1507122587451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
@@ -734,7 +734,7 @@
         <mark key="^" line="80" column="28" />
         <mark key="." line="80" column="28" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" timestamp="1507115397010">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" timestamp="1507122990401">
         <mark key="'" line="66" column="68" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="17" column="12" />
@@ -1620,7 +1620,7 @@
         <text>cvt1</text>
       </register>
       <register name="/" type="4">
-        <text>shutil</text>
+        <text>inline</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3Z0MSA9IGN2Mi5jdnRDb2xvcihpbWdfcmVzaXplZCwgY3YyLkNPTE9SX1JHQjJCR1IpCg==</text>
@@ -1660,13 +1660,13 @@
       </register>
     </registers>
     <search>
-      <last-search>shutil</last-search>
+      <last-search>inline</last-search>
       <last-offset />
-      <last-pattern>shutil</last-pattern>
+      <last-pattern>inline</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1690,6 +1690,7 @@
         <entry>handle</entry>
         <entry encoding="base64">XDxESVJfT1JJR0lOQUxfUFJPRFVDVF9JTUFHRVNcPg==</entry>
         <entry>shutil</entry>
+        <entry>inline</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
