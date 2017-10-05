@@ -969,6 +969,12 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
+      <file name="$USER_HOME$/hackday2/ds-hackday2/model.py" timestamp="1507195929636">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="4" />
+        <mark key="^" line="23" column="52" />
+        <mark key="." line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_process_file.py" timestamp="1495019103551">
         <mark key="'" line="0" column="8" />
         <mark key="[" line="7" column="0" />
@@ -1666,16 +1672,10 @@
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>follow</entry>
-        <entry>classes</entry>
-        <entry>ndimage</entry>
-        <entry>tmp</entry>
-        <entry>image</entry>
-        <entry>img1</entry>
         <entry>255</entry>
         <entry>resize</entry>
         <entry>blob</entry>
