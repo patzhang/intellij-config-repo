@@ -1039,6 +1039,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/hackday2/ds-hackday2/lags.py" timestamp="1507198874384">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="96" />
+        <mark key="." line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" timestamp="1505844243331">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="3" column="5" />
@@ -1623,13 +1628,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, self.s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Segment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcxID0gc2VnX2ZpbHRlci5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1nMSkK</text>
+        <text encoding="base64">ZmVhdHVyZXMgPSBwZC5yZWFkX2NzdigiZmVhdHVyZXNfMTAwLmNzdiIpCmluZEZlYXR1cmVzID0gZmVhdHVyZXMuc29ydF92YWx1ZXMoYnkgPVsnc2t1X2lkJywgJ2NmY19pZCcsICdkZWxpdmVyeV9kYXRlJ10pCmZvciBsYWcgaW4gcmFuZ2UoMSwgMTUpOgogICAgY29sbmFtZSA9ICdsYWcnICsgc3RyKGxhZykKICAgIGluZEZlYXR1cmVzW2NvbG5hbWVdID0gaW5kRmVhdHVyZXMuZ3JvdXBieShbJ3NrdV9pZCcsICdjZmNfaWQnXSlbJ251bWJlcl9vcmRlcmVkJ10uc2hpZnQobGFnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkK</text>
