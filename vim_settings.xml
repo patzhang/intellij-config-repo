@@ -554,7 +554,7 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="/code.py" timestamp="1507201982991">
+      <file name="/code.py" timestamp="1507205981458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
@@ -708,6 +708,12 @@
         <mark key="]" line="14" column="11" />
         <mark key="." line="14" column="11" />
         <mark key="^" line="14" column="11" />
+      </file>
+      <file name="$USER_HOME$/hackday2/ds-hackday2/lukas_simple.py" timestamp="1507206205231">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="37" column="55" />
+        <mark key="^" line="33" column="64" />
+        <mark key="." line="33" column="64" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_car.py" timestamp="1498234700424">
         <mark key="'" line="100" column="10" />
@@ -1634,7 +1640,7 @@
         <text>Segment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmVhdHVyZXMgPSBwZC5yZWFkX2NzdigiZmVhdHVyZXNfMTAwLmNzdiIpCmluZEZlYXR1cmVzID0gZmVhdHVyZXMuc29ydF92YWx1ZXMoYnkgPVsnc2t1X2lkJywgJ2NmY19pZCcsICdkZWxpdmVyeV9kYXRlJ10pCmZvciBsYWcgaW4gcmFuZ2UoMSwgMTUpOgogICAgY29sbmFtZSA9ICdsYWcnICsgc3RyKGxhZykKICAgIGluZEZlYXR1cmVzW2NvbG5hbWVdID0gaW5kRmVhdHVyZXMuZ3JvdXBieShbJ3NrdV9pZCcsICdjZmNfaWQnXSlbJ251bWJlcl9vcmRlcmVkJ10uc2hpZnQobGFnKQo=</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgbnVtcHkgYXMgbnAKCnJhd19kYXRlcyA9IFsnMjAxNi0wMy0xMicsICcyMDE2LTA0LTAxJywgJzIwMTYtMDQtMjEnLCAnMjAxNi0wNS0xMScsICcyMDE2LTA1LTMxJywKICAgICAgICAgJzIwMTYtMDYtMjAnLCAnMjAxNi0wNy0xMCcsICcyMDE2LTA3LTMwJywgJzIwMTYtMDgtMTknLCAnMjAxNi0wOS0wOCcsCiAgICAgICAgICcyMDE2LTA5LTI4JywgJzIwMTYtMTAtMTgnLCAnMjAxNi0xMS0wNycsICcyMDE2LTExLTI3JywgJzIwMTYtMTItMTcnLAogICAgICAgICAnMjAxNy0wMS0wNicsICcyMDE3LTAxLTI2JywgJzIwMTctMDItMTUnXQpob3Jpem9ucyA9IHJhbmdlKDEsMTUpCgpkZWYgbGFzdF93ZWVrX3ByZWRzKGRhdGEsIHRvZGF5KToKICAgIGZvcmVjYXN0X2RmcyA9IFtdCiAgICBmb3IgKHNrdV9pZCwgY2ZjX2lkKSwgZ3JvdXAgaW4gZGF0YS5ncm91cGJ5KFsnc2t1X2lkJywgJ2NmY19pZCddKToKICAgICAgICBmb3JlY2FzdHMgPSBbXQogICAgICAgIGZvciBob3Jpem9uIGluIGhvcml6b25zOgogICAgICAgICAgICBmb3JlY2FzdF9kYXkgPSBwZC50b19kYXRldGltZSh0b2RheSkgKyBucC50aW1lZGVsdGE2NChob3Jpem9uLCAnRCcpCiAgICAgICAgICAgIGZvcmVjYXN0X3dlZWtfZGF5ID0gZm9yZWNhc3RfZGF5LmRheW9md2VlawogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBmb3JlY2FzdCA9IGdyb3VwW2dyb3VwLmRlbGl2ZXJ5X2RhdGUuZHQuZGF5b2Z3ZWVrID09IGZvcmVjYXN0X3dlZWtfZGF5XS5udW1iZXJfb3JkZXJlZC52YWx1ZXNbLTFdCiAgICAgICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgICAgIGZvcmVjYXN0ID0gMAogICAgICAgICAgICBmb3JlY2FzdHMuYXBwZW5kKGZvcmVjYXN0KQogICAgICAgIGZvcmVjYXN0X2RmID0gcGQuRGF0YUZyYW1lKHsnZGVsaXZlcnlfZGF0ZSc6IHRvZGF5LCAnc2t1X2lkJzogc2t1X2lkLCAnY2ZjX2lkJzogY2ZjX2lkLAogICAgICAgICAgICAgICAgICAgICAgICAgJ2hvcml6b24nOiBob3Jpem9ucywgJ3ByZWQnOiBmb3JlY2FzdHN9KQogICAgICAgIGZvcmVjYXN0X2Rmcy5hcHBlbmQoZm9yZWNhc3RfZGYpCiAgICByZXR1cm4gcGQuY29uY2F0KGZvcmVjYXN0X2RmcykKCmRlZiByZWFkX2FuZF9ydW5fYWxsKCk6CiAgICBhbnN3ZXJzID0gW10KICAgIGRhdGEgPSBwZC5yZWFkX2NzdigiZGF0YS9mZWF0dXJlc18xMDBfb3JkZXJlZC5jc3YiKQogICAgZGF0YSA9IGRhdGFbZGF0YS5jZmNfaWQgIT0gMTIwMDBdCiAgICBkYXRhLmRlbGl2ZXJ5X2RhdGUgPSBwZC50b19kYXRldGltZShkYXRhLmRlbGl2ZXJ5X2RhdGUpCiAgICBkYXRlcyA9IHBkLnRvX2RhdGV0aW1lKHJhd19kYXRlcykKICAgIGZvciBkYXRlIGluIGRhdGVzOgogICAgICAgIGFuc3dlcnMuYXBwZW5kKGxhc3Rfd2Vla19wcmVkcyhkYXRhW2RhdGEuZGVsaXZlcnlfZGF0ZSA8PSBkYXRlXS5jb3B5KCksIGRhdGUpKQogICAgcmV0dXJuIHBkLmNvbmNhdChhbnN3ZXJzKQoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHJlYWRfYW5kX3J1bl9hbGwoKS50b19jc3YoIm91dHB1dC5jc3YiLCBpbmRleD1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkK</text>
