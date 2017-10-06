@@ -516,12 +516,12 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507307080007">
-        <mark key="'" line="52" column="19" />
-        <mark key="[" line="45" column="19" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-        <mark key="^" line="40" column="15" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507319522314">
+        <mark key="'" line="516" column="18" />
+        <mark key="[" line="482" column="0" />
+        <mark key="]" line="482" column="0" />
+        <mark key="^" line="544" column="7" />
+        <mark key="." line="482" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505816882512">
         <mark key="'" line="39" column="9" />
@@ -1538,34 +1538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="75" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="131" column="77" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="56" column="64" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="57" column="55" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="62" column="9" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="140" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="171" column="47" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="176" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="333" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="361" column="22" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="411" column="22" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="95" column="102" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="343" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="468" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="313" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="363" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="366" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="132" column="40" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="162" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="438" column="69" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="439" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="440" column="68" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="168" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="166" column="54" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="129" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="2" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="84" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
       <jump line="13" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
       <jump line="30" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/notebook/high_res_segmenetation.py" />
@@ -1581,7 +1553,6 @@
       <jump line="62" column="40" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="63" column="22" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="30" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="44" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="243" column="39" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="344" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="76" column="71" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
@@ -1620,7 +1591,6 @@
       <jump line="512" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="157" column="38" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="142" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="45" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="57" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" />
       <jump line="134" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1637,56 +1607,86 @@
       <jump line="172" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="173" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="108" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="52" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="52" column="60" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="530" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="533" column="28" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="496" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="492" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="488" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="560" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="498" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="508" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="514" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="520" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="523" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="529" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="534" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="536" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="540" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="544" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="546" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="558" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="562" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="483" column="6" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="495" column="55" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="561" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="96" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="122" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="124" column="35" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="525" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="535" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>False</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>Reason</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZG93bmxhb2RlZCArPSAxCg==</text>
+        <text encoding="base64">ICAgIHN0b3JhZ2VfY2xpZW50XzEgPSBzdG9yYWdlLkNsaWVudChwcm9qZWN0PUdDU19QUk9KRUNUKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvd25sYW9kZWQK</text>
+        <text encoding="base64">IyAgICAgICAgIGxvZ2dlci53YXJuaW5nKCdDb3VsZCBub3QgZmluZCBpbWFnZXMgZm9yIGJhcmNvZGUge30nLmZvcm1hdChiYXJjb2RlKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGlnbm9yZWQgKz0gMQo=</text>
+        <text encoding="base64">CiMgZGVmIGNyZWF0ZV9kYXRhc2V0KGJhcmNvZGUsIGJ1Y2tldF9pbWFnZV9kYXRhLCBwcm9kX25hbWUsIHJlYWRtZV9maWxlKToKIyAgICAgbG9nZ2VyLmluZm8oJ1ByZXBhcmluZyBpbWFnZSBkYXRhIGZvciBiYXJjb2RlIHt9Jy5mb3JtYXQoYmFyY29kZSkpCiMgICAgIHRvdGFsID0gcHJvY2Vzc19pbWFnZXNfZm9yX2JhcmNvZGUoYnVja2V0X2ltYWdlX2RhdGEsIGJhcmNvZGUpCiMgICAgIGlmIHRvdGFsID4gMDoKIyAgICAgICAgIGhhbmRsZV9iYXJjb2RlX3RhcmZpbGUoYmFyY29kZSkKIwojICAgICAgICAgaXRlbV9zdW1tYXJ5ID0gJyAgICAgJy5qb2luKCgnezA6IDwxM30nLmZvcm1hdChiYXJjb2RlKSwgJ3swOiA+Nn0nLmZvcm1hdCh0b3RhbCksIHByb2RfbmFtZSkpCiMgICAgICAgICBhbWVuZF90b19maWxlKHJlYWRtZV9maWxlLCBpdGVtX3N1bW1hcnkpCiMgICAgICAgICB1cGxvYWRfZmlsZV90b19nY3MocmVhZG1lX2ZpbGUpCiMgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWYsIHhjLCB5YywgcywgcGN0LCByZXNfb3JnLCByZXNfYWhlID0gc2VsZi5sb2NhbGlzZV9wcm9kdWN0KCkKICAgICAgICBzZWxlY3RlZCwgcmVhc29uID0gc2VsZi5ldmFsdWF0ZV9maWx0ZXJlZF9yZWdpb24oZGlmLCB4YywgeWMsIHMsIHBjdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X2pwZyA9IHBhdGguam9pbihvdXRwdXRfZGlyLCBwYXRoLmJhc2VuYW1lKGltYWdlMSkucmVwbGFjZSgncG5nJywgJ2pwZycpKQo=</text>
+        <text encoding="base64">ICAgICMgZm9yIGJhcmNvZGUsIHByb2RfbmFtZSBpbiBiY19wcmRfbGlzdDoKICAgICMgICAgIGNyZWF0ZV9kYXRhc2V0KGJhcmNvZGUsIGJ1Y2tldF9pbWFnZV9kYXRhLCBwcm9kX25hbWUsIHJlYWRtZV9maWxlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzYXZlIHRoZSBmaWx0ZXJlZCBhbmQgcmVzaXplZCBmaWxlIGluIGpwZyBmb3JtYXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBiY19wcmRfbGlzdC5hcHBlbmQoYmFyY29kZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdjcmVhdGVfZGF0YXNldCAuLi57fScuZm9ybWF0KHByb2RfbmFtZSkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VE9UQUxfSU1BR0VTID0gNTAgICAgICAgICMgdGhlIHRvdGFsIGltYWdlcyBwZXIgYmFyY29kZQoKVVBMT0FEX1RPX0dDUyA9IEZhbHNlICAgIyBpZiB0aGUgcmVzdWx0IGRhdGFzZXQgaXMgdXBsb2FkZWQgdG8gR0NTClVTSU5HX1RBUkJBTEwgPSBGYWxzZSAgICMgaWYgdGhlIHRhcmJhbGwgZmlsZXMgYXJlIGNyZWF0ZWQK</text>
+        <text encoding="base64">IyBpbml0aWFsaXNlIGFjY2VzcyB0byBHQ1MgYnVja2V0CmJ1Y2tldF9uYW1lX2ltYWdlX2RhdGEgPSBHQ1NfQlVDS0VUX0lNQUdFX0RBVEEKc3RvcmFnZV9jbGllbnQgPSBzdG9yYWdlLkNsaWVudChwcm9qZWN0PUdDU19QUk9KRUNUKQpidWNrZXRfaW1hZ2VfZGF0YSA9IHN0b3JhZ2VfY2xpZW50LmdldF9idWNrZXQoYnVja2V0X25hbWU9YnVja2V0X25hbWVfaW1hZ2VfZGF0YSkKbG9nZ2VyLmRlYnVnKCdGb3VuZCBidWNrZXQ6IHt9Jy5mb3JtYXQoYnVja2V0X2ltYWdlX2RhdGEpKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBsb2NhbCBydW4vdGVzdCBjb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
       </register>
     </registers>
     <search>
-      <last-search>Reason</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>Reason</last-pattern>
+      <last-pattern>name</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
@@ -1735,6 +1735,10 @@
         <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFw+</entry>
         <entry>Reason</entry>
+        <entry>main(</entry>
+        <entry>prod</entry>
+        <entry encoding="base64">XDxjcmVhdGVfZGF0YXNldFw+</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
