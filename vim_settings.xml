@@ -423,11 +423,11 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507280345793">
-        <mark key="[" line="233" column="33" />
-        <mark key="]" line="233" column="33" />
-        <mark key="." line="233" column="33" />
-        <mark key="^" line="232" column="39" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507282283137">
+        <mark key="[" line="232" column="52" />
+        <mark key="]" line="232" column="52" />
+        <mark key="." line="232" column="52" />
+        <mark key="^" line="232" column="32" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
         <mark key="[" line="1" column="5" />
@@ -1535,12 +1535,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507280895871">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="87" column="32" />
-        <mark key="]" line="87" column="42" />
-        <mark key="." line="87" column="42" />
-        <mark key="^" line="87" column="42" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507282419121">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="51" column="58" />
+        <mark key="]" line="61" column="9" />
+        <mark key="." line="61" column="9" />
+        <mark key="^" line="61" column="43" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1550,16 +1550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="69" column="63" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="15" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="18" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="21" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="27" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="23" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
       <jump line="7" column="10" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
       <jump line="28" column="42" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
       <jump line="29" column="44" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
@@ -1639,7 +1629,6 @@
       <jump line="18" column="32" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="236" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="250" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="76" column="98" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="46" column="0" filename="$USER_HOME$/hackday2/ds-pipeline/forecasting.py" />
       <jump line="16" column="0" filename="$USER_HOME$/hackday2/ds-pipeline/forecasting.py" />
       <jump line="34" column="0" filename="$USER_HOME$/hackday2/ds-pipeline/forecasting.py" />
@@ -1650,55 +1639,66 @@
       <jump line="243" column="39" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="337" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="344" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="76" column="71" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="82" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="83" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="84" column="29" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="85" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="90" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="92" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="95" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="22" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="24" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>image_t0</text>
+        <text>first_image=img1, second_image=img2</text>
       </register>
       <register name="/" type="4">
-        <text>copyfile</text>
+        <text encoding="base64">XDxpbWFnZV90MFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByZWRpY3Rpb25zID0gUGFyYWxsZWwobl9qb2JzPTQpKGRlbGF5ZWQoYWRkX3ByZWRpY3Rpb25zKShkYXRlLCBkYXRhLmNvcHkoKSkgZm9yIGRhdGUgaW4gZGF0ZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlX3QwID0gc2VsZi5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oZmlyc3RfaW1hZ2UgLyAyNTUuMCkKICAgICAgICBzZWxmLmltYWdlX3QxID0gc2VsZi5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oc2Vjb25kX2ltYWdlIC8gMjU1LjApCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQxID0gKHJlc3VsdCAqIDI1NS4wKS5hc3R5cGUoJ3VpbnQ4JykK</text>
+        <text encoding="base64">ICAgICAgICAzKSB3aGVuIHRoZSBmaWx0ZXJlZCByZWdpb24gaXMgdG9vIHNtYWxsLCB0aGUgcHJvZHVjdCBpbiB0aGUgcmVnaW9uIG1heSBub3QgYmUgYmlnIGVub3VnaC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcyID0gc2VnX2ZpbHRlci5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1nMikK</text>
+        <text encoding="base64">ICAgICAgICBkaWYsIHhjLCB5YywgcywgcGN0LCByZXN1bHQgPSBzZWxmLmxvY2FsaXNlX3Byb2R1Y3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcxID0gc2VnX2ZpbHRlci5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1nMSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpcnN0X2ltYWdlID0gZmlyc3RfaW1hZ2UKICAgICAgICBzZWxmLnNlY29uZF9pbWFnZSA9IHNlY29uZF9pbWFnZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNrdXMgPSBkYXRhLnNrdV9pZC51bmlxdWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnhjID0gTm9uZQogICAgICAgIHNlbGYueWMgPSBOb25lCiAgICAgICAgc2VsZi5zID0gTm9uZQogICAgICAgIHNlbGYuZGlmID0gTm9uZQogICAgICAgIHNlbGYucGN0ID0gTm9uZQogICAgICAgIHNlbGYucmVzdWx0ID0gTm9uZQogICAgICAgIHNlbGYuc2VsZWN0ZWQgPSBGYWxzZQogICAgICAgIHNlbGYucmVhc29uID0gTm9uZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">VHJ1ZSkKICAgIGluZEZlYXR1cmVzID0gZmVhdHVyZXMuc29ydF92YWx1ZXMoYnkg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkaWYsIHhjLCB5YywgcywgcGN0LCByZXN1bHQgPSBzZWxmLmxvY2FsaXNlX3Byb2R1Y3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNrdXMgPSBkYXRhLnNrdV9pZC51bmlxdWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRpZiA9IGRpZgogICAgICAgIHNlbGYueGMgPSB4YwogICAgICAgIHNlbGYueWMgPSB5YwogICAgICAgIHNlbGYucyA9IHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSByZWFkRGF0YSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBjdCA9IGZsb2F0KCJ7Oi4yZn0iLmZvcm1hdChkaWZfcmVnaW9uX3BlcmNlbnQgKiAxMDApKQogICAgICAgIHNlbGYucmVzdWx0ID0gc2VsZi5maXJzdF9pbWFnZVt4YyAtIHM6eGMgKyBzLCB5YyAtIHM6eWMgKyBzXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNrdXMgPSBkYXRhLnNrdV9pZC51bmlxdWUoKQogICAgY2ZjcyA9IGRhdGEuY2ZjX2lkLnVuaXF1ZSgpCiAgICBwcmVkaWN0aW9ucyA9IFtdCiAgICAKICAgIGZvciBkYXRlIGluIGRhdGVzOgogICAgICAgIGZvciBza3UgaW4gc2t1czoKICAgICAgICAgICAgZm9yIGNmYyBpbiBjZmNzOgogICAgICAgICAgICAgICAgUGFyYWxsZWwobl9qb2JzPTQpKGRlbGF5ZWQoYWRkX3ByZWRpY3Rpb24pKHByZWRpY3Rpb25zLCBob3Jpem9uLCBjZmMsIHNrdSwgZGF0ZSwgZGF0YSkgZm9yIGhvcml6b24gaW4gaG9yaXpvbnMpCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgcHJpbnQoZGF0ZSkKIyAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiMgICAgICAgICAgICAgICAgIGJyZWFrCiMgICAgICAgICAgICAgYnJlYWsKIyAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlX3QwID0gc2VsZi5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oZmlyc3RfaW1hZ2UgLyAyNTUuMCkKICAgICAgICBzZWxmLmltYWdlX3QxID0gc2VsZi5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oc2Vjb25kX2ltYWdlIC8gMjU1LjApCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search>copyfile</last-search>
+      <last-search encoding="base64">XDxpbWFnZV90MFw+</last-search>
       <last-offset />
-      <last-pattern>copyfile</last-pattern>
+      <last-pattern encoding="base64">XDxpbWFnZV90MFw+</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
@@ -1729,6 +1729,8 @@
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>equal</entry>
         <entry>copyfile</entry>
+        <entry>self.</entry>
+        <entry encoding="base64">XDxpbWFnZV90MFw+</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
