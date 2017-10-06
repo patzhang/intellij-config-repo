@@ -423,11 +423,11 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507285859890">
-        <mark key="[" line="157" column="19" />
-        <mark key="]" line="157" column="22" />
-        <mark key="." line="157" column="22" />
-        <mark key="^" line="157" column="22" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507287282974">
+        <mark key="[" line="233" column="36" />
+        <mark key="]" line="233" column="36" />
+        <mark key="." line="233" column="36" />
+        <mark key="^" line="233" column="36" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
         <mark key="[" line="1" column="5" />
@@ -518,12 +518,12 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507286231874">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507287743575">
         <mark key="'" line="337" column="11" />
-        <mark key="[" line="170" column="34" />
-        <mark key="]" line="170" column="92" />
-        <mark key="." line="170" column="92" />
-        <mark key="^" line="170" column="92" />
+        <mark key="[" line="172" column="46" />
+        <mark key="]" line="172" column="54" />
+        <mark key="." line="172" column="54" />
+        <mark key="^" line="172" column="54" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505816882512">
         <mark key="'" line="39" column="9" />
@@ -1535,12 +1535,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507286499315">
-        <mark key="'" line="127" column="3" />
-        <mark key="[" line="54" column="63" />
-        <mark key="]" line="54" column="63" />
-        <mark key="." line="54" column="63" />
-        <mark key="^" line="23" column="23" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507287031989">
+        <mark key="'" line="129" column="3" />
+        <mark key="[" line="53" column="60" />
+        <mark key="]" line="54" column="7" />
+        <mark key="." line="54" column="7" />
+        <mark key="^" line="54" column="7" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1653,7 +1653,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">aW1nX2FoZSwg</text>
       </register>
       <register name="/" type="4">
         <text>cvtColor</text>
@@ -1662,34 +1662,34 @@
         <text encoding="base64">ICAgIGRlZiBlcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1hZ2UpOgogICAgICAgIG54ID0gbnAuZW1wdHlfbGlrZShpbWFnZSkKICAgICAgICBmb3IgY2hhbm5lbCBpbiBbMCwgMSwgMl06CiAgICAgICAgICAgIG54WzosIDosIGNoYW5uZWxdID0gZXhwb3N1cmUuZXF1YWxpemVfYWRhcHRoaXN0KGltYWdlWzosIDosIGNoYW5uZWxdKQogICAgICAgIHJldHVybiBueAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIHNodXRpbC5jb3B5ZmlsZShpbWFnZV9maWxlX2EsIGltZ19vcmlnaW5hbCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmRlZiBlcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1hZ2UpOgogICAgbnggPSBucC5lbXB0eV9saWtlKGltYWdlKQogICAgZm9yIGNoYW5uZWwgaW4gWzAsIDEsIDJdOgogICAgICAgIG54WzosIDosIGNoYW5uZWxdID0gZXhwb3N1cmUuZXF1YWxpemVfYWRhcHRoaXN0KGltYWdlWzosIDosIGNoYW5uZWxdKQogICAgcmV0dXJuIG54Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW1nX2ZpbGUgPSBwYXRoLmpvaW4ob3V0cHV0X2RpciwgcGF0aC5iYXNlbmFtZShpbWFnZV9hKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGVxdWFsaXplX2FkYXB0aXZlX2hpc3RvZ3JhbShpbWFnZSk6CiAgICBueCA9IG5wLmVtcHR5X2xpa2UoaW1hZ2UpCiAgICBmb3IgY2hhbm5lbCBpbiBbMCwgMSwgMl06CiAgICAgICAgbnhbOiwgOiwgY2hhbm5lbF0gPSBleHBvc3VyZS5lcXVhbGl6ZV9hZGFwdGhpc3QoaW1hZ2VbOiwgOiwgY2hhbm5lbF0pCiAgICByZXR1cm4gbngKCgo=</text>
+        <text encoding="base64">CmRlZiBlcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1hZ2UpOgogICAgbnggPSBucC5lbXB0eV9saWtlKGltYWdlKQogICAgZm9yIGNoYW5uZWwgaW4gWzAsIDEsIDJdOgogICAgICAgIG54WzosIDosIGNoYW5uZWxdID0gZXhwb3N1cmUuZXF1YWxpemVfYWRhcHRoaXN0KGltYWdlWzosIDosIGNoYW5uZWxdKQogICAgcmV0dXJuIG54Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzZWdtZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnZW5lcmF0ZSB0aGUgZmlsdGVyZWQgZmlsZSBpbiBwbmcKICAgICAgICAgICAgIyBvdXRwdXRfZmlsZV9mbHJfcG5nID0gcGF0aC5qb2luKG91dHB1dF9kaXIsIHBhdGguYmFzZW5hbWUoaW1hZ2UxKS5yZXBsYWNlKCcucG5nJywgJ19mbHIucG5nJykpCiAgICAgICAgICAgICMgY3YyLmltd3JpdGUob3V0cHV0X2ZpbGVfZmxyX3BuZywgaW1nX3Jlc2l6ZWQpCiAgICAgICAgICAgICMgYXBwbHkgYWRhcHRpdmUgaGlzdG9ncmFtIGVxdWFsaXphdGlvbiB0byB0aGUgZmlsdGVyZWQgZmlsZSBpbiBwbmcKICAgICAgICAgICAgIyBvdXRwdXRfZmlsZV9haGVfcG5nID0gcGF0aC5qb2luKG91dHB1dF9kaXIsIHBhdGguYmFzZW5hbWUoaW1hZ2UxKS5yZXBsYWNlKCcucG5nJywgJ19haGUucG5nJykpCiAgICAgICAgICAgICMgY3Z0MSA9IGN2Mi5jdnRDb2xvcihpbWdfcmVzaXplZCwgY3YyLkNPTE9SX1JHQjJCR1IpCiAgICAgICAgICAgICMgaW1nX2FoZSA9IFNlZ21lbnRhdGlvbkZpbHRlci5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oY3Z0MSkKICAgICAgICAgICAgIyBjdnQyID0gY3YyLmN2dENvbG9yKGltZ19haGUsIGN2Mi5DT0xPUl9CR1IyUkdCKQogICAgICAgICAgICAjIGN2Mi5pbXdyaXRlKG91dHB1dF9maWxlX2FoZV9wbmcsIGN2dDIpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkK</text>
+        <text encoding="base64">ZGVmIGVxdWFsaXplX2FkYXB0aXZlX2hpc3RvZ3JhbShpbWFnZSk6CiAgICBueCA9IG5wLmVtcHR5X2xpa2UoaW1hZ2UpCiAgICBmb3IgY2hhbm5lbCBpbiBbMCwgMSwgMl06CiAgICAgICAgbnhbOiwgOiwgY2hhbm5lbF0gPSBleHBvc3VyZS5lcXVhbGl6ZV9hZGFwdGhpc3QoaW1hZ2VbOiwgOiwgY2hhbm5lbF0pCiAgICByZXR1cm4gbngKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAzKSB3aGVuIHRoZSBmaWx0ZXJlZCByZWdpb24gaXMgdG9vIHNtYWxsLCB0aGUgcHJvZHVjdCBpbiB0aGUgcmVnaW9uIG1heSBub3QgYmUgYmlnIGVub3VnaC4K</text>
+        <text encoding="base64">ZnJvbSBzZWdtZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
