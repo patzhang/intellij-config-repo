@@ -423,11 +423,11 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507279983579">
-        <mark key="[" line="234" column="32" />
-        <mark key="]" line="234" column="39" />
-        <mark key="." line="234" column="39" />
-        <mark key="^" line="234" column="39" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507280345793">
+        <mark key="[" line="233" column="33" />
+        <mark key="]" line="233" column="33" />
+        <mark key="." line="233" column="33" />
+        <mark key="^" line="232" column="39" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
         <mark key="[" line="1" column="5" />
@@ -518,12 +518,12 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507145803136">
-        <mark key="'" line="250" column="24" />
-        <mark key="[" line="251" column="32" />
-        <mark key="]" line="251" column="38" />
-        <mark key="." line="251" column="38" />
-        <mark key="^" line="251" column="38" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507280490581">
+        <mark key="'" line="345" column="11" />
+        <mark key="[" line="169" column="84" />
+        <mark key="]" line="252" column="38" />
+        <mark key="." line="252" column="38" />
+        <mark key="^" line="252" column="38" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505816882512">
         <mark key="'" line="39" column="9" />
@@ -1535,12 +1535,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507280163128">
-        <mark key="'" line="63" column="22" />
-        <mark key="[" line="63" column="66" />
-        <mark key="]" line="63" column="90" />
-        <mark key="." line="63" column="90" />
-        <mark key="^" line="63" column="90" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507280895871">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="87" column="32" />
+        <mark key="]" line="87" column="42" />
+        <mark key="." line="87" column="42" />
+        <mark key="^" line="87" column="42" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
@@ -1550,11 +1550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="7" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
-      <jump line="13" column="18" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
-      <jump line="14" column="23" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
-      <jump line="16" column="54" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification/notebooks/high_res_segmenetation.py" />
       <jump line="32" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="69" column="63" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="2" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
@@ -1650,55 +1645,60 @@
       <jump line="34" column="0" filename="$USER_HOME$/hackday2/ds-pipeline/forecasting.py" />
       <jump line="62" column="40" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="63" column="22" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
+      <jump line="44" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="243" column="39" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="337" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="344" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>image_t0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text>copyfile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByZWRpY3Rpb25zID0gUGFyYWxsZWwobl9qb2JzPTQpKGRlbGF5ZWQoYWRkX3ByZWRpY3Rpb25zKShkYXRlLCBkYXRhLmNvcHkoKSkgZm9yIGRhdGUgaW4gZGF0ZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNrdXMgPSBkYXRhLnNrdV9pZC51bmlxdWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlX3QwID0gc2VsZi5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oZmlyc3RfaW1hZ2UgLyAyNTUuMCkKICAgICAgICBzZWxmLmltYWdlX3QxID0gc2VsZi5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oc2Vjb25kX2ltYWdlIC8gMjU1LjApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">VHJ1ZSkKICAgIGluZEZlYXR1cmVzID0gZmVhdHVyZXMuc29ydF92YWx1ZXMoYnkg</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHQxID0gKHJlc3VsdCAqIDI1NS4wKS5hc3R5cGUoJ3VpbnQ4JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNrdXMgPSBkYXRhLnNrdV9pZC51bmlxdWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWcyID0gc2VnX2ZpbHRlci5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1nMikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSByZWFkRGF0YSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWcxID0gc2VnX2ZpbHRlci5lcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1nMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNrdXMgPSBkYXRhLnNrdV9pZC51bmlxdWUoKQogICAgY2ZjcyA9IGRhdGEuY2ZjX2lkLnVuaXF1ZSgpCiAgICBwcmVkaWN0aW9ucyA9IFtdCiAgICAKICAgIGZvciBkYXRlIGluIGRhdGVzOgogICAgICAgIGZvciBza3UgaW4gc2t1czoKICAgICAgICAgICAgZm9yIGNmYyBpbiBjZmNzOgogICAgICAgICAgICAgICAgUGFyYWxsZWwobl9qb2JzPTQpKGRlbGF5ZWQoYWRkX3ByZWRpY3Rpb24pKHByZWRpY3Rpb25zLCBob3Jpem9uLCBjZmMsIHNrdSwgZGF0ZSwgZGF0YSkgZm9yIGhvcml6b24gaW4gaG9yaXpvbnMpCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgcHJpbnQoZGF0ZSkKIyAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiMgICAgICAgICAgICAgICAgIGJyZWFrCiMgICAgICAgICAgICAgYnJlYWsKIyAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgIHNrdXMgPSBkYXRhLnNrdV9pZC51bmlxdWUoKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIGFkZF9wcmVkaWN0aW9uKHByZWRpY3Rpb25zLCBob3Jpem9uLCBjZmMsIHNrdSwgZGF0ZSwgZGF0YSk6CiAgICBkYXRhX3N1YnNldCA9IGRhdGFbKGRhdGEuZGVsaXZlcnlfZGF0ZSA8PSBkYXRlKSYoZGF0YS5za3VfaWQ9PXNrdSkmKGRhdGEuY2ZjX2lkPT1jZmMpXQogICAgcHJlZGljdGlvbiA9IHRyYWluTW9kZWwoZGF0YV9zdWJzZXQsIGhvcml6b24sIGRhdGUpCiAgICBwcmVkaWN0aW9ucy5hcHBlbmQocGQuRGF0YUZyYW1lKHsnZGVsaXZlcnlfZGF0ZSc6IFtkYXRlXSwgJ3NrdV9pZCc6IFtza3VdLCAnY2ZjX2lkJzogW2NmY10sCiAgICAgICAgJ2hvcml6b24nOiBbaG9yaXpvbl0sICdwcmVkJzogcHJlZGljdGlvbn0pKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">VHJ1ZSkKICAgIGluZEZlYXR1cmVzID0gZmVhdHVyZXMuc29ydF92YWx1ZXMoYnkg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyByZWFkX2FuZF9ydW5fYWxsKCkKCgojIEluWyBdOgoK</text>
+        <text encoding="base64">ICAgIHNrdXMgPSBkYXRhLnNrdV9pZC51bmlxdWUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGpvYmxpYgo=</text>
+        <text encoding="base64">ICAgIGRhdGEgPSByZWFkRGF0YSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpvYmxpYgo=</text>
+        <text encoding="base64">ICAgIHNrdXMgPSBkYXRhLnNrdV9pZC51bmlxdWUoKQogICAgY2ZjcyA9IGRhdGEuY2ZjX2lkLnVuaXF1ZSgpCiAgICBwcmVkaWN0aW9ucyA9IFtdCiAgICAKICAgIGZvciBkYXRlIGluIGRhdGVzOgogICAgICAgIGZvciBza3UgaW4gc2t1czoKICAgICAgICAgICAgZm9yIGNmYyBpbiBjZmNzOgogICAgICAgICAgICAgICAgUGFyYWxsZWwobl9qb2JzPTQpKGRlbGF5ZWQoYWRkX3ByZWRpY3Rpb24pKHByZWRpY3Rpb25zLCBob3Jpem9uLCBjZmMsIHNrdSwgZGF0ZSwgZGF0YSkgZm9yIGhvcml6b24gaW4gaG9yaXpvbnMpCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgcHJpbnQoZGF0ZSkKIyAgICAgICAgICAgICAgICAgICAgIGJyZWFrCiMgICAgICAgICAgICAgICAgIGJyZWFrCiMgICAgICAgICAgICAgYnJlYWsKIyAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search>copyfile</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern>copyfile</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
@@ -1727,6 +1727,8 @@
         <entry>069</entry>
         <entry>Segment</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry>equal</entry>
+        <entry>copyfile</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
