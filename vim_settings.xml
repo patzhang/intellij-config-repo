@@ -516,12 +516,12 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507319522314">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507320229395">
         <mark key="'" line="516" column="18" />
-        <mark key="[" line="482" column="0" />
-        <mark key="]" line="482" column="0" />
+        <mark key="[" line="543" column="20" />
+        <mark key="]" line="543" column="21" />
         <mark key="^" line="544" column="7" />
-        <mark key="." line="482" column="0" />
+        <mark key="." line="543" column="21" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505816882512">
         <mark key="'" line="39" column="9" />
