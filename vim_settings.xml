@@ -516,8 +516,8 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507538651028">
-        <mark key="'" line="391" column="21" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507552108443">
+        <mark key="'" line="188" column="53" />
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="14" />
         <mark key="." line="38" column="14" />
@@ -668,6 +668,13 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/utils/image_util.py" timestamp="1507552126217">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-unpack-dataset.sh" timestamp="1495630609351">
         <mark key="'" line="17" column="3" />
         <mark key="[" line="30" column="12" />
@@ -719,12 +726,6 @@
         <mark key="]" line="14" column="11" />
         <mark key="." line="14" column="11" />
         <mark key="^" line="14" column="11" />
-      </file>
-      <file name="$USER_HOME$/hackday2/ds-hackday2/lukas_simple.py" timestamp="1507206967072">
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="41" />
-        <mark key="^" line="33" column="64" />
-        <mark key="." line="28" column="41" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_car.py" timestamp="1498234700424">
         <mark key="'" line="100" column="10" />
@@ -1269,12 +1270,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1507547854688">
-        <mark key="'" line="366" column="0" />
-        <mark key="[" line="44" column="76" />
-        <mark key="]" line="44" column="80" />
-        <mark key="^" line="44" column="80" />
-        <mark key="." line="44" column="80" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1507552140522">
+        <mark key="'" line="370" column="0" />
+        <mark key="[" line="121" column="62" />
+        <mark key="]" line="121" column="69" />
+        <mark key="^" line="121" column="69" />
+        <mark key="." line="121" column="69" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498550490983">
         <mark key="[" line="29" column="0" />
@@ -1514,10 +1515,10 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507305037313">
-        <mark key="'" line="19" column="4" />
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="21" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1507552113595">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="139" column="16" />
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
@@ -1529,10 +1530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="95" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="22" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="24" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="234" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="329" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1629,55 +1626,59 @@
       <jump line="203" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="500" column="49" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="391" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="405" column="51" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="5" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/utils/image_util.py" />
+      <jump line="188" column="53" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>/ 255.0) * 255.0</text>
       </register>
       <register name="/" type="4">
-        <text>finished</text>
+        <text>equali</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfZmlsZV9hID0gb3MucGF0aC5qb2luKERJUl9PUklHSU5BTF9QUk9EVUNUX0lNQUdFUywgaW1hZ2VfYSkK</text>
+        <text encoding="base64">ICAgIGRlZiBlcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1hZ2UpOgogICAgICAgIG54ID0gbnAuZW1wdHlfbGlrZShpbWFnZSkKICAgICAgICBmb3IgY2hhbm5lbCBpbiBbMCwgMSwgMl06CiAgICAgICAgICAgIG54WzosIDosIGNoYW5uZWxdID0gZXhwb3N1cmUuZXF1YWxpemVfYWRhcHRoaXN0KGltYWdlWzosIDosIGNoYW5uZWxdKQogICAgICAgIHJldHVybiBueAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VXNhZ2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRlbGV0ZV9maWxlKGltYWdlX2ZpbGVfYikK</text>
+        <text encoding="base64">ICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlX2ZpbGUoaW1hZ2VfZmlsZV9iKQo=</text>
+        <text encoding="base64">ZnJvbSBzZWdtZW50YXRpb25fZmlsdGVyIGltcG9ydCBTZWdtZW50YXRpb25GaWx0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgICAgIGxvZ2dlci53YXJuaW5nKCdDb3VsZCBub3QgZmluZCBpbWFnZXMgZm9yIGJhcmNvZGUge30nLmZvcm1hdChiYXJjb2RlKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMgZGVmIGNyZWF0ZV9kYXRhc2V0KGJhcmNvZGUsIGJ1Y2tldF9pbWFnZV9kYXRhLCBwcm9kX25hbWUsIHJlYWRtZV9maWxlKToKIyAgICAgbG9nZ2VyLmluZm8oJ1ByZXBhcmluZyBpbWFnZSBkYXRhIGZvciBiYXJjb2RlIHt9Jy5mb3JtYXQoYmFyY29kZSkpCiMgICAgIHRvdGFsID0gcHJvY2Vzc19pbWFnZXNfZm9yX2JhcmNvZGUoYnVja2V0X2ltYWdlX2RhdGEsIGJhcmNvZGUpCiMgICAgIGlmIHRvdGFsID4gMDoKIyAgICAgICAgIGhhbmRsZV9iYXJjb2RlX3RhcmZpbGUoYmFyY29kZSkKIwojICAgICAgICAgaXRlbV9zdW1tYXJ5ID0gJyAgICAgJy5qb2luKCgnezA6IDwxM30nLmZvcm1hdChiYXJjb2RlKSwgJ3swOiA+Nn0nLmZvcm1hdCh0b3RhbCksIHByb2RfbmFtZSkpCiMgICAgICAgICBhbWVuZF90b19maWxlKHJlYWRtZV9maWxlLCBpdGVtX3N1bW1hcnkpCiMgICAgICAgICB1cGxvYWRfZmlsZV90b19nY3MocmVhZG1lX2ZpbGUpCiMgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">VXNhZ2U6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRlbGV0ZV9maWxlKGltYWdlX2ZpbGVfYikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGJhcmNvZGUsIHByb2RfbmFtZSBpbiBiY19wcmRfbGlzdDoKICAgICMgICAgIGNyZWF0ZV9kYXRhc2V0KGJhcmNvZGUsIGJ1Y2tldF9pbWFnZV9kYXRhLCBwcm9kX25hbWUsIHJlYWRtZV9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlX2ZpbGUoaW1hZ2VfZmlsZV9iKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBiY19wcmRfbGlzdC5hcHBlbmQoYmFyY29kZSkK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
       </register>
     </registers>
     <search>
-      <last-search>finished</last-search>
+      <last-search>equali</last-search>
       <last-offset />
-      <last-pattern>finished</last-pattern>
+      <last-pattern>equali</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
@@ -1737,6 +1738,7 @@
         <entry>Build</entry>
         <entry>upload datasets finished</entry>
         <entry>finished</entry>
+        <entry>equali</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
