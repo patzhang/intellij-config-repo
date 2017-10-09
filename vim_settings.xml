@@ -1046,11 +1046,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/hackday2/ds-hackday2/lags.py" timestamp="1507198874384">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="96" />
-        <mark key="." line="2" column="37" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" timestamp="1505844243331">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="3" column="5" />
@@ -1274,12 +1269,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1501249799744">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" timestamp="1507547854688">
         <mark key="'" line="366" column="0" />
-        <mark key="[" line="122" column="103" />
-        <mark key="]" line="123" column="9" />
-        <mark key="^" line="123" column="9" />
-        <mark key="." line="123" column="9" />
+        <mark key="[" line="44" column="76" />
+        <mark key="]" line="44" column="80" />
+        <mark key="^" line="44" column="80" />
+        <mark key="." line="44" column="80" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498550490983">
         <mark key="[" line="29" column="0" />
@@ -1637,7 +1632,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">c28g</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>finished</text>
