@@ -516,8 +516,8 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507411227523">
-        <mark key="'" line="203" column="27" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1507538651028">
+        <mark key="'" line="391" column="21" />
         <mark key="[" line="38" column="13" />
         <mark key="]" line="38" column="14" />
         <mark key="." line="38" column="14" />
@@ -1534,7 +1534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="92" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="94" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="95" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
@@ -1622,7 +1621,6 @@
       <jump line="285" column="45" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="373" column="35" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="374" column="61" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="391" column="47" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="9" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="198" column="67" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="163" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1634,13 +1632,15 @@
       <jump line="139" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="203" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="500" column="49" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="391" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>finished</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfZmlsZV9hID0gb3MucGF0aC5qb2luKERJUl9PUklHSU5BTF9QUk9EVUNUX0lNQUdFUywgaW1hZ2VfYSkK</text>
@@ -1680,9 +1680,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>finished</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>finished</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
       <last-dir>1</last-dir>
@@ -1739,6 +1739,9 @@
         <entry encoding="base64">XDxpbWFnZV9maWxlX2JcPg==</entry>
         <entry>delete_file</entry>
         <entry>delete</entry>
+        <entry>Build</entry>
+        <entry>upload datasets finished</entry>
+        <entry>finished</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
