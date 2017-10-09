@@ -427,6 +427,13 @@
         <mark key="'" line="268" column="0" />
         <mark key="^" line="289" column="23" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" timestamp="1507573891293">
+        <mark key="'" line="532" column="13" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="20" />
+        <mark key="." line="46" column="20" />
+        <mark key="^" line="49" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="2" column="9" />
@@ -549,7 +556,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507553576722">
+      <file name="/Dummy.txt" timestamp="1507573824645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/python/install/pip-install.sh" timestamp="1507056021294">
@@ -586,6 +593,11 @@
         <mark key="]" line="13" column="71" />
         <mark key="^" line="13" column="71" />
         <mark key="." line="13" column="71" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/requirements.txt" timestamp="1507571301579">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
@@ -995,6 +1007,12 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/utils/logging_util.py" timestamp="1507573541462">
+        <mark key="[" line="12" column="81" />
+        <mark key="]" line="12" column="82" />
+        <mark key="." line="12" column="82" />
+        <mark key="^" line="12" column="65" />
+      </file>
       <file name="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" timestamp="1498489951254">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="122" column="1" />
@@ -1027,6 +1045,10 @@
         <mark key="]" line="24" column="69" />
         <mark key="." line="24" column="69" />
         <mark key="^" line="24" column="57" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision/logging_util.py" timestamp="1507573091912">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="103" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_ceph_s3/move_files.py" timestamp="1495017928531">
         <mark key="'" line="155" column="4" />
@@ -1530,19 +1552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="170" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="23" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="18" column="49" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="330" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="337" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="127" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="28" column="38" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="80" column="38" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="102" column="38" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="231" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
-      <jump line="157" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" />
       <jump line="64" column="40" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="135" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="244" column="56" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1630,58 +1639,71 @@
       <jump line="124" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="395" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
+      <jump line="524" column="4" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="48" column="15" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="17" column="26" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="550" column="4" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="526" column="29" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="531" column="18" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="541" column="39" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="525" column="24" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="506" column="31" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="537" column="49" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="539" column="0" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
+      <jump line="532" column="13" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
-        <text>DEB</text>
+        <text>8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMjIFByb2R1Y3QgV2ViY2FtIEltYWdlIERhdGFzZXQgdjEuMiAoMjQgU0tVcyBhbmQgYWJvdXQgMTAwMCBpbWFnZXMgb3IgbGVzcyBmb3IgZWFjaCBTS1UuIDIuMiBHQikK</text>
+      <register name="0" type="4">
+        <text>formatter = logging.Formatter(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfcmVzaXplZCA9IGN2Mi5yZXNpemUoaW1nX2Nyb3BwZWQsIGRpbWVuc2lvbiwgaW50ZXJwb2xhdGlvbj1jdjIuSU5URVJfQVJFQSkK</text>
+        <text encoding="base64">ICAgIHN0b3JhZ2VfY2xpZW50Lgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkK</text>
+        <text encoding="base64">ICAgICMgZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoIiUoYXNjdGltZSlzICUobGV2ZWxuYW1lKXMgfCAlKG1lc3NhZ2UpcyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWdfZmlsdGVyID0gU2VnbWVudGF0aW9uRmlsdGVyKCkK</text>
+        <text encoding="base64">ICAgICMgaW5pdGlhbGlzZSBhY2Nlc3MgdG8gR0NTIGJ1Y2tldAogICAgYnVja2V0X25hbWVfaW1hZ2VfZGF0YSA9IEdDU19CVUNLRVRfSU1BR0VfREFUQQogICAgc3RvcmFnZV9jbGllbnQgPSBzdG9yYWdlLkNsaWVudChwcm9qZWN0PUdDU19QUk9KRUNUKQogICAgYnVja2V0X2ltYWdlX2RhdGEgPSBzdG9yYWdlX2NsaWVudC5nZXRfYnVja2V0KGJ1Y2tldF9uYW1lPWJ1Y2tldF9uYW1lX2ltYWdlX2RhdGEpCiAgICBsb2dnZXIuZGVidWcoJ0ZvdW5kIGJ1Y2tldDoge30nLmZvcm1hdChidWNrZXRfaW1hZ2VfZGF0YSkpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzZWdtZW50YXRpb25fZmlsdGVyIGltcG9ydCBTZWdtZW50YXRpb25GaWx0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+        <text encoding="base64">ICAgIGZvciBwcmQgaW4gcHJvZHVjdHM6ICAjIHByZCBpcyBhIGRpY3QsIHN1Y2ggYXMgeyBuYW1lOiBibGFibGEsIGJhcmNvZGU6IHh4eHh4LCAuLi4ufQogICAgICAgIGJ1aWxkX2RhdGFzZXQoYnVja2V0X2ltYWdlX2RhdGEsIHByZCwgcmVhZG1lX2ZpbGUsIHVwbG9hZGVkX2JjKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFBhcmFsbGVsKG5fam9icz00KWRlbGF5ZWQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VXNhZ2U6Cg==</text>
+        <text encoding="base64">ICAgIGZvciBwcmQgaW4gcHJvZHVjdHM6ICAjIHByZCBpcyBhIGRpY3QsIHN1Y2ggYXMgeyBuYW1lOiBibGFibGEsIGJhcmNvZGU6IHh4eHh4LCAuLi4ufQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGRlbGV0ZV9maWxlKGltYWdlX2ZpbGVfYikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlX2ZpbGUoaW1hZ2VfZmlsZV9iKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWdfcmVzaXplZCA9IGN2Mi5yZXNpemUoaW1nX2Nyb3BwZWQsIGRpbWVuc2lvbiwgaW50ZXJwb2xhdGlvbj1jdjIuSU5URVJfQVJFQSkK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>DEB</last-search>
+      <last-search>8</last-search>
       <last-offset />
-      <last-pattern>DEB</last-pattern>
+      <last-pattern>8</last-pattern>
       <last-replace />
       <last-substitute>shutil</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1695,7 +1717,6 @@
         <entry>'_'</entry>
         <entry>'</entry>
         <entry>\/</entry>
-        <entry>main</entry>
         <entry>37</entry>
         <entry>handle</entry>
         <entry encoding="base64">XDxESVJfT1JJR0lOQUxfUFJPRFVDVF9JTUFHRVNcPg==</entry>
@@ -1739,6 +1760,10 @@
         <entry>finished</entry>
         <entry>equali</entry>
         <entry>DEB</entry>
+        <entry>main</entry>
+        <entry>bucket_image_data</entry>
+        <entry>4</entry>
+        <entry>8</entry>
       </history-search>
       <history-cmd>
         <entry>help window</entry>
