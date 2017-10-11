@@ -384,6 +384,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" timestamp="1507731770262">
+        <mark key="[" line="82" column="8" />
+        <mark key="]" line="82" column="33" />
+        <mark key="^" line="82" column="33" />
+        <mark key="." line="82" column="33" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_macOS.sh" timestamp="1487156919377">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -555,7 +561,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507729470574">
+      <file name="/Dummy.txt" timestamp="1507731793058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/python/install/pip-install.sh" timestamp="1507056021294">
@@ -1654,43 +1660,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/index.html</text>
+        <text>10x ImageNet Dashboard</text>
       </register>
       <register name="/" type="4">
         <text>8</text>
       </register>
-      <register name="0" type="4">
-        <text>formatter = logging.Formatter(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8bGk+PC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gbWtkaXIgcHVibGljCg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PC9saT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC0gCgogICAgLSAKCiAgICAtIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZm9yIHByZCBpbiBwcm9kdWN0czogICMgcHJkIGlzIGEgZGljdCwgc3VjaCBhcyB7IG5hbWU6IGJsYWJsYSwgYmFyY29kZTogeHh4eHgsIC4uLi59CiAgICAjICAgICBidWlsZF9kYXRhc2V0KGJ1Y2tldF9pbWFnZV9kYXRhLCBwcmQsIHJlYWRtZV9maWxlLCB1cGxvYWRlZF9iYykKCg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PC9saT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0b3JhZ2VfY2xpZW50Lgo=</text>
+        <text encoding="base64">ICAgIGNobW9kICt4IC4vdW5wYWNrLWRhdGFzZXQuc2gKICAgIC4vdW5wYWNrLWRhdGFzZXQuc2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZm9ybWF0dGVyID0gbG9nZ2luZy5Gb3JtYXR0ZXIoIiUoYXNjdGltZSlzICUobGV2ZWxuYW1lKXMgfCAlKG1lc3NhZ2UpcyIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgaW5pdGlhbGlzZSBhY2Nlc3MgdG8gR0NTIGJ1Y2tldAogICAgYnVja2V0X25hbWVfaW1hZ2VfZGF0YSA9IEdDU19CVUNLRVRfSU1BR0VfREFUQQogICAgc3RvcmFnZV9jbGllbnQgPSBzdG9yYWdlLkNsaWVudChwcm9qZWN0PUdDU19QUk9KRUNUKQogICAgYnVja2V0X2ltYWdlX2RhdGEgPSBzdG9yYWdlX2NsaWVudC5nZXRfYnVja2V0KGJ1Y2tldF9uYW1lPWJ1Y2tldF9uYW1lX2ltYWdlX2RhdGEpCiAgICBsb2dnZXIuZGVidWcoJ0ZvdW5kIGJ1Y2tldDoge30nLmZvcm1hdChidWNrZXRfaW1hZ2VfZGF0YSkpCgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxiPlByb2JsZW1zOjwvYj4KICAgIC0gCiAgICAtIAoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxwPjxiPkNoYW5nZXM6PC9iPjwvcD4KCiAgICAtIAogICAgLSAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBwcmQgaW4gcHJvZHVjdHM6ICAjIHByZCBpcyBhIGRpY3QsIHN1Y2ggYXMgeyBuYW1lOiBibGFibGEsIGJhcmNvZGU6IHh4eHh4LCAuLi4ufQogICAgICAgIGJ1aWxkX2RhdGFzZXQoYnVja2V0X2ltYWdlX2RhdGEsIHByZCwgcmVhZG1lX2ZpbGUsIHVwbG9hZGVkX2JjKQo=</text>
+        <text encoding="base64">ICAgIGBgYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBhcmFsbGVsKG5fam9icz00KWRlbGF5ZWQoKQo=</text>
+        <text encoding="base64">ICAgIGBgYGJhc2gK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
