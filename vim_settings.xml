@@ -562,7 +562,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507738096946">
+      <file name="/Dummy.txt" timestamp="1507824691764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/python/install/pip-install.sh" timestamp="1507056021294">
@@ -1234,6 +1234,12 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/teachable-machine/package.json" timestamp="1507824640860">
+        <mark key="[" line="45" column="58" />
+        <mark key="]" line="45" column="58" />
+        <mark key="^" line="45" column="57" />
+        <mark key="." line="45" column="58" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/requirements.txt" timestamp="1493730297938">
         <mark key="[" line="6" column="28" />
         <mark key="]" line="7" column="10" />
@@ -1661,7 +1667,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IGlmIHRoZSBpbWFnZXMgYXJlIGluIC5qcGcgZm9ybWF0LCBpdCBpcyByb3VnaGx5IDEvNCBvZiB0aGUgc2l6ZSBvZiAucG5nIGZpbGUu</text>
+        <text>git://github.com/themadcreator/gifler.git</text>
       </register>
       <register name="/" type="4">
         <text>1.3</text>
