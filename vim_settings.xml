@@ -130,6 +130,7 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
+      <file name="$USER_HOME$/training/prometheus/prometheus-workshop/src/main/scala/workshop/prom/service/QueueService.scala" timestamp="1508146782458" />
       <file name="/Python Script.txt.ft" timestamp="1505317057923">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1284,9 +1285,6 @@
         <mark key="]" line="23" column="22" />
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" timestamp="1507313091733">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/requirements.txt" timestamp="1488224668716">
         <mark key="[" line="2" column="0" />
