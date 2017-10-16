@@ -436,10 +436,6 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_segmentationFilter.py" timestamp="1507294782955">
-        <mark key="'" line="268" column="0" />
-        <mark key="^" line="289" column="23" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" timestamp="1507633225808">
         <mark key="'" line="532" column="13" />
         <mark key="[" line="518" column="0" />
@@ -1465,6 +1461,9 @@
         <mark key="]" line="0" column="35" />
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
+      </file>
+      <file name="/Scala Console" timestamp="1508145591773">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/context.py" timestamp="1487771679075">
         <mark key="[" line="5" column="107" />
