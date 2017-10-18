@@ -130,7 +130,6 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/training/prometheus/prometheus-workshop/src/main/scala/workshop/prom/service/QueueService.scala" timestamp="1508146782458" />
       <file name="/Python Script.txt.ft" timestamp="1505317057923">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1393,6 +1392,9 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" timestamp="1508337854280">
+        <mark key="'" line="48" column="2" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/test_if_jpg_pair_exists.py" timestamp="1485441368752">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="38" />
@@ -1528,6 +1530,13 @@
         <mark key="^" line="214" column="3" />
         <mark key="." line="214" column="3" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" timestamp="1508337612185">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="40" column="8" />
+        <mark key="^" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/WorkspacesDart/meal_planner/lib/Ingredient.dart" timestamp="1501769471481">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="7" />
@@ -1561,11 +1570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/README.md" />
-      <jump line="134" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="80" column="79" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="146" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="154" column="29" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="249" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="85" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1661,103 +1665,67 @@
       <jump line="47" column="46" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
       <jump line="68" column="135" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
       <jump line="65" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
+      <jump line="2" column="2" filename="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" />
+      <jump line="40" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
+      <jump line="22" column="30" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
+      <jump line="48" column="2" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>git://github.com/themadcreator/gifler.git</text>
+        <text>mized</text>
       </register>
       <register name="/" type="4">
-        <text>1.3</text>
+        <text>see</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi9pbWFnZXMvcHJkLWltZy1kcy12Mi4wLzMxNTUyNTAzNjE4MjVfMjAxNy0wNS0wOV8wOS4zMS4yNS4wNjlfcF8wMzUuanBnIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPmlmIHRoZSBpbWFnZXMgYXJlIGluIC5qcGcgZm9ybWF0LCBpdCBpcyByb3VnaGx5IDEvNCBvZiB0aGUgc2l6ZSBvZiAucG5nIGZpbGUuPC9saT4K</text>
+        <text encoding="base64">IyBCeXRlLWNvbXBpbGVkIC8gb3B0aW1pemVkIC8gRExMIGZpbGVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx0YWJsZT4KICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLXdlYmNhbS12MS4zLzMwNzM3ODEwMTE0NTZfcF8zOS5wbmciIHN0eWxlPSJ3aWR0aDoxMjhweDtoZWlnaHQ6MTI4cHg7Ij48YnI+PGZvbnQgc2l6ZT0iMiI+MzA3Mzc4MTAxMTQ1NjwvZm9udD48L3RkPgogICAgICAgICAgICA8dGQ+PGltZyBzcmM9Ii4vaW1hZ2VzL3ByZC13ZWJjYW0tdjEuMy81MDAwMTY5MDM2NDU3X3BfNDQucG5nIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPjxmb250IHNpemU9IjIiPjUwMDAxNjkwMzY0NTc8L2ZvbnQ+PC90ZD4KICAgICAgICAgICAgPHRkPjxpbWcgc3JjPSIuL2ltYWdlcy9wcmQtd2ViY2FtLXYxLjMvNTAwMDE2OTA3MzAxOF9wXzQxLnBuZyIgc3R5bGU9IndpZHRoOjEyOHB4O2hlaWdodDoxMjhweDsiPjxicj48Zm9udCBzaXplPSIyIj41MDAwMTY5MDczMDE4PC9mb250PjwvdGQ+CiAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLXdlYmNhbS12MS4zLzUwMDAxNjk0MTIwNTNfcF8yMy5wbmciIHN0eWxlPSJ3aWR0aDoxMjhweDtoZWlnaHQ6MTI4cHg7Ij48YnI+PGZvbnQgc2l6ZT0iMiI+NTAwMDE2OTQxMjA1MzwvZm9udD48L3RkPgogICAgICAgICAgICA8dGQ+PGltZyBzcmM9Ii4vaW1hZ2VzL3ByZC13ZWJjYW0tdjEuMy81NzA3MzYxMTAwMDUzX3BfNDkucG5nIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPjxmb250IHNpemU9IjIiPjU3MDczNjExMDAwNTM8L2ZvbnQ+PC90ZD4KICAgICAgICA8L3RyPgogICAgPC90YWJsZT4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPmlmIHRoZSBpbWFnZXMgYXJlIGluIC5qcGcgZm9ybWF0LCBpdCBpcyByb3VnaGx5IDEvNCBvZiB0aGUgc2l6ZSBvZiAucG5nIGZpbGUuPC9saT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDx0YWJsZT4KICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLXdlYmNhbS12MS4zLzMwNzM3ODEwMTE0NTZfcF8zOS5wbmciIHN0eWxlPSJ3aWR0aDoxMjhweDtoZWlnaHQ6MTI4cHg7Ij48YnI+PGZvbnQgc2l6ZT0iMiI+MzA3Mzc4MTAxMTQ1NjwvZm9udD48L3RkPgogICAgICAgICAgICA8dGQ+PGltZyBzcmM9Ii4vaW1hZ2VzL3ByZC13ZWJjYW0tdjEuMy81MDAwMTY5MDM2NDU3X3BfNDQucG5nIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPjxmb250IHNpemU9IjIiPjUwMDAxNjkwMzY0NTc8L2ZvbnQ+PC90ZD4KICAgICAgICAgICAgPHRkPjxpbWcgc3JjPSIuL2ltYWdlcy9wcmQtd2ViY2FtLXYxLjMvNTAwMDE2OTA3MzAxOF9wXzQxLnBuZyIgc3R5bGU9IndpZHRoOjEyOHB4O2hlaWdodDoxMjhweDsiPjxicj48Zm9udCBzaXplPSIyIj41MDAwMTY5MDczMDE4PC9mb250PjwvdGQ+CiAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLXdlYmNhbS12MS4zLzUwMDAxNjk0MTIwNTNfcF8yMy5wbmciIHN0eWxlPSJ3aWR0aDoxMjhweDtoZWlnaHQ6MTI4cHg7Ij48YnI+PGZvbnQgc2l6ZT0iMiI+NTAwMDE2OTQxMjA1MzwvZm9udD48L3RkPgogICAgICAgICAgICA8dGQ+PGltZyBzcmM9Ii4vaW1hZ2VzL3ByZC13ZWJjYW0tdjEuMy81NzA3MzYxMTAwMDUzX3BfNDkucG5nIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPjxmb250IHNpemU9IjIiPjU3MDczNjExMDAwNTM8L2ZvbnQ+PC90ZD4KICAgICAgICA8L3RyPgogICAgPC90YWJsZT4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLWltZy1kcy12Mi4wLzUwMDAxNjkzMjI4NjRfMjAxNy0wNS0wOV8xMi4zNS40My4xOTJfbV8wMTYuanBnIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLWltZy1kcy12Mi4wLzMxNTUyNTAzNjE4MjVfMjAxNy0wNS0wOV8wOS4zMS4yNS4wNjlfcF8wMzUuanBnIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLWltZy1kcy12Mi4wLzUwMDAxNjkzMjI4NjRfMjAxNy0wNS0wOV8xMi4zNS40My4xOTJfbV8wMTYuanBnIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PC90ZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLWltZy1kcy12Mi4wLzMxNTUyNTAzNjE4MjVfMjAxNy0wNS0wOV8wOS4zMS4yNS4wNjlfcF8wMzUuanBnIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PC90ZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gCgogICAgLSAKCiAgICAtIAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICA8bGk+PC9saT4K</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC0gCgogICAgLSAKCiAgICAtIAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>help tabe</text>
       </register>
     </registers>
     <search>
-      <last-search>1.3</last-search>
+      <last-search>see</last-search>
       <last-offset />
-      <last-pattern>1.3</last-pattern>
-      <last-replace />
-      <last-substitute>shutil</last-substitute>
+      <last-pattern>see</last-pattern>
+      <last-replace>sed</last-replace>
+      <last-substitute>see</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>255</entry>
-        <entry>resize</entry>
-        <entry>blob</entry>
-        <entry>2000</entry>
-        <entry encoding="base64">XDxESU1FTlNJT05fT1JJR0lOQUxfT1BFTkNWXD4=</entry>
-        <entry>_</entry>
-        <entry>'_'</entry>
-        <entry>'</entry>
-        <entry>\/</entry>
-        <entry>37</entry>
-        <entry>handle</entry>
-        <entry encoding="base64">XDxESVJfT1JJR0lOQUxfUFJPRFVDVF9JTUFHRVNcPg==</entry>
-        <entry>shutil</entry>
-        <entry>inline</entry>
-        <entry>imwrite</entry>
-        <entry encoding="base64">XDxlcXVhbGl6ZV9oaXN0XD4=</entry>
-        <entry>equ</entry>
-        <entry>069</entry>
-        <entry>Segment</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
-        <entry>equal</entry>
-        <entry>self.</entry>
-        <entry encoding="base64">XDxpbWFnZV90MFw+</entry>
-        <entry>copyfile</entry>
-        <entry>cvtColor</entry>
-        <entry>cvtCo</entry>
-        <entry>todo</entry>
-        <entry>image is already</entry>
-        <entry>already</entry>
-        <entry>Failed to process</entry>
-        <entry>warning</entry>
-        <entry>image A</entry>
-        <entry>INFO</entry>
-        <entry>Error in ordered</entry>
-        <entry>Ignore</entry>
-        <entry>Reason:</entry>
-        <entry encoding="base64">XDxjb3VudFw+</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZFw+</entry>
-        <entry>Reason</entry>
-        <entry>main(</entry>
-        <entry>prod</entry>
         <entry encoding="base64">XDxjcmVhdGVfZGF0YXNldFw+</entry>
         <entry>name</entry>
         <entry>time</entry>
@@ -1778,11 +1746,10 @@
         <entry>5000</entry>
         <entry>57</entry>
         <entry>1.3</entry>
+        <entry>sed</entry>
+        <entry>see</entry>
       </history-search>
       <history-cmd>
-        <entry>help window</entry>
-        <entry>51</entry>
-        <entry>25</entry>
         <entry>23</entry>
         <entry>26</entry>
         <entry>19</entry>
@@ -1803,6 +1770,10 @@
         <entry>only</entry>
         <entry>close</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>%s/sed/see/gc</entry>
+        <entry>%s/see/sed/g</entry>
+        <entry>tabe</entry>
+        <entry>help tabe</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1823,7 +1794,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
