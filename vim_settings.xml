@@ -1392,8 +1392,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" timestamp="1508337854280">
+      <file name="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" timestamp="1508339293951">
         <mark key="'" line="48" column="2" />
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="16" />
+        <mark key="^" line="45" column="16" />
+        <mark key="." line="45" column="16" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/test_if_jpg_pair_exists.py" timestamp="1485441368752">
         <mark key="[" line="4" column="0" />
