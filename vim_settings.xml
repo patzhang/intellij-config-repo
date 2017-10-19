@@ -372,6 +372,13 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" timestamp="1508414931159">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="25" column="47" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="25" column="47" />
+      </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task2_TransformationsCuttingTheForest.java" timestamp="1494410096957">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -1447,7 +1454,7 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1508407483117">
+      <file name="/sbtShell" timestamp="1508411054898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/context.py" timestamp="1487804476643">
@@ -1600,8 +1607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="29" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="249" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="85" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="528" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="55" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1700,16 +1705,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
       <jump line="22" column="30" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
       <jump line="48" column="2" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
+      <jump line="5" column="9" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
+      <jump line="15" column="0" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>class</text>
+        <text>grafana.ini</text>
       </register>
       <register name="/" type="4">
         <text>see</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIGpvYl9uYW1lOiBub2RlX2V4cG9ydGVyCiAgICBzdGF0aWNfY29uZmlnczoKICAgICAgLSB0YXJnZXRzOiBbJ25vZGUtZXhwb3J0ZXI6OTEwMCddCg==</text>
+        <text encoding="base64">ICAgICAgLSAuL2ltYWdlcy9ncmFmYW5hL2dyYWZhbmEuaW5pOi9ldGMvZ3JhZmFuYS5pbmkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IAo=</text>
