@@ -176,6 +176,12 @@
         <mark key="^" line="38" column="50" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508416839422">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/logging_util.py" timestamp="1487179005530">
         <mark key="[" line="11" column="60" />
         <mark key="]" line="11" column="58" />
@@ -372,12 +378,12 @@
         <mark key="." line="0" column="37" />
         <mark key="^" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" timestamp="1508414931159">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="47" />
+      <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" timestamp="1508416796561">
+        <mark key="'" line="26" column="47" />
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="66" />
+        <mark key="." line="11" column="66" />
+        <mark key="^" line="11" column="66" />
       </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task2_TransformationsCuttingTheForest.java" timestamp="1494410096957">
         <mark key="[" line="44" column="0" />
@@ -538,6 +544,12 @@
         <mark key="]" line="2" column="60" />
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/alert.rules" timestamp="1508416710607">
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="89" />
+        <mark key="^" line="6" column="89" />
+        <mark key="." line="6" column="89" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/barcode_manager.py" timestamp="1505816882512">
         <mark key="'" line="39" column="9" />
@@ -1607,7 +1619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="528" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="55" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="19" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
@@ -1707,46 +1718,47 @@
       <jump line="48" column="2" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
       <jump line="5" column="9" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
       <jump line="15" column="0" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
+      <jump line="25" column="47" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>grafana.ini</text>
+        <text>prometheus.yml</text>
       </register>
       <register name="/" type="4">
         <text>see</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2ltYWdlcy9ncmFmYW5hL2dyYWZhbmEuaW5pOi9ldGMvZ3JhZmFuYS5pbmkK</text>
+        <text encoding="base64">ICAgICAgLSAuL2ltYWdlcy9wcm9tZXRoZXVzL3Byb21ldGhldXMueW1sOi9ldGMvcHJvbWV0aGV1cy9wcm9tZXRoZXVzLnltbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBCeXRlLWNvbXBpbGVkIC8gb3B0aW1pemVkIC8gRExMIGZpbGVzCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPmlmIHRoZSBpbWFnZXMgYXJlIGluIC5qcGcgZm9ybWF0LCBpdCBpcyByb3VnaGx5IDEvNCBvZiB0aGUgc2l6ZSBvZiAucG5nIGZpbGUuPC9saT4K</text>
+        <text encoding="base64">IyBCeXRlLWNvbXBpbGVkIC8gb3B0aW1pemVkIC8gRExMIGZpbGVzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx0YWJsZT4KICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLXdlYmNhbS12MS4zLzMwNzM3ODEwMTE0NTZfcF8zOS5wbmciIHN0eWxlPSJ3aWR0aDoxMjhweDtoZWlnaHQ6MTI4cHg7Ij48YnI+PGZvbnQgc2l6ZT0iMiI+MzA3Mzc4MTAxMTQ1NjwvZm9udD48L3RkPgogICAgICAgICAgICA8dGQ+PGltZyBzcmM9Ii4vaW1hZ2VzL3ByZC13ZWJjYW0tdjEuMy81MDAwMTY5MDM2NDU3X3BfNDQucG5nIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPjxmb250IHNpemU9IjIiPjUwMDAxNjkwMzY0NTc8L2ZvbnQ+PC90ZD4KICAgICAgICAgICAgPHRkPjxpbWcgc3JjPSIuL2ltYWdlcy9wcmQtd2ViY2FtLXYxLjMvNTAwMDE2OTA3MzAxOF9wXzQxLnBuZyIgc3R5bGU9IndpZHRoOjEyOHB4O2hlaWdodDoxMjhweDsiPjxicj48Zm9udCBzaXplPSIyIj41MDAwMTY5MDczMDE4PC9mb250PjwvdGQ+CiAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLXdlYmNhbS12MS4zLzUwMDAxNjk0MTIwNTNfcF8yMy5wbmciIHN0eWxlPSJ3aWR0aDoxMjhweDtoZWlnaHQ6MTI4cHg7Ij48YnI+PGZvbnQgc2l6ZT0iMiI+NTAwMDE2OTQxMjA1MzwvZm9udD48L3RkPgogICAgICAgICAgICA8dGQ+PGltZyBzcmM9Ii4vaW1hZ2VzL3ByZC13ZWJjYW0tdjEuMy81NzA3MzYxMTAwMDUzX3BfNDkucG5nIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPjxmb250IHNpemU9IjIiPjU3MDczNjExMDAwNTM8L2ZvbnQ+PC90ZD4KICAgICAgICA8L3RyPgogICAgPC90YWJsZT4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPmlmIHRoZSBpbWFnZXMgYXJlIGluIC5qcGcgZm9ybWF0LCBpdCBpcyByb3VnaGx5IDEvNCBvZiB0aGUgc2l6ZSBvZiAucG5nIGZpbGUuPC9saT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDx0YWJsZT4KICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLXdlYmNhbS12MS4zLzMwNzM3ODEwMTE0NTZfcF8zOS5wbmciIHN0eWxlPSJ3aWR0aDoxMjhweDtoZWlnaHQ6MTI4cHg7Ij48YnI+PGZvbnQgc2l6ZT0iMiI+MzA3Mzc4MTAxMTQ1NjwvZm9udD48L3RkPgogICAgICAgICAgICA8dGQ+PGltZyBzcmM9Ii4vaW1hZ2VzL3ByZC13ZWJjYW0tdjEuMy81MDAwMTY5MDM2NDU3X3BfNDQucG5nIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPjxmb250IHNpemU9IjIiPjUwMDAxNjkwMzY0NTc8L2ZvbnQ+PC90ZD4KICAgICAgICAgICAgPHRkPjxpbWcgc3JjPSIuL2ltYWdlcy9wcmQtd2ViY2FtLXYxLjMvNTAwMDE2OTA3MzAxOF9wXzQxLnBuZyIgc3R5bGU9IndpZHRoOjEyOHB4O2hlaWdodDoxMjhweDsiPjxicj48Zm9udCBzaXplPSIyIj41MDAwMTY5MDczMDE4PC9mb250PjwvdGQ+CiAgICAgICAgICAgIDx0ZD48aW1nIHNyYz0iLi9pbWFnZXMvcHJkLXdlYmNhbS12MS4zLzUwMDAxNjk0MTIwNTNfcF8yMy5wbmciIHN0eWxlPSJ3aWR0aDoxMjhweDtoZWlnaHQ6MTI4cHg7Ij48YnI+PGZvbnQgc2l6ZT0iMiI+NTAwMDE2OTQxMjA1MzwvZm9udD48L3RkPgogICAgICAgICAgICA8dGQ+PGltZyBzcmM9Ii4vaW1hZ2VzL3ByZC13ZWJjYW0tdjEuMy81NzA3MzYxMTAwMDUzX3BfNDkucG5nIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPjxmb250IHNpemU9IjIiPjU3MDczNjExMDAwNTM8L2ZvbnQ+PC90ZD4KICAgICAgICA8L3RyPgogICAgPC90YWJsZT4KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>help tabe</text>
