@@ -931,10 +931,11 @@
         <mark key="^" line="101" column="24" />
         <mark key="." line="101" column="24" />
       </file>
-      <file name="$USER_HOME$/training/prometheus/prometheus-workshop/docker-compose.yml" timestamp="1508408156617">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/training/prometheus/prometheus-workshop/docker-compose.yml" timestamp="1508408991713">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+        <mark key="^" line="18" column="16" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline.py" timestamp="1498216622799">
         <mark key="'" line="53" column="28" />
@@ -1148,11 +1149,11 @@
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/Readme.md" timestamp="1500905733042">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/training/prometheus/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508408342857">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="32" />
+      <file name="$USER_HOME$/training/prometheus/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508409104572">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_softmax.py" timestamp="1497447578931">
         <mark key="'" line="74" column="0" />
@@ -1697,7 +1698,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>00</text>
+        <text>9090</text>
       </register>
       <register name="/" type="4">
         <text>see</text>
