@@ -760,6 +760,12 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="20" />
       </file>
+      <file name="$USER_HOME$/training/prometheus/prometheus-workshop/build.sbt" timestamp="1508407259994">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="55" column="44" />
+        <mark key="." line="55" column="44" />
+        <mark key="^" line="55" column="44" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/barcode_scanner.py" timestamp="1494318770959">
         <mark key="[" line="79" column="116" />
         <mark key="]" line="80" column="28" />
@@ -1677,13 +1683,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>mized</text>
+        <text>akka-http</text>
       </register>
       <register name="/" type="4">
         <text>see</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi9pbWFnZXMvcHJkLWltZy1kcy12Mi4wLzMxNTUyNTAzNjE4MjVfMjAxNy0wNS0wOV8wOS4zMS4yNS4wNjlfcF8wMzUuanBnIiBzdHlsZT0id2lkdGg6MTI4cHg7aGVpZ2h0OjEyOHB4OyI+PGJyPgo=</text>
+        <text encoding="base64">ICAiY29tLm9jYWRvLmNmYy5jb21tb24iICUlICJzY2FsYS1ha2thLWh0dHAiICUgcHB6U2NhbGFWZXJzaW9uLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBCeXRlLWNvbXBpbGVkIC8gb3B0aW1pemVkIC8gRExMIGZpbGVzCg==</text>
@@ -1726,12 +1732,10 @@
       <last-replace>sed</last-replace>
       <last-substitute>see</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfZGF0YXNldFw+</entry>
-        <entry>name</entry>
         <entry>time</entry>
         <entry encoding="base64">XDxpbWFnZV9maWxlX2JcPg==</entry>
         <entry>delete_file</entry>
@@ -1754,10 +1758,6 @@
         <entry>see</entry>
       </history-search>
       <history-cmd>
-        <entry>23</entry>
-        <entry>26</entry>
-        <entry>19</entry>
-        <entry>9</entry>
         <entry>15,25d</entry>
         <entry>split-v</entry>
         <entry>map</entry>
