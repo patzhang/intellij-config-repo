@@ -376,6 +376,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" timestamp="1508959179087">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
@@ -499,6 +505,12 @@
         <mark key="]" line="0" column="20" />
         <mark key="^" line="79" column="33" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1508958562162">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
         <mark key="[" line="57" column="22" />
@@ -1008,6 +1020,12 @@
         <mark key="." line="53" column="22" />
         <mark key="^" line="54" column="14" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/issues/issues.txt" timestamp="1508959199412">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/image_stats_test.json" timestamp="1505316682263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="299733" />
@@ -1168,6 +1186,10 @@
         <mark key="]" line="98" column="11" />
         <mark key="^" line="98" column="9" />
         <mark key="." line="98" column="11" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/tmux/tmux.conf.symlink" timestamp="1508959793166">
+        <mark key="[" line="55" column="2" />
+        <mark key="]" line="55" column="46" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/test_advanced.py" timestamp="1487804737088">
         <mark key="[" line="3" column="5" />
@@ -1572,6 +1594,12 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/tmux/theme.sh" timestamp="1508959436713">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspaces/flutter-docker/.gitlab-ci.yml" timestamp="1504795737551">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="30" column="41" />
@@ -1652,9 +1680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="529" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="534" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="536" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="540" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="544" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="546" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1752,58 +1777,61 @@
       <jump line="260" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/config/nvim/init.vim" />
       <jump line="48" column="13" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" />
       <jump line="23" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" />
+      <jump line="1" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" />
+      <jump line="114" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" />
+      <jump line="3" column="2" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>51</text>
       </register>
       <register name="/" type="4">
-        <text>markdown</text>
+        <text encoding="base64">XDxWaVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyEvYmluL3NoCg==</text>
+      <register name="0" type="4">
+        <text>http://www.cnblogs.com/lakeone/p/5424609.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2ggLWMgIiQoY3VybCAtZnNTTCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZ3Vhcmlub2dhYnJpZWwvbWFjLWNsaS9tYXN0ZXIvbWFjLWNsaS90b29scy9pbnN0YWxsKSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAoK</text>
+        <text encoding="base64">IyMgCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SSBkbyBub3QgdXNlIHJlYWRsaW5lCmh0dHA6Ly9jbnN3d3cuY25zLmN3cnUuZWR1L3BocC9jaGV0L3JlYWRsaW5lL3JlYWRsaW5lLmh0bWwKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMgaW5zdGFsbCBlbWFjcwpicmV3IGluc3RhbGwgZW1hY3MKYnJldyBjYXNrIGluc3RhbGwgZW1hY3MKCiMgZXhpdCAwCg==</text>
+        <text encoding="base64">LSBWaSBtb2RlIGF0IGNvbW1hbmQgbGluZQpJIGRvIG5vdCB1c2UgcmVhZGxpbmUKaHR0cDovL2Nuc3d3dy5jbnMuY3dydS5lZHUvcGhwL2NoZXQvcmVhZGxpbmUvcmVhZGxpbmUuaHRtbAoKSSB1c2UgYSB6c2ggcGx1Z2luLCBjYWxsZWQgdmktbW9kZQpodHRwczovL2dpdGh1Yi5jb20vcm9iYnlydXNzZWxsL29oLW15LXpzaC9ibG9iL21hc3Rlci9wbHVnaW5zL3ZpLW1vZGUvdmktbW9kZS5wbHVnaW4uenNoCgotIGNoZWNrIGNvbW1hbmQgbGluZSBrZXliaW5kaW5ncwpiaW5ka2V5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YnJldyBpbnN0YWxsIG1hcmtkb3duCmJyZXcgaW5zdGFsbCBkaWZmLXNvLWZhbmN5CgojIHB5dGhvbgpicmV3IGluc3RhbGwgcHllbnYKYnJldyBpbnN0YWxsIHB5ZW52LXZpcnR1YWxlbnYKCiMgaW5zdGFsbCBuZW92aW0KYnJldyBpbnN0YWxsIG5lb3ZpbS9uZW92aW0vbmVvdmltCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YnJldyBpbnN0YWxsIG52bQpicmV3IGluc3RhbGwgego=</text>
+        <text encoding="base64">CgoKLSBzc2ggaGFzIGFuIGVycm9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2JyZXcgaW5zdGFsbCBodWIK</text>
+        <text encoding="base64">b3IgenNoIGxpbmUgZWRpdG9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnJldyBpbnN0YWxsIG1hY3ZpbSAtLXdpdGgtb3ZlcnJpZGUtc3lzdGVtLXZpbSAKYnJldyBpbnN0YWxsIHJlYXR0YWNoLXRvLXVzZXItbmFtZXNwYWNlCmJyZXcgaW5zdGFsbCB0bXV4CmJyZXcgaW5zdGFsbCB6c2gKYnJldyBpbnN0YWxsIGhpZ2hsaWdodAo=</text>
+        <text encoding="base64">c2ggLWMgIiQoY3VybCAtZnNTTCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZ3Vhcmlub2dhYnJpZWwvbWFjLWNsaS9tYXN0ZXIvbWFjLWNsaS90b29scy9pbnN0YWxsKSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBkZXZlbG9wbWVudCBzZXJ2ZXIgc2V0dXAKI2JyZXcgaW5zdGFsbCBuZ2lueAojYnJldyBpbnN0YWxsIGRuc21hc3EKCiMgZGV2ZWxvcG1lbnQgdG9vbHMKYnJldyBpbnN0YWxsIGdpdAo=</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAoK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>markdown</last-search>
+      <last-search encoding="base64">XDxWaVw+</last-search>
       <last-offset />
-      <last-pattern>markdown</last-pattern>
+      <last-pattern encoding="base64">XDxWaVw+</last-pattern>
       <last-replace>sed</last-replace>
       <last-substitute>see</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1835,6 +1863,7 @@
         <entry>colortheme</entry>
         <entry>highlight</entry>
         <entry>markdown</entry>
+        <entry encoding="base64">XDxWaVw+</entry>
       </history-search>
       <history-cmd>
         <entry>15,25d</entry>
