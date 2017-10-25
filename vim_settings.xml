@@ -791,6 +791,12 @@
         <mark key="^" line="80" column="28" />
         <mark key="." line="80" column="28" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/.gitignore" timestamp="1508947566632">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1501083459303">
         <mark key="[" line="5" column="72" />
         <mark key="]" line="5" column="72" />
@@ -1773,11 +1779,10 @@
       <last-replace>sed</last-replace>
       <last-substitute>see</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>time</entry>
         <entry encoding="base64">XDxpbWFnZV9maWxlX2JcPg==</entry>
         <entry>delete_file</entry>
         <entry>delete</entry>
