@@ -5,6 +5,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="added flutter" type="PLAIN_TEXT" />
+      <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping ext="alpine" type="PLAIN_TEXT" />
       <mapping ext="justflutter" type="PLAIN_TEXT" />

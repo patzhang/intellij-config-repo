@@ -376,11 +376,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" timestamp="1508959179087">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" timestamp="1508962963180">
         <mark key="'" line="2" column="2" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
         <mark key="[" line="0" column="0" />
@@ -465,6 +466,10 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
+      <file name="$USER_HOME$/WorkspacesGH/dot_files_nicknisi/dotfiles/zsh/prompt.zsh" timestamp="1508963865505">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="37" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" timestamp="1507633225808">
         <mark key="'" line="532" column="13" />
         <mark key="[" line="518" column="0" />
@@ -523,6 +528,13 @@
         <mark key="]" line="1" column="63" />
         <mark key="." line="1" column="63" />
         <mark key="^" line="1" column="63" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/aliases.zsh" timestamp="1508963431985">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/test_barcodeManager.py" timestamp="1505818750940">
         <mark key="[" line="10" column="18" />
@@ -599,7 +611,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507824691764">
+      <file name="/Dummy.txt" timestamp="1508963007625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/python/install/pip-install.sh" timestamp="1507056021294">
@@ -1020,6 +1032,13 @@
         <mark key="." line="53" column="22" />
         <mark key="^" line="54" column="14" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/git.zsh" timestamp="1508964296136">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/issues/issues.txt" timestamp="1508959199412">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1237,12 +1256,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1508961797329">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1508961822629">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="20" column="66" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="31" column="58" />
-        <mark key="." line="47" column="0" />
+        <mark key="]" line="21" column="69" />
+        <mark key="^" line="21" column="69" />
+        <mark key="." line="21" column="69" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/create-venv.sh" timestamp="1488214647012">
         <mark key="[" line="2" column="12" />
@@ -1672,6 +1691,11 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/config.zsh" timestamp="1508963146481">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -1680,9 +1704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="540" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="544" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="546" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="558" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="562" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="483" column="6" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1780,46 +1801,49 @@
       <jump line="1" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" />
       <jump line="114" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" />
       <jump line="3" column="2" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" />
+      <jump line="109" column="97" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/aliases.zsh" />
+      <jump line="5" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/aliases.zsh" />
+      <jump line="16" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/git.zsh" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>51</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaVw+</text>
       </register>
       <register name="0" type="4">
-        <text>http://www.cnblogs.com/lakeone/p/5424609.html</text>
+        <text>https://github.com/sindresorhus/pure</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWxpYXMgZ2l0LWFsaWFzPSJhbGlhcyB8IGdyZXAgZ2l0IgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">SSBkbyBub3QgdXNlIHJlYWRsaW5lCmh0dHA6Ly9jbnN3d3cuY25zLmN3cnUuZWR1L3BocC9jaGV0L3JlYWRsaW5lL3JlYWRsaW5lLmh0bWwKCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LSBWaSBtb2RlIGF0IGNvbW1hbmQgbGluZQpJIGRvIG5vdCB1c2UgcmVhZGxpbmUKaHR0cDovL2Nuc3d3dy5jbnMuY3dydS5lZHUvcGhwL2NoZXQvcmVhZGxpbmUvcmVhZGxpbmUuaHRtbAoKSSB1c2UgYSB6c2ggcGx1Z2luLCBjYWxsZWQgdmktbW9kZQpodHRwczovL2dpdGh1Yi5jb20vcm9iYnlydXNzZWxsL29oLW15LXpzaC9ibG9iL21hc3Rlci9wbHVnaW5zL3ZpLW1vZGUvdmktbW9kZS5wbHVnaW4uenNoCgotIGNoZWNrIGNvbW1hbmQgbGluZSBrZXliaW5kaW5ncwpiaW5ka2V5Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">YWxpYXMgZ2l0LWFsaWFzPSJhbGlhcyB8IGdyZXAgZ2l0Igo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YWxpYXMgZ2NwYnI9ImdpdCByZXYtcGFyc2UgLS1hYmJyZXYtcmVmIEhFQUQgfCBwYmNvcHkiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YWxpYXMgZ2l0LXVuZG9wdXNoPSJnaXQgcHVzaCAtZiBvcmlnaW4gSEVBRF46bWFzdGVyIgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoKLSBzc2ggaGFzIGFuIGVycm9yCg==</text>
+        <text encoding="base64">YWxpYXMgZ2l0LWNvdW50PSdnaXQgc2hvcnRsb2cgLXNuJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3IgenNoIGxpbmUgZWRpdG9yCg==</text>
+        <text encoding="base64">YWxpYXMgZ2l0LXVuZG89J2dpdCByZXNldCAtLXNvZnQgSEVBRH4xJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2ggLWMgIiQoY3VybCAtZnNTTCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZ3Vhcmlub2dhYnJpZWwvbWFjLWNsaS9tYXN0ZXIvbWFjLWNsaS90b29scy9pbnN0YWxsKSIK</text>
+        <text encoding="base64">IyBnaXQgYWxpYXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAoK</text>
+        <text encoding="base64">IyBnaXQgYWxpYXMKYWxpYXMgZ2l0LWFsaWFzPSJhbGlhcyB8IGdyZXAgZ2l0IgphbGlhcyBnaXQtdW5kbz0nZ2l0IHJlc2V0IC0tc29mdCBIRUFEfjEnCmFsaWFzIGdpdC1jb3VudD0nZ2l0IHNob3J0bG9nIC1zbicKYWxpYXMgZ2l0LXVuZG9wdXNoPSJnaXQgcHVzaCAtZiBvcmlnaW4gSEVBRF46bWFzdGVyIgphbGlhcyBnY3Bicj0iZ2l0IHJldi1wYXJzZSAtLWFiYnJldi1yZWYgSEVBRCB8IHBiY29weSIKCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
