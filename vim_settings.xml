@@ -297,11 +297,6 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.nick" timestamp="1509011183293">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="84" column="99" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/Readme.org" timestamp="1504694741827">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="53" column="12" />
@@ -637,7 +632,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509042412456">
+      <file name="/Dummy.txt" timestamp="1509046165847">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1049,6 +1044,12 @@
         <mark key="]" line="147" column="71" />
         <mark key="." line="147" column="71" />
         <mark key="^" line="326" column="35" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/osx/mac-cli.sh" timestamp="1509046042967">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="6" column="68" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/Customer.java" timestamp="1488382909649">
         <mark key="[" line="21" column="35" />
@@ -1879,7 +1880,7 @@
         <text>localrc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAtZSAiXG5cbkluc3RhbGxpbmcgaG9tZWJyZXcgcGFja2FnZXMuLi4iCmVjaG8gIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIK</text>
+        <text encoding="base64">aWYgWyAhIC1kICRIT01FL21hYy1jbGkvIF07IHRoZW4KICAgIGVjaG8gImluc3RhbGxpbmcgbWFjLWNsaSwgT1MgWCBjb21tYW5kIGxpbmUgdG9vbHMgZm9yIGRldmVsb3BlcnMiCiAgICBzaCAtYyAiJCh3Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9ndWFyaW5vZ2FicmllbC9tYWMtY2xpL21hc3Rlci9tYWMtY2xpL3Rvb2xzL2luc3RhbGwgLU8gLSkiCmZpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmV4aXQgMAo=</text>
