@@ -429,11 +429,11 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env-linux.sh" timestamp="1509029265495">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="26" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env-linux.sh" timestamp="1509030709704">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" timestamp="1496834131062">
         <mark key="'" line="206" column="56" />
@@ -519,12 +519,12 @@
         <mark key="^" line="79" column="33" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509027450542">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509030043814">
         <mark key="'" line="60" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="69" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="24" />
+        <mark key="^" line="66" column="24" />
       </file>
       <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
         <mark key="[" line="57" column="22" />
@@ -632,7 +632,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509029270704">
+      <file name="/Dummy.txt" timestamp="1509031222863">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1116,10 +1116,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509029214187">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509031253291">
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="50" />
-        <mark key="." line="13" column="49" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
@@ -1312,12 +1312,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1509024626683">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1509030839607">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="21" column="69" />
-        <mark key="." line="21" column="69" />
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="24" column="41" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/create-venv.sh" timestamp="1488214647012">
         <mark key="[" line="2" column="12" />
@@ -1857,43 +1857,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>uname</text>
+        <text encoding="base64">IHRvIHRoZSBwYXRo</text>
       </register>
       <register name="/" type="4">
         <text>localrc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IFBBVEg9Ii9ob21lL2xpbnV4YnJldy8ubGludXhicmV3L2JpbjokUEFUSCIK</text>
+        <text encoding="base64">ZWNobyAtZSAiXG5cbkluc3RhbGxpbmcgaG9tZWJyZXcgcGFja2FnZXMuLi4iCmVjaG8gIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I3NvdXJjZSBpbnN0YWxsL29oLW15LXpzaC5zaAoKI3NvdXJjZSBpbnN0YWxsL3pwbHVnLnNoCgo=</text>
+        <text encoding="base64">ZXhwb3J0IFBBVEg9Ii9ob21lL2xpbnV4YnJldy8ubGludXhicmV3L2JpbjokUEFUSCIKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjaGFuZ2VkIHRvIHVzZSBpbnN0YWxsL3pwbHVnLnNoIHRvIGluc3RhbGwgenBsdWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdCAiJChleHByIHN1YnN0ciAkKHVuYW1lIC1zKSAxIDUpIiA9ICJMaW51eCIK</text>
+        <text encoding="base64">ZWNobyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c291cmNlIGluc3RhbGwvb3N4L2JyZXcuc2gK</text>
+        <text encoding="base64">I3NvdXJjZSBpbnN0YWxsL29oLW15LXpzaC5zaAoKI3NvdXJjZSBpbnN0YWxsL3pwbHVnLnNoCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBicmV3IGluc3RhbGwgYXBwcyAK</text>
+        <text encoding="base64">IyBjaGFuZ2VkIHRvIHVzZSBpbnN0YWxsL3pwbHVnLnNoIHRvIGluc3RhbGwgenBsdWcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZSBpbnN0YWxsL29zeC9icmV3LnNoCgo=</text>
+        <text encoding="base64">dGVzdCAiJChleHByIHN1YnN0ciAkKHVuYW1lIC1zKSAxIDUpIiA9ICJMaW51eCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">c291cmNlIGluc3RhbGwvb3N4L2JyZXcuc2gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyBicmV3IGluc3RhbGwgYXBwcyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnN1ZG8gYXB0LWdldCBpbnN0YWxsIHpzaAo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZSBpbnN0YWxsL29zeC9icmV3LnNoCgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/-g//gc</text>
