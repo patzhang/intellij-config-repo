@@ -239,6 +239,12 @@
         <mark key="." line="34" column="5" />
         <mark key="^" line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.powerlevel9k" timestamp="1509009324183">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495552143413">
         <mark key="'" line="35" column="12" />
         <mark key="[" line="11" column="0" />
@@ -292,6 +298,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="26" column="59" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.nick" timestamp="1509010268178">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/Readme.org" timestamp="1504694741827">
         <mark key="[" line="24" column="0" />
@@ -376,12 +386,12 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" timestamp="1508968250480">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" timestamp="1509008414228">
         <mark key="'" line="9" column="2" />
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="29" />
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
         <mark key="[" line="0" column="0" />
@@ -878,12 +888,12 @@
         <mark key="^" line="20" column="71" />
         <mark key="." line="20" column="71" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" timestamp="1508973683587">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="16" column="21" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" timestamp="1509009007153">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/setup.py" timestamp="1494511945255">
         <mark key="[" line="29" column="46" />
@@ -1361,11 +1371,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" timestamp="1508972272336">
-        <mark key="[" line="151" column="8" />
-        <mark key="]" line="151" column="9" />
-        <mark key="." line="151" column="9" />
-        <mark key="^" line="151" column="75" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" timestamp="1509010189383">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 3 Logic in Movie/src/main/java/pl/refactoring/videostore/original/moved_to_movie/ChildrenPricing.java" timestamp="1488373601791">
         <mark key="[" line="11" column="0" />
@@ -1750,12 +1761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="290" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="542" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="13" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="101" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="111" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="112" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="119" column="39" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="144" column="82" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1850,46 +1855,52 @@
       <jump line="37" column="9" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
       <jump line="24" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
       <jump line="0" column="8" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
+      <jump line="46" column="26" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
+      <jump line="50" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
+      <jump line="19" column="13" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="6" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="10" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.powerlevel9k" />
+      <jump line="78" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>extract</text>
+        <text encoding="base64">QWRkaXRpb25hbCBzZXR0aW5ncyB0aGF0IGFyZSBub3QgZnJvbSA=</text>
       </register>
       <register name="/" type="4">
         <text>-g</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">enBsdWcgInBsdWdpbnMvZXh0cmFjdCIsIGZyb206b2gtbXktenNoCg==</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyBBZGRpdGlvbmFsIHNldHRpbmdzIHRoYXQgYXJlIG5vdCBmcm9tIE9oIE15IFpzaAojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBwbHVnaW5zPSh2dW5kbGUgY29sb3JpemUgY29sb3JlZC1tYW4tcGFnZXMgY29weWRpciBtdm4gbm9kZSBucG0gcHl0aG9uIHZpcnR1YWxlbnYgaGlzdG9yeQoK</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">enBsdWcgInBsdWdpbnMvIiwgZnJvbTpvaC1teS16c2gKenBsdWcgInBsdWdpbnMvIiwgZnJvbTpvaC1teS16c2gK</text>
+        <text encoding="base64">IyBTZXQgdGhlIGJhc2UxNiBjb2xvcnNjaGVtZSB0byB1c2UgZm9yIHZpbS9uZW92aW0gYnkgZXhwb3J0aW5nIHRoZSAkVEhFTUUgYW5kICRCQUNLR1JPVU5EIGVudmlyb25tZW50IHZhcmlhYmxlcwojaWYgWyAiJEJBQ0tHUk9VTkQiID0gImxpZ2h0IiBdOyB0aGVuCiMgICAgZXhwb3J0IFRIRU1FPSJiYXNlMTYtZ29vZ2xlLWxpZ2h0IgojICAgIEJBQ0tHUk9VTkQ9IiIKI2Vsc2UKICAgICMgZXhwb3J0IFRIRU1FPSJiYXNlMTYtYXRlbGllci1jYXZlIgojICAgIGV4cG9ydCBUSEVNRT0iYmFzZTE2LWRlZmF1bHQtZGFyayIKI2ZpCgojIEJhc2UxNiBTaGVsbAojQkFTRTE2X1NIRUxMPSIkSE9NRS8uY29uZmlnL2Jhc2UxNi1zaGVsbC9zY3JpcHRzLyRUSEVNRS5zaCIKI1tbIC1zICRCQVNFMTZfU0hFTEwgXV0gJiYgc291cmNlICRCQVNFMTZfU0hFTEwKI3NvdXJjZSAkQkFTRTE2X1NIRUxMCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">enBsdWcgInBsdWdpbnMvIiwgZnJvbTpvaC1teS16c2gK</text>
+        <text encoding="base64">ZXhwb3J0IEVESVRPUj0nbnZpbScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">enBsdWcgInBsdWdpbnMvYnJldyIsIGZyb206b2gtbXktenNoCnpwbHVnICJwbHVnaW5zL2JyZXctY2FzayIsIGZyb206b2gtbXktenNoCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">enBsdWcgJ3pzaC11c2Vycy8K</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBiYWNrdXAgdGhlIGZ1bGwgbGlzdCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB6cGx1ZyAncG93ZXJsZXZlbDlrL3Bvd2VybGV2ZWw5aycsIGFzOnRoZW1lCg==</text>
+        <text encoding="base64">IyBwbHVnaW5zPShnaXQgZ2l0LWZsb3cgdmktbW9kZSBleHRyYWN0IG1hbiB2dW5kbGUgY29sb3JpemUgY29sb3JlZC1tYW4tcGFnZXMgY29weWRpciBtdm4gaGlzdG9yeSBkb2NrZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">IyBiYWNrdXAgdGhlIGxpc3QgYWZ0ZXIgdXNpbmcgQW50aWdlbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">enBsdWcgJ3pwbHVnL3pwbHVnJywgaG9vay1idWlsZDonenBsdWcgLS1zZWxmLW1hbmFnZScK</text>
+        <text encoding="base64">I3BsdWdpbnM9KGdpdCBkb2NrZXIgdmktbW9kZSBleHRyYWN0IG1hbiBjb2xvcml6ZSBjb2xvcmVkLW1hbi1wYWdlcyBjb3B5ZGlyIGhpc3RvcnkpICAgICAgICAgIyBvdGhlciBwbHVnaW5zIGFyZSBtYW5hZ2VkIGJ5IEFudGlnZW4gaW4gdGhlIGRvdGZpbGVzL3pzaC9wbHVnaW5zLnpzaCBmaWxlLgoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/-g//gc</text>
