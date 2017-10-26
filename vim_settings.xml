@@ -429,11 +429,11 @@
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env-linux.sh" timestamp="1509013996563">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env-linux.sh" timestamp="1509029265495">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" timestamp="1496834131062">
         <mark key="'" line="206" column="56" />
@@ -632,7 +632,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509027503132">
+      <file name="/Dummy.txt" timestamp="1509029270704">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1116,11 +1116,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509022398294">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509029214187">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="50" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="13" column="49" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
         <mark key="'" line="0" column="0" />
@@ -1862,8 +1862,8 @@
       <register name="/" type="4">
         <text>localrc</text>
       </register>
-      <register name="0" type="4">
-        <text>expr substr $(uname -s) 1 5</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhwb3J0IFBBVEg9Ii9ob21lL2xpbnV4YnJldy8ubGludXhicmV3L2JpbjokUEFUSCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I3NvdXJjZSBpbnN0YWxsL29oLW15LXpzaC5zaAoKI3NvdXJjZSBpbnN0YWxsL3pwbHVnLnNoCgo=</text>
