@@ -454,6 +454,10 @@
         <mark key="." line="53" column="7" />
         <mark key="^" line="53" column="7" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/hooks/recent.post-checkout" timestamp="1509026073623">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="152" />
+      </file>
       <file name="$USER_HOME$/temp/s3-error/error1.xml" timestamp="1489768934328">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="38" column="10" />
@@ -515,11 +519,12 @@
         <mark key="^" line="79" column="33" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509024673930">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509027450542">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
         <mark key="[" line="57" column="22" />
@@ -627,7 +632,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509024691433">
+      <file name="/Dummy.txt" timestamp="1509027503132">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -836,11 +841,11 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" timestamp="1509023269357">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" timestamp="1509027264634">
         <mark key="'" line="178" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+        <mark key="[" line="176" column="35" />
+        <mark key="]" line="176" column="35" />
+        <mark key="." line="176" column="35" />
         <mark key="^" line="186" column="18" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
@@ -1749,7 +1754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="500" column="49" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="391" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="405" column="51" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1849,6 +1853,7 @@
       <jump line="178" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
       <jump line="57" column="11" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env.sh" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="60" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -1861,34 +1866,34 @@
         <text>expr substr $(uname -s) 1 5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzdCAiJChleHByIHN1YnN0ciAkKHVuYW1lIC1zKSAxIDUpIiA9ICJMaW51eCIK</text>
+        <text encoding="base64">I3NvdXJjZSBpbnN0YWxsL29oLW15LXpzaC5zaAoKI3NvdXJjZSBpbnN0YWxsL3pwbHVnLnNoCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c291cmNlIGluc3RhbGwvb3N4L2JyZXcuc2gK</text>
+        <text encoding="base64">IyBjaGFuZ2VkIHRvIHVzZSBpbnN0YWxsL3pwbHVnLnNoIHRvIGluc3RhbGwgenBsdWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBicmV3IGluc3RhbGwgYXBwcyAK</text>
+        <text encoding="base64">dGVzdCAiJChleHByIHN1YnN0ciAkKHVuYW1lIC1zKSAxIDUpIiA9ICJMaW51eCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZSBpbnN0YWxsL29zeC9icmV3LnNoCgo=</text>
+        <text encoding="base64">c291cmNlIGluc3RhbGwvb3N4L2JyZXcuc2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">IyBicmV3IGluc3RhbGwgYXBwcyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZSBpbnN0YWxsL29zeC9icmV3LnNoCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnN1ZG8gYXB0LWdldCBpbnN0YWxsIHpzaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VkbyBhcHQtZ2V0IGluc3RhbGwgY3VybAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBIb21lYnJldyBHaXRodWIgYWNjZXNzIHRva2VuCmV4cG9ydCBIT01FQlJFV19HSVRIVUJfQVBJX1RPS0VOPSI0ZTU2ODQzYzZiMzFjMjNhZmVjYmY5YWFjNzYzYzY4NmY3NmMyZTMwIgoK</text>
+        <text encoding="base64">CnN1ZG8gYXB0LWdldCBpbnN0YWxsIHpzaAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/-g//gc</text>
