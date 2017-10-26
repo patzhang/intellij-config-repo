@@ -1383,11 +1383,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" timestamp="1509012871618">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" timestamp="1509048391169">
         <mark key="'" line="61" column="16" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="187" column="1" />
+        <mark key="." line="183" column="13" />
         <mark key="^" line="84" column="24" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 3 Logic in Movie/src/main/java/pl/refactoring/videostore/original/moved_to_movie/ChildrenPricing.java" timestamp="1488373601791">
@@ -1874,13 +1874,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;$HOME/.config/nvim&quot; &quot;$HOME/.vim&quot; &quot;$HOME/.vimrc&quot;</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>localrc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgWyAhIC1kICRIT01FL21hYy1jbGkvIF07IHRoZW4KICAgIGVjaG8gImluc3RhbGxpbmcgbWFjLWNsaSwgT1MgWCBjb21tYW5kIGxpbmUgdG9vbHMgZm9yIGRldmVsb3BlcnMiCiAgICBzaCAtYyAiJCh3Z2V0IGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9ndWFyaW5vZ2FicmllbC9tYWMtY2xpL21hc3Rlci9tYWMtY2xpL3Rvb2xzL2luc3RhbGwgLU8gLSkiCmZpCg==</text>
+        <text encoding="base64">IyBMaW51eC1zcGVjaWZpYyBlbnZpcm9ubWVudCBjb25maWd1cmF0aW9ucwppZiBbICIkKGV4cHIgc3Vic3RyICQodW5hbWUgLXMpIDEgNSkiID09ICJMaW51eCIgXTsgdGhlbgogICAgZWNobyAtZSAiXG5cblNldHRpbmcgZW52aXJvbm1lbnQgdmFyaWFibGVzIG9uIExpbnV4IgoKICAgIHNvdXJjZSAkRU5WX0RJUi9lbnYtbGludXguc2gKZmkKCiMgbWFjT1Mtc3BlY2lmaWMgZW52aXJvbm1lbnQgY29uZmlndXJhdGlvbnMKaWYgWyAiJCh1bmFtZSkiID09ICJEYXJ3aW4iIF07IHRoZW4KICAgIGVjaG8gLWUgIlxuXG5TZXR0aW5nIGVudmlyb25tZW50IHZhcmlhYmxlcyBvbiBPU1giCgogICAgc291cmNlICRFTlZfRElSL2Vudi1vc3guc2gKZmkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmV4aXQgMAo=</text>
