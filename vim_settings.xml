@@ -515,11 +515,11 @@
         <mark key="^" line="79" column="33" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509014124350">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="15" column="26" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509024673930">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
         <mark key="[" line="57" column="22" />
@@ -627,8 +627,11 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509021421131">
+      <file name="/Dummy.txt" timestamp="1509024691433">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/python/install/pip-install.sh" timestamp="1507056021294">
         <mark key="[" line="2" column="40" />
@@ -1304,10 +1307,10 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1508961822629">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1509024626683">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="20" column="66" />
-        <mark key="]" line="21" column="69" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="55" />
         <mark key="^" line="21" column="69" />
         <mark key="." line="21" column="69" />
       </file>
@@ -1746,7 +1749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="203" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="500" column="49" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="391" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1846,46 +1848,47 @@
       <jump line="0" column="15" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/aliases/aliases.zsh" />
       <jump line="178" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
       <jump line="57" column="11" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env.sh" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>#</text>
+        <text>uname</text>
       </register>
       <register name="/" type="4">
         <text>localrc</text>
       </register>
       <register name="0" type="4">
-        <text>$ENV_DIR/env.sh</text>
+        <text>expr substr $(uname -s) 1 5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">dGVzdCAiJChleHByIHN1YnN0ciAkKHVuYW1lIC1zKSAxIDUpIiA9ICJMaW51eCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">c291cmNlIGluc3RhbGwvb3N4L2JyZXcuc2gK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnN1ZG8gYXB0LWdldCBpbnN0YWxsIHpzaAo=</text>
+        <text encoding="base64">IyBicmV3IGluc3RhbGwgYXBwcyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3VkbyBhcHQtZ2V0IGluc3RhbGwgY3VybAo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZSBpbnN0YWxsL29zeC9icmV3LnNoCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBIb21lYnJldyBHaXRodWIgYWNjZXNzIHRva2VuCmV4cG9ydCBIT01FQlJFV19HSVRIVUJfQVBJX1RPS0VOPSI0ZTU2ODQzYzZiMzFjMjNhZmVjYmY5YWFjNzYzYzY4NmY3NmMyZTMwIgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBPY2FkbyBpbnRlcm5hbCBQeXBpIHJlZ2lzdHJ5CmV4cG9ydCBQSVBfSU5ERVhfVVJMPWh0dHBzOi8vZXV3MS1weXBpLmV1LXdlc3QtMS5hd3Muc2hkLnByZC5sYXN0bWlsZS5jb20vcHlwaQpleHBvcnQgUElQX1RSVVNURURfSE9TVD1ldXcxLXB5cGkuZXUtd2VzdC0xLmF3cy5zaGQucHJkLmxhc3RtaWxlLmNvbQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">CnN1ZG8gYXB0LWdldCBpbnN0YWxsIHpzaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBFbmFibGUgQVdTIGNvbW1hbmQgY29tcGxldGlvbgpzb3VyY2UgJy91c3IvbG9jYWwvYmluL2F3c196c2hfY29tcGxldGVyLnNoJwoKIyBpVGVybTIgU2hlbGwgSW50ZWdyYXRpb24KIyBodHRwczovL3d3dy5pdGVybTIuY29tL2RvY3VtZW50YXRpb24tc2hlbGwtaW50ZWdyYXRpb24uaHRtbAp0ZXN0IC1lICIke0hPTUV9Ly5pdGVybTJfc2hlbGxfaW50ZWdyYXRpb24uenNoIiAmJiBzb3VyY2UgIiR7SE9NRX0vLml0ZXJtMl9zaGVsbF9pbnRlZ3JhdGlvbi56c2giCg==</text>
+        <text encoding="base64">c3VkbyBhcHQtZ2V0IGluc3RhbGwgY3VybAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBzb3VyY2UgZW52aXJvbm1lbnQgdmFyaWFibGVzCnNvdXJjZSAkRE9URklMRVMvc2V0dGluZ3MvZW52LnNoCgo=</text>
+        <text encoding="base64">IyBIb21lYnJldyBHaXRodWIgYWNjZXNzIHRva2VuCmV4cG9ydCBIT01FQlJFV19HSVRIVUJfQVBJX1RPS0VOPSI0ZTU2ODQzYzZiMzFjMjNhZmVjYmY5YWFjNzYzYzY4NmY3NmMyZTMwIgoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/-g//gc</text>
