@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1494412043064">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/label_images.py" timestamp="1494854741513">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -17,9 +14,6 @@
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1507212651244">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
         <mark key="'" line="65" column="4" />
@@ -114,9 +108,6 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="/" timestamp="1495206900461">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/Makefile" timestamp="1497004215966">
         <mark key="'" line="73" column="48" />
         <mark key="[" line="20" column="12" />
@@ -135,9 +126,6 @@
         <mark key="]" line="39" column="63" />
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
-      </file>
-      <file name="/Python Script.txt.ft" timestamp="1505317057923">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -212,6 +200,13 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/aliases/aliases.zsh" timestamp="1509014380073">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="49" />
+        <mark key="^" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/download_images.py" timestamp="1495018142600">
         <mark key="'" line="90" column="8" />
         <mark key="[" line="52" column="84" />
@@ -239,10 +234,10 @@
         <mark key="." line="34" column="5" />
         <mark key="^" line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.powerlevel9k" timestamp="1509009324183">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.powerlevel9k" timestamp="1509012537463">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="194" column="23" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495552143413">
@@ -277,9 +272,6 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1505820021284">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/README.md" timestamp="1505832031834">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="20" />
@@ -299,9 +291,10 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.nick" timestamp="1509010268178">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="33" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.nick" timestamp="1509011183293">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="84" column="99" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/docker/Readme.org" timestamp="1504694741827">
         <mark key="[" line="24" column="0" />
@@ -370,9 +363,6 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/test/context.py" timestamp="1487781523875">
-        <mark key="[" line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/.gitlab-ci.yml" timestamp="1496227543441">
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="13" />
@@ -436,6 +426,12 @@
         <mark key="]" line="22" column="23" />
         <mark key="^" line="22" column="23" />
         <mark key="." line="22" column="23" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env-linux.sh" timestamp="1509013996563">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_tf_tutorial/mnist_with_summaries.py" timestamp="1496834131062">
         <mark key="'" line="206" column="56" />
@@ -521,9 +517,9 @@
         <mark key="^" line="79" column="33" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1508969487021">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="15" column="26" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509014124350">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="30" column="29" />
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
@@ -627,7 +623,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508970434743">
+      <file name="/Dummy.txt" timestamp="1509014598599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/python/install/pip-install.sh" timestamp="1507056021294">
@@ -635,9 +631,6 @@
         <mark key="]" line="3" column="47" />
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
-      </file>
-      <file name="/code.py" timestamp="1507637985753">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
         <mark key="[" line="6" column="3" />
@@ -677,6 +670,11 @@
         <mark key="^" line="191" column="121" />
         <mark key="." line="191" column="86" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env-osx.sh" timestamp="1509014087330">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="20" column="97" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" timestamp="1505838078190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="153830" />
@@ -713,9 +711,6 @@
         <mark key="]" line="3" column="46" />
         <mark key="^" line="3" column="46" />
         <mark key="." line="3" column="46" />
-      </file>
-      <file name="/fragment.java" timestamp="1488382605686">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v2.py" timestamp="1490347199101">
         <mark key="'" line="33" column="15" />
@@ -834,12 +829,12 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" timestamp="1508971285958">
-        <mark key="'" line="19" column="24" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="19" column="1" />
-        <mark key="^" line="19" column="1" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" timestamp="1509014542364">
+        <mark key="'" line="91" column="26" />
+        <mark key="[" line="186" column="11" />
+        <mark key="]" line="186" column="18" />
+        <mark key="." line="186" column="18" />
+        <mark key="^" line="186" column="18" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Legacy Video Rental - 1 Pricing Classes/src/main/java/pl/refactoring/videostore/srp_pricing/RentalFeePricing.java" timestamp="1488381879117">
         <mark key="[" line="19" column="11" />
@@ -976,9 +971,6 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1507290130127">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/TODO.md" timestamp="1487842254596">
         <mark key="[" line="4" column="2" />
         <mark key="]" line="8" column="36" />
@@ -1010,10 +1002,11 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/env.sh" timestamp="1508969955261">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/env.sh" timestamp="1509012461815">
+        <mark key="'" line="66" column="40" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/oh-my-zsh.sh" timestamp="1508970758749">
         <mark key="[" line="11" column="2" />
@@ -1111,11 +1104,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1508969327876">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509012112566">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v1/camera_test_v1.py" timestamp="1490292084431">
         <mark key="'" line="0" column="0" />
@@ -1281,9 +1274,6 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/Readme.md" timestamp="1500905733042">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/training/prometheus/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508410349698">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="31" />
@@ -1308,6 +1298,11 @@
         <mark key="]" line="31" column="18" />
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/env.sh" timestamp="1509013849624">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1508961822629">
         <mark key="'" line="24" column="0" />
@@ -1334,9 +1329,6 @@
         <mark key="]" line="21" column="12" />
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1505317038625">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/Makefile" timestamp="1505833656072">
         <mark key="'" line="73" column="25" />
@@ -1371,12 +1363,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" timestamp="1509010189383">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="1" column="19" />
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" timestamp="1509012871618">
+        <mark key="'" line="61" column="16" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="84" column="24" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 3 Logic in Movie/src/main/java/pl/refactoring/videostore/original/moved_to_movie/ChildrenPricing.java" timestamp="1488373601791">
         <mark key="[" line="11" column="0" />
@@ -1421,9 +1413,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="52" column="52" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1505820021407">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/main.py" timestamp="1490715442785">
         <mark key="'" line="18" column="44" />
@@ -1533,6 +1522,11 @@
         <mark key="." line="4" column="29" />
         <mark key="^" line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/env-osx.sh" timestamp="1509013802099">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline_v1.py" timestamp="1498217463124">
         <mark key="'" line="42" column="3" />
         <mark key="[" line="14" column="0" />
@@ -1597,9 +1591,6 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1508411054898">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/context.py" timestamp="1487804476643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="11" />
@@ -1642,17 +1633,11 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="/Scala Console" timestamp="1508145591773">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/utils/context.py" timestamp="1487771679075">
         <mark key="[" line="5" column="107" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="/Python Unit Test.txt.ft" timestamp="1505316962443">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/opencv_tests.py" timestamp="1494946795474">
         <mark key="[" line="13" column="0" />
@@ -1761,21 +1746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="119" column="39" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="144" column="82" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="277" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="284" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="285" column="45" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="373" column="35" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="374" column="61" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="9" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="198" column="67" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="163" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="164" column="58" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="173" column="49" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="194" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="45" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="138" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="139" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -1861,58 +1831,73 @@
       <jump line="6" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
       <jump line="10" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.powerlevel9k" />
       <jump line="78" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="68" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.nick" />
+      <jump line="84" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.nick" />
+      <jump line="146" column="2" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="153" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="7" column="13" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="10" column="2" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="23" column="16" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="47" column="52" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="48" column="2" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="61" column="16" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
+      <jump line="63" column="40" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/env.sh" />
+      <jump line="36" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
+      <jump line="91" column="26" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
+      <jump line="0" column="15" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/aliases/aliases.zsh" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">QWRkaXRpb25hbCBzZXR0aW5ncyB0aGF0IGFyZSBub3QgZnJvbSA=</text>
+        <text>env</text>
       </register>
       <register name="/" type="4">
-        <text>-g</text>
+        <text>configenv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyBBZGRpdGlvbmFsIHNldHRpbmdzIHRoYXQgYXJlIG5vdCBmcm9tIE9oIE15IFpzaAojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
+      <register name="0" type="4">
+        <text>$ENV_DIR/env.sh</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBTZXQgdGhlIGJhc2UxNiBjb2xvcnNjaGVtZSB0byB1c2UgZm9yIHZpbS9uZW92aW0gYnkgZXhwb3J0aW5nIHRoZSAkVEhFTUUgYW5kICRCQUNLR1JPVU5EIGVudmlyb25tZW50IHZhcmlhYmxlcwojaWYgWyAiJEJBQ0tHUk9VTkQiID0gImxpZ2h0IiBdOyB0aGVuCiMgICAgZXhwb3J0IFRIRU1FPSJiYXNlMTYtZ29vZ2xlLWxpZ2h0IgojICAgIEJBQ0tHUk9VTkQ9IiIKI2Vsc2UKICAgICMgZXhwb3J0IFRIRU1FPSJiYXNlMTYtYXRlbGllci1jYXZlIgojICAgIGV4cG9ydCBUSEVNRT0iYmFzZTE2LWRlZmF1bHQtZGFyayIKI2ZpCgojIEJhc2UxNiBTaGVsbAojQkFTRTE2X1NIRUxMPSIkSE9NRS8uY29uZmlnL2Jhc2UxNi1zaGVsbC9zY3JpcHRzLyRUSEVNRS5zaCIKI1tbIC1zICRCQVNFMTZfU0hFTEwgXV0gJiYgc291cmNlICRCQVNFMTZfU0hFTEwKI3NvdXJjZSAkQkFTRTE2X1NIRUxMCgo=</text>
+        <text encoding="base64">IyBFbmFibGUgQVdTIGNvbW1hbmQgY29tcGxldGlvbgpzb3VyY2UgJy91c3IvbG9jYWwvYmluL2F3c196c2hfY29tcGxldGVyLnNoJwoKIyBpVGVybTIgU2hlbGwgSW50ZWdyYXRpb24KIyBodHRwczovL3d3dy5pdGVybTIuY29tL2RvY3VtZW50YXRpb24tc2hlbGwtaW50ZWdyYXRpb24uaHRtbAp0ZXN0IC1lICIke0hPTUV9Ly5pdGVybTJfc2hlbGxfaW50ZWdyYXRpb24uenNoIiAmJiBzb3VyY2UgIiR7SE9NRX0vLml0ZXJtMl9zaGVsbF9pbnRlZ3JhdGlvbi56c2giCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IEVESVRPUj0nbnZpbScK</text>
+        <text encoding="base64">IyBzb3VyY2UgZW52aXJvbm1lbnQgdmFyaWFibGVzCnNvdXJjZSAkRE9URklMRVMvc2V0dGluZ3MvZW52LnNoCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">CiMgSG9tZWJyZXcgR2l0aHViIGFjY2VzcyB0b2tlbgpleHBvcnQgSE9NRUJSRVdfR0lUSFVCX0FQSV9UT0tFTj0iNGU1Njg0M2M2YjMxYzIzYWZlY2JmOWFhYzc2M2M2ODZmNzZjMmUzMCIKCiMgUEFUSCAtIE9TWApleHBvcnQgUEFUSD0iJFBBVEg6L3Vzci9iaW46L2JpbjovdXNyL3NiaW46L3NiaW4iCgojIE1hY1BvcnRzIEluc3RhbGxlciBhZGRpdGlvbiBvbiAyMDE2LTA2LTIzX2F0XzE1OjE4OjMzOiBhZGRpbmcgYW4gYXBwcm9wcmlhdGUgUEFUSCB2YXJpYWJsZSBmb3IgdXNlIHdpdGggTWFjUG9ydHMuCmV4cG9ydCBQQVRIPSIkUEFUSDovb3B0L2xvY2FsL2Jpbjovb3B0L2xvY2FsL3NiaW4iCiMgRmluaXNoZWQgYWRhcHRpbmcgeW91ciBQQVRIIGVudmlyb25tZW50IHZhcmlhYmxlIGZvciB1c2Ugd2l0aCBNYWNQb3J0cy4KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">IyBUaGUgbmV4dCBsaW5lIHVwZGF0ZXMgUEFUSCBmb3IgdGhlIEdvb2dsZSBDbG91ZCBTREsuCnNvdXJjZSAnL1VzZXJzL3BhdHJpY2suemhhbmcvQXBwbGljYXRpb25zL2dvb2dsZS1jbG91ZC1zZGsvcGF0aC56c2guaW5jJwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBiYWNrdXAgdGhlIGZ1bGwgbGlzdCAK</text>
+        <text encoding="base64">IyBNYWNQb3J0cyBJbnN0YWxsZXIgYWRkaXRpb24gb24gMjAxNi0wNi0yM19hdF8xNToxODozMzogYWRkaW5nIGFuIGFwcHJvcHJpYXRlIFBBVEggdmFyaWFibGUgZm9yIHVzZSB3aXRoIE1hY1BvcnRzLgpleHBvcnQgUEFUSD0iJFBBVEg6L29wdC9sb2NhbC9iaW46L29wdC9sb2NhbC9zYmluIgojIEZpbmlzaGVkIGFkYXB0aW5nIHlvdXIgUEFUSCBlbnZpcm9ubWVudCB2YXJpYWJsZSBmb3IgdXNlIHdpdGggTWFjUG9ydHMuCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBwbHVnaW5zPShnaXQgZ2l0LWZsb3cgdmktbW9kZSBleHRyYWN0IG1hbiB2dW5kbGUgY29sb3JpemUgY29sb3JlZC1tYW4tcGFnZXMgY29weWRpciBtdm4gaGlzdG9yeSBkb2NrZXIpCg==</text>
+        <text encoding="base64">IyBQQVRIIC0gT1NYCmV4cG9ydCBQQVRIPSIkUEFUSDovdXNyL2JpbjovYmluOi91c3Ivc2Jpbjovc2JpbiIKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBiYWNrdXAgdGhlIGxpc3QgYWZ0ZXIgdXNpbmcgQW50aWdlbgo=</text>
+        <text encoding="base64">IyBIb21lYnJldyBHaXRodWIgYWNjZXNzIHRva2VuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3BsdWdpbnM9KGdpdCBkb2NrZXIgdmktbW9kZSBleHRyYWN0IG1hbiBjb2xvcml6ZSBjb2xvcmVkLW1hbi1wYWdlcyBjb3B5ZGlyIGhpc3RvcnkpICAgICAgICAgIyBvdGhlciBwbHVnaW5zIGFyZSBtYW5hZ2VkIGJ5IEFudGlnZW4gaW4gdGhlIGRvdGZpbGVzL3pzaC9wbHVnaW5zLnpzaCBmaWxlLgoK</text>
+        <text encoding="base64">ZXhwb3J0IEhPTUVCUkVXX0dJVEhVQl9BUElfVE9LRU49IjRlNTY4NDNjNmIzMWMyM2FmZWNiZjlhYWM3NjNjNjg2Zjc2YzJlMzAiCgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/-g//gc</text>
       </register>
     </registers>
     <search>
-      <last-search>-g</last-search>
+      <last-search>configenv</last-search>
       <last-offset />
-      <last-pattern>-g</last-pattern>
+      <last-pattern>configenv</last-pattern>
       <last-replace />
       <last-substitute>-g</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1951,6 +1936,9 @@
         <entry>'</entry>
         <entry>colored</entry>
         <entry>-g</entry>
+        <entry>ZSH</entry>
+        <entry>env.sh</entry>
+        <entry>configenv</entry>
       </history-search>
       <history-cmd>
         <entry>15,25d</entry>
