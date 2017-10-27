@@ -1324,12 +1324,12 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1509030839607">
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1509105740998">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="24" column="41" />
+        <mark key="[" line="42" column="57" />
+        <mark key="]" line="42" column="58" />
         <mark key="^" line="24" column="41" />
-        <mark key="." line="24" column="41" />
+        <mark key="." line="42" column="58" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/create-venv.sh" timestamp="1488214647012">
         <mark key="[" line="2" column="12" />
