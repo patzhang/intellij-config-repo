@@ -1874,7 +1874,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>say</text>
       </register>
       <register name="/" type="4">
         <text>localrc</text>
@@ -1927,24 +1927,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbWFnZV9maWxlX2JcPg==</entry>
-        <entry>delete_file</entry>
-        <entry>delete</entry>
-        <entry>Build</entry>
-        <entry>upload datasets finished</entry>
-        <entry>finished</entry>
-        <entry>equali</entry>
-        <entry>DEB</entry>
-        <entry>main</entry>
-        <entry>bucket_image_data</entry>
-        <entry>4</entry>
-        <entry>8</entry>
-        <entry>3073</entry>
-        <entry>500</entry>
-        <entry>5000</entry>
-        <entry>57</entry>
-        <entry>1.3</entry>
-        <entry>sed</entry>
         <entry>see</entry>
         <entry>prome</entry>
         <entry>sol</entry>
@@ -1967,10 +1949,6 @@
         <entry>localrc</entry>
       </history-search>
       <history-cmd>
-        <entry>15,25d</entry>
-        <entry>split-v</entry>
-        <entry>map</entry>
-        <entry>nmap</entry>
         <entry>vmap</entry>
         <entry>54</entry>
         <entry>129</entry>
