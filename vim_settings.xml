@@ -632,7 +632,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509139407523">
+      <file name="/Dummy.txt" timestamp="1509539139488">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1616,6 +1616,9 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/pliny/src/frontend/components/graph/index.js" timestamp="1509539174798">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/context.py" timestamp="1487804476643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="11" />
@@ -1771,7 +1774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="500" column="49" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="391" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="405" column="51" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="5" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/utils/image_util.py" />
@@ -1871,13 +1873,14 @@
       <jump line="57" column="11" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env.sh" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="60" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/pliny/src/frontend/components/graph/index.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>say</text>
       </register>
       <register name="/" type="4">
-        <text>localrc</text>
+        <text>Graph</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBMaW51eC1zcGVjaWZpYyBlbnZpcm9ubWVudCBjb25maWd1cmF0aW9ucwppZiBbICIkKGV4cHIgc3Vic3RyICQodW5hbWUgLXMpIDEgNSkiID09ICJMaW51eCIgXTsgdGhlbgogICAgZWNobyAtZSAiXG5cblNldHRpbmcgZW52aXJvbm1lbnQgdmFyaWFibGVzIG9uIExpbnV4IgoKICAgIHNvdXJjZSAkRU5WX0RJUi9lbnYtbGludXguc2gKZmkKCiMgbWFjT1Mtc3BlY2lmaWMgZW52aXJvbm1lbnQgY29uZmlndXJhdGlvbnMKaWYgWyAiJCh1bmFtZSkiID09ICJEYXJ3aW4iIF07IHRoZW4KICAgIGVjaG8gLWUgIlxuXG5TZXR0aW5nIGVudmlyb25tZW50IHZhcmlhYmxlcyBvbiBPU1giCgogICAgc291cmNlICRFTlZfRElSL2Vudi1vc3guc2gKZmkK</text>
@@ -1917,13 +1920,13 @@
       </register>
     </registers>
     <search>
-      <last-search>localrc</last-search>
+      <last-search>Graph</last-search>
       <last-offset />
-      <last-pattern>localrc</last-pattern>
+      <last-pattern>Graph</last-pattern>
       <last-replace />
       <last-substitute>-g</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1947,6 +1950,7 @@
         <entry>env.sh</entry>
         <entry>configenv</entry>
         <entry>localrc</entry>
+        <entry>Graph</entry>
       </history-search>
       <history-cmd>
         <entry>vmap</entry>
