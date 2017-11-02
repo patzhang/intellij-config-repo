@@ -417,12 +417,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" timestamp="1507737029156">
-        <mark key="'" line="65" column="3" />
-        <mark key="[" line="76" column="32" />
-        <mark key="]" line="76" column="33" />
-        <mark key="^" line="76" column="33" />
-        <mark key="." line="76" column="33" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" timestamp="1509640231488">
+        <mark key="'" line="97" column="12" />
+        <mark key="[" line="14" column="71" />
+        <mark key="]" line="14" column="71" />
+        <mark key="^" line="14" column="69" />
+        <mark key="." line="14" column="71" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_macOS.sh" timestamp="1487156919377">
         <mark key="[" line="22" column="23" />
@@ -600,6 +600,13 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="50" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1509639901556">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
+        <mark key="^" line="265" column="33" />
+        <mark key="." line="266" column="0" />
+      </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/alert.rules" timestamp="1508416710607">
         <mark key="[" line="6" column="66" />
         <mark key="]" line="6" column="89" />
@@ -632,7 +639,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509539139488">
+      <file name="/Dummy.txt" timestamp="1509639920254">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1307,7 +1314,6 @@
         <mark key="^" line="1" column="55" />
         <mark key="." line="1" column="55" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/pliny/src/frontend/api.js" timestamp="1509547401042" />
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/CHANGES.md" timestamp="1495706074666">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="7" column="0" />
@@ -1775,9 +1781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="21" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="405" column="51" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="5" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/utils/image_util.py" />
       <jump line="188" column="53" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="135" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="124" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
@@ -1875,46 +1878,49 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="60" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/pliny/src/frontend/components/graph/index.js" />
+      <jump line="57" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="94" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>say</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
         <text>Graph</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBMaW51eC1zcGVjaWZpYyBlbnZpcm9ubWVudCBjb25maWd1cmF0aW9ucwppZiBbICIkKGV4cHIgc3Vic3RyICQodW5hbWUgLXMpIDEgNSkiID09ICJMaW51eCIgXTsgdGhlbgogICAgZWNobyAtZSAiXG5cblNldHRpbmcgZW52aXJvbm1lbnQgdmFyaWFibGVzIG9uIExpbnV4IgoKICAgIHNvdXJjZSAkRU5WX0RJUi9lbnYtbGludXguc2gKZmkKCiMgbWFjT1Mtc3BlY2lmaWMgZW52aXJvbm1lbnQgY29uZmlndXJhdGlvbnMKaWYgWyAiJCh1bmFtZSkiID09ICJEYXJ3aW4iIF07IHRoZW4KICAgIGVjaG8gLWUgIlxuXG5TZXR0aW5nIGVudmlyb25tZW50IHZhcmlhYmxlcyBvbiBPU1giCgogICAgc291cmNlICRFTlZfRElSL2Vudi1vc3guc2gKZmkK</text>
+        <text encoding="base64">ICAgIDxoND5Qcm9kdWN0IEltYWdlIERhdGFzZXQgdjIuMCAoMjQgU0tVcyBhbmQgMjAwMCBpbWFnZXMgZWFjaCwgNS4xIEdCKTwvaDQ+CiAgICBUaGlzIGRhdGFzZXQgaGFzIHR3byB0eXBlcyBvZiBpbWFnZXMuIFRoZSAucG5nIGZpbGUgaXMgY3JvcHBlZCBmcm9tIHRoZSBvcmlnaW5hbCAucG5nIGZpbGUuPGJyPgogICAgVGhlIC5qcGcgZmlsZSBpcyBnZW5lcmF0ZWQgYnkgYXBwbHlpbmcgYWRhcHRpdmUgaGlzdG9ncmFtIGVxdWFsaXphdGlvbiB0byBtYWtlIHRoZSBpbWFnZXMgYnJpZ2h0ZXIuPGJyPgogICAgVGhlIC5qcGcgZGF0YXNldCB3aWxsIGJlIHVzZWQgdG8gdHJhaW4gYSBtb2RlbCB0byByZWNvZ25pemUgdGhlIGJyaWdodCB3ZWJjYW0gaW1hZ2UgZGF0YXNldChiZWxvdykuPGJyPgoKICAgIDx1bD4KICAgICAgICA8bGk+Q2hhbmdlczwvbGk+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+QWRhcHRpdmUgSGlzdG9ncmFtIEVxdWFsaXphdGlvbihBSEUpIGhhcyBiZWVuIGFwcGxpZWQsIHNvIHRoZSBpbWFnZXMgaGF2ZSBhIGJldHRlciBjb250cmFzdCAobG9va3MgYnJpZ2h0ZXIpLjwvbGk+CiAgICAgICAgICAgIDxsaT5MdWthJ3Mgc2VnbWVudGF0aW9uIGFsZ29yaXRobSBoYXMgdXNlZCB0byBsb2NhdGUgdGhlIHByb2R1Y3QgYW5kIGZpbHRlciBvdXQgYmV0dGVyIGltYWdlcy48L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmV4aXQgMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1bD4KICAgICAgICA8bGk+Q2hhbmdlczwvbGk+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+QWRhcHRpdmUgSGlzdG9ncmFtIEVxdWFsaXphdGlvbihBSEUpIGhhcyBiZWVuIGFwcGxpZWQsIHNvIHRoZSBpbWFnZXMgaGF2ZSBhIGJldHRlciBjb250cmFzdCAobG9va3MgYnJpZ2h0ZXIpLjwvbGk+CiAgICAgICAgICAgIDxsaT5MdWthJ3Mgc2VnbWVudGF0aW9uIGFsZ29yaXRobSBoYXMgdXNlZCB0byBsb2NhdGUgdGhlIHByb2R1Y3QgYW5kIGZpbHRlciBvdXQgYmV0dGVyIGltYWdlcy48L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRoaXMgZGF0YXNldCBoYXMgdHdvIHR5cGVzIG9mIGltYWdlcy4gVGhlIC5wbmcgZmlsZSBpcyBjcm9wcGVkIGZyb20gdGhlIG9yaWdpbmFsIC5wbmcgZmlsZS48YnI+CiAgICBUaGUgLmpwZyBmaWxlIGlzIGdlbmVyYXRlZCBieSBhcHBseWluZyBhZGFwdGl2ZSBoaXN0b2dyYW0gZXF1YWxpemF0aW9uIHRvIG1ha2UgdGhlIGltYWdlcyBicmlnaHRlci48YnI+CiAgICBUaGUgLmpwZyBkYXRhc2V0IHdpbGwgYmUgdXNlZCB0byB0cmFpbiBhIG1vZGVsIHRvIHJlY29nbml6ZSB0aGUgYnJpZ2h0IHdlYmNhbSBpbWFnZSBkYXRhc2V0KGJlbG93KS48YnI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgISBjb21tYW5kX2V4aXN0cyB6cGx1ZzsgdGhlbgogICAgZWNobyAiaW5zdGFsbGluZyB6cGx1ZywgYSBwbHVnaW4gbWFuYWdlciBmb3IgenNoIC0gaHR0cDovL3pwbHVnLnNoIgoKICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20venBsdWcvenBsdWcgfi8uenBsdWcKZmkKCmlmIFsgISAtZCAkSE9NRS8ub2gtbXktenNoIF07IHRoZW4KICAgIGVjaG8gImluc3RhbGxpbmcgb2gtbXktenNoLCB6c2ggY29uZmlndXJhdGlvbiBtYW5hZ2VyIgoKICAgIGdpdCBjbG9uZSBnaXQ6Ly9naXRodWIuY29tL3JvYmJ5cnVzc2VsbC9vaC1teS16c2guZ2l0IH4vLm9oLW15LXpzaApmaQoKIyBpbnN0YWxsIGhvd2RvaSBvbiBMaW51eAppZiAhIGNvbW1hbmRfZXhpc3RzIGhvd2RvaTsgdGhlbgogICAgZWNobyAiaW5zdGFsbGluZyBob3dkb2ksIGluc3RhbnQgY29kaW5nIGFuc3dlcnMgdmlhIHRoZSBjb21tYW5kIGxpbmUiCgogICAgc3VkbyBwaXAgaW5zdGFsbCAtLXVwZ3JhZGUgcGlwCiAgICBzdWRvIC1IIHBpcCBpbnN0YWxsIGhvd2RvaQpmaQoK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGltZ19yZXNpemVkX2FoZSA9IGN2Mi5yZXNpemUoaW1nX2ZsdF9haGUsIGRpbWVuc2lvbiwgaW50ZXJwb2xhdGlvbj1jdjIuSU5URVJfQVJFQSkKICAgICAgICAgICAgb3V0cHV0X2pwZyA9IHBhdGguam9pbihvdXRwdXRfZGlyLCBwYXRoLmJhc2VuYW1lKGltYWdlMSkucmVwbGFjZSgncG5nJywgJ2pwZycpKQogICAgICAgICAgICBjdjIuaW13cml0ZShvdXRwdXRfanBnLCBpbWdfcmVzaXplZF9haGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X3BuZyA9IHBhdGguam9pbihvdXRwdXRfZGlyLCBwYXRoLmJhc2VuYW1lKGltYWdlMSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3VkbyBhcHQtZ2V0IHVwZGF0ZQoKc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgYnVpbGQtZXNzZW50aWFsIFwKICAgICAgICAgICAgICAgICAgICAgICAgY3VybCBcCiAgICAgICAgICAgICAgICAgICAgICAgIGZpbGUgXAogICAgICAgICAgICAgICAgICAgICAgICBnY2MgXAogICAgICAgICAgICAgICAgICAgICAgICBnaXQgXAogICAgICAgICAgICAgICAgICAgICAgICBweXRob24tc2V0dXB0b29scyBcCiAgICAgICAgICAgICAgICAgICAgICAgIHJ1YnktZnVsbCBcCiAgICAgICAgICAgICAgICAgICAgICAgIHpzaCBcCiAgICAgICAgICAgICAgICAgICAgICAgIHpzaC1kb2MKCnN1ZG8gYXB0LWdldCBhdXRvcmVtb3ZlCgpzdWRvIHJtIC1yZiAvdmFyL2xpYi9hcHQvbGlzdHMvKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlICAgIyBpZ25vcmUgdGhpcyBmaWxlIGFuZCBjb250aW51ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IFBBVEg9Ii9ob21lL2xpbnV4YnJldy8ubGludXhicmV3L2JpbjokUEFUSCIKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdJZ25vcmVkIGltYWdlIHt9IGZvciBiYXJjb2RlIHt9IGFuZCBjb250aW51ZSAuLi4nLmZvcm1hdChibG9iX2IsIGJhcmNvZGUpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRvd25sb2FkIHt9IGZyb20gR0NTIGFmdGVyIHJldHJpZXMhJy5mb3JtYXQoYmxvYl9iKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyAK</text>
+        <text encoding="base64">CmV4aXQgMAo=</text>
       </register>
       <register name=":" type="4">
         <text>110</text>
