@@ -278,11 +278,11 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/README.md" timestamp="1505832031834">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="20" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/README.md" timestamp="1509641407446">
+        <mark key="[" line="2" column="78" />
+        <mark key="]" line="2" column="78" />
         <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+        <mark key="." line="2" column="78" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_mlp.py" timestamp="1497258917233">
         <mark key="[" line="0" column="2" />
@@ -454,10 +454,6 @@
         <mark key="]" line="53" column="7" />
         <mark key="." line="53" column="7" />
         <mark key="^" line="53" column="7" />
-      </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/hooks/recent.post-checkout" timestamp="1509026073623">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="152" />
       </file>
       <file name="$USER_HOME$/temp/s3-error/error1.xml" timestamp="1489768934328">
         <mark key="[" line="12" column="0" />
@@ -700,11 +696,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" timestamp="1505838078190">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" timestamp="1509641532027">
+        <mark key="'" line="12646" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="153830" />
-        <mark key="^" line="0" column="153830" />
-        <mark key="." line="0" column="153830" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
         <mark key="[" line="6" column="7" />
@@ -1084,11 +1080,11 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/main.py" timestamp="1505838187637">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="92" />
-        <mark key="." line="27" column="92" />
-        <mark key="^" line="27" column="92" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/main.py" timestamp="1509641613141">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="47" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/mandelbrot-set/display_fractal.py" timestamp="1487322748008">
         <mark key="[" line="24" column="4" />
@@ -1781,7 +1777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="53" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="135" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
       <jump line="124" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
       <jump line="395" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
@@ -1881,10 +1876,11 @@
       <jump line="57" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="94" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
+      <jump line="12646" column="1" filename="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>Graph</text>
