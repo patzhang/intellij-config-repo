@@ -15,7 +15,7 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1509731582336">
+      <file name="/a.dummy" timestamp="1509742111979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
@@ -319,12 +319,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" timestamp="1509738923620">
-        <mark key="'" line="43" column="17" />
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="53" column="31" />
-        <mark key="." line="53" column="31" />
-        <mark key="^" line="53" column="31" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" timestamp="1509742154717">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" timestamp="1506616130441">
         <mark key="'" line="49" column="28" />
@@ -626,6 +626,12 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="50" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_spec/config.ini" timestamp="1509741686576">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1509738203717">
         <mark key="'" line="53" column="24" />
         <mark key="[" line="53" column="24" />
@@ -710,12 +716,22 @@
         <mark key="^" line="13" column="71" />
         <mark key="." line="13" column="71" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/requirements.txt" timestamp="1507571301579">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
         <mark key="[" line="191" column="85" />
         <mark key="]" line="191" column="86" />
         <mark key="^" line="191" column="121" />
         <mark key="." line="191" column="86" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env-osx.sh" timestamp="1509021393860">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
         <mark key="[" line="6" column="7" />
@@ -743,6 +759,11 @@
         <mark key="]" line="16" column="85" />
         <mark key="." line="16" column="85" />
         <mark key="^" line="16" column="85" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/cli.sh" timestamp="1508958044849">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/Readme.txt" timestamp="1495198708235">
         <mark key="[" line="3" column="75" />
@@ -903,6 +924,11 @@
         <mark key="]" line="5" column="72" />
         <mark key="^" line="1" column="35" />
         <mark key="." line="5" column="72" />
+      </file>
+      <file name="$USER_HOME$/training/prometheus/prometheus-workshop/src/main/scala/workshop/prom/monitoring/MonitoringSpecs.scala" timestamp="1508410514932">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/create-jobs.sh" timestamp="1509729076138">
         <mark key="[" line="2" column="25" />
@@ -1103,6 +1129,11 @@
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/requirements.txt" timestamp="1509741186883">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/mandelbrot-set/display_fractal.py" timestamp="1487322748008">
         <mark key="[" line="24" column="4" />
@@ -1362,6 +1393,11 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/env.sh" timestamp="1509013849624">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1509105740998">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="42" column="57" />
@@ -1475,7 +1511,6 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/pliny/deploy/service.yaml" timestamp="1509720061435" />
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/main.py" timestamp="1490715442785">
         <mark key="'" line="18" column="44" />
         <mark key="[" line="0" column="0" />
@@ -1527,6 +1562,11 @@
         <mark key="]" line="45" column="79" />
         <mark key="." line="45" column="79" />
         <mark key="^" line="45" column="79" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/link.sh" timestamp="1509040280531">
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="40" />
+        <mark key="." line="50" column="40" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498550490983">
         <mark key="[" line="29" column="0" />
@@ -1583,6 +1623,11 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/env-osx.sh" timestamp="1509013802099">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline_v1.py" timestamp="1498217463124">
         <mark key="'" line="42" column="3" />
@@ -1793,6 +1838,11 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/config.zsh" timestamp="1508963146481">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload-docker-image.sh" timestamp="1509724547745">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="34" />
@@ -1807,7 +1857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="46" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
       <jump line="68" column="135" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
       <jump line="65" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
       <jump line="2" column="2" filename="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" />
@@ -1898,7 +1947,6 @@
       <jump line="37" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="1" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="36" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="0" column="13" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="44" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="8" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
@@ -1907,10 +1955,12 @@
       <jump line="39" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="53" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="12" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" />
+      <jump line="43" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
@@ -1919,34 +1969,34 @@
         <text encoding="base64">ICAgIGZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKCclKGFzY3RpbWUpcyBbJShwcm9jZXNzTmFtZSktMTBzXSAlKGxldmVsbmFtZSktM3MgfCAlKG1lc3NhZ2UpcycpCiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBoYW5kbGVyX3N0cmVhbS5zZXRGb3JtYXR0ZXIoZm9ybWF0dGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2VyLmlzRW5hYmxlZEZvcigpCgo=</text>
+        <text encoding="base64">ZnJvbSBDb25maWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZGlyX25hbWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGluc3BlY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRvY2tlcl9pbWFnZV9uYW1lLAogICAgICAgICAgICAgICAgICAgICAgZGF0YXNldF92ZXJzaW9uLAo=</text>
+        <text encoding="base64">ICAgIERBVEFTRVRfVkVSU0lPTiA9IGNvbmZpZ1snZGF0YXNldCddWyd2ZXJzaW9uJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuc3VyZV9kaXJfZXhpc3RfYW5kX2VtcHR5KEpPQl9PVVRQVVRfRElSKQo=</text>
+        <text encoding="base64">ICAgIENvbmZpZyA9IENvbmZpZ1BhcnNlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBwcmQgaW4gcHJvZHVjdHM6Cg==</text>
+        <text encoding="base64">REFUQVNFVF9WRVJTSU9OID0gY29uZmlnWydkYXRhc2V0J11bJ3ZlcnNpb24nXQpET0NLRVJfSU1BR0VfTkFNRSA9ICdldS5nY3IuaW8vbmlmdHktcmVhbG0tMTEzL3ByZC1pbWctZGF0YXNldC1idWlsZGVyOjAuJyArIERBVEFTRVRfVkVSU0lPTgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRfZGlyID0gb3MucGF0aC5yZWFscGF0aChvcy5wYXRoLmFic3BhdGgob3MucGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkK</text>
+        <text encoding="base64">Y29uZmlnID0gQ29uZmlnT2JqKENPTkZJR19GSUxFKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRfZGlyID0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
