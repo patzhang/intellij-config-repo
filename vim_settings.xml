@@ -319,12 +319,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" timestamp="1509742154717">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="47" column="25" />
-        <mark key="." line="47" column="25" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" timestamp="1509743498435">
+        <mark key="'" line="47" column="26" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="52" column="61" />
+        <mark key="." line="51" column="40" />
+        <mark key="^" line="62" column="64" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" timestamp="1506616130441">
         <mark key="'" line="49" column="28" />
@@ -614,6 +614,14 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" timestamp="1509746331138">
+        <mark key="'" line="23" column="3" />
+        <mark key="j" line="28" column="10" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1501250114919">
         <mark key="[" line="5" column="60" />
         <mark key="]" line="5" column="62" />
@@ -626,11 +634,11 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_spec/config.ini" timestamp="1509741686576">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_spec/config.ini" timestamp="1509743362137">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1509738203717">
         <mark key="'" line="53" column="24" />
@@ -671,7 +679,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509729081051">
+      <file name="/Dummy.txt" timestamp="1509746151350">
         <mark key="'" line="0" column="0" />
         <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1857,13 +1865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="135" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
-      <jump line="65" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
-      <jump line="2" column="2" filename="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" />
-      <jump line="40" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
-      <jump line="22" column="30" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
-      <jump line="48" column="2" filename="$USER_HOME$/DL_Speech/voice-test-viewer/deploy.sh" />
       <jump line="5" column="9" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
       <jump line="15" column="0" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
       <jump line="25" column="47" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
@@ -1957,46 +1958,53 @@
       <jump line="12" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" />
       <jump line="43" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="9" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
+      <jump line="47" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
+      <jump line="4" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" />
+      <jump line="14" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" />
+      <jump line="18" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" />
+      <jump line="19" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" />
+      <jump line="21" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.</text>
+        <text>popen</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGZvcm1hdHRlciA9IGxvZ2dpbmcuRm9ybWF0dGVyKCclKGFzY3RpbWUpcyBbJShwcm9jZXNzTmFtZSktMTBzXSAlKGxldmVsbmFtZSktM3MgfCAlKG1lc3NhZ2UpcycpCiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MucnVuKFsnZ2Nsb3VkJywgJ2RvY2tlciAtLSBidWlsZCAtdCAnICsgZGtfaW1nX2Z1bGxfbmFtZV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLnN5c3RlbShkb2NrZXJfYnVpbGQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBDb25maWcK</text>
+        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MKCmNvbW1hbmQgPSAibnRwcSAtcCIgICMgdGhlIHNoZWxsIGNvbW1hbmQKcHJvY2VzcyA9IHN1YnByb2Nlc3MuUG9wZW4oY29tbWFuZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwgc3RkZXJyPXN1YnByb2Nlc3MuUElQRSwgc2hlbGw9VHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IENvbmZpZ1BhcnNlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERBVEFTRVRfVkVSU0lPTiA9IGNvbmZpZ1snZGF0YXNldCddWyd2ZXJzaW9uJ10K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENvbmZpZyA9IENvbmZpZ1BhcnNlcigpCg==</text>
+        <text encoding="base64">ICAgIGRhdGFzZXRfdmVyc2lvbiA9IGNvbmZpZy5nZXQoJ2RhdGFzZXQnLCAndmVyc2lvbicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REFUQVNFVF9WRVJTSU9OID0gY29uZmlnWydkYXRhc2V0J11bJ3ZlcnNpb24nXQpET0NLRVJfSU1BR0VfTkFNRSA9ICdldS5nY3IuaW8vbmlmdHktcmVhbG0tMTEzL3ByZC1pbWctZGF0YXNldC1idWlsZGVyOjAuJyArIERBVEFTRVRfVkVSU0lPTgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZmlnID0gQ29uZmlnT2JqKENPTkZJR19GSUxFKQo=</text>
+        <text encoding="base64">ICAgIGRrX2ltZ192ZXJzaW9uID0gJzAuJyArIGRhdGFzZXRfdmVyc2lvbgogICAgZGtfaW1nX25hbWUgPSAnOicuam9pbigoJ2V1Lmdjci5pby9uaWZ0eS1yZWFsbS0xMTMvcHJkLWltZy1kYXRhc2V0LWJ1aWxkZXInLCBka19pbWdfdmVyc2lvbikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZ3BhcnNlcgo=</text>
+        <text encoding="base64">bWFpbgo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
