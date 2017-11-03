@@ -336,10 +336,6 @@
         <mark key="." line="53" column="7" />
         <mark key="^" line="53" column="7" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/hooks/recent.post-checkout" timestamp="1509026073623">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="152" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" timestamp="1509725105937">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="32" />
@@ -363,6 +359,13 @@
         <mark key="]" line="2" column="9" />
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload_docker_image.py" timestamp="1509750539467">
+        <mark key="'" line="19" column="50" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509034557552">
         <mark key="[" line="56" column="0" />
@@ -412,13 +415,12 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" timestamp="1509746331138">
-        <mark key="'" line="23" column="3" />
-        <mark key="j" line="28" column="10" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" timestamp="1509750555906">
+        <mark key="'" line="20" column="3" />
+        <mark key="j" line="25" column="10" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1501250114919">
         <mark key="[" line="5" column="60" />
@@ -770,10 +772,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" timestamp="1509727111050">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/issues/issues.txt" timestamp="1508959199412">
         <mark key="[" line="1" column="0" />
@@ -1246,7 +1244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="47" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
       <jump line="11" column="66" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
       <jump line="30" column="24" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
       <jump line="4" column="25" filename="$USER_HOME$/training/prometheus-new/prometheus-workshop/docker-compose.yml" />
@@ -1346,46 +1343,48 @@
       <jump line="21" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" />
       <jump line="47" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="13" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="20" column="50" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload_docker_image.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>rc/</text>
+        <text encoding="base64">ICsgZGtfaW1nX2Z1bGxfbmFtZQ==</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09ORklHX0lOSSA9ICcuLi9kYXRhc2V0X3NwZWMvY29uZmlnLmluaScKUFJPRFVDVFNfSlNPTiA9ICcuLi9kYXRhc2V0X3NwZWMvcHJvZHVjdHMuanNvbicK</text>
+        <text encoding="base64">ICAgIGRvY2tlcl9idWlsZCA9ICdnY2xvdWQgZG9ja2VyIC0tIGJ1aWxkIC10IHt9IC4nLmZvcm1hdChka19pbWdfZnVsbF9uYW1lKQogICAgc3VicHJvY2Vzcy5jYWxsKGRvY2tlcl9idWlsZCwgc2hlbGw9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWdwYXJzZXIgaW1wb3J0IENvbmZpZ1BhcnNlcgoKQ09ORklHX0lOSSA9ICcuLi8uLi9kYXRhc2V0X3NwZWMvY29uZmlnLmluaScKUFJPRFVDVFNfSlNPTiA9ICcuLi8uLi9kYXRhc2V0X3NwZWMvcHJvZHVjdHMuanNvbicKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IENvbmZpZ1BhcnNlcigpCiAgICBjb25maWcucmVhZChDT05GSUdfSU5JKQogICAgZGF0YXNldF92ZXJzaW9uID0gY29uZmlnLmdldCgnZGF0YXNldCcsICd2ZXJzaW9uJykKCg==</text>
+        <text encoding="base64">ICAgICMgc3VicHJvY2Vzcy5ydW4oWydnY2xvdWQnLCAnZG9ja2VyIC0tIGJ1aWxkIC10ICcgKyBka19pbWdfZnVsbF9uYW1lXSkKICAgICMgc3VicHJvY2Vzcy5ydW4oWydnY2xvdWQgZG9ja2VyIC0tIGJ1aWxkJywgJy10ICcgKyBka19pbWdfZnVsbF9uYW1lXSkKICAgICMgZG9ja2VyX2J1aWxkID0gJ2djbG91ZCBkb2NrZXIgLS0gYnVpbGQgLXQgJyArIGRrX2ltZ19mdWxsX25hbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MucnVuKFsnZ2Nsb3VkJywgJ2RvY2tlcicsICctLScsICdidWlsZCcsICcgLXQgJyArIGRrX2ltZ19mdWxsX25hbWUgKyAnIC4uLyddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbImJhc2giXQoK</text>
+        <text encoding="base64">ICAgICNMYXVuY2ggdGhlIHNoZWxsIGNvbW1hbmQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">UlVOIGV4cG9yCg==</text>
+      <register name="6" type="4">
+        <text>_img_full_name])
+    docker_build = 'gcloud docker -- build -t {} .'.format</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9zLnN5c3RlbShkb2NrZXJfYnVpbGQpCg==</text>
+        <text encoding="base64">ICAgIHN1YnByb2Nlc3MucnVuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN1YnByb2Nlc3MKCmNvbW1hbmQgPSAibnRwcSAtcCIgICMgdGhlIHNoZWxsIGNvbW1hbmQKcHJvY2VzcyA9IHN1YnByb2Nlc3MuUG9wZW4oY29tbWFuZCwgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwgc3RkZXJyPXN1YnByb2Nlc3MuUElQRSwgc2hlbGw9VHJ1ZSkK</text>
+        <text encoding="base64">aW1wb3J0IGdvb2dsZS1jbG91ZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb25maWdwYXJzZXIgaW1wb3J0IENvbmZpZ1BhcnNlcgoKQ09ORklHX0lOSSA9ICcuLi8uLi9kYXRhc2V0X3NwZWMvY29uZmlnLmluaScKUFJPRFVDVFNfSlNPTiA9ICcuLi8uLi9kYXRhc2V0X3NwZWMvcHJvZHVjdHMuanNvbicKCg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
