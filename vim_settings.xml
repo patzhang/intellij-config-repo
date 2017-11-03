@@ -635,7 +635,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509649433665">
+      <file name="/Dummy.txt" timestamp="1509717501960">
         <mark key="'" line="0" column="0" />
         <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -722,6 +722,13 @@
         <mark key="]" line="94" column="21" />
         <mark key="." line="94" column="21" />
         <mark key="^" line="94" column="21" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_builder/main.py" timestamp="1509717646037">
+        <mark key="'" line="8" column="18" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="55" />
+        <mark key="." line="5" column="55" />
+        <mark key="^" line="5" column="55" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/cli.sh" timestamp="1508958044849">
         <mark key="[" line="6" column="0" />
@@ -1087,6 +1094,11 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/requirements.txt" timestamp="1509716772506">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/mandelbrot-set/display_fractal.py" timestamp="1487322748008">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="9" column="0" />
@@ -1234,6 +1246,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" timestamp="1509716724696">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
+        <mark key="^" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" timestamp="1505844243331">
         <mark key="'" line="1" column="0" />
@@ -1418,6 +1437,9 @@
         <mark key="]" line="45" column="58" />
         <mark key="^" line="45" column="57" />
         <mark key="." line="45" column="58" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/README.md" timestamp="1509716391449">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/alertmanager.yml" timestamp="1508417943181">
         <mark key="[" line="9" column="18" />
@@ -1778,12 +1800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/segmentation_filter.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
-      <jump line="395" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/main.py" />
-      <jump line="524" column="4" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
       <jump line="48" column="15" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
       <jump line="17" column="26" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
       <jump line="550" column="4" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
@@ -1878,13 +1894,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="94" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
       <jump line="12646" column="1" filename="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" />
+      <jump line="87" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
+      <jump line="132" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
+      <jump line="160" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
+      <jump line="31" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
+      <jump line="4" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>Graph</text>
+        <text>iml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxoND5Qcm9kdWN0IEltYWdlIERhdGFzZXQgdjIuMCAoMjQgU0tVcyBhbmQgMjAwMCBpbWFnZXMgZWFjaCwgNS4xIEdCKTwvaDQ+CiAgICBUaGlzIGRhdGFzZXQgaGFzIHR3byB0eXBlcyBvZiBpbWFnZXMuIFRoZSAucG5nIGZpbGUgaXMgY3JvcHBlZCBmcm9tIHRoZSBvcmlnaW5hbCAucG5nIGZpbGUuPGJyPgogICAgVGhlIC5qcGcgZmlsZSBpcyBnZW5lcmF0ZWQgYnkgYXBwbHlpbmcgYWRhcHRpdmUgaGlzdG9ncmFtIGVxdWFsaXphdGlvbiB0byBtYWtlIHRoZSBpbWFnZXMgYnJpZ2h0ZXIuPGJyPgogICAgVGhlIC5qcGcgZGF0YXNldCB3aWxsIGJlIHVzZWQgdG8gdHJhaW4gYSBtb2RlbCB0byByZWNvZ25pemUgdGhlIGJyaWdodCB3ZWJjYW0gaW1hZ2UgZGF0YXNldChiZWxvdykuPGJyPgoKICAgIDx1bD4KICAgICAgICA8bGk+Q2hhbmdlczwvbGk+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+QWRhcHRpdmUgSGlzdG9ncmFtIEVxdWFsaXphdGlvbihBSEUpIGhhcyBiZWVuIGFwcGxpZWQsIHNvIHRoZSBpbWFnZXMgaGF2ZSBhIGJldHRlciBjb250cmFzdCAobG9va3MgYnJpZ2h0ZXIpLjwvbGk+CiAgICAgICAgICAgIDxsaT5MdWthJ3Mgc2VnbWVudGF0aW9uIGFsZ29yaXRobSBoYXMgdXNlZCB0byBsb2NhdGUgdGhlIHByb2R1Y3QgYW5kIGZpbHRlciBvdXQgYmV0dGVyIGltYWdlcy48L2xpPgo=</text>
@@ -1896,41 +1918,41 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1bD4KICAgICAgICA8bGk+Q2hhbmdlczwvbGk+CiAgICAgICAgPHVsPgogICAgICAgICAgICA8bGk+QWRhcHRpdmUgSGlzdG9ncmFtIEVxdWFsaXphdGlvbihBSEUpIGhhcyBiZWVuIGFwcGxpZWQsIHNvIHRoZSBpbWFnZXMgaGF2ZSBhIGJldHRlciBjb250cmFzdCAobG9va3MgYnJpZ2h0ZXIpLjwvbGk+CiAgICAgICAgICAgIDxsaT5MdWthJ3Mgc2VnbWVudGF0aW9uIGFsZ29yaXRobSBoYXMgdXNlZCB0byBsb2NhdGUgdGhlIHByb2R1Y3QgYW5kIGZpbHRlciBvdXQgYmV0dGVyIGltYWdlcy48L2xpPgo=</text>
+        <text encoding="base64">bWFpbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRoaXMgZGF0YXNldCBoYXMgdHdvIHR5cGVzIG9mIGltYWdlcy4gVGhlIC5wbmcgZmlsZSBpcyBjcm9wcGVkIGZyb20gdGhlIG9yaWdpbmFsIC5wbmcgZmlsZS48YnI+CiAgICBUaGUgLmpwZyBmaWxlIGlzIGdlbmVyYXRlZCBieSBhcHBseWluZyBhZGFwdGl2ZSBoaXN0b2dyYW0gZXF1YWxpemF0aW9uIHRvIG1ha2UgdGhlIGltYWdlcyBicmlnaHRlci48YnI+CiAgICBUaGUgLmpwZyBkYXRhc2V0IHdpbGwgYmUgdXNlZCB0byB0cmFpbiBhIG1vZGVsIHRvIHJlY29nbml6ZSB0aGUgYnJpZ2h0IHdlYmNhbSBpbWFnZSBkYXRhc2V0KGJlbG93KS48YnI+Cg==</text>
+        <text encoding="base64">am9ibGliPT0wLjExCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGltZ19yZXNpemVkX2FoZSA9IGN2Mi5yZXNpemUoaW1nX2ZsdF9haGUsIGRpbWVuc2lvbiwgaW50ZXJwb2xhdGlvbj1jdjIuSU5URVJfQVJFQSkKICAgICAgICAgICAgb3V0cHV0X2pwZyA9IHBhdGguam9pbihvdXRwdXRfZGlyLCBwYXRoLmJhc2VuYW1lKGltYWdlMSkucmVwbGFjZSgncG5nJywgJ2pwZycpKQogICAgICAgICAgICBjdjIuaW13cml0ZShvdXRwdXRfanBnLCBpbWdfcmVzaXplZF9haGUpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Z29vZ2xlLWNsb3VkLXN0b3JhZ2U9PTAuMjIuMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0X3BuZyA9IHBhdGguam9pbihvdXRwdXRfZGlyLCBwYXRoLmJhc2VuYW1lKGltYWdlMSkpCg==</text>
+        <text encoding="base64">bnVtcHk9PTEuMTIuMApzY2lweT09MC4xOS4xCnNjaWtpdC1pbWFnZT09MC4xMy4xCm1hdHBsb3RsaWI9PTIuMC4wCnBpbGxvdz09NC4xLjEKb3BlbmN2LXB5dGhvbj09My4yLjAuNgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlICAgIyBpZ25vcmUgdGhpcyBmaWxlIGFuZCBjb250aW51ZQo=</text>
+        <text encoding="base64">bWFpbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdJZ25vcmVkIGltYWdlIHt9IGZvciBiYXJjb2RlIHt9IGFuZCBjb250aW51ZSAuLi4nLmZvcm1hdChibG9iX2IsIGJhcmNvZGUpKQo=</text>
+        <text encoding="base64">IyBKZXRCcmFpbnMgdG9vbHMKLmlkZWEvCiouaW1sCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRvd25sb2FkIHt9IGZyb20gR0NTIGFmdGVyIHJldHJpZXMhJy5mb3JtYXQoYmxvYl9iKSkK</text>
+        <text encoding="base64">cHJvZHVjdC1pbWFnZS1kYXRhc2V0LWdjLmltbHUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4aXQgMAo=</text>
+        <text encoding="base64">IyBKZXRCcmFpbnMK</text>
       </register>
       <register name=":" type="4">
-        <text>110</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>Graph</last-search>
+      <last-search>iml</last-search>
       <last-offset />
-      <last-pattern>Graph</last-pattern>
+      <last-pattern>iml</last-pattern>
       <last-replace />
       <last-substitute>-g</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1954,6 +1976,7 @@
         <entry>configenv</entry>
         <entry>localrc</entry>
         <entry>Graph</entry>
+        <entry>iml</entry>
       </history-search>
       <history-cmd>
         <entry>vmap</entry>
@@ -1976,6 +1999,8 @@
         <entry>only</entry>
         <entry>%s/-g//gc</entry>
         <entry>110</entry>
+        <entry>vsp</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
