@@ -272,11 +272,11 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.barcode-dataset-builder.yaml" timestamp="1509726130088">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.barcode-dataset-builder.yaml" timestamp="1509727116698">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="26" />
         <mark key="^" line="3" column="29" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/setup.py" timestamp="1487860699776">
         <mark key="[" line="2" column="0" />
@@ -466,6 +466,10 @@
         <mark key="]" line="53" column="7" />
         <mark key="." line="53" column="7" />
         <mark key="^" line="53" column="7" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/hooks/recent.post-checkout" timestamp="1509026073623">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="152" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" timestamp="1509725105937">
         <mark key="[" line="21" column="20" />
@@ -1132,6 +1136,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" timestamp="1509727111050">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1507734636753">
         <mark key="'" line="5" column="21" />
@@ -1941,15 +1949,24 @@
         <text>iml</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldF9wYXJhbShuYW1lLCBkZWZhdWx0LCB0eXBlKToKICAgIHJldHVybiB0eXBlKG9zLmVudmlyb25bbmFtZV0pIGlmIG5hbWUgaW4gb3MuZW52aXJvbiBlbHNlIGRlZmF1bHQK</text>
+        <text encoding="base64">ICAgICAgcmVzdGFydFBvbGljeTogTmV2ZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsdWU6ICIzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleToga2V5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogR09PR0xFX0FQUExJQ0FUSU9OX0NSRURFTlRJQUxTCiAgICAgICAgICAgIHZhbHVlOiAvZXRjLzEweC9zZXJ2aWNlLmpzb24KICAgICAgICAgIC0gbmFtZTogT0NBRE9MQUJTX0tFWQogICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgc2VjcmV0S2V5UmVmOgogICAgICAgICAgICAgICAgbmFtZTogb2NhZG9sYWJzLWtleQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogR09PR0xFX0FQUExJQ0FUSU9OX0NSRURFTlRJQUxTCiAgICAgICAgICAgIHZhbHVlOiAvZXRjLzEweC9zZXJ2aWNlLmpzb24KICAgICAgICAgIC0gbmFtZTogT0NBRE9MQUJTX0tFWQogICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgc2VjcmV0S2V5UmVmOgogICAgICAgICAgICAgICAgbmFtZTogb2NhZG9sYWJzLWtleQogICAgICAgICAgICAgICAga2V5OiBrZXkKICAgICAgICAgIC0gbmFtZTogREFUQVNFVF9WRVJTSU9OCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFsdWU6ICIzIgo=</text>
+      </register>
+      <register name="5" type="4">
         <text>- name: USE_AUGMENTATION
             value: &quot;True&quot;
           - name: TRAIN_PROPORTION
@@ -1965,10 +1982,10 @@
           - name: FILTER_SIZE
             v</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2b2x1bWVNb3VudGF0aDogL2hvbWUvMTB4LWRhdGFzZXRzCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>s:
           - name: nvidia
             mountPath: /usr/local/nvidia
@@ -1989,20 +2006,11 @@
           hostPath:
             p</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXNvdXJjZXM6CiAgICAgICAgICBsaW1pdHM6CiAgICAgICAgICAgIGFscGhhLmt1YmVybmV0ZXMuaW8vbnZpZGlhLWdwdTogMQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaG9zdE5ldHdvcms6IHRydWUKICAgICAgcmVzdGFydFBvbGljeTogTmV2ZXIKICAgICAgaW1hZ2VQdWxsU2VjcmV0czoKICAgICAgICAtIG5hbWU6IG5pZnR5LXJlYWxtLTExMy1yZWdpc3RyeS1rZXkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Q01EIHB5dGhvbiAtdSBtYWluLnB5Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bWFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgaG9zdE5ldHdvcms6IHRydWUKICAgICAgcmVzdGFydFBvbGljeTogTmV2ZXIKICAgICAgaW1hZ2VQdWxsU2VjcmV0czoKICAgICAgICAtIG5hbWU6IG5pZnR5LXJlYWxtLTExMy1yZWdpc3RyeS1rZXkK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
