@@ -15,6 +15,9 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="/a.dummy" timestamp="1509731582336">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
         <mark key="'" line="65" column="4" />
         <mark key="[" line="8" column="3" />
@@ -234,12 +237,6 @@
         <mark key="." line="34" column="5" />
         <mark key="^" line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.powerlevel9k" timestamp="1509012537463">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="194" column="23" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_opencv.py" timestamp="1495552143413">
         <mark key="'" line="35" column="12" />
         <mark key="[" line="11" column="0" />
@@ -321,6 +318,13 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="50" column="3" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" timestamp="1509731917300">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/job.template.yaml" timestamp="1506616130441">
         <mark key="'" line="49" column="28" />
@@ -610,12 +614,6 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env.sh" timestamp="1509021322839">
-        <mark key="'" line="57" column="11" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/dataset/readme.txt" timestamp="1501250114919">
         <mark key="[" line="5" column="60" />
         <mark key="]" line="5" column="62" />
@@ -728,12 +726,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" timestamp="1509641532027">
-        <mark key="'" line="12646" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
         <mark key="[" line="6" column="7" />
@@ -976,6 +968,9 @@
         <mark key="^" line="7" column="78" />
         <mark key="." line="7" column="78" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/expand_job_templates.py" timestamp="1509731718178">
+        <mark key="'" line="47" column="4" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/main/prd_img_cnn/train-cnn-for-color-image.py" timestamp="1496667158719">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="215" column="0" />
@@ -1068,12 +1063,6 @@
         <mark key="]" line="3" column="23" />
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
-      </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/env.sh" timestamp="1509012461815">
-        <mark key="'" line="66" column="40" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/oh-my-zsh.sh" timestamp="1508970758749">
         <mark key="[" line="11" column="2" />
@@ -1295,8 +1284,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" timestamp="1509716724696">
-        <mark key="'" line="31" column="4" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" timestamp="1509731885849">
+        <mark key="'" line="2" column="45" />
         <mark key="[" line="30" column="5" />
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
@@ -1691,6 +1680,9 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/pliny/src/frontend/components/graph/index.js" timestamp="1509539174798">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/tests/context.py" timestamp="1487804476643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="28" column="11" />
@@ -1852,10 +1844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="526" column="29" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
-      <jump line="531" column="18" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
-      <jump line="541" column="39" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
-      <jump line="525" column="24" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
       <jump line="506" column="31" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
       <jump line="537" column="49" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
       <jump line="539" column="0" filename="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" />
@@ -1944,7 +1932,6 @@
       <jump line="94" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
       <jump line="12646" column="1" filename="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" />
       <jump line="87" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
       <jump line="132" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
       <jump line="160" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
       <jump line="31" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
@@ -1952,13 +1939,18 @@
       <jump line="34" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" />
       <jump line="20" column="10" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" />
       <jump line="7" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_builder/main.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/expand_job_templates.py" />
+      <jump line="1" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
+      <jump line="62" column="6" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
+      <jump line="2" column="45" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>iml</text>
+        <text>output</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcmVzdGFydFBvbGljeTogTmV2ZXIK</text>
@@ -2029,9 +2021,9 @@
       </register>
     </registers>
     <search>
-      <last-search>iml</last-search>
+      <last-search>output</last-search>
       <last-offset />
-      <last-pattern>iml</last-pattern>
+      <last-pattern>output</last-pattern>
       <last-replace />
       <last-substitute>-g</last-substitute>
       <last-dir>1</last-dir>
@@ -2060,6 +2052,7 @@
         <entry>localrc</entry>
         <entry>Graph</entry>
         <entry>iml</entry>
+        <entry>output</entry>
       </history-search>
       <history-cmd>
         <entry>vmap</entry>
