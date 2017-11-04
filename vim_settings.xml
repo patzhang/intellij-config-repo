@@ -537,12 +537,16 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload_docker_image.py" timestamp="1509753139698">
-        <mark key="'" line="19" column="50" />
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="49" />
-        <mark key="." line="17" column="49" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload_docker_image.py" timestamp="1509755232295">
+        <mark key="'" line="15" column="50" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="16" column="35" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" timestamp="1509725297477">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="67" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1507064909288">
         <mark key="'" line="89" column="0" />
@@ -652,11 +656,11 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_spec/config.ini" timestamp="1509743362137">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_spec/config.ini" timestamp="1509754706289">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1509738203717">
         <mark key="'" line="53" column="24" />
@@ -696,13 +700,6 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1509746151350">
-        <mark key="'" line="0" column="0" />
-        <mark key="i" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/python/install/pip-install.sh" timestamp="1507056021294">
         <mark key="[" line="2" column="40" />
@@ -1165,10 +1162,10 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/requirements.txt" timestamp="1509741186883">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/requirements.txt" timestamp="1509755785760">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/mandelbrot-set/display_fractal.py" timestamp="1487322748008">
         <mark key="[" line="24" column="4" />
@@ -1550,6 +1547,11 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/build_docker_image.py" timestamp="1509755222106">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/main.py" timestamp="1490715442785">
         <mark key="'" line="18" column="44" />
         <mark key="[" line="0" column="0" />
@@ -1588,6 +1590,10 @@
         <mark key="]" line="23" column="22" />
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" timestamp="1509755777896">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/requirements.txt" timestamp="1488224668716">
         <mark key="[" line="2" column="0" />
@@ -1860,6 +1866,12 @@
         <mark key="." line="40" column="8" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitlab-ci.yml" timestamp="1509755703760">
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="48" column="13" />
+        <mark key="." line="48" column="13" />
+        <mark key="^" line="48" column="13" />
+      </file>
       <file name="$USER_HOME$/WorkspacesDart/meal_planner/lib/Ingredient.dart" timestamp="1501769471481">
         <mark key="[" line="7" column="2" />
         <mark key="]" line="7" column="7" />
@@ -2007,43 +2019,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>.%f</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lc3RhbXBfbm93XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUgYXMgZHQK</text>
+        <text encoding="base64">bnVtcHk9PTEuMTIuMApzY2lweT09MC4xOS4xCnNjaWtpdC1pbWFnZT09MC4xMy4xCm1hdHBsb3RsaWI9PTIuMC4wCnBpbGxvdz09NC4xLjEKb3BlbmN2LXB5dGhvbj09My4yLjAuNgpnb29nbGUtY2xvdWQtc3RvcmFnZT09MC4yMi4wCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lIGFzIGR0Cg==</text>
+        <text encoding="base64">Z29vZ2xlLWNsb3VkLXN0b3JhZ2U9PTAuMjIuMAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBub3cgPSBkdC5ub3coKQoK</text>
+        <text encoding="base64">CiAgICBwcmludCgnXG5idWlsZGluZyBkb2NrZXIgaW1hZ2U6IHt9Jy5mb3JtYXQoZGtfaW1nX2Z1bGxfbmFtZSkpCiAgICBidWlsZF9pbWFnZSA9ICdnY2xvdWQgZG9ja2VyIC0tIGJ1aWxkIC10IHt9IC4vJy5mb3JtYXQoZGtfaW1nX2Z1bGxfbmFtZSkKICAgIHN1YnByb2Nlc3MuY2FsbChidWlsZF9pbWFnZSwgc2hlbGw9VHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CkNPTkZJR19JTkkgPSAnLi4vZGF0YXNldF9zcGVjL2NvbmZpZy5pbmknCg==</text>
+        <text encoding="base64">CiAgICBwcmludCgnXG51cGxvYWRpbmcgZG9ja2VyIGltYWdlOiB7fScuZm9ybWF0KGRrX2ltZ19mdWxsX25hbWUpKQogICAgdXBsb2FkX2ltYWdlID0gJ2djbG91ZCBkb2NrZXIgLS0gcHVzaCB7fScuZm9ybWF0KGRrX2ltZ19mdWxsX25hbWUpCiAgICBzdWJwcm9jZXNzLmNhbGwodXBsb2FkX2ltYWdlLCBzaGVsbD1UcnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmZyb20gY29uZmlncGFyc2VyIGltcG9ydCBDb25maWdQYXJzZXIK</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdcbnJlYWRpbmcgY29uZmlndXJhdGlvbiBmaWxlIHt9Jy5mb3JtYXQoQ09ORklHX0lOSSkpCiAgICBjb25maWcgPSBDb25maWdQYXJzZXIoKQogICAgY29uZmlnLnJlYWQoQ09ORklHX0lOSSkKICAgIGRrX2ltZ19uYW1lID0gY29uZmlnLmdldCgnZG9ja2VyLWltYWdlJywgJ25hbWUnKQogICAgZGtfaW1nX3ZlcnNpb24gPSBjb25maWcuZ2V0KCdkb2NrZXItaW1hZ2UnLCAndmVyc2lvbicpCiAgICBka19pbWdfZnVsbF9uYW1lID0gJzonLmpvaW4oKGRrX2ltZ19uYW1lLCBka19pbWdfdmVyc2lvbikpCgogICAgcHJpbnQoJ1xuYnVpbGRpbmcgZG9ja2VyIGltYWdlIHt9Jy5mb3JtYXQoZGtfaW1nX2Z1bGxfbmFtZSkpCiAgICBidWlsZF9pbWFnZSA9ICdnY2xvdWQgZG9ja2VyIC0tIGJ1aWxkIC10IHt9IC4uLycuZm9ybWF0KGRrX2ltZ19mdWxsX25hbWUpCiAgICBzdWJwcm9jZXNzLmNhbGwoYnVpbGRfaW1hZ2UsIHNoZWxsPVRydWUpCgogICAgcHJpbnQoJ1xudXBsb2FkaW5nIGRvY2tlciBpbWFnZSB7fScuZm9ybWF0KGRrX2ltZ19mdWxsX25hbWUpKQogICAgdXBsb2FkX2ltYWdlID0gJ2djbG91ZCBkb2NrZXIgLS0gcHVzaCB7fScuZm9ybWF0KGRrX2ltZ19mdWxsX25hbWUpCiAgICBzdWJwcm9jZXNzLmNhbGwodXBsb2FkX2ltYWdlLCBzaGVsbD1UcnVlKQoK</text>
+        <text encoding="base64">ICAgIC0gcHl0aG9uIC4va3ViZXJuZXRlcy9qb2JzL2dlbmVyYXRlX2pvYnMucHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzaGxleAo=</text>
+        <text encoding="base64">ICAgIC0gbWFrZSBib290c3RyYXAKICAgIC0gbWFrZSB0ZXN0CiAgICAtIG1ha2UgY292ZXJhZ2UKICAgIC0gbWFrZSBidWlsZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKICAgICMgYXJncyA9IHNobGV4LnNwbGl0KGRvY2tlcl9idWlsZCkKICAgICMgcHJvY2VzcyA9IHN1YnByb2Nlc3MuUG9wZW4oYXJncywgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwgc3RkZXJyPXN1YnByb2Nlc3MuUElQRSwgc2hlbGw9VHJ1ZSkKICAgICMKICAgICMgI0xhdW5jaCB0aGUgc2hlbGwgY29tbWFuZDoKICAgICMgb3V0cHV0LCBlcnJvciA9IHByb2Nlc3MuY29tbXVuaWNhdGUoKQogICAgIwogICAgIyBwcmludChvdXRwdXQpCiAgICAjIHByaW50KGVycm9yKQo=</text>
+        <text encoding="base64">ICBleGNlcHQ6CiAgICAtIG1hc3Rlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRvY2tlcl9idWlsZCA9ICdnY2xvdWQgZG9ja2VyIC0tIGJ1aWxkIC10IHt9IC4nLmZvcm1hdChka19pbWdfZnVsbF9uYW1lKQo=</text>
+        <text encoding="base64">ICAtIG1ha2UgYm9vdHN0cmFwCiAgLSBtYWtlIHRlc3QKICAtIG1ha2UgY292ZXJhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lIGFzIGR0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
