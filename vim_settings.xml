@@ -1700,12 +1700,12 @@
         <mark key="." line="37" column="49" />
         <mark key="^" line="37" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1509987651865">
-        <mark key="'" line="8" column="7" />
-        <mark key="[" line="91" column="48" />
-        <mark key="]" line="91" column="48" />
-        <mark key="." line="91" column="48" />
-        <mark key="^" line="91" column="48" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1509988450799">
+        <mark key="'" line="508" column="7" />
+        <mark key="[" line="426" column="56" />
+        <mark key="]" line="426" column="71" />
+        <mark key="." line="426" column="71" />
+        <mark key="^" line="426" column="71" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/logs/Readme.txt" timestamp="1485205226139">
         <mark key="[" line="0" column="47" />
@@ -1924,21 +1924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="2" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/README.md" />
-      <jump line="109" column="97" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/aliases.zsh" />
-      <jump line="5" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/aliases.zsh" />
-      <jump line="16" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/git.zsh" />
-      <jump line="0" column="15" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
-      <jump line="1" column="14" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
-      <jump line="238" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
-      <jump line="22" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
-      <jump line="19" column="24" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
-      <jump line="2" column="6" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
-      <jump line="37" column="9" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
-      <jump line="24" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
-      <jump line="0" column="8" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
-      <jump line="46" column="26" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
-      <jump line="50" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" />
       <jump line="19" column="13" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
       <jump line="6" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
       <jump line="10" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.powerlevel9k" />
@@ -2024,55 +2009,70 @@
       <jump line="545" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="8" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="261" column="69" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="544" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="53" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="54" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="55" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="58" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="59" column="56" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="65" column="32" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="68" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="69" column="35" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="129" column="93" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="137" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="408" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="509" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>image-</text>
+        <text>GCS</text>
       </register>
       <register name="/" type="4">
-        <text>socket</text>
+        <text>order</text>
       </register>
-      <register name="0" type="4">
-        <text>dataset_version.split('.')[0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByb2R1Y3RfanNvbiA9IGNvcHlfZmlsZV90b19kYXRhc2V0KFBST0RVQ1RfSlNPTiwgZGF0YXNldF9jb2RlX2RpciwgUFJPRFVDVF9KU09OLCBESVJfREFUQVNFVF9EQVRBKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUmVhZG1lLnR4dCBmaWxlIGRvZXMgbm90IGV4aXN0IGluIHt9Jy5mb3JtYXQodGFyZ2V0X2RhdGFzZXQpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUmVhZG1lLnR4dCBmaWxlIGRvZXMgbm90IGV4aXN0IGluIHt9Jy5mb3JtYXQodGFyZ2V0X2RhdGFzZXQpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUyA9IDIwMDAgICAgIyB0aGUgdG90YWwgaW1hZ2VzIHBlciBiYXJjb2RlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ19sZXZlbCA9IGxvZ2dpbmcuREVCVUcK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">UFJPRFVDVF9KU09OX1ZFUiA9IERBVEFTRVRfVkVSU0lPTl9NQUpPUiArICItIiArIFBST0RVQ1RfSlNPTgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRhdGFzZXRfdmVyc2lvbiA9IGdldF9wYXJhbSgnREFUQVNFVF9WRVJTSU9OJywgc3RyKQogICAgYmFyY29kZSA9IGdldF9wYXJhbSgnQkFSQ09ERScsIHN0cikKCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YXNldF92ZXJzaW9uID0gZ2V0X3BhcmFtKCdEQVRBU0VUX1ZFUlNJT04nLCBzdHIpClRPVEFMX0lNQUdFUyA9IGdldF9wYXJhbSgnSU1HLVBFUi1TS1UnLCBpbnQpCmJhcmNvZGUgPSBnZXRfcGFyYW0oJ0JBUkNPREUnLCBzdHIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TE9DQUxfUlVOID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUyA9IDIwMDAgICAgIyB0aGUgdG90YWwgaW1hZ2VzIHBlciBiYXJjb2RlCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>socket</last-search>
+      <last-search>order</last-search>
       <last-offset />
-      <last-pattern>socket</last-pattern>
+      <last-pattern>order</last-pattern>
       <last-replace />
       <last-substitute>-g</last-substitute>
       <last-dir>1</last-dir>
@@ -2108,6 +2108,9 @@
         <entry encoding="base64">XDxVUExPQURfVE9fR0NTXD4=</entry>
         <entry>main()</entry>
         <entry>socket</entry>
+        <entry>_m</entry>
+        <entry>m_</entry>
+        <entry>order</entry>
       </history-search>
       <history-cmd>
         <entry>vmap</entry>
