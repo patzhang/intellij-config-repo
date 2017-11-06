@@ -662,10 +662,10 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1509738203717">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1509985884798">
         <mark key="'" line="53" column="24" />
-        <mark key="[" line="53" column="24" />
-        <mark key="]" line="53" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="43" />
         <mark key="^" line="53" column="22" />
         <mark key="." line="53" column="24" />
       </file>
@@ -1694,10 +1694,12 @@
         <mark key="." line="37" column="49" />
         <mark key="^" line="37" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1509748907724">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1509985914800">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/logs/Readme.txt" timestamp="1485205226139">
         <mark key="[" line="0" column="47" />
@@ -1866,11 +1868,11 @@
         <mark key="." line="40" column="8" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitlab-ci.yml" timestamp="1509755703760">
-        <mark key="[" line="48" column="9" />
-        <mark key="]" line="48" column="13" />
-        <mark key="." line="48" column="13" />
-        <mark key="^" line="48" column="13" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitlab-ci.yml" timestamp="1509985399290">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="47" column="12" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/meal_planner/lib/Ingredient.dart" timestamp="1501769471481">
         <mark key="[" line="7" column="2" />
@@ -1916,7 +1918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="14" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/config/nvim/init.vim" />
       <jump line="269" column="14" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/config/nvim/init.vim" />
       <jump line="38" column="12" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/config/nvim/init.vim" />
       <jump line="39" column="10" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/config/nvim/init.vim" />
@@ -2016,46 +2017,47 @@
       <jump line="14" column="36" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="203" column="20" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="63" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>test</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lc3RhbXBfbm93XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bnVtcHk9PTEuMTIuMApzY2lweT09MC4xOS4xCnNjaWtpdC1pbWFnZT09MC4xMy4xCm1hdHBsb3RsaWI9PTIuMC4wCnBpbGxvdz09NC4xLjEKb3BlbmN2LXB5dGhvbj09My4yLjAuNgpnb29nbGUtY2xvdWQtc3RvcmFnZT09MC4yMi4wCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCgppbXBvcnQganNvbgppbXBvcnQgbG9nZ2luZwppbXBvcnQgb3MKaW1wb3J0IHN5cwppbXBvcnQgY3YyCmltcG9ydCBpbnNwZWN0CmltcG9ydCBzb2NrZXQKaW1wb3J0IHRpbWUKaW1wb3J0IHNodXRpbAoKZnJvbSBvcyBpbXBvcnQgcGF0aApmcm9tIGRhdGV0aW1lIGltcG9ydCB0aW1lZGVsdGEsIGRhdGV0aW1lCmZyb20gZ29vZ2xlLmNsb3VkIGltcG9ydCBzdG9yYWdlCmZyb20gZ29vZ2xlLmNsb3VkLmV4Y2VwdGlvbnMgaW1wb3J0IE5vdEZvdW5kCmZyb20gZ29vZ2xlLmNsb3VkLnN0b3JhZ2UgaW1wb3J0IEJsb2IKZnJvbSBqb2JsaWIgaW1wb3J0IFBhcmFsbGVsLCBkZWxheWVkCgpmcm9tIHNlZ21lbnRhdGlvbl9maWx0ZXIgaW1wb3J0IFNlZ21lbnRhdGlvbkZpbHRlcgpmcm9tIHV0aWxzLm9zX3V0aWwgaW1wb3J0IGFzc3VyZV9kaXJfZXhpc3RpbmdfYW5kX2VtcHR5LCBhc3N1cmVfZGlyX2V4aXN0aW5nLCBtYWtlX3RhcmZpbGUKZnJvbSB1dGlscy5sb2dnaW5nX3V0aWwgaW1wb3J0IHNldHVwX2xvZ2dpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z29vZ2xlLWNsb3VkLXN0b3JhZ2U9PTAuMjIuMAo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHNvY2tldAoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcmludCgnXG5idWlsZGluZyBkb2NrZXIgaW1hZ2U6IHt9Jy5mb3JtYXQoZGtfaW1nX2Z1bGxfbmFtZSkpCiAgICBidWlsZF9pbWFnZSA9ICdnY2xvdWQgZG9ja2VyIC0tIGJ1aWxkIC10IHt9IC4vJy5mb3JtYXQoZGtfaW1nX2Z1bGxfbmFtZSkKICAgIHN1YnByb2Nlc3MuY2FsbChidWlsZF9pbWFnZSwgc2hlbGw9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIC0gcHl0aG9uIGJ1aWxkX2RvY2tlcl9pbWFnZS5weQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcmludCgnXG51cGxvYWRpbmcgZG9ja2VyIGltYWdlOiB7fScuZm9ybWF0KGRrX2ltZ19mdWxsX25hbWUpKQogICAgdXBsb2FkX2ltYWdlID0gJ2djbG91ZCBkb2NrZXIgLS0gcHVzaCB7fScuZm9ybWF0KGRrX2ltZ19mdWxsX25hbWUpCiAgICBzdWJwcm9jZXNzLmNhbGwodXBsb2FkX2ltYWdlLCBzaGVsbD1UcnVlKQo=</text>
+        <text encoding="base64">Z29vZ2xlLWNsb3VkLXN0b3JhZ2U9PTAuMjIuMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">CiAgICBwcmludCgnXG5idWlsZGluZyBkb2NrZXIgaW1hZ2U6IHt9Jy5mb3JtYXQoZGtfaW1nX2Z1bGxfbmFtZSkpCiAgICBidWlsZF9pbWFnZSA9ICdnY2xvdWQgZG9ja2VyIC0tIGJ1aWxkIC10IHt9IC4vJy5mb3JtYXQoZGtfaW1nX2Z1bGxfbmFtZSkKICAgIHN1YnByb2Nlc3MuY2FsbChidWlsZF9pbWFnZSwgc2hlbGw9VHJ1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gcHl0aG9uIC4va3ViZXJuZXRlcy9qb2JzL2dlbmVyYXRlX2pvYnMucHkK</text>
+        <text encoding="base64">CiAgICBwcmludCgnXG51cGxvYWRpbmcgZG9ja2VyIGltYWdlOiB7fScuZm9ybWF0KGRrX2ltZ19mdWxsX25hbWUpKQogICAgdXBsb2FkX2ltYWdlID0gJ2djbG91ZCBkb2NrZXIgLS0gcHVzaCB7fScuZm9ybWF0KGRrX2ltZ19mdWxsX25hbWUpCiAgICBzdWJwcm9jZXNzLmNhbGwodXBsb2FkX2ltYWdlLCBzaGVsbD1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbWFrZSBib290c3RyYXAKICAgIC0gbWFrZSB0ZXN0CiAgICAtIG1ha2UgY292ZXJhZ2UKICAgIC0gbWFrZSBidWlsZAo=</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleGNlcHQ6CiAgICAtIG1hc3Rlcgo=</text>
+        <text encoding="base64">ICAgIC0gcHl0aG9uIC4va3ViZXJuZXRlcy9qb2JzL2dlbmVyYXRlX2pvYnMucHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIG1ha2UgYm9vdHN0cmFwCiAgLSBtYWtlIHRlc3QKICAtIG1ha2UgY292ZXJhZ2UK</text>
+        <text encoding="base64">ICAgIC0gbWFrZSBib290c3RyYXAKICAgIC0gbWFrZSB0ZXN0CiAgICAtIG1ha2UgY292ZXJhZ2UKICAgIC0gbWFrZSBidWlsZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lIGFzIGR0Cg==</text>
+        <text encoding="base64">ICBleGNlcHQ6CiAgICAtIG1hc3Rlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
