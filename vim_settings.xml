@@ -115,9 +115,9 @@
         <mark key="." line="20" column="15" />
         <mark key="^" line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/setup-gcs-account.sh" timestamp="1510059081002">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/setup-gcs-account.sh" timestamp="1510063993506">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="11" column="52" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
       </file>
@@ -532,11 +532,11 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" timestamp="1510059280148">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="40" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" timestamp="1510064216136">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="8" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" timestamp="1507633225808">
         <mark key="'" line="532" column="13" />
@@ -2051,43 +2051,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>$PATH:</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>export PATH=$PATH:/root/google-cloud-sdk/bin</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBzZXQgdXAgR29vZ2xlIGNsb3VkIGF1dGhvcml6YXRpb24KZXhwb3J0IEFQUF9ESVI9J2RhdGFzZXRfYnVpbGRlcicKZXhwb3J0IFpPTkU9ImV1cm9wZS13ZXN0MS1kIgpleHBvcnQgUFJPSkVDVD0icHJvZHVjdC1kZXRlY3Rpb24tMTYwMzE0IgpleHBvcnQgR09PR0xFX0FQUExJQ0FUSU9OX0NSRURFTlRJQUxTPS4vLmdjbG91ZC1rZXkKCmdjbG91ZCBhdXRoIGFjdGl2YXRlLXNlcnZpY2UtYWNjb3VudCAtLWtleS1maWxlIC4vLmdjbG91ZC1rZXkKZ2Nsb3VkIGNvbmZpZyBzZXQgY29tcHV0ZS96b25lICR7Wk9ORX0KZ2Nsb3VkIGNvbmZpZyBzZXQgcHJvamVjdCAke1BST0pFQ1R9CmVjaG8gIkZpbmlzaGVkIHNldHRpbmcgdXAgR29vbGdlIGNsb3VkIGF1dGhvcml6YXRpb24iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIGV4cG9ydCBQQVRIPQo=</text>
+        <text encoding="base64">ZXhwb3J0IEFQUF9ESVI9J2RhdGFzZXRfYnVpbGRlcicK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC0tdXBncmFkZSBwaXAgJiYgXAogICAgcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q09QWSAuZ2Nsb3VkICRBUFBfRElSCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">RU5WIFBBVEggL3Jvb3QvZ29vZ2xlLWNsb3VkLXNkay9iaW46JFBBVEgK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">V09SS0RJUiAkQVBQX0RJUgo=</text>
+        <text encoding="base64">UlVOIGV4cG9ydCBQQVRIPQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAuZ2Nsb3VkICRBUFBfRElSCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q09QWSBzcmMvZGF0YXNldF9idWlsZGVyLyAkQVBQX0RJUgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I0ZST00gcHl0aG9uOjMuNi4zLXNsaW0K</text>
+        <text encoding="base64">V09SS0RJUiAkQVBQX0RJUgo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
