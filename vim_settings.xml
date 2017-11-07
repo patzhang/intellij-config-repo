@@ -1700,12 +1700,12 @@
         <mark key="." line="37" column="49" />
         <mark key="^" line="37" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1509988450799">
-        <mark key="'" line="508" column="7" />
-        <mark key="[" line="426" column="56" />
-        <mark key="]" line="426" column="71" />
-        <mark key="." line="426" column="71" />
-        <mark key="^" line="426" column="71" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1510049087350">
+        <mark key="'" line="498" column="89" />
+        <mark key="[" line="535" column="4" />
+        <mark key="]" line="535" column="12" />
+        <mark key="." line="535" column="12" />
+        <mark key="^" line="535" column="12" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/logs/Readme.txt" timestamp="1485205226139">
         <mark key="[" line="0" column="47" />
@@ -1924,7 +1924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
       <jump line="6" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
       <jump line="10" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.powerlevel9k" />
       <jump line="78" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
@@ -2024,10 +2023,11 @@
       <jump line="137" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="408" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="509" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="498" column="89" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>GCS</text>
+        <text>name_</text>
       </register>
       <register name="/" type="4">
         <text>order</text>
@@ -2036,34 +2036,34 @@
         <text encoding="base64">ICAgIHByb2R1Y3RfanNvbiA9IGNvcHlfZmlsZV90b19kYXRhc2V0KFBST0RVQ1RfSlNPTiwgZGF0YXNldF9jb2RlX2RpciwgUFJPRFVDVF9KU09OLCBESVJfREFUQVNFVF9EQVRBKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUmVhZG1lLnR4dCBmaWxlIGRvZXMgbm90IGV4aXN0IGluIHt9Jy5mb3JtYXQodGFyZ2V0X2RhdGFzZXQpKQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCB0YXJnZXRfZGF0YXNldAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUmVhZG1lLnR4dCBmaWxlIGRvZXMgbm90IGV4aXN0IGluIHt9Jy5mb3JtYXQodGFyZ2V0X2RhdGFzZXQpKQo=</text>
+        <text encoding="base64">CiAgICBQYXJhbGxlbChuX2pvYnM9OCkoZGVsYXllZChidWlsZF9kYXRhc2V0KShwcmQsIHJlYWRtZV9maWxlLCB1cGxvYWRlZF9iYykgZm9yIHByZCBpbiBwcm9kdWN0cykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2RfbmFtZSA9IHByb2R1Y3RbJ25hbWUnXQogICAgYmFyY29kZSA9IHByb2R1Y3RbJ2JhcmNvZGUnXQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UFJPRFVDVF9KU09OX1ZFUiA9IERBVEFTRVRfVkVSU0lPTl9NQUpPUiArICItIiArIFBST0RVQ1RfSlNPTgo=</text>
+        <text encoding="base64">ICAgIFBhcmFsbGVsKG5fam9icz04KShkZWxheWVkKGJ1aWxkX2RhdGFzZXQpKHByZCwgcmVhZG1lX2ZpbGUsIHVwbG9hZGVkX2JjKSBmb3IgcHJkIGluIHByb2R1Y3RzKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXRfdmVyc2lvbiA9IGdldF9wYXJhbSgnREFUQVNFVF9WRVJTSU9OJywgc3RyKQogICAgYmFyY29kZSA9IGdldF9wYXJhbSgnQkFSQ09ERScsIHN0cikKCg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCB0YXJnZXRfZGF0YXNldAoKICAgIHByb2RfbmFtZSA9IHByb2R1Y3RbJ25hbWUnXQogICAgYmFyY29kZSA9IHByb2R1Y3RbJ2JhcmNvZGUnXQoKICAgIGlmIGJhcmNvZGUgaW4gdXBsb2FkZWRfYmM6CiAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGFscmVhZHkgaGFzIHt9IHVwbG9hZGVkLicuZm9ybWF0KHRhcmdldF9kYXRhc2V0LCBiYXJjb2RlKSkKICAgICAgICByZXR1cm4KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VU5QQUNLX1NIX1ZFUiA9IERBVEFTRVRfVkVSU0lPTl9NQUpPUiArICItIiArIFVOUEFDS19TSAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGFscmVhZHkgZXhpc3RzIGluIEdvb2dsZSBjbG91ZCBzdG9yYWdlIGJ1Y2tldC4nLmZvcm1hdChQUk9EVUNUX0pTT04pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUyA9IDIwMDAgICAgIyB0aGUgdG90YWwgaW1hZ2VzIHBlciBiYXJjb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUmVhZG1lLnR4dCBmaWxlIGRvZXMgbm90IGV4aXN0IGluIHt9Jy5mb3JtYXQodGFyZ2V0X2RhdGFzZXQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
