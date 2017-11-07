@@ -360,10 +360,10 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/config.ini" timestamp="1510057194440">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/config.ini" timestamp="1510067540579">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" timestamp="1505133867795">
         <mark key="'" line="28" column="8" />
@@ -532,11 +532,12 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" timestamp="1510064216136">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" timestamp="1510067380495">
+        <mark key="'" line="38" column="16" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="49" column="22" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" timestamp="1507633225808">
         <mark key="'" line="532" column="13" />
@@ -551,12 +552,12 @@
         <mark key="^" line="2" column="9" />
         <mark key="." line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload_docker_image.py" timestamp="1509755232295">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload_docker_image.py" timestamp="1510067726577">
         <mark key="'" line="15" column="50" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="21" column="27" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="21" column="40" />
+        <mark key="." line="21" column="40" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" timestamp="1509725297477">
         <mark key="[" line="14" column="0" />
@@ -569,10 +570,10 @@
         <mark key="." line="76" column="50" />
         <mark key="^" line="76" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspaces/docker-lab/doc/notes-docker.org" timestamp="1506428542890">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="112" column="44" />
-        <mark key="]" line="113" column="43" />
+      <file name="$USER_HOME$/Workspaces/docker-lab/doc/notes-docker.org" timestamp="1510066519436">
+        <mark key="'" line="116" column="7" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="80" />
         <mark key="^" line="113" column="43" />
         <mark key="." line="113" column="43" />
       </file>
@@ -880,10 +881,10 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1505213618519">
+      <file name="$USER_HOME$/Workspaces/flutter-docker/Dockerfile" timestamp="1510064426604">
         <mark key="'" line="59" column="14" />
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="59" column="14" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="17" column="28" />
         <mark key="." line="59" column="14" />
         <mark key="^" line="59" column="14" />
       </file>
@@ -1207,10 +1208,10 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1510059125688">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1510064381885">
         <mark key="'" line="5" column="21" />
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="47" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="61" />
         <mark key="." line="53" column="22" />
         <mark key="^" line="54" column="14" />
       </file>
@@ -1355,12 +1356,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" timestamp="1510057655446">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" timestamp="1510065893895">
         <mark key="'" line="2" column="45" />
-        <mark key="[" line="159" column="9" />
-        <mark key="]" line="160" column="6" />
-        <mark key="." line="160" column="6" />
-        <mark key="^" line="160" column="6" />
+        <mark key="[" line="160" column="7" />
+        <mark key="]" line="160" column="10" />
+        <mark key="." line="160" column="10" />
+        <mark key="^" line="160" column="10" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/barcode_manager.py" timestamp="1505844243331">
         <mark key="'" line="1" column="0" />
@@ -1948,11 +1949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/pliny/src/frontend/components/graph/index.js" />
-      <jump line="57" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="94" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" />
       <jump line="12646" column="1" filename="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/input/image_stats.json" />
       <jump line="87" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
       <jump line="132" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitignore" />
@@ -2045,58 +2041,63 @@
       <jump line="189" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="511" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="248" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
       <jump line="54" column="5" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="19" column="2" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
+      <jump line="17" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
+      <jump line="46" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
+      <jump line="116" column="7" filename="$USER_HOME$/Workspaces/docker-lab/doc/notes-docker.org" />
+      <jump line="42" column="41" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
+      <jump line="36" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFNcPg==</text>
+        <text>gcloud-key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBzZXQgdXAgR29vZ2xlIGNsb3VkIGF1dGhvcml6YXRpb24KZXhwb3J0IEFQUF9ESVI9J2RhdGFzZXRfYnVpbGRlcicKZXhwb3J0IFpPTkU9ImV1cm9wZS13ZXN0MS1kIgpleHBvcnQgUFJPSkVDVD0icHJvZHVjdC1kZXRlY3Rpb24tMTYwMzE0IgpleHBvcnQgR09PR0xFX0FQUExJQ0FUSU9OX0NSRURFTlRJQUxTPS4vLmdjbG91ZC1rZXkKCmdjbG91ZCBhdXRoIGFjdGl2YXRlLXNlcnZpY2UtYWNjb3VudCAtLWtleS1maWxlIC4vLmdjbG91ZC1rZXkKZ2Nsb3VkIGNvbmZpZyBzZXQgY29tcHV0ZS96b25lICR7Wk9ORX0KZ2Nsb3VkIGNvbmZpZyBzZXQgcHJvamVjdCAke1BST0pFQ1R9CmVjaG8gIkZpbmlzaGVkIHNldHRpbmcgdXAgR29vbGdlIGNsb3VkIGF1dGhvcml6YXRpb24iCg==</text>
+        <text encoding="base64">UlVOIGdjbG91ZCBhdXRoIGFjdGl2YXRlLXNlcnZpY2UtYWNjb3VudCAtLWtleS1maWxlICRBUFBfRElSLyRHQ0xPVURfS0UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IEFQUF9ESVI9J2RhdGFzZXRfYnVpbGRlcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC0tdXBncmFkZSBwaXAgJiYgXAogICAgcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dAoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">RU5WIFBBVEggL3Jvb3QvZ29vZ2xlLWNsb3VkLXNkay9iaW46JFBBVEgK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGN1cmwgXAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIGV4cG9ydCBQQVRIPQo=</text>
+        <text encoding="base64">Q09QWSAuZ2Nsb3VkICRBUFBfRElSCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzZXQgdXAgR29vZ2xlIGNsb3VkIGF1dGhvcml6YXRpb24KQ09QWSAuZ2Nsb3VkICRBUFBfRElSCgpFTlYgWk9ORSAiZXVyb3BlLXdlc3QxLWQiCkVOViBQUk9KRUNUICJwcm9kdWN0LWRldGVjdGlvbi0xNjAzMTQiCkVOViBHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFMgJEFQUF9ESVIvLmdjbG91ZC1rZXkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09QWSAuZ2Nsb3VkICRBUFBfRElSCg==</text>
+        <text encoding="base64">RU5WIFBBVEggL3Jvb3QvZ29vZ2xlLWNsb3VkLXNkay9iaW46JFBBVEgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIGFwdC1nZXQgLXkgaW5zdGFsbCBkb2NrZXIuaW8gY3VybCBweXRob24gYXB0LXRyYW5zcG9ydC1odHRwcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V09SS0RJUiAkQVBQX0RJUgo=</text>
+        <text encoding="base64">ICAgIGdpdCBcCiAgICBsaWIzMnN0ZGMrKzYgXAogICAgbGliMzJ6MSBcCiAgICBsaWJnbHUxIFwKICAgIG9wZW5qZGstOC1qZGsgXAogICAgdW56aXAgXAo=</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFNcPg==</last-search>
+      <last-search>gcloud-key</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFNcPg==</last-pattern>
+      <last-pattern>gcloud-key</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2126,6 +2127,8 @@
         <entry>main()</entry>
         <entry>TOTAL</entry>
         <entry encoding="base64">XDxHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFNcPg==</entry>
+        <entry>curl</entry>
+        <entry>gcloud-key</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
@@ -2146,8 +2149,8 @@
         <entry>%s/-g//gc</entry>
         <entry>110</entry>
         <entry>vsp</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>sp</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
