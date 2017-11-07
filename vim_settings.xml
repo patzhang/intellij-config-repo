@@ -447,12 +447,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" timestamp="1510070486196">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="9" column="18" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" timestamp="1510074316149">
+        <mark key="'" line="17" column="52" />
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="39" column="25" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/test_label_images.py" timestamp="1487807012507">
         <mark key="[" line="30" column="0" />
@@ -1012,11 +1012,11 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/create_kube_jobs.py" timestamp="1509752758870">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/create_kube_jobs.py" timestamp="1510074381327">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
         <mark key="'" line="7" column="6" />
@@ -1186,12 +1186,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/job-template.yaml" timestamp="1510069548876">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/job-template.yaml" timestamp="1510074531066">
         <mark key="'" line="10" column="22" />
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="29" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="22" />
         <mark key="^" line="17" column="30" />
-        <mark key="." line="10" column="29" />
+        <mark key="." line="9" column="22" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/setup-gcs-account.sh" timestamp="1510058680467">
         <mark key="[" line="8" column="47" />
@@ -1950,7 +1950,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" />
       <jump line="20" column="10" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" />
       <jump line="7" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_builder/main.py" />
       <jump line="47" column="4" filename="$USER_HOME$/DL_Workspace/object-recognition/floodlight/expand_job_templates.py" />
@@ -2050,16 +2049,17 @@
       <jump line="55" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
       <jump line="76" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="9" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
+      <jump line="17" column="52" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>os.</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text encoding="base64">XDx5YW1sXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>eu.gcr.io/nifty-realm-113/prd-img-dataset-builder</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y3VycmVudF9kaXIgPSBwYXRoLnJlYWxwYXRoKG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLnNwbGl0KGluc3BlY3QuZ2V0ZmlsZShpbnNwZWN0LmN1cnJlbnRmcmFtZSgpKSlbMF0pKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Q09QWSByZXF1aXJlbWVudHMudHh0ICRBUFBfRElSCgpSVU4gcGlwIGluc3RhbGwgLS11cGdyYWRlIHBpcCAmJiBcCiAgICBwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0Cgo=</text>
@@ -2092,13 +2092,13 @@
         <text encoding="base64">RU5WIFBBVEggL3Jvb3QvZ29vZ2xlLWNsb3VkLXNkay9iaW46JFBBVEgK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/-/_/g</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
-      <last-search>-</last-search>
+      <last-search encoding="base64">XDx5YW1sXD4=</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern encoding="base64">XDx5YW1sXD4=</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -2131,6 +2131,7 @@
         <entry>curl</entry>
         <entry>gcloud-key</entry>
         <entry>-</entry>
+        <entry encoding="base64">XDx5YW1sXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
@@ -2154,6 +2155,7 @@
         <entry>sp</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>%s/-/_/g</entry>
+        <entry>10</entry>
       </history-cmd>
       <history-expr />
       <history-input />
