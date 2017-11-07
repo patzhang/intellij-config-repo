@@ -523,11 +523,12 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" timestamp="1510055719480">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="18" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" timestamp="1510056481354">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" timestamp="1507633225808">
         <mark key="'" line="532" column="13" />
@@ -1936,7 +1937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink" />
       <jump line="57" column="11" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env.sh" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="60" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" />
@@ -2036,16 +2036,17 @@
       <jump line="189" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="511" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="248" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>-slim</text>
       </register>
       <register name="/" type="4">
         <text>TOTAL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbInB5dGhvbjMiXQo=</text>
+        <text encoding="base64">RlJPTSBweXRob246My42LjMtc2xpbQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
