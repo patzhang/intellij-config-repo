@@ -73,43 +73,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="Python 3.5.2 virtualenv at ~/DL_Workspace/product-image-dataset-gc/venv interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.5" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.5/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.5/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1800635257" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.5" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.5/lib-dynload" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.5.2/lib/python3.5/plat-darwin" />
-        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.5/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1800635257" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 3.6.0 (/usr/local/bin/python3) interpreter library">
       <CLASSES>
         <root url="file:///usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
@@ -256,6 +219,41 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="Python 3.6.3 virtualenv at ~/DL_Workspace/product-image-dataset-gc/venv interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.6" />
+        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6" />
+        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1800635257" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.6" />
+        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6" />
+        <root url="file://$USER_HOME$/DL_Workspace/product-image-dataset-gc/venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/1800635257" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
     </library>
     <library name="stub [puppet module]">
       <CLASSES>
