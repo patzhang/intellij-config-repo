@@ -433,12 +433,12 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" timestamp="1509753889606">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="63" column="52" />
-        <mark key="]" line="63" column="52" />
-        <mark key="." line="63" column="52" />
-        <mark key="^" line="64" column="51" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" timestamp="1510052568007">
+        <mark key="'" line="63" column="45" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="41" />
+        <mark key="." line="10" column="41" />
+        <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/test_label_images.py" timestamp="1487807012507">
         <mark key="[" line="30" column="0" />
@@ -662,10 +662,10 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1509987408020">
-        <mark key="'" line="329" column="30" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="15" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" timestamp="1510052209242">
+        <mark key="'" line="32" column="22" />
+        <mark key="[" line="514" column="0" />
+        <mark key="]" line="514" column="42" />
         <mark key="^" line="53" column="22" />
         <mark key="." line="53" column="24" />
       </file>
@@ -1700,12 +1700,12 @@
         <mark key="." line="37" column="49" />
         <mark key="^" line="37" column="49" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1510049087350">
-        <mark key="'" line="498" column="89" />
-        <mark key="[" line="535" column="4" />
-        <mark key="]" line="535" column="12" />
-        <mark key="." line="535" column="12" />
-        <mark key="^" line="535" column="12" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1510052738498">
+        <mark key="'" line="529" column="14" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="62" column="30" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/logs/Readme.txt" timestamp="1485205226139">
         <mark key="[" line="0" column="47" />
@@ -1924,8 +1924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
-      <jump line="10" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.powerlevel9k" />
       <jump line="78" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zshrc.symlink.sh" />
       <jump line="68" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.nick" />
       <jump line="84" column="0" filename="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/bak/zshrc.symlink.nick" />
@@ -1993,11 +1991,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="14" column="36" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="203" column="20" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="22" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="83" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="329" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="510" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="516" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="26" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="34" column="11" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2024,55 +2020,59 @@
       <jump line="408" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="509" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="498" column="89" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="32" column="22" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
+      <jump line="510" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="63" column="45" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
+      <jump line="534" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>name_</text>
+        <text>c/</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>build_dataset</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RfanNvbiA9IGNvcHlfZmlsZV90b19kYXRhc2V0KFBST0RVQ1RfSlNPTiwgZGF0YXNldF9jb2RlX2RpciwgUFJPRFVDVF9KU09OLCBESVJfREFUQVNFVF9EQVRBKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">U0VMRUNURURfQkFSQ09ERQogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCB0YXJnZXRfZGF0YXNldAo=</text>
+        <text encoding="base64">IyB1bnBhY2stZGF0YXNldC5zaAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBQYXJhbGxlbChuX2pvYnM9OCkoZGVsYXllZChidWlsZF9kYXRhc2V0KShwcmQsIHJlYWRtZV9maWxlLCB1cGxvYWRlZF9iYykgZm9yIHByZCBpbiBwcm9kdWN0cykK</text>
+        <text encoding="base64">IyBwcm9kdWN0Lmpzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyByZWFkbWUudHh0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2RfbmFtZSA9IHByb2R1Y3RbJ25hbWUnXQogICAgYmFyY29kZSA9IHByb2R1Y3RbJ2JhcmNvZGUnXQoK</text>
+        <text encoding="base64">REFUQVNFVF9SRUFETUUgPSBEQVRBU0VUX1ZFUlNJT05fTUFKT1IgKyAnLScgKyBSRUFETUVfRklMRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBhcmFsbGVsKG5fam9icz04KShkZWxheWVkKGJ1aWxkX2RhdGFzZXQpKHByZCwgcmVhZG1lX2ZpbGUsIHVwbG9hZGVkX2JjKSBmb3IgcHJkIGluIHByb2R1Y3RzKQoK</text>
+        <text encoding="base64">UFJPRFVDVF9URVNUX0pTT04gPSBEQVRBU0VUX1ZFUlNJT05fTUFKT1IgKyAiLXRlc3QtIiArIFBST0RVQ1RfSlNPTgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCB0YXJnZXRfZGF0YXNldAoKICAgIHByb2RfbmFtZSA9IHByb2R1Y3RbJ25hbWUnXQogICAgYmFyY29kZSA9IHByb2R1Y3RbJ2JhcmNvZGUnXQoKICAgIGlmIGJhcmNvZGUgaW4gdXBsb2FkZWRfYmM6CiAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGFscmVhZHkgaGFzIHt9IHVwbG9hZGVkLicuZm9ybWF0KHRhcmdldF9kYXRhc2V0LCBiYXJjb2RlKSkKICAgICAgICByZXR1cm4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VU5QQUNLX1NIX1ZFUiA9IERBVEFTRVRfVkVSU0lPTl9NQUpPUiArICItIiArIFVOUEFDS19TSAo=</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RzID0gbG9hZF9wcm9kdWN0cyhwcm9kdWN0X2pzb24pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgbG9nZ2VyLmluZm8oJ3t9IGFscmVhZHkgZXhpc3RzIGluIEdvb2dsZSBjbG91ZCBzdG9yYWdlIGJ1Y2tldC4nLmZvcm1hdChQUk9EVUNUX0pTT04pKQo=</text>
+        <text encoding="base64">ICAgIGJhcmNvZGUgPSBTRUxFQ1RFRF9CQVJDT0RFCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnUmVhZG1lLnR4dCBmaWxlIGRvZXMgbm90IGV4aXN0IGluIHt9Jy5mb3JtYXQodGFyZ2V0X2RhdGFzZXQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>build_dataset</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>build_dataset</last-pattern>
       <last-replace />
       <last-substitute>-g</last-substitute>
       <last-dir>1</last-dir>
@@ -2111,6 +2111,7 @@
         <entry>_m</entry>
         <entry>m_</entry>
         <entry>order</entry>
+        <entry>build_dataset</entry>
       </history-search>
       <history-cmd>
         <entry>vmap</entry>
