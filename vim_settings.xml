@@ -360,10 +360,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/config.ini" timestamp="1510070221412">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="54" />
-        <mark key="." line="2" column="14" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/config.ini" timestamp="1510138246233">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" timestamp="1505133867795">
         <mark key="'" line="28" column="8" />
@@ -498,10 +499,6 @@
         <mark key="." line="53" column="7" />
         <mark key="^" line="53" column="7" />
       </file>
-      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/hooks/recent.post-checkout" timestamp="1509026073623">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="152" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" timestamp="1509725105937">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="32" />
@@ -513,10 +510,6 @@
         <mark key="]" line="38" column="10" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/apply-jobs.sh" timestamp="1509751146494">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/.dotfiles/hammerspoon/hammerspoon.symlink/init.lua" timestamp="1502201986637">
         <mark key="'" line="0" column="0" />
@@ -558,10 +551,6 @@
         <mark key="]" line="21" column="40" />
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" timestamp="1509725297477">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="67" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1507064909288">
         <mark key="'" line="89" column="0" />
@@ -1186,12 +1175,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/job-template.yaml" timestamp="1510074531066">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/job-template.yaml" timestamp="1510137685966">
         <mark key="'" line="10" column="22" />
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="22" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="9" column="22" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="30" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/setup-gcs-account.sh" timestamp="1510058680467">
         <mark key="[" line="8" column="47" />
@@ -1204,10 +1193,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" timestamp="1509727111050">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/.gitlab-ci.yml" timestamp="1510064381885">
         <mark key="'" line="5" column="21" />
@@ -1623,9 +1608,11 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" timestamp="1509755777896">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="27" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/output/job_ds-builder-20171107-170921-1-5027632001118.yaml" timestamp="1510137484052">
+        <mark key="[" line="10" column="70" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="30" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/requirements.txt" timestamp="1488224668716">
         <mark key="[" line="2" column="0" />
@@ -2053,7 +2040,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>os.</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5YW1sXD4=</text>
