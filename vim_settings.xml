@@ -468,11 +468,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="5" column="40" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" timestamp="1510223037187">
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" timestamp="1510224724964">
         <mark key="'" line="63" column="33" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="5" column="56" />
+        <mark key="]" line="5" column="56" />
+        <mark key="." line="5" column="56" />
+        <mark key="^" line="5" column="63" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_macOS.sh" timestamp="1487156919377">
         <mark key="[" line="22" column="23" />
@@ -711,7 +712,7 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510223092889">
+      <file name="/Dummy.txt" timestamp="1510224749922">
         <mark key="'" line="0" column="0" />
         <mark key="i" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1996,7 +1997,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>x</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>build_dataset</text>
