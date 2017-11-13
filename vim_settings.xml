@@ -102,11 +102,11 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/README.md" timestamp="1510568797412">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/README.md" timestamp="1510569797017">
+        <mark key="'" line="19" column="72" />
+        <mark key="[" line="19" column="72" />
+        <mark key="]" line="19" column="72" />
+        <mark key="." line="19" column="72" />
         <mark key="^" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1490717763616">
@@ -594,6 +594,10 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
+      <file name="$USER_HOME$/WorkspacesGames/phaser-es6-webpack/.gitignore" timestamp="1510570123417">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1501148099079">
         <mark key="'" line="18" column="36" />
         <mark key="[" line="0" column="19" />
@@ -625,6 +629,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/package.json" timestamp="1510570439939">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/test_barcodeManager.py" timestamp="1505818750940">
         <mark key="[" line="10" column="18" />
@@ -964,6 +974,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+        <mark key="^" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1501083459303">
         <mark key="[" line="5" column="72" />
@@ -1856,11 +1872,11 @@
         <mark key="^" line="214" column="3" />
         <mark key="." line="214" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" timestamp="1510567546323">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="3" column="8" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" timestamp="1510570157817">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitlab-ci.yml" timestamp="1510222459535">
         <mark key="[" line="2" column="0" />
@@ -1907,8 +1923,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
-      <jump line="53" column="24" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="12" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" />
       <jump line="43" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="9" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
@@ -2007,46 +2021,48 @@
       <jump line="6" column="8" filename="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" />
       <jump line="86" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/README.md" />
+      <jump line="88" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/README.md" />
+      <jump line="19" column="72" filename="$USER_HOME$/DL_Speech/say-what-you-see/README.md" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>PhaserES6Webpack</text>
       </register>
       <register name="/" type="4">
         <text>build_dataset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxoND5Qcm9kdWN0IEltYWdlIERhdGFzZXQgdjIuMiAoODkgU0tVcyBhbmQgMjAwMCBpbWFnZXMgZWFjaCwgMi45IEdCKTwvaDQ+CiAgICBUaGlzIGRhdGFzZXQgd2FzIGJ1aWx0IGluIEdvb2dsZSBjb250YWluZXIgZW5naW5lIHdoaWNoIHRvb2sgYWJvdXQgOCBob3Vycy48YnI+CiAgICBUaGUgc2FtZSBzZWdtZW50YXRpb24gZmlsdGVyIGZvciB2Mi4wIGlzIHVzZWQgdG8gcHJvY2VzcyBpbWFnZXMuIDxicj4KICAgIFRoZSBzZWxlY3RlZCBpbWFnZXMgYXJlIGNyb3BwZWQgYW5kIHJlc2l6ZWQgdG8gMjU2eDI1NiwgdGhlbiBzYXZlZCBpbiBKUEVHIGZvcm1hdC4KICAgIAo=</text>
+        <text encoding="base64">d3d3LwpwbGF0Zm9ybXMvCnBsdWdpbnMvCmRpc3QvCi52c2NvZGUvCioubG9nCnBhY2thZ2UtbG9jay5qc29uCi9pbmRleC5odG1sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki5pbWwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgTm9kZS5qcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgQ29udHJpYnV0b3JzCgpodHRwczovL2dpdGh1Yi5jb20vUmVuYXVkUk9ITElOR0VSCg==</text>
+        <text encoding="base64">IyBJbnRlbGxpaiBJZGVhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgVHlwZXNjcmlwdCAKSWYgeW91IG5lZWQgdHlwZXNjcmlwdCBzdXBwb3J0IGNoZWNrb3V0IHRoZSBgYGB0eXBlc2NyaXB0YGBgIGJyYW5jaC4gVGhhbmtzIHRvIEBNYXRzTWFrZXIKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IVtQaGFzZXIrRVM2K1dlYnBhY2tdKGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9sZWFuL3BoYXNlci1lczYtd2VicGFjay9tYXN0ZXIvYXNzZXRzL2ltYWdlcy9waGFzZXItZXM2LXdlYnBhY2suanBnKQoKWyFbanMtc3RhbmRhcmQtc3R5bGVdKGh0dHBzOi8vY2RuLnJhd2dpdC5jb20vZmVyb3NzL3N0YW5kYXJkL21hc3Rlci9iYWRnZS5zdmcpXShodHRwczovL2dpdGh1Yi5jb20vZmVyb3NzL3N0YW5kYXJkKQoKCg==</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyMgQ29udHJpYnV0b3JzCgpodHRwczovL2dpdGh1Yi5jb20vUmVuYXVkUk9ITElOR0VSCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQojIyMgUHl0aG9uIHRlbXBsYXRlCiMgQnl0ZS1jb21waWxlZCAvIG9wdGltaXplZCAvIERMTCBmaWxlcwpfX3B5Y2FjaGVfXy8KKi5weVtjb2RdCiokcHkuY2xhc3MKCiMgQyBleHRlbnNpb25zCiouc28KCiMgRGlzdHJpYnV0aW9uIC8gcGFja2FnaW5nCi5QeXRob24KYnVpbGQvCmRldmVsb3AtZWdncy8KZGlzdC8KZG93bmxvYWRzLwplZ2dzLwouZWdncy8KbGliLwpsaWI2NC8KcGFydHMvCnNkaXN0Lwp2YXIvCndoZWVscy8KKi5lZ2ctaW5mby8KLmluc3RhbGxlZC5jZmcKKi5lZ2cKTUFOSUZFU1QKCiMgUHlJbnN0YWxsZXIKIyAgVXN1YWxseSB0aGVzZSBmaWxlcyBhcmUgd3JpdHRlbiBieSBhIHB5dGhvbiBzY3JpcHQgZnJvbSBhIHRlbXBsYXRlCiMgIGJlZm9yZSBQeUluc3RhbGxlciBidWlsZHMgdGhlIGV4ZSwgc28gYXMgdG8gaW5qZWN0IGRhdGUvb3RoZXIgaW5mb3MgaW50byBpdC4KKi5tYW5pZmVzdAoqLnNwZWMKCiMgSW5zdGFsbGVyIGxvZ3MKcGlwLWxvZy50eHQKcGlwLWRlbGV0ZS10aGlzLWRpcmVjdG9yeS50eHQKCiMgVW5pdCB0ZXN0IC8gY292ZXJhZ2UgcmVwb3J0cwpodG1sY292LwoudG94LwouY292ZXJhZ2UKLmNvdmVyYWdlLioKLmNhY2hlCm5vc2V0ZXN0cy54bWwKY292ZXJhZ2UueG1sCiouY292ZXIKLmh5cG90aGVzaXMvCgojIFRyYW5zbGF0aW9ucwoqLm1vCioucG90CgojIERqYW5nbyBzdHVmZjoKKi5sb2cKbG9jYWxfc2V0dGluZ3MucHkKCiMgRmxhc2sgc3R1ZmY6Cmluc3RhbmNlLwoud2ViYXNzZXRzLWNhY2hlCgojIFNjcmFweSBzdHVmZjoKLnNjcmFweQoKIyBTcGhpbnggZG9jdW1lbnRhdGlvbgpkb2NzL19idWlsZC8KCiMgUHlCdWlsZGVyCnRhcmdldC8KCiMgSnVweXRlciBOb3RlYm9vawouaXB5bmJfY2hlY2twb2ludHMKCiMgcHllbnYKLnB5dGhvbi12ZXJzaW9uCgojIGNlbGVyeSBiZWF0IHNjaGVkdWxlIGZpbGUKY2VsZXJ5YmVhdC1zY2hlZHVsZQoKIyBTYWdlTWF0aCBwYXJzZWQgZmlsZXMKKi5zYWdlLnB5CgojIEVudmlyb25tZW50cwouZW52Ci52ZW52CmVudi8KdmVudi8KRU5WLwplbnYuYmFrLwp2ZW52LmJhay8KCiMgU3B5ZGVyIHByb2plY3Qgc2V0dGluZ3MKLnNweWRlcnByb2plY3QKLnNweXByb2plY3QKCiMgUm9wZSBwcm9qZWN0IHNldHRpbmdzCi5yb3BlcHJvamVjdAoKIyBta2RvY3MgZG9jdW1lbnRhdGlvbgovc2l0ZQoKIyBteXB5Ci5teXB5X2NhY2hlLwojIyMgSmV0QnJhaW5zIHRlbXBsYXRlCiMgQ292ZXJzIEpldEJyYWlucyBJREVzOiBJbnRlbGxpSiwgUnVieU1pbmUsIFBocFN0b3JtLCBBcHBDb2RlLCBQeUNoYXJtLCBDTGlvbiwgQW5kcm9pZCBTdHVkaW8gYW5kIFdlYnN0b3JtCiMgUmVmZXJlbmNlOiBodHRwczovL2ludGVsbGlqLXN1cHBvcnQuamV0YnJhaW5zLmNvbS9oYy9lbi11cy9hcnRpY2xlcy8yMDY1NDQ4MzkKCiMgVXNlci1zcGVjaWZpYyBzdHVmZjoKLmlkZWEvKiovd29ya3NwYWNlLnhtbAouaWRlYS8qKi90YXNrcy54bWwKLmlkZWEvZGljdGlvbmFyaWVzCgojIFNlbnNpdGl2ZSBvciBoaWdoLWNodXJuIGZpbGVzOgouaWRlYS8qKi9kYXRhU291cmNlcy8KLmlkZWEvKiovZGF0YVNvdXJjZXMuaWRzCi5pZGVhLyoqL2RhdGFTb3VyY2VzLnhtbAouaWRlYS8qKi9kYXRhU291cmNlcy5sb2NhbC54bWwKLmlkZWEvKiovc3FsRGF0YVNvdXJjZXMueG1sCi5pZGVhLyoqL2R5bmFtaWMueG1sCi5pZGVhLyoqL3VpRGVzaWduZXIueG1sCgojIEdyYWRsZToKLmlkZWEvKiovZ3JhZGxlLnhtbAouaWRlYS8qKi9saWJyYXJpZXMKCiMgQ01ha2UKY21ha2UtYnVpbGQtZGVidWcvCgojIE1vbmdvIEV4cGxvcmVyIHBsdWdpbjoKLmlkZWEvKiovbW9uZ29TZXR0aW5ncy54bWwKCiMjIEZpbGUtYmFzZWQgcHJvamVjdCBmb3JtYXQ6CiouaXdzCgojIyBQbHVnaW4tc3BlY2lmaWMgZmlsZXM6CgojIEludGVsbGlKCm91dC8KCiMgbXBlbHRvbmVuL3NidC1pZGVhIHBsdWdpbgouaWRlYV9tb2R1bGVzLwoKIyBKSVJBIHBsdWdpbgphdGxhc3NpYW4taWRlLXBsdWdpbi54bWwKCiMgQ3Vyc2l2ZSBDbG9qdXJlIHBsdWdpbgouaWRlYS9yZXBsc3RhdGUueG1sCgojIENyYXNobHl0aWNzIHBsdWdpbiAoZm9yIEFuZHJvaWQgU3R1ZGlvIGFuZCBJbnRlbGxpSikKY29tX2NyYXNobHl0aWNzX2V4cG9ydF9zdHJpbmdzLnhtbApjcmFzaGx5dGljcy5wcm9wZXJ0aWVzCmNyYXNobHl0aWNzLWJ1aWxkLnByb3BlcnRpZXMKZmFicmljLnByb3BlcnRpZXMKCg==</text>
+        <text encoding="base64">IyMgVHlwZXNjcmlwdCAKSWYgeW91IG5lZWQgdHlwZXNjcmlwdCBzdXBwb3J0IGNoZWNrb3V0IHRoZSBgYGB0eXBlc2NyaXB0YGBgIGJyYW5jaC4gVGhhbmtzIHRvIEBNYXRzTWFrZXIKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyaWFibGVzOgogIENMT1VEU0RLX0NPUkVfRElTQUJMRV9QUk9NUFRTOiAnMScKICBDTE9VRFNES19QWVRIT05fU0lURVBBQ0tBR0VTOiAnMScKICBHT09HTEVfQVBQTElDQVRJT05fQ1JFREVOVElBTFM6IC8uZ2Nsb3VkLWtleQogIFBST0pFQ1RfSUQ6IG5pZnR5LXJlYWxtLTExMwogIFpPTkU6IGV1cm9wZS13ZXN0MS1kCgo=</text>
+        <text encoding="base64">IVtQaGFzZXIrRVM2K1dlYnBhY2tdKGh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9sZWFuL3BoYXNlci1lczYtd2VicGFjay9tYXN0ZXIvYXNzZXRzL2ltYWdlcy9waGFzZXItZXM2LXdlYnBhY2suanBnKQoKWyFbanMtc3RhbmRhcmQtc3R5bGVdKGh0dHBzOi8vY2RuLnJhd2dpdC5jb20vZmVyb3NzL3N0YW5kYXJkL21hc3Rlci9iYWRnZS5zdmcpXShodHRwczovL2dpdGh1Yi5jb20vZmVyb3NzL3N0YW5kYXJkKQoKCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygibG9jYWwgcmVhZG1lIGZpbGU6IHt9Ii5mb3JtYXQocmVhZG1lX2ZpbGUpKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>334</text>
