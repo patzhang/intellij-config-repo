@@ -1014,10 +1014,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510604102581">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510605013394">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
         <mark key="[" line="13" column="37" />
@@ -2092,7 +2093,7 @@
         <text>ajv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiZXM2IjogdHJ1ZQo=</text>
+        <text encoding="base64">I0NNRCBbICJub2RlIiBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
