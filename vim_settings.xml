@@ -730,9 +730,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.production.config.js" timestamp="1510588840460">
-        <mark key="[" line="42" column="49" />
-        <mark key="]" line="43" column="3" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.production.config.js" timestamp="1510608340267">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="24" />
         <mark key="^" line="43" column="3" />
         <mark key="." line="43" column="3" />
       </file>
@@ -1017,11 +1017,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510606416452">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="17" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="17" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510608110961">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="10" column="47" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
         <mark key="[" line="13" column="37" />
@@ -2090,37 +2090,37 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>node</text>
+        <text encoding="base64">ICRBUFBfRElS</text>
       </register>
       <register name="/" type="4">
         <text>ajv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I0NNRCBbICJub2RlIiwgIiRBUFBfRElSIiBdCg==</text>
+      <register name="0" type="4">
+        <text>HtmlWebpackPlugin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiNFTlRSWVBPSU5UIFsgImJhc2giIF0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0NNRCBbICJub2RlIiwgImluZGV4LmpzIiBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0NNRCBbICJucG0iLCAic3RhcnQiIF0KI0NNRCBbICJub2RlIiBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24geWFybi5sb2NrIC4vCg==</text>
+        <text encoding="base64">IyBodHRwOi8vYml0anVkby5jb20vYmxvZy8yMDE0LzAzLzEzL2J1aWxkaW5nLWVmZmljaWVudC1kb2NrZXJmaWxlcy1ub2RlLWRvdC1qcy8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24geWFybi5sb2NrIC4vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJlczYiOiB0cnVlCg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wICRBUFBfRElSICYmIGNwIC1hIC90bXAvbm9kZV9tb2R1bGVzICRBUFBfRElSCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V09SS0RJUiAkQVBQX0RJUgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
