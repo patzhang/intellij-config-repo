@@ -41,6 +41,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" timestamp="1510585384978">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="58" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/__init__.py" timestamp="1487804928877">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -363,6 +369,12 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="59" column="23" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510586753917">
+        <mark key="[" line="30" column="71" />
+        <mark key="]" line="30" column="72" />
+        <mark key="." line="30" column="72" />
+        <mark key="^" line="30" column="72" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
         <mark key="]" line="30" column="3" />
@@ -630,12 +642,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/package.json" timestamp="1510571346214">
-        <mark key="'" line="47" column="9" />
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="56" />
-        <mark key="." line="4" column="56" />
-        <mark key="^" line="4" column="56" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/package.json" timestamp="1510584579953">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/test_barcodeManager.py" timestamp="1505818750940">
         <mark key="[" line="10" column="18" />
@@ -788,6 +800,12 @@
         <mark key="]" line="191" column="86" />
         <mark key="^" line="191" column="121" />
         <mark key="." line="191" column="86" />
+      </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Boot.js" timestamp="1510586450538">
+        <mark key="[" line="18" column="95" />
+        <mark key="]" line="18" column="98" />
+        <mark key="." line="18" column="98" />
+        <mark key="^" line="18" column="98" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/test/context.py" timestamp="1485198746877">
         <mark key="[" line="6" column="7" />
@@ -1283,6 +1301,12 @@
         <mark key="]" line="18" column="64" />
         <mark key="^" line="18" column="64" />
         <mark key="." line="18" column="64" />
+      </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/index.html" timestamp="1510585438689">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_process_file.py" timestamp="1495019103551">
         <mark key="'" line="0" column="8" />
@@ -1879,11 +1903,11 @@
         <mark key="^" line="214" column="3" />
         <mark key="." line="214" column="3" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" timestamp="1510570157817">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="0" column="12" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" timestamp="1510586822639">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitlab-ci.yml" timestamp="1510222459535">
         <mark key="[" line="2" column="0" />
@@ -1930,8 +1954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="47" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="4" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" />
       <jump line="5" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/upload_docker_image.py" />
@@ -2030,10 +2052,12 @@
       <jump line="88" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/README.md" />
       <jump line="19" column="72" filename="$USER_HOME$/DL_Speech/say-what-you-see/README.md" />
       <jump line="47" column="9" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
+      <jump line="21" column="41" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
+      <jump line="52" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>leandcabrera@gmail.com</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>build_dataset</text>
