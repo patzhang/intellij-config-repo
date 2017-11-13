@@ -630,11 +630,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/package.json" timestamp="1510570439939">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="1" column="21" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/package.json" timestamp="1510571346214">
+        <mark key="'" line="47" column="9" />
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="56" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/test_barcodeManager.py" timestamp="1505818750940">
         <mark key="[" line="10" column="18" />
@@ -1564,6 +1565,12 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/config.xml" timestamp="1510571291239">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="51" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/test_productManager.py" timestamp="1505817033170">
         <mark key="'" line="52" column="8" />
         <mark key="[" line="10" column="0" />
@@ -1923,7 +1930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/utils/logging_util.py" />
       <jump line="43" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="9" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
       <jump line="47" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/generate_jobs.py" />
@@ -2023,10 +2029,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/README.md" />
       <jump line="88" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/README.md" />
       <jump line="19" column="72" filename="$USER_HOME$/DL_Speech/say-what-you-see/README.md" />
+      <jump line="47" column="9" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>PhaserES6Webpack</text>
+        <text>leandcabrera@gmail.com</text>
       </register>
       <register name="/" type="4">
         <text>build_dataset</text>
