@@ -1014,11 +1014,10 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510600363760">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="12" column="36" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510604102581">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
         <mark key="[" line="13" column="37" />
@@ -2087,7 +2086,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/opt/app/</text>
       </register>
       <register name="/" type="4">
         <text>ajv</text>
@@ -2096,7 +2095,7 @@
         <text encoding="base64">ICAgICAgICAiZXM2IjogdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJlczYiOiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2108,16 +2107,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24geWFybi5sb2NrIC4vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q09QWSBkaXN0IGRpc3QK</text>
+        <text encoding="base64">Q09QWSBwYWNrYWdlLmpzb24gcGFja2FnZS1sb2NrLmpzb24geWFybi5sb2NrIC4vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">L2luZGV4Lmh0bWwK</text>
+        <text encoding="base64">ICAgICJlczYiOiB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24KeWFybi5sb2NrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
