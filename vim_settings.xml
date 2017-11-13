@@ -53,6 +53,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/patricknet-dashboard/frontend/package.json" timestamp="1510606866556" />
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/gitconfig.symlink" timestamp="1508955487206">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="18" />
@@ -328,6 +329,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="26" column="59" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/.dockerignore" timestamp="1510606993576">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/worker/Dockerfile" timestamp="1509718853283">
         <mark key="[" line="0" column="0" />
@@ -609,10 +616,6 @@
         <mark key="]" line="14" column="61" />
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
-      </file>
-      <file name="$USER_HOME$/WorkspacesGames/phaser-es6-webpack/.gitignore" timestamp="1510570123417">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1501148099079">
         <mark key="'" line="18" column="36" />
@@ -1014,11 +1017,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510605013394">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-        <mark key="^" line="23" column="23" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510606416452">
+        <mark key="[" line="27" column="14" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="17" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
         <mark key="[" line="13" column="37" />
@@ -2087,13 +2090,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/opt/app/</text>
+        <text>node</text>
       </register>
       <register name="/" type="4">
         <text>ajv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I0NNRCBbICJub2RlIiBdCg==</text>
+        <text encoding="base64">I0NNRCBbICJub2RlIiwgIiRBUFBfRElSIiBdCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
