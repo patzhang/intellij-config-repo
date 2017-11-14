@@ -115,6 +115,11 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/sprites/MySprite.js" timestamp="1510671685989">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1490717763616">
         <mark key="[" line="17" column="49" />
         <mark key="]" line="17" column="48" />
@@ -375,11 +380,12 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="59" column="23" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510586753917">
-        <mark key="[" line="30" column="71" />
-        <mark key="]" line="30" column="72" />
-        <mark key="." line="30" column="72" />
-        <mark key="^" line="30" column="72" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510673069023">
+        <mark key="'" line="21" column="21" />
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="40" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
@@ -662,7 +668,8 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/sprites/Dee.js" timestamp="1510659875910">
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/sprites/Dee.js" timestamp="1510671695993">
+        <mark key="'" line="10" column="3" />
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
@@ -1026,10 +1033,10 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="22" />
-        <mark key="." line="25" column="22" />
-        <mark key="^" line="25" column="22" />
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="52" column="22" />
+        <mark key="." line="52" column="22" />
+        <mark key="^" line="52" column="22" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1501083459303">
         <mark key="[" line="5" column="72" />
@@ -1328,6 +1335,9 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="23" column="4" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/assets/images/Dee.svg" timestamp="1510673127725">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/.gitignore" timestamp="1492686429739">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="10" column="16" />
@@ -1352,11 +1362,12 @@
         <mark key="^" line="18" column="64" />
         <mark key="." line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/index.html" timestamp="1510585438689">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/index.html" timestamp="1510672593353">
+        <mark key="'" line="6" column="56" />
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="56" />
+        <mark key="^" line="6" column="58" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/test_process_file.py" timestamp="1495019103551">
         <mark key="'" line="0" column="8" />
@@ -2055,12 +2066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
-      <jump line="62" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
-      <jump line="5" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="14" column="36" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
-      <jump line="203" column="20" filename="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/horse_vision_v4.py" />
       <jump line="22" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="83" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="329" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
@@ -2155,55 +2160,61 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/ocadolabs-router/package.json" />
       <jump line="47" column="32" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
+      <jump line="10" column="3" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/sprites/Dee.js" />
+      <jump line="27" column="5" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/index.html" />
+      <jump line="6" column="56" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/index.html" />
+      <jump line="21" column="21" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" />
+      <jump line="4952" column="8" filename="$USER_HOME$/DL_Speech/say-what-you-see/node_modules/phaser-ce/typescript/phaser.d.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/assets/images/Dee.svg" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>var</text>
+        <text>mysprite</text>
       </register>
       <register name="/" type="4">
-        <text>phaser</text>
+        <text>cleartype</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q09QWSBkaXN0IC91c3Ivc2hhcmUvbmdpbngvaHRtbC9kaXN0Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">aHR0cC1lcXVpdj0iY2xlYXJ0eXBlIiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNsZWFydHlwZSIgY29udGVudD0ib24iPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CkNPUFkgYXNzZXRzIC91c3Ivc2hhcmUvbmdpbngvaHRtbC9hc3NldHMK</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgdHlwZT0iaW1hZ2UveC1pY29uIiBocmVmPSJhc3NldHMvaW1hZ2VzL2Zhdmljb24uaWNvIj4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q01EIFsgImh0dHAtc2VydmVyIiwgIi9vcHQvYXBwIiBdCg==</text>
+        <text encoding="base64">CkNPUFkgYXNzZXRzIC91c3Ivc2hhcmUvbmdpbngvaHRtbC9hc3NldHMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RVhQT1NFIDgwODAK</text>
+        <text encoding="base64">Q01EIFsgImh0dHAtc2VydmVyIiwgIi9vcHQvYXBwIiBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIGh0dHAtc2VydmVyCgpFTlYgQVBQX0RJUiAvb3B0L2FwcAoKV09SS0RJUiAkQVBQX0RJUgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I0NNRCBbICJiYXNoIiBdCg==</text>
+        <text encoding="base64">RVhQT1NFIDgwODAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIGh0dHAtc2VydmVyCgpFTlYgQVBQX0RJUiAvb3B0L2FwcAoKV09SS0RJUiAkQVBQX0RJUgoK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>phaser</last-search>
+      <last-search>cleartype</last-search>
       <last-offset />
-      <last-pattern>phaser</last-pattern>
+      <last-pattern>cleartype</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -2232,6 +2243,9 @@
         <entry>ajv</entry>
         <entry>post</entry>
         <entry>phaser</entry>
+        <entry>favicon</entry>
+        <entry>ico</entry>
+        <entry>cleartype</entry>
       </history-search>
       <history-cmd>
         <entry>%s/see/sed/g</entry>
