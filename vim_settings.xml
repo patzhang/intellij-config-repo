@@ -53,12 +53,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" timestamp="1510660235875">
-        <mark key="'" line="47" column="32" />
-        <mark key="[" line="32" column="2" />
-        <mark key="]" line="32" column="6" />
-        <mark key="." line="32" column="6" />
-        <mark key="^" line="32" column="6" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" timestamp="1510674943984">
+        <mark key="'" line="48" column="32" />
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="17" column="47" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/gitconfig.symlink" timestamp="1508955487206">
         <mark key="[" line="5" column="11" />
@@ -380,12 +380,12 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="59" column="23" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510673069023">
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510674706062">
         <mark key="'" line="21" column="21" />
-        <mark key="[" line="33" column="38" />
-        <mark key="]" line="33" column="40" />
-        <mark key="." line="33" column="40" />
-        <mark key="^" line="33" column="40" />
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
@@ -1335,7 +1335,7 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/assets/images/Dee.svg" timestamp="1510673127725">
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/assets/images/Dee.svg" timestamp="1510673588043">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/.gitignore" timestamp="1492686429739">
@@ -2066,7 +2066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="83" column="23" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="329" column="30" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
       <jump line="516" column="8" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2166,16 +2165,17 @@
       <jump line="21" column="21" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" />
       <jump line="4952" column="8" filename="$USER_HOME$/DL_Speech/say-what-you-see/node_modules/phaser-ce/typescript/phaser.d.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/assets/images/Dee.svg" />
+      <jump line="2" column="38" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/sprites/Dee.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>mysprite</text>
+        <text>300</text>
       </register>
       <register name="/" type="4">
-        <text>cleartype</text>
+        <text>size</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aHR0cC1lcXVpdj0iY2xlYXJ0eXBlIiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">d2luZG93LmdhbWUgPSBuZXcgR2FtZSgpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9ImNsZWFydHlwZSIgY29udGVudD0ib24iPgo=</text>
@@ -2212,9 +2212,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cleartype</last-search>
+      <last-search>size</last-search>
       <last-offset />
-      <last-pattern>cleartype</last-pattern>
+      <last-pattern>size</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -2246,6 +2246,7 @@
         <entry>favicon</entry>
         <entry>ico</entry>
         <entry>cleartype</entry>
+        <entry>size</entry>
       </history-search>
       <history-cmd>
         <entry>%s/see/sed/g</entry>
