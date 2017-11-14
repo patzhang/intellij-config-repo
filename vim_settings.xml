@@ -54,6 +54,13 @@
         <mark key="^" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/DL_Speech/patricknet-dashboard/frontend/package.json" timestamp="1510606866556" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" timestamp="1510660235875">
+        <mark key="'" line="47" column="32" />
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/gitconfig.symlink" timestamp="1508955487206">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="18" />
@@ -656,6 +663,11 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/sprites/Dee.js" timestamp="1510659875910">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/test_barcodeManager.py" timestamp="1505818750940">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="18" />
@@ -800,12 +812,22 @@
         <mark key="^" line="13" column="71" />
         <mark key="." line="13" column="71" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/requirements.txt" timestamp="1507571301579">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
         <mark key="[" line="191" column="85" />
         <mark key="]" line="191" column="86" />
         <mark key="^" line="191" column="121" />
         <mark key="." line="191" column="86" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/settings/env/env-osx.sh" timestamp="1509021393860">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Boot.js" timestamp="1510586450538">
         <mark key="[" line="18" column="95" />
@@ -839,6 +861,11 @@
         <mark key="]" line="16" column="85" />
         <mark key="." line="16" column="85" />
         <mark key="^" line="16" column="85" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/cli.sh" timestamp="1508958044849">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/Readme.txt" timestamp="1495198708235">
         <mark key="[" line="3" column="75" />
@@ -1010,6 +1037,11 @@
         <mark key="]" line="5" column="72" />
         <mark key="^" line="1" column="35" />
         <mark key="." line="5" column="72" />
+      </file>
+      <file name="$USER_HOME$/training/prometheus/prometheus-workshop/src/main/scala/workshop/prom/monitoring/MonitoringSpecs.scala" timestamp="1508410514932">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/create-jobs.sh" timestamp="1509729076138">
         <mark key="[" line="2" column="25" />
@@ -1216,6 +1248,11 @@
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/requirements.txt" timestamp="1509755785760">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/job-template.yaml" timestamp="1510137685966">
         <mark key="'" line="10" column="22" />
@@ -1508,6 +1545,11 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/env.sh" timestamp="1509013849624">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/brew.sh" timestamp="1509105740998">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="42" column="57" />
@@ -1630,6 +1672,11 @@
         <mark key="^" line="52" column="52" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/build_docker_image.py" timestamp="1509755222106">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/main.py" timestamp="1490715442785">
         <mark key="'" line="18" column="44" />
         <mark key="[" line="0" column="0" />
@@ -1698,6 +1745,11 @@
         <mark key="." line="45" column="79" />
         <mark key="^" line="45" column="79" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/link.sh" timestamp="1509040280531">
+        <mark key="[" line="50" column="39" />
+        <mark key="]" line="50" column="40" />
+        <mark key="." line="50" column="40" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498550490983">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="33" column="55" />
@@ -1753,6 +1805,11 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/env-osx.sh" timestamp="1509013802099">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline_v1.py" timestamp="1498217463124">
         <mark key="'" line="42" column="3" />
@@ -1975,6 +2032,11 @@
         <mark key="." line="21" column="21" />
         <mark key="^" line="21" column="21" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/config.zsh" timestamp="1508963146481">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload-docker-image.sh" timestamp="1509752853887">
         <mark key="[" line="2" column="65" />
         <mark key="]" line="2" column="66" />
@@ -1995,7 +2057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="20" column="50" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload_docker_image.py" />
       <jump line="42" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="62" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
@@ -2095,10 +2156,11 @@
       <jump line="5" column="75" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
       <jump line="14" column="29" filename="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/ocadolabs-router/package.json" />
+      <jump line="47" column="32" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/usr/share/nginx/html</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>post</text>
