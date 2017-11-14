@@ -1017,11 +1017,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510611222173">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" timestamp="1510653116713">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/CHANGES.md" timestamp="1487854687188">
         <mark key="[" line="13" column="37" />
@@ -1335,6 +1335,7 @@
         <mark key="." line="12" column="82" />
         <mark key="^" line="12" column="65" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/patricknet-dashboard/frontend/deploy.sh" timestamp="1510653508206" />
       <file name="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" timestamp="1498489951254">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="122" column="1" />
@@ -2090,13 +2091,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>./</text>
+        <text>/usr/share/nginx/html</text>
       </register>
       <register name="/" type="4">
         <text>ajv</text>
       </register>
-      <register name="0" type="4">
-        <text>HtmlWebpackPlugin</text>
+      <register name="0" type="2">
+        <text encoding="base64">Q09QWSBkaXN0IC91c3Ivc2hhcmUvbmdpbngvaHRtbC9kaXN0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2105,27 +2106,27 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q01EIFsgImh0dHAtc2VydmVyIiwgIi9vcHQvYXBwIiBdCg==</text>
+        <text encoding="base64">CkNPUFkgYXNzZXRzIC91c3Ivc2hhcmUvbmdpbngvaHRtbC9hc3NldHMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RVhQT1NFIDgwODAK</text>
+        <text encoding="base64">Q01EIFsgImh0dHAtc2VydmVyIiwgIi9vcHQvYXBwIiBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIGh0dHAtc2VydmVyCgpFTlYgQVBQX0RJUiAvb3B0L2FwcAoKV09SS0RJUiAkQVBQX0RJUgoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">I0NNRCBbICJiYXNoIiBdCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIGh0dHAtc2VydmVyCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">RVhQT1NFIDgwODAK</text>
       </register>
-      <register name="9" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIGh0dHAtc2VydmVyCgpFTlYgQVBQX0RJUiAvb3B0L2FwcAoKV09SS0RJUiAkQVBQX0RJUgoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">I0NNRCBbICJiYXNoIiBdCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
