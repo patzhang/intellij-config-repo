@@ -53,7 +53,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/patricknet-dashboard/frontend/package.json" timestamp="1510606866556" />
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" timestamp="1510660235875">
         <mark key="'" line="47" column="32" />
         <mark key="[" line="32" column="2" />
@@ -656,8 +655,8 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/package.json" timestamp="1510594932766">
-        <mark key="'" line="5" column="75" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/package.json" timestamp="1510667232448">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="29" />
         <mark key="." line="3" column="29" />
@@ -1372,7 +1371,6 @@
         <mark key="." line="12" column="82" />
         <mark key="^" line="12" column="65" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/patricknet-dashboard/frontend/deploy.sh" timestamp="1510653508206" />
       <file name="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" timestamp="1498489951254">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="122" column="1" />
@@ -2057,7 +2055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="50" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/upload_docker_image.py" />
       <jump line="42" column="25" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="62" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="5" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
@@ -2157,13 +2154,14 @@
       <jump line="14" column="29" filename="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/ocadolabs-router/package.json" />
       <jump line="47" column="32" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>var</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>phaser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q09QWSBkaXN0IC91c3Ivc2hhcmUvbmdpbngvaHRtbC9kaXN0Cg==</text>
@@ -2203,27 +2201,16 @@
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>phaser</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>phaser</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ZSH</entry>
-        <entry>env.sh</entry>
-        <entry>configenv</entry>
-        <entry>localrc</entry>
-        <entry>Graph</entry>
-        <entry>iml</entry>
-        <entry>output</entry>
-        <entry>strptime</entry>
-        <entry>now</entry>
-        <entry encoding="base64">XDx0aW1lc3RhbXBfbm93XD4=</entry>
-        <entry encoding="base64">XDxVUExPQURfVE9fR0NTXD4=</entry>
         <entry>socket</entry>
         <entry>_m</entry>
         <entry>m_</entry>
@@ -2244,14 +2231,9 @@
         <entry>browser-sync</entry>
         <entry>ajv</entry>
         <entry>post</entry>
+        <entry>phaser</entry>
       </history-search>
       <history-cmd>
-        <entry>129</entry>
-        <entry>29</entry>
-        <entry>vslpit</entry>
-        <entry>vsplit</entry>
-        <entry>help</entry>
-        <entry>%s/sed/see/gc</entry>
         <entry>%s/see/sed/g</entry>
         <entry>tabe</entry>
         <entry>help tabe</entry>
