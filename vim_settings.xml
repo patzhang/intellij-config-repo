@@ -380,7 +380,7 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="59" column="23" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510674706062">
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510758119247">
         <mark key="'" line="21" column="21" />
         <mark key="[" line="24" column="29" />
         <mark key="]" line="24" column="30" />
@@ -2224,15 +2224,10 @@
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>socket</entry>
-        <entry>_m</entry>
-        <entry>m_</entry>
-        <entry>order</entry>
-        <entry>readme</entry>
         <entry>main</entry>
         <entry encoding="base64">XDxpbWFnZV9maWxlX2JcPg==</entry>
         <entry>main()</entry>
