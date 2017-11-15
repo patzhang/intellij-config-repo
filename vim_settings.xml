@@ -41,7 +41,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" timestamp="1510585384978">
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" timestamp="1510753872352">
         <mark key="[" line="15" column="47" />
         <mark key="]" line="15" column="58" />
         <mark key="." line="15" column="58" />
@@ -1308,6 +1308,12 @@
         <mark key="." line="30" column="24" />
         <mark key="^" line="14" column="47" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/swys/src/states/Game.js" timestamp="1510754147943">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset/v2-products.json" timestamp="1507111424950">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="32" column="0" />
@@ -2169,7 +2175,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>300</text>
+        <text>Phaser + ES6 + Webpack</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
