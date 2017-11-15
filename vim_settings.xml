@@ -41,11 +41,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" timestamp="1510763464780">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="40" />
-        <mark key="." line="19" column="40" />
-        <mark key="^" line="19" column="40" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" timestamp="1510765844386">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="56" />
+        <mark key="^" line="25" column="56" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/__init__.py" timestamp="1487804928877">
         <mark key="[" line="0" column="0" />
@@ -53,12 +53,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" timestamp="1510761308294">
-        <mark key="'" line="50" column="32" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
-        <mark key="^" line="17" column="9" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" timestamp="1510763724719">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+        <mark key="^" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/gitconfig.symlink" timestamp="1508955487206">
         <mark key="[" line="5" column="11" />
@@ -380,11 +380,12 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="59" column="23" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510763417261">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510765948336">
+        <mark key="'" line="30" column="35" />
+        <mark key="[" line="32" column="32" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="^" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
@@ -667,12 +668,12 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/sprites/Dee.js" timestamp="1510759675447">
+      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/sprites/Dee.js" timestamp="1510765642192">
         <mark key="'" line="10" column="3" />
         <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="22" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/test_barcodeManager.py" timestamp="1505818750940">
         <mark key="[" line="10" column="18" />
@@ -2072,10 +2073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="505" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="27" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="546" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="545" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="8" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="103" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2172,55 +2169,78 @@
       <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" />
       <jump line="995" column="0" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js" />
       <jump line="26" column="7" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" />
+      <jump line="28" column="4" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/main.js" />
+      <jump line="9" column="3" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" />
+      <jump line="29" column="7" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" />
+      <jump line="22" column="35" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" />
     </jumps>
     <registers>
+      <register name="i" type="4">
+        <keys>
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>Dee</text>
       </register>
       <register name="/" type="4">
-        <text>png</text>
+        <text>cent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKHdpZHRoLCBoZWlnaHQsIFBoYXNlci5DQU5WQVMsICdjb250ZW50JywgbnVsbCkK</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZC5pbWFnZSgnRGVlJywgJy4vYXNzZXRzL2ltYWdlcy9EZWUuc3ZnJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkZWUgeDonICsgdGhpcy5kZWUuR2V0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJhbm5lclRleHQgPSAnU2F5IFdoYXQgWW91IFNlZScKICAgIGxldCBiYW5uZXIgPSB0aGlzLmFkZC50ZXh0KDI1MCwgdGhpcy5nYW1lLmhlaWdodCAtIDEyMCwgYmFubmVyVGV4dCkKICAgIGJhbm5lci5mb250ID0gJ0JhbmdlcnMnCiAgICBiYW5uZXIucGFkZGluZy5zZXQoMTAsIDE2KQogICAgYmFubmVyLmZvbnRTaXplID0gNjAKICAgIGJhbm5lci5maWxsID0gJyNiMWJhMWQnCiAgICBiYW5uZXIuc21vb3RoZWQgPSBmYWxzZQogICAgYmFubmVyLmFuY2hvci5zZXRUbygwLjUpCgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd3aWR0aDonICsgdGhpcy53b3JsZC53aWR0aCArICcgIGhlaWdodDonICsgdGhpcy53b3JsZC5oZWlnaHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZC5pbWFnZSgnRGVlJywgJy4vYXNzZXRzL2ltYWdlcy9EZWUuc3ZnJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2FtZS50aW1lLmV2ZW50cy5hZGQoUGhhc2VyLlRpbWVyLlNFQ09ORCAqIDIsIHJ1bkdhbWUsIHRoaXMpCgogICAgZnVuY3Rpb24gcnVuR2FtZSAoKSB7CiAgICAgIGNvbnNvbGUubG9nKCd3YWl0aW5nIC4uLicpCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBydW5HYW1lICgpIHsKICAgIHRoaXMuc3RhdGUuc3RhcnQoJ0dhbWUnKQogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS5zdGFydCgnR2FtZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHJ1bkdhbWUgKCkgewogICAgICB0aGlzLnN0YXRlLnN0YXJ0KCdHYW1lJykKICAgIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZGVyQmcgPSB0aGlzLmFkZC5zcHJpdGUodGhpcy5nYW1lLndvcmxkLmNlbnRlclgsIHRoaXMuZ2FtZS53b3JsZC5jZW50ZXJZLCAnbG9hZGVyQmcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCB0aW1lciA9IHRoaXMuZ2FtZS50aW1lLmNyZWF0ZShmYWxzZSkKICAgIHRpbWVyLmFkZCgxMDAwLCBydW5HYW1lKCkpCiAgICB0aW1lci5zdGFydCgpCgo=</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZGVyQmcgPSB0aGlzLmFkZC5zcHJpdGUodGhpcy5nYW1lLndvcmxkLmNlbnRlclgsIHRoaXMuZ2FtZS53b3JsZC5jZW50ZXJZLCAnbG9hZGVyQmcnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZGVyQmcgPSB0aGlzLmFkZC5zcHJpdGUodGhpcy5nYW1lLndvcmxkLmNlbnRlclgsIHRoaXMuZ2FtZS53b3JsZC5jZW50ZXJZLCAnbG9hZGVyQmcnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>e main.js</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>png</last-search>
+      <last-search>cent</last-search>
       <last-offset />
-      <last-pattern>png</last-pattern>
+      <last-pattern>cent</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -2228,7 +2248,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
         <entry encoding="base64">XDxpbWFnZV9maWxlX2JcPg==</entry>
         <entry>main()</entry>
         <entry>TOTAL</entry>
@@ -2249,9 +2268,10 @@
         <entry>cleartype</entry>
         <entry>size</entry>
         <entry>png</entry>
+        <entry>800</entry>
+        <entry>cent</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/see/sed/g</entry>
         <entry>tabe</entry>
         <entry>help tabe</entry>
         <entry>537</entry>
@@ -2263,7 +2283,6 @@
         <entry>110</entry>
         <entry>%s/-/_/g</entry>
         <entry>10</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>334</entry>
         <entry>34</entry>
         <entry>42</entry>
@@ -2272,6 +2291,8 @@
         <entry>vsp</entry>
         <entry>sp</entry>
         <entry>e main.js</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWwgLg==</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
