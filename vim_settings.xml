@@ -1038,6 +1038,9 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/inception_network.py" timestamp="1510827724381">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1501083459303">
         <mark key="[" line="5" column="72" />
         <mark key="]" line="5" column="72" />
@@ -1296,6 +1299,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" timestamp="1510828504657">
+        <mark key="'" line="193" column="10" />
+        <mark key="[" line="156" column="18" />
+        <mark key="]" line="156" column="17" />
+        <mark key="^" line="156" column="17" />
+        <mark key="." line="156" column="17" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/image_stats_test.json" timestamp="1505316682263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="299733" />
@@ -1355,12 +1365,6 @@
         <mark key="]" line="11" column="13" />
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
-      </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/yarn.lock" timestamp="1510589496004">
-        <mark key="'" line="951" column="0" />
-        <mark key="[" line="685" column="0" />
-        <mark key="]" line="685" column="0" />
-        <mark key="." line="685" column="0" />
       </file>
       <file name="$USER_HOME$/hackday2/ds-hackday2/model.py" timestamp="1507196580990">
         <mark key="[" line="18" column="64" />
@@ -2072,19 +2076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="545" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="8" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="261" column="69" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="544" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="53" column="31" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="54" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="55" column="3" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="58" column="33" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="59" column="56" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="68" column="34" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="69" column="35" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="129" column="93" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="137" column="17" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="408" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="509" column="7" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2172,6 +2163,19 @@
       <jump line="9" column="3" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" />
       <jump line="29" column="7" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" />
       <jump line="22" column="35" filename="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/inception_network.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="103" column="8" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="129" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="110" column="19" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="122" column="19" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="126" column="19" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="128" column="19" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="0" column="38" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
+      <jump line="193" column="10" filename="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/train.py" />
     </jumps>
     <registers>
       <register name="i" type="4">
@@ -2197,53 +2201,53 @@
         <text>200</text>
       </register>
       <register name="/" type="4">
-        <text>cent</text>
+        <text>AugumentedIn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nYW1lLmRlYnVnLmlucHV0SW5mbygzMiwgMTUwLCAncmdiKDE3NywgMTg2LCAyOSknKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uX2dlbmVyYXRvciA9IGdldF92YWxpZGF0aW9uX2dlbmVyYXRvcih1c2VfYXVnbWVudGF0aW9uKS5mbG93X2Zyb21fZGlyZWN0b3J5KAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nYW1lLmRlYnVnLmNhbWVyYUluZm8oMTMyLCAxNTAsICdyZ2IoMTc3LCAxODYsIDI5KScpCg==</text>
+        <text encoding="base64">ZnJvbSBza2ltYWdlIGltcG9ydCBleHBvc3VyZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nYW1lLmRlYnVnLmJvZHlJbmZvKDMyLCAxNTAsICdyZ2IoMTc3LCAxODYsIDI5KScpCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nYW1lLmRlYnVnLmNhbWVyYUluZm8oMTMyLCAxNTAsICdyZ2IoMTc3LCAxODYsIDI5KScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkZWUgeDonICsgdGhpcy5kZWUuR2V0KQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nYW1lLmRlYnVnLmJvZHlJbmZvKDMyLCAxNTAsICdyZ2IoMTc3LCAxODYsIDI5KScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd3aWR0aDonICsgdGhpcy53b3JsZC53aWR0aCArICcgIGhlaWdodDonICsgdGhpcy53b3JsZC5oZWlnaHQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkZWUgeDonICsgdGhpcy5kZWUuR2V0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9hZC5pbWFnZSgnRGVlJywgJy4vYXNzZXRzL2ltYWdlcy9EZWUuc3ZnJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd3aWR0aDonICsgdGhpcy53b3JsZC53aWR0aCArICcgIGhlaWdodDonICsgdGhpcy53b3JsZC5oZWlnaHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2FtZS50aW1lLmV2ZW50cy5hZGQoUGhhc2VyLlRpbWVyLlNFQ09ORCAqIDIsIHJ1bkdhbWUsIHRoaXMpCgogICAgZnVuY3Rpb24gcnVuR2FtZSAoKSB7CiAgICAgIGNvbnNvbGUubG9nKCd3YWl0aW5nIC4uLicpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9hZC5pbWFnZSgnRGVlJywgJy4vYXNzZXRzL2ltYWdlcy9EZWUuc3ZnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS5zdGFydCgnR2FtZScK</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2FtZS50aW1lLmV2ZW50cy5hZGQoUGhhc2VyLlRpbWVyLlNFQ09ORCAqIDIsIHJ1bkdhbWUsIHRoaXMpCgogICAgZnVuY3Rpb24gcnVuR2FtZSAoKSB7CiAgICAgIGNvbnNvbGUubG9nKCd3YWl0aW5nIC4uLicpCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS5zdGFydCgnR2FtZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9hZGVyQmcgPSB0aGlzLmFkZC5zcHJpdGUodGhpcy5nYW1lLndvcmxkLmNlbnRlclgsIHRoaXMuZ2FtZS53b3JsZC5jZW50ZXJZLCAnbG9hZGVyQmcnKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>h back</text>
       </register>
     </registers>
     <search>
-      <last-search>cent</last-search>
+      <last-search>AugumentedIn</last-search>
       <last-offset />
-      <last-pattern>cent</last-pattern>
+      <last-pattern>AugumentedIn</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2269,6 +2273,8 @@
         <entry>png</entry>
         <entry>800</entry>
         <entry>cent</entry>
+        <entry encoding="base64">XDxJbWFnZURhdGFHZW5lcmF0b3JcPg==</entry>
+        <entry>AugumentedIn</entry>
       </history-search>
       <history-cmd>
         <entry>tabe</entry>
@@ -2292,6 +2298,7 @@
         <entry>e main.js</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgLg==</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>h back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
