@@ -410,11 +410,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/config.ini" timestamp="1511432806986">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/config.ini" timestamp="1511436153832">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Workspaces/flutter-docker/tmp/Dockerfile" timestamp="1505133867795">
         <mark key="'" line="28" column="8" />
@@ -1396,6 +1396,12 @@
         <mark key="." line="12" column="82" />
         <mark key="^" line="12" column="65" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.dockerignore" timestamp="1511436600394">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
       <file name="$USER_HOME$/WorkspacesBB/notes/linux_notes.txt" timestamp="1498489951254">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="122" column="1" />
@@ -1664,11 +1670,11 @@
         <mark key="^" line="45" column="57" />
         <mark key="." line="45" column="58" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/README.md" timestamp="1511435553523">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="33" column="109" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/README.md" timestamp="1511436832788">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
       </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/alertmanager.yml" timestamp="1508417943181">
         <mark key="[" line="9" column="18" />
@@ -2216,7 +2222,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>config.ini</text>
