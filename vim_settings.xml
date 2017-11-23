@@ -542,6 +542,10 @@
         <mark key="." line="53" column="7" />
         <mark key="^" line="53" column="7" />
       </file>
+      <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/hooks/recent.post-checkout" timestamp="1509026073623">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="152" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" timestamp="1509725105937">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="32" />
@@ -553,6 +557,10 @@
         <mark key="]" line="38" column="10" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/apply-jobs.sh" timestamp="1511435275210">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/.dotfiles/hammerspoon/hammerspoon.symlink/init.lua" timestamp="1502201986637">
         <mark key="'" line="0" column="0" />
@@ -594,6 +602,10 @@
         <mark key="]" line="21" column="40" />
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/train.py" timestamp="1509725297477">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="67" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_main.py" timestamp="1507064909288">
         <mark key="'" line="89" column="0" />
@@ -766,13 +778,6 @@
         <mark key="]" line="27" column="5" />
         <mark key="." line="27" column="5" />
         <mark key="^" line="27" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1510657852960">
-        <mark key="'" line="0" column="0" />
-        <mark key="i" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.dotfiles/python/install/pip-install.sh" timestamp="1507056021294">
         <mark key="[" line="2" column="40" />
@@ -1083,11 +1088,10 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/create_kube_jobs.py" timestamp="1510074381327">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-        <mark key="^" line="12" column="40" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/create_kube_jobs.py" timestamp="1511435286146">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
         <mark key="'" line="7" column="6" />
@@ -1275,6 +1279,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/jobs/job.a-tp1-fs3-ps2-lc2-fc64.yaml" timestamp="1509727111050">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/git.zsh" timestamp="1508964296136">
         <mark key="'" line="16" column="0" />
@@ -1656,11 +1664,11 @@
         <mark key="^" line="45" column="57" />
         <mark key="." line="45" column="58" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/README.md" timestamp="1511434588134">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="35" />
-        <mark key="." line="18" column="35" />
-        <mark key="^" line="20" column="49" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/README.md" timestamp="1511435553523">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="33" column="109" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/alertmanager.yml" timestamp="1508417943181">
         <mark key="[" line="9" column="18" />
@@ -1730,6 +1738,10 @@
         <mark key="]" line="23" column="22" />
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/requirements.txt" timestamp="1509755777896">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/output/job_ds-builder-20171107-170921-1-5027632001118.yaml" timestamp="1510137484052">
         <mark key="[" line="10" column="70" />
@@ -2034,6 +2046,10 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
+      <file name="$USER_HOME$/DL_Speech/teachable-machine/.eslintrc.json" timestamp="1510601698042">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 6 Almost Finished/src/main/java/pl/refactoring/videostore/original/finished/ProgressivePointsCalculator.java" timestamp="1488374971046">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="67" />
@@ -2206,10 +2222,10 @@
         <text>config.ini</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TE9DQUxfUlVOID0gVHJ1ZSAgICMgaWYgVHJ1ZSwgaXQgcnVucyBsb2NhbGx5IHdpdGhvdXQgdXNpbmcgRG9ja2VyIGFuZCBLdWJlcm5ldGVzCg==</text>
+        <text encoding="base64">a3ViZWN0bCBjcmVhdGUgLVJmIC4vam9icy9vdXRwdXQvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2221,22 +2237,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3VycmVudF9kaXIgPSBwYXRoLnJlYWxwYXRoKHBhdGguYWJzcGF0aChwYXRoLnNwbGl0KGluc3BlY3QuZ2V0ZmlsZShpbnNwZWN0LmN1cnJlbnRmcmFtZSgpKSlbMF0pKQoKQ09ORklHX0lOSSA9IHBhdGguam9pbihjdXJyZW50X2RpciwgJy4uL2NvbmZpZy5pbmknKQoKCg==</text>
+        <text encoding="base64">LSBSdW4ga3ViZXJuZXRlcy9qb2JzL2FwcGx5LWpvYnMuc2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UkVRVUlSRURfSU1BR0VTID0gMTAwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBza2ltYWdlIGltcG9ydCBleHBvc3VyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nYW1lLmRlYnVnLmNhbWVyYUluZm8oMTMyLCAxNTAsICdyZ2IoMTc3LCAxODYsIDI5KScpCg==</text>
+        <text encoding="base64">Y3VycmVudF9kaXIgPSBwYXRoLnJlYWxwYXRoKHBhdGguYWJzcGF0aChwYXRoLnNwbGl0KGluc3BlY3QuZ2V0ZmlsZShpbnNwZWN0LmN1cnJlbnRmcmFtZSgpKSlbMF0pKQoKQ09ORklHX0lOSSA9IHBhdGguam9pbihjdXJyZW50X2RpciwgJy4uL2NvbmZpZy5pbmknKQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5nYW1lLmRlYnVnLmJvZHlJbmZvKDMyLCAxNTAsICdyZ2IoMTc3LCAxODYsIDI5KScpCg==</text>
+        <text encoding="base64">UkVRVUlSRURfSU1BR0VTID0gMTAwMAo=</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
