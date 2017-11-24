@@ -518,6 +518,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" timestamp="1511524805826">
+        <mark key="[" line="14" column="71" />
+        <mark key="]" line="14" column="72" />
+        <mark key="." line="14" column="72" />
+        <mark key="^" line="14" column="72" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_macOS.sh" timestamp="1487156919377">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -1250,6 +1256,13 @@
         <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="16" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/readme.txt" timestamp="1511523877817">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="139" column="29" />
+        <mark key="]" line="139" column="29" />
+        <mark key="^" line="139" column="23" />
+        <mark key="." line="139" column="29" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/model_baseline.py" timestamp="1498216622799">
         <mark key="'" line="53" column="28" />
         <mark key="[" line="24" column="40" />
@@ -1671,17 +1684,22 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" timestamp="1511523552974">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="531" column="15" />
+        <mark key="]" line="531" column="60" />
+      </file>
       <file name="$USER_HOME$/DL_Speech/teachable-machine/package.json" timestamp="1507824640860">
         <mark key="[" line="45" column="58" />
         <mark key="]" line="45" column="58" />
         <mark key="^" line="45" column="57" />
         <mark key="." line="45" column="58" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/README.md" timestamp="1511436832788">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="13" column="29" />
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/README.md" timestamp="1511524186192">
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="39" column="41" />
         <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
+        <mark key="." line="39" column="41" />
       </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/alertmanager.yml" timestamp="1508417943181">
         <mark key="[" line="9" column="18" />
@@ -2105,12 +2123,14 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="34" column="37" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/test.txt" timestamp="1511524030866">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="119" column="51" />
+        <mark key="^" line="119" column="51" />
+        <mark key="." line="119" column="51" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="534" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="344" column="44" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="350" column="54" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="354" column="26" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="159" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="160" column="58" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="169" column="49" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2207,6 +2227,10 @@
       <jump line="547" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="117" column="64" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/test" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/test" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/readme.txt" />
+      <jump line="17" column="32" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="519" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
     </jumps>
     <registers>
       <register name="i" type="4">
@@ -2229,13 +2253,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>config.ini</text>
+        <text>4025500143503</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">a3ViZWN0bCBjcmVhdGUgLVJmIC4vam9icy9vdXRwdXQvCg==</text>
+        <text encoding="base64">ICAgIDxoND5Qcm9kdWN0IEltYWdlIERhdGFzZXQgdjIuMiAoODkgU0tVcyBhbmQgMjAwMCBpbWFnZXMgZWFjaCwgMi45IEdCKTwvaDQ+CiAgICBUaGlzIGRhdGFzZXQgd2FzIGJ1aWx0IGluIEdvb2dsZSBjb250YWluZXIgZW5naW5lIHdoaWNoIHRvb2sgYWJvdXQgOCBob3Vycy48YnI+CiAgICBUaGUgc2FtZSBzZWdtZW50YXRpb24gZmlsdGVyIGZvciB2Mi4wIGlzIHVzZWQgdG8gcHJvY2VzcyBpbWFnZXMuIDxicj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -2268,17 +2292,17 @@
         <text encoding="base64">UkVRVUlSRURfSU1BR0VTID0gMTAwMAo=</text>
       </register>
       <register name=":" type="4">
-        <text>46</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>config.ini</last-search>
+      <last-search>4025500143503</last-search>
       <last-offset />
-      <last-pattern>config.ini</last-pattern>
+      <last-pattern>4025500143503</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2302,6 +2326,8 @@
         <entry encoding="base64">XDxJbWFnZURhdGFHZW5lcmF0b3JcPg==</entry>
         <entry>AugumentedIn</entry>
         <entry>config.ini</entry>
+        <entry>5000373702315</entry>
+        <entry>4025500143503</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
@@ -2320,10 +2346,10 @@
         <entry>sp</entry>
         <entry>e main.js</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgLg==</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>h back</entry>
         <entry>vsp</entry>
         <entry>46</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
