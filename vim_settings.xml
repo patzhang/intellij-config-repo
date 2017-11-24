@@ -328,6 +328,13 @@
         <mark key="^" line="88" column="75" />
         <mark key="." line="88" column="75" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/test" timestamp="1511517504355">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="117" column="64" />
+        <mark key="^" line="117" column="64" />
+        <mark key="." line="117" column="64" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_mlp.py" timestamp="1497258917233">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="68" />
@@ -2100,8 +2107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="63" column="45" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="534" column="14" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="344" column="44" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="350" column="54" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2200,6 +2205,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="10" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="547" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="117" column="64" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/test" />
+      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/test" />
     </jumps>
     <registers>
       <register name="i" type="4">
@@ -2271,11 +2278,10 @@
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>curl</entry>
         <entry>gcloud-key</entry>
         <entry>-</entry>
         <entry encoding="base64">XDx5YW1sXD4=</entry>
@@ -2298,7 +2304,6 @@
         <entry>config.ini</entry>
       </history-search>
       <history-cmd>
-        <entry>537</entry>
         <entry>split</entry>
         <entry>%s/'/&quot;-g</entry>
         <entry>unsplit</entry>
