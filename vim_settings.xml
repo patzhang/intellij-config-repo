@@ -393,12 +393,6 @@
         <mark key="." line="13" column="64" />
         <mark key="^" line="59" column="23" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Game.js" timestamp="1510767420261">
-        <mark key="'" line="30" column="35" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/svg_util.py" timestamp="1487840999225">
         <mark key="[" line="29" column="41" />
         <mark key="]" line="30" column="3" />
@@ -554,6 +548,12 @@
         <mark key="]" line="53" column="7" />
         <mark key="." line="53" column="7" />
         <mark key="^" line="53" column="7" />
+      </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-external/.gitignore" timestamp="1511885967578">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/hooks/recent.post-checkout" timestamp="1509026073623">
         <mark key="[" line="5" column="0" />
