@@ -1050,9 +1050,6 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/inception_network.py" timestamp="1510827724381">
-        <mark key="'" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1501083459303">
         <mark key="[" line="5" column="72" />
         <mark key="]" line="5" column="72" />
@@ -1369,9 +1366,6 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/DL_Speech/say-what-you-see/assets/images/Dee.svg" timestamp="1510673588043">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/.gitignore" timestamp="1492686429739">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="10" column="16" />
@@ -1538,6 +1532,7 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="0" column="47" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-external/src/dataset_builder/dataset_spec/v2-products.json" timestamp="1512056579488" />
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/.gitignore" timestamp="1497883824974">
         <mark key="[" line="98" column="10" />
         <mark key="]" line="98" column="11" />
