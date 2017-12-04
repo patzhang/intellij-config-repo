@@ -550,10 +550,10 @@
         <mark key="^" line="53" column="7" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-external/.gitignore" timestamp="1511885967578">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/git/hooks/recent.post-checkout" timestamp="1509026073623">
         <mark key="[" line="5" column="0" />
@@ -1545,6 +1545,10 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="8" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/product-image-classification-dev/experiments/inception/Dockerfile" timestamp="1512399527125">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="104" />
+      </file>
       <file name="$USER_HOME$/Workspaces/docker-lab/flutter-docker/Dockerfile" timestamp="1504696963030">
         <mark key="[" line="4" column="47" />
         <mark key="]" line="4" column="57" />
@@ -2253,8 +2257,8 @@
       <register name="/" type="4">
         <text>4025500143503</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxoND5Qcm9kdWN0IEltYWdlIERhdGFzZXQgdjIuMiAoODkgU0tVcyBhbmQgMjAwMCBpbWFnZXMgZWFjaCwgMi45IEdCKTwvaDQ+CiAgICBUaGlzIGRhdGFzZXQgd2FzIGJ1aWx0IGluIEdvb2dsZSBjb250YWluZXIgZW5naW5lIHdoaWNoIHRvb2sgYWJvdXQgOCBob3Vycy48YnI+CiAgICBUaGUgc2FtZSBzZWdtZW50YXRpb24gZmlsdGVyIGZvciB2Mi4wIGlzIHVzZWQgdG8gcHJvY2VzcyBpbWFnZXMuIDxicj4K</text>
+      <register name="0" type="4">
+        <text>wget http://netnix.ocado.com/certs/lastmile-root.pem -O /usr/local/share/ca-certificates/lastmile.crt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
