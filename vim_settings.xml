@@ -15,6 +15,9 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="/a.dummy" timestamp="1512740011060">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/prd_img_classifier/model_baseline/baseline_model.py" timestamp="1498227882077">
         <mark key="'" line="65" column="4" />
         <mark key="[" line="8" column="3" />
@@ -512,6 +515,12 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/training-coderetreat/code4life/code_for_life.py" timestamp="1512739920135">
+        <mark key="'" line="7" column="0" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/pages/index.html" timestamp="1511524805826">
         <mark key="[" line="14" column="71" />
         <mark key="]" line="14" column="72" />
@@ -804,6 +813,9 @@
         <mark key="." line="20" column="67" />
         <mark key="^" line="20" column="67" />
       </file>
+      <file name="/Dummy.txt" timestamp="1512739928895">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="21" />
@@ -872,6 +884,12 @@
         <mark key="]" line="94" column="21" />
         <mark key="." line="94" column="21" />
         <mark key="^" line="94" column="21" />
+      </file>
+      <file name="$USER_HOME$/training-coderetreat/code4life/code_for_life_tests.py" timestamp="1512739973355">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="47" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/dataset_builder/main.py" timestamp="1509725594871">
         <mark key="'" line="7" column="0" />
@@ -1320,6 +1338,9 @@
         <mark key="]" line="156" column="17" />
         <mark key="^" line="156" column="17" />
         <mark key="." line="156" column="17" />
+      </file>
+      <file name="$USER_HOME$/training-coderetreat/code4life/tests.py" timestamp="1512740064607">
+        <mark key="[" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/input/image_stats_test.json" timestamp="1505316682263">
         <mark key="[" line="0" column="0" />
@@ -2130,7 +2151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="12" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="160" column="58" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="169" column="49" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="191" column="28" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2230,6 +2250,7 @@
       <jump line="17" column="32" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
       <jump line="519" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/training-coderetreat/code4life/code_for_life.py" />
     </jumps>
     <registers>
       <register name="i" type="4">
@@ -2252,7 +2273,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>4025500143503</text>
@@ -2346,8 +2367,8 @@
         <entry>e main.js</entry>
         <entry encoding="base64">JzwsJz5ub3JtYWwgLg==</entry>
         <entry>h back</entry>
-        <entry>vsp</entry>
         <entry>46</entry>
+        <entry>vsp</entry>
         <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
