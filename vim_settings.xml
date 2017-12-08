@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/label_images.py" timestamp="1494854741513">
@@ -31,6 +31,12 @@
         <mark key="]" line="4" column="38" />
         <mark key="^" line="39" column="40" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/training-coderetreat/code4life-py/game.py" timestamp="1512743818772">
+        <mark key="[" line="25" column="32" />
+        <mark key="]" line="26" column="13" />
+        <mark key="^" line="26" column="13" />
+        <mark key="." line="26" column="13" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/summary.html" timestamp="1507726499803">
         <mark key="[" line="7" column="7" />
@@ -2278,13 +2284,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
         <text>4025500143503</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xpdmVfY2VsbF8yX25laWdoYm91cihzZWxmKToKICAgICAgICBnYW1lID0gR2FtZSgpCiAgICAgICAgaW5pdGlhbF9zdGF0ZSA9IFsoMCwgMCksICgwLCAxKSwgKDEsIDApXQogICAgICAgIGdhbWUucG9wdWxhdGUoaW5pdGlhbF9zdGF0ZSkKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKGdhbWUuZXZvbHZlKCksIFsoMCwgMCksICgwLCAxKSwgKDEsIDApXSkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBzZWxmLmFzc2VydEVxdWFsKDAsIHN0YXRlLmdldF9saXZlX2NlbGxzKCkpCiAgICAgIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBnCg==</text>
