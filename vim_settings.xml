@@ -339,12 +339,11 @@
         <mark key="^" line="117" column="64" />
         <mark key="." line="117" column="64" />
       </file>
-      <file name="$USER_HOME$/training/scala-training/src/mysheet.sc" timestamp="1513085950467">
+      <file name="$USER_HOME$/training/scala-training/src/mysheet.sc" timestamp="1513087011314">
         <mark key="'" line="6" column="33" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_mlp.py" timestamp="1497258917233">
         <mark key="[" line="0" column="2" />
@@ -1091,6 +1090,12 @@
         <mark key="]" line="20" column="71" />
         <mark key="^" line="20" column="71" />
         <mark key="." line="20" column="71" />
+      </file>
+      <file name="$USER_HOME$/training/scala-training/src/filter.sc" timestamp="1513087756014">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="7" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/zsh/zplug.sh" timestamp="1509009007153">
         <mark key="'" line="50" column="0" />
@@ -2231,7 +2236,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tion.</text>
+        <text>(f)</text>
       </register>
       <register name="/" type="4">
         <text>4025500143503</text>
@@ -2240,34 +2245,34 @@
         <text encoding="base64">ICBzZWxmLmFzc2VydEVxdWFsKDAsIHN0YXRlLmdldF9saXZlX2NlbGxzKCkpCiAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmlsdGVyKHRlc3Qpe30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2l6ZSgxLCAyLCAzKQo=</text>
+        <text encoding="base64">CkB0YWlscmVjCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2l6ZSgxLCAyLCAzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldF9saXZlX2NlbGwoc2VsZik6CiAgICAgICAgc2VsZi5mYWlsKCkK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dhbWVzdGF0ZV9WZG9lc19ub3RfY29udGFpbl9hX2xpdmVfY2VsbChzZWxmKToKICAgICAgICBnYW1lID0gR2FtZSgpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgwLCBnYW1lLmdldF9saXZlX2NlbGwoKSkKCiAgICBkZWYgdGVzdF9saXZlX2NlbGxfMV9uZWlnaGJvdXIoc2VsZik6CiAgICAgICAgZ2FtZSA9IEdhbWUoKQogICAgICAgIGluaXRpYWxfc3RhdGUgPSBbKDAsMCksICgwLDEpXQogICAgICAgIGdhbWUucG9wdWxhdGUoaW5pdGlhbF9zdGF0ZSkKICAgICAgICBuZXdfc3RhdGUgPSBnYW1lLmV2b2x2ZSgpCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbChbXSwgbmV3X3N0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICBnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dldF9saXZlX2NlbGwoc2VsZik6CiAgICAgICAgc2VsZi5mYWlsKCkK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
