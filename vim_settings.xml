@@ -613,11 +613,12 @@
         <mark key="^" line="47" column="23" />
         <mark key="." line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/training/scala-training/src/more.sc" timestamp="1513089189990">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/training/scala-training/src/more.sc" timestamp="1513089277827">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="12" column="52" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="11" column="2" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/prd-img-ds-parallel/dataset_builder/main.py" timestamp="1507633225808">
         <mark key="'" line="532" column="13" />
@@ -1115,6 +1116,13 @@
         <mark key="]" line="29" column="52" />
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
+      </file>
+      <file name="$USER_HOME$/training/scala-training/src/filter_and_map.sc" timestamp="1513090330603">
+        <mark key="'" line="38" column="24" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
         <mark key="'" line="7" column="6" />
@@ -2120,8 +2128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="28" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="197" column="16" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="65" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="508" column="102" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2220,6 +2226,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/training-coderetreat/code4life/code_for_life.py" />
       <jump line="5" column="18" filename="$USER_HOME$/training-coderetreat/code4life/test_game.py" />
       <jump line="2" column="33" filename="$USER_HOME$/training/scala-training/src/mysheet.sc" />
+      <jump line="5" column="0" filename="$USER_HOME$/training/scala-training/src/more.sc" />
+      <jump line="38" column="24" filename="$USER_HOME$/training/scala-training/src/filter_and_map.sc" />
     </jumps>
     <registers>
       <register name="i" type="4">
@@ -2242,43 +2250,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{ even () }</text>
+        <text>Left</text>
       </register>
       <register name="/" type="4">
         <text>4025500143503</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBzZWxmLmFzc2VydEVxdWFsKDAsIHN0YXRlLmdldF9saXZlX2NlbGxzKCkpCiAgICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIG1hcFtBLCBCXShsOiBMaXN0W0FdKShmOiBBID0+IEIpOiBMaXN0W0JdID0KICBsLmZvbGRSaWdodChMaXN0LmVtcHR5W0JdKSB7CiAgICAoeCwgbCkgPT4gZih4KSA6OiBsCiAgfQoKZGVmCi8vZGVmIGZpbHRlcltBXShsOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBMaXN0W0FdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MSBDb21tZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TWFwIGltcGxlbWVudGVkIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGlmIChmKHgpKSAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dDEK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MSBDb21tZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmlsdGVyKHRlc3Qpe30K</text>
+        <text encoding="base64">TWFwIGltcGxlbWVudGVkIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkB0YWlscmVjCgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">dDEK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
