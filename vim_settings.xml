@@ -339,12 +339,12 @@
         <mark key="^" line="117" column="64" />
         <mark key="." line="117" column="64" />
       </file>
-      <file name="$USER_HOME$/training/scala-training/src/mysheet.sc" timestamp="1513079955757">
-        <mark key="'" line="3" column="33" />
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
+      <file name="$USER_HOME$/training/scala-training/src/mysheet.sc" timestamp="1513085715141">
+        <mark key="'" line="6" column="33" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/mnist_keras/mnist_mlp.py" timestamp="1497258917233">
         <mark key="[" line="0" column="2" />
@@ -2231,7 +2231,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>; println(acc)</text>
+        <text>tion.</text>
       </register>
       <register name="/" type="4">
         <text>4025500143503</text>
