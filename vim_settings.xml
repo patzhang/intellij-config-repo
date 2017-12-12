@@ -1117,12 +1117,12 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/training/scala-training/src/filter_and_map.sc" timestamp="1513090330603">
+      <file name="$USER_HOME$/training/scala-training/src/filter_and_map.sc" timestamp="1513095142289">
         <mark key="'" line="38" column="24" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="37" column="13" />
+        <mark key="[" line="58" column="41" />
+        <mark key="]" line="58" column="16" />
+        <mark key="." line="58" column="16" />
+        <mark key="^" line="58" column="16" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
         <mark key="'" line="7" column="6" />
@@ -2250,7 +2250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Left</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>4025500143503</text>
@@ -2259,34 +2259,34 @@
         <text encoding="base64">ZGVmIG1hcFtBLCBCXShsOiBMaXN0W0FdKShmOiBBID0+IEIpOiBMaXN0W0JdID0KICBsLmZvbGRSaWdodChMaXN0LmVtcHR5W0JdKSB7CiAgICAoeCwgbCkgPT4gZih4KSA6OiBsCiAgfQoKZGVmCi8vZGVmIGZpbHRlcltBXShsOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBMaXN0W0FdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAxIENvbW1lbnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRhaWxyZWMKZGVmIGZpbHRlcjJbQV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChmKHgpKSAgICAK</text>
+        <text encoding="base64">QHRhaWxyZWMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MSBDb21tZW50Cg==</text>
+        <text encoding="base64">ICAgIGlmIChmKHgpKSAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TWFwIGltcGxlbWVudGVkIAo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dDEK</text>
+        <text encoding="base64">MSBDb21tZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
