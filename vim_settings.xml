@@ -1117,12 +1117,12 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="52" />
       </file>
-      <file name="$USER_HOME$/training/scala-training/src/filter_and_map.sc" timestamp="1513095142289">
+      <file name="$USER_HOME$/training/scala-training/src/filter_and_map.sc" timestamp="1513095526391">
         <mark key="'" line="38" column="24" />
-        <mark key="[" line="58" column="41" />
-        <mark key="]" line="58" column="16" />
-        <mark key="." line="58" column="16" />
-        <mark key="^" line="58" column="16" />
+        <mark key="[" line="62" column="18" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/google_bucket/generate_summary.sh" timestamp="1495205075142">
         <mark key="'" line="7" column="6" />
@@ -2250,7 +2250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">TGlzdC5lbXB0eVtCXSAg</text>
       </register>
       <register name="/" type="4">
         <text>4025500143503</text>
