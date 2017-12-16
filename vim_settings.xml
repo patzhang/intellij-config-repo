@@ -288,6 +288,10 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="105" column="0" />
       </file>
+      <file name="$USER_HOME$/DL_Workspace/kubernetes-gpu-cluster/scripts/init-worker.sh" timestamp="1513451502974">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="46" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset_readme.txt" timestamp="1495209969136">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
@@ -1701,11 +1705,6 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" timestamp="1511523552974">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="531" column="15" />
-        <mark key="]" line="531" column="60" />
-      </file>
       <file name="$USER_HOME$/DL_Speech/teachable-machine/package.json" timestamp="1507824640860">
         <mark key="[" line="45" column="58" />
         <mark key="]" line="45" column="58" />
@@ -2255,8 +2254,8 @@
       <register name="/" type="4">
         <text>4025500143503</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIG1hcFtBLCBCXShsOiBMaXN0W0FdKShmOiBBID0+IEIpOiBMaXN0W0JdID0KICBsLmZvbGRSaWdodChMaXN0LmVtcHR5W0JdKSB7CiAgICAoeCwgbCkgPT4gZih4KSA6OiBsCiAgfQoKZGVmCi8vZGVmIGZpbHRlcltBXShsOiBMaXN0W0FdKShmOiBBID0+IEJvb2xlYW4pOiBMaXN0W0FdCg==</text>
+      <register name="0" type="4">
+        <text>--allow-unauthenticated</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAxIENvbW1lbnQK</text>
