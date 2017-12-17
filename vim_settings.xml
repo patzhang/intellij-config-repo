@@ -288,7 +288,7 @@
         <mark key="^" line="54" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/DL_Workspace/kubernetes-gpu-cluster/scripts/init-worker.sh" timestamp="1513451502974">
+      <file name="$USER_HOME$/DL_Workspace/kubernetes-gpu-cluster/scripts/init-worker.sh" timestamp="1513461695333">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="46" />
       </file>
