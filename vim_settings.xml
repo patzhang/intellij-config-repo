@@ -675,12 +675,12 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1501148099079">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="79" column="33" />
-        <mark key="." line="0" column="20" />
+      <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1513704590575">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="105" column="35" />
+        <mark key="]" line="107" column="24" />
+        <mark key="^" line="107" column="24" />
+        <mark key="." line="107" column="24" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509034557552">
         <mark key="[" line="56" column="0" />
@@ -2127,7 +2127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="508" column="102" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="45" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2227,6 +2226,7 @@
       <jump line="2" column="33" filename="$USER_HOME$/training/scala-training/src/mysheet.sc" />
       <jump line="5" column="0" filename="$USER_HOME$/training/scala-training/src/more.sc" />
       <jump line="38" column="24" filename="$USER_HOME$/training/scala-training/src/filter_and_map.sc" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" />
     </jumps>
     <registers>
       <register name="i" type="4">
@@ -2252,53 +2252,53 @@
         <text>DEBUG</text>
       </register>
       <register name="/" type="4">
-        <text>4025500143503</text>
+        <text>ntp</text>
       </register>
-      <register name="0" type="4">
-        <text>--allow-unauthenticated</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VydmVyIG50cC50Yy5vY2Fkby5jb20Kc2VydmVyIG50cC5oZC5vY2Fkby5jb20Kc2VydmVyIG50cC50ZC5vY2Fkby5jb20Kc2VydmVyIG50cC5oYXRmaWVsZC5vY2Fkby5jb20K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAxIENvbW1lbnQK</text>
+        <text encoding="base64">Q2F0ZWdvcmllczrCoFVidW50dcKgfMKgVG9hZMKgfMKgVlBOwqB8wqBUcm91Ymxlc2hvb3RpbmcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHRhaWxyZWMKZGVmIGZpbHRlcjJbQV0K</text>
+        <text encoding="base64">ICAxIENvbW1lbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHRhaWxyZWMK</text>
+        <text encoding="base64">QHRhaWxyZWMKZGVmIGZpbHRlcjJbQV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRhaWxyZWMK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChmKHgpKSAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIGlmIChmKHgpKSAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MSBDb21tZW50Cg==</text>
+        <text encoding="base64">ZGVmCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>4025500143503</last-search>
+      <last-search>ntp</last-search>
       <last-offset />
-      <last-pattern>4025500143503</last-pattern>
+      <last-pattern>ntp</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2322,6 +2322,7 @@
         <entry>config.ini</entry>
         <entry>5000373702315</entry>
         <entry>4025500143503</entry>
+        <entry>ntp</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
