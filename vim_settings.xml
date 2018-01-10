@@ -628,7 +628,6 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/codeVE/neuralnet_webcam_demo/keras_webcam.py" timestamp="1515511789272" />
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products-v1.json" timestamp="1495210778628">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="5" />
@@ -896,7 +895,7 @@
       <file name="/Dummy.txt" timestamp="1515509824951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1515429273002">
+      <file name="/code.py" timestamp="1515580896495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508416839422">
