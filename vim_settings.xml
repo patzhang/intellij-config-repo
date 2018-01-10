@@ -64,10 +64,10 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/config.ini" timestamp="1515583813723">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/config.ini" timestamp="1515583897943">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task5_IntoPractice_GitHub.java" timestamp="1494413687614">
         <mark key="'" line="34" column="33" />
@@ -402,6 +402,12 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/README.md" timestamp="1515584470613">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1490798450733">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="2" column="0" />
@@ -613,6 +619,13 @@
         <mark key="]" line="119" column="51" />
         <mark key="^" line="119" column="51" />
         <mark key="." line="119" column="51" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/Dockerfile" timestamp="1515584278151">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="19" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/import_sku/README.md" timestamp="1511431986363">
         <mark key="[" line="17" column="81" />
@@ -1987,6 +2000,12 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="28" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1515584510592">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1511434458623">
         <mark key="'" line="547" column="4" />
         <mark key="[" line="23" column="0" />
@@ -2138,8 +2157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="173" column="66" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="189" column="27" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="511" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="248" column="20" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2238,8 +2255,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="133" column="43" filename="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="94" column="8" filename="$USER_HOME$/codeVE/neuralnet_webcam_demo/make_class.py" />
+      <jump line="34" column="16" filename="$USER_HOME$/codeVE/product-image-dataset-external/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/Dockerfile" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>False</text>
+      </register>
       <register name="i" type="4">
         <keys>
           <key char="116" code="0" mods="0" />
@@ -2260,43 +2282,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>ntp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VydmVyIG50cC50Yy5vY2Fkby5jb20Kc2VydmVyIG50cC5oZC5vY2Fkby5jb20Kc2VydmVyIG50cC50ZC5vY2Fkby5jb20Kc2VydmVyIG50cC5oYXRmaWVsZC5vY2Fkby5jb20K</text>
+        <text encoding="base64">IyMgcHJvZHVjdCBpbWFnZSBkYXRhc2V0IC0gdjAuMQoyNCBwcm9kdWN0cwoxMDAwIGltYWdlcyBmb3IgZWFjaCBwcm9kdWN0CmNoYW5nZWQgdGhlIG9yaWdpbmFsIFBORyB0byBKUEcgZm9ybWF0Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Q2F0ZWdvcmllczrCoFVidW50dcKgfMKgVG9hZMKgfMKgVlBOwqB8wqBUcm91Ymxlc2hvb3RpbmcK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAxIENvbW1lbnQK</text>
+      <register name="2" type="4">
+        <text># ENV DATASET_VERSION='99.88'
+# ENV IMG_PER_SKU='10'
+# ENV BARCODE='3073781011456'
+# ENTRYPOINT [&quot;bash&quot;]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHRhaWxyZWMKZGVmIGZpbHRlcjJbQV0K</text>
+        <text encoding="base64">Q2F0ZWdvcmllczrCoFVidW50dcKgfMKgVG9hZMKgfMKgVlBOwqB8wqBUcm91Ymxlc2hvb3RpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHRhaWxyZWMK</text>
+        <text encoding="base64">ICAxIENvbW1lbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRhaWxyZWMKZGVmIGZpbHRlcjJbQV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRhaWxyZWMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChmKHgpKSAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmCg==</text>
+        <text encoding="base64">ICAgIGlmIChmKHgpKSAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
