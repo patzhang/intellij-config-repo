@@ -913,7 +913,7 @@
       <file name="/Dummy.txt" timestamp="1515509824951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1515596826992">
+      <file name="/code.py" timestamp="1515755800754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508416839422">
@@ -2000,9 +2000,12 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1515595850365">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1515756244326">
+        <mark key="'" line="494" column="4" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="^" line="24" column="15" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1511434458623">
         <mark key="'" line="547" column="4" />
@@ -2155,7 +2158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="5" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="19" column="2" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
       <jump line="17" column="19" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
       <jump line="46" column="18" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/Dockerfile" />
@@ -2255,10 +2257,11 @@
       <jump line="71" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
       <jump line="37" column="12" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
+      <jump line="494" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERBVEFTRVRfVkVSU0lPTiA9IGdldF9wYXJhbSgnREFUQVNFVF9WRVJTSU9OJywgc3RyKQogICAgVE9UQUxfSU1BR0VTID0gZ2V0X3BhcmFtKCdJTUdfUEVSX1NLVScsIGludCkKICAgIFNFTEVDVEVEX0JBUkNPREUgPSBnZXRfcGFyYW0oJ0JBUkNPREUnLCBzdHIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2288,38 +2291,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIERBVEFTRVRfVkVSU0lPTiA9IGdldF9wYXJhbSgnREFUQVNFVF9WRVJTSU9OJywgc3RyKQogICAgVE9UQUxfSU1BR0VTID0gZ2V0X3BhcmFtKCdJTUdfUEVSX1NLVScsIGludCkKICAgIFNFTEVDVEVEX0JBUkNPREUgPSBnZXRfcGFyYW0oJ0JBUkNPREUnLCBzdHIpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
+      </register>
+      <register name="3" type="4">
         <text># ENV DATASET_VERSION='99.88'
 # ENV IMG_PER_SKU='10'
 # ENV BARCODE='3073781011456'
 # ENTRYPOINT [&quot;bash&quot;]</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Q2F0ZWdvcmllczrCoFVidW50dcKgfMKgVG9hZMKgfMKgVlBOwqB8wqBUcm91Ymxlc2hvb3RpbmcK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAxIENvbW1lbnQK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">QHRhaWxyZWMKZGVmIGZpbHRlcjJbQV0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QHRhaWxyZWMK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHRhaWxyZWMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChmKHgpKSAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
@@ -2424,6 +2427,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
