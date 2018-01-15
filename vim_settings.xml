@@ -64,10 +64,10 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/config.ini" timestamp="1516012971778">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/config.ini" timestamp="1516024272253">
         <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task5_IntoPractice_GitHub.java" timestamp="1494413687614">
@@ -1750,11 +1750,11 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/.gitignore" timestamp="1516013263155">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/.gitignore" timestamp="1516024065859">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v3/horse_vision_v3.py" timestamp="1493810666390">
         <mark key="'" line="418" column="16" />
@@ -2029,12 +2029,12 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1515767329845">
-        <mark key="'" line="494" column="4" />
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="16" />
-        <mark key="^" line="24" column="16" />
-        <mark key="." line="24" column="16" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1516024608905">
+        <mark key="'" line="451" column="14" />
+        <mark key="[" line="451" column="21" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1511434458623">
         <mark key="'" line="547" column="4" />
@@ -2187,8 +2187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/main.py" />
-      <jump line="449" column="36" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="331" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="147" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2287,10 +2285,12 @@
       <jump line="15427" column="7" filename="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" />
       <jump line="1427" column="5" filename="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" />
       <jump line="14987" column="21" filename="$USER_HOME$/codeVE/product-image-dataset/import_sku/input/image_stats.json" />
+      <jump line="41" column="31" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
+      <jump line="450" column="14" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, sku</text>
+        <text>000</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2312,7 +2312,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, sku</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
         <text>5010069660836</text>
