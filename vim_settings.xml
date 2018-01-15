@@ -64,7 +64,7 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/config.ini" timestamp="1516024272253">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/config.ini" timestamp="1516035830328">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
@@ -627,12 +627,8 @@
         <mark key="^" line="119" column="51" />
         <mark key="." line="119" column="51" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/Dockerfile" timestamp="1515767361040">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/Dockerfile" timestamp="1516035787599">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="19" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/import_sku/README.md" timestamp="1511431986363">
         <mark key="[" line="17" column="81" />
@@ -914,7 +910,7 @@
         <mark key="." line="6" column="56" />
         <mark key="^" line="6" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516033897014">
+      <file name="/Dummy.txt" timestamp="1516036006764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1515755800754">
@@ -2017,8 +2013,8 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1516033882598">
-        <mark key="'" line="451" column="34" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1516035891494">
+        <mark key="'" line="51" column="4" />
         <mark key="[" line="452" column="28" />
         <mark key="]" line="452" column="29" />
         <mark key="^" line="452" column="76" />
@@ -2175,7 +2171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="478" column="97" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="474" column="66" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2275,10 +2270,11 @@
       <jump line="41" column="31" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
       <jump line="450" column="14" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
       <jump line="451" column="34" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>waiting</text>
+        <text>000</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2300,7 +2296,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>waiting</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
         <text>5010069660836</text>
@@ -2342,7 +2338,7 @@
         <text encoding="base64">QHRhaWxyZWMK</text>
       </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>52</text>
       </register>
     </registers>
     <search>
@@ -2378,8 +2374,6 @@
         <entry>5010069660836</entry>
       </history-search>
       <history-cmd>
-        <entry>only</entry>
-        <entry>%s/-g//gc</entry>
         <entry>110</entry>
         <entry>%s/-/_/g</entry>
         <entry>10</entry>
@@ -2398,6 +2392,8 @@
         <entry>44</entry>
         <entry>33</entry>
         <entry>37</entry>
+        <entry>36</entry>
+        <entry>52</entry>
       </history-cmd>
       <history-expr />
       <history-input />
