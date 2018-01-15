@@ -914,7 +914,7 @@
         <mark key="." line="6" column="56" />
         <mark key="^" line="6" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516012738079">
+      <file name="/Dummy.txt" timestamp="1516033897014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1515755800754">
@@ -1147,7 +1147,6 @@
         <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset/import_sku/input/image_stats.json" timestamp="1516012097554">
-        <mark key="'" line="14987" column="21" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="229343" />
         <mark key="." line="0" column="229343" />
@@ -1310,12 +1309,6 @@
         <mark key="]" line="5" column="31" />
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/barcode_manager.py" timestamp="1516012375571">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="17" />
-        <mark key="^" line="39" column="17" />
-        <mark key="." line="39" column="17" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/backup.sh" timestamp="1509042394043">
         <mark key="[" line="26" column="16" />
@@ -1840,11 +1833,6 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" timestamp="1516012047150">
-        <mark key="'" line="1427" column="5" />
-        <mark key="[" line="333" column="5" />
-        <mark key="]" line="333" column="13" />
-      </file>
       <file name="$USER_HOME$/Workspaces/flutter-docker/README.md" timestamp="1504876542900">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2029,12 +2017,12 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1516024608905">
-        <mark key="'" line="451" column="14" />
-        <mark key="[" line="451" column="21" />
-        <mark key="]" line="11" column="12" />
-        <mark key="^" line="11" column="12" />
-        <mark key="." line="11" column="12" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1516033882598">
+        <mark key="'" line="451" column="34" />
+        <mark key="[" line="452" column="28" />
+        <mark key="]" line="452" column="29" />
+        <mark key="^" line="452" column="76" />
+        <mark key="." line="452" column="29" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1511434458623">
         <mark key="'" line="547" column="4" />
@@ -2187,7 +2175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="4" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="147" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="478" column="97" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2287,10 +2274,11 @@
       <jump line="14987" column="21" filename="$USER_HOME$/codeVE/product-image-dataset/import_sku/input/image_stats.json" />
       <jump line="41" column="31" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
       <jump line="450" column="14" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
+      <jump line="451" column="34" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>000</text>
+        <text>waiting</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2312,7 +2300,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>000</text>
+        <text>waiting</text>
       </register>
       <register name="/" type="4">
         <text>5010069660836</text>
