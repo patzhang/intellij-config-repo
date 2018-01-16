@@ -56,10 +56,10 @@
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/config.ini" timestamp="1516035830328">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/config.ini" timestamp="1516100925943">
         <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task5_IntoPractice_GitHub.java" timestamp="1494413687614">
