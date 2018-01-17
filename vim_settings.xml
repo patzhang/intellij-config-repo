@@ -1134,11 +1134,11 @@
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="64" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/config.ini" timestamp="1516104566614">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="19" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/config.ini" timestamp="1516187841511">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task3_CombiningToAssembleFurniture.java" timestamp="1494410782887">
         <mark key="[" line="21" column="97" />
