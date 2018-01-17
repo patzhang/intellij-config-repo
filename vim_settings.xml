@@ -665,6 +665,12 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-service/10x-vision-service.sh" timestamp="1516197260338">
+        <mark key="[" line="8" column="60" />
+        <mark key="]" line="8" column="61" />
+        <mark key="." line="8" column="61" />
+        <mark key="^" line="8" column="50" />
+      </file>
       <file name="$USER_HOME$/WorkspacesDart/meal_planner/android/build.gradle" timestamp="1501682185995">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="49" />
@@ -1952,6 +1958,12 @@
         <mark key="^" line="33" column="12" />
         <mark key="." line="33" column="12" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-service/run-10x-vision-app.sh" timestamp="1516197307951">
+        <mark key="[" line="5" column="60" />
+        <mark key="]" line="5" column="61" />
+        <mark key="." line="5" column="61" />
+        <mark key="^" line="5" column="50" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/unpack-dataset.sh" timestamp="1500995004647">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="33" />
@@ -2274,8 +2286,8 @@
       <jump line="528" column="14" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1bGxfbmFtZSArPSBmbmFtZQo=</text>
+      <register name="&quot;" type="4">
+        <text>horse</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2297,13 +2309,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>horse</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cud2FybmluZygnQ2FtZXJhIElEIGlzIG1pc3NpbmcgZnJvbSB0aGUgY29uZmlnLmluaSEnKQo=</text>
+        <text encoding="base64">L2hvbWUvcGF0cmlja3poYW5nL3ZlLWNvZGUvdmUtaG9yc2UtdmlzaW9uLXY0L2hvcnNlX3Zpc2lvbl92NC5weQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZ1bGxfbmFtZSArPSBmbmFtZQo=</text>
