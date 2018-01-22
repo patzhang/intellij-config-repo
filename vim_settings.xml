@@ -613,10 +613,10 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516616995767">
+      <file name="/Dummy.txt" timestamp="1516629307094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1515755800754">
+      <file name="/code.py" timestamp="1516628682329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508416839422">
@@ -1272,6 +1272,9 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516617191491">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1435,9 +1438,14 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/readme.txt" timestamp="1516629231614">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="946" column="63" filename="$USER_HOME$/DL_Speech/say-what-you-see/yarn.lock" />
       <jump line="951" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/yarn.lock" />
       <jump line="5" column="75" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
       <jump line="14" column="29" filename="$USER_HOME$/DL_Speech/say-what-you-see/Dockerfile" />
@@ -1537,6 +1545,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
       <jump line="99" column="0" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
       <jump line="89" column="0" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/readme.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1577,28 +1586,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgbG9hZCBjb25maWd1cmF0aW9ucyBmcm9tIGNvbmZpZy5pbmkK</text>
+        <text encoding="base64">R3JvY2VyeSBQcm9kdWN0IEltYWdlIERhdGFzZXQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KClRoaXMgZGF0YXNldCBjb250YWlucyBwcm9kdWN0IGltYWdlcyB3aGljaCB3ZXJlIGF1dG9tYXRpY2FsbHkgY2FwdHVyZWQgYXQgcGlja2luZyBzdGF0aW9ucyBpbiB3YXJlaG91c2UuCgoqIEltYWdlIGZvcm1hdDogdGhlIGltYWdlcyBhcmUgaW4gSlBHIGZvcm1hdCBhbmQgaGF2ZSB0aGUgZGltZW5zaW9ucyBvZiAxMjgwIHggMTAyNCBwaXhlbHMgYW5kIFJHQiBjb2xvdXIgc3BhY2UuCgoqIEltYWdlIGZpbGUgbmFtaW5nIGNvbnZlbnRpb246IGJhcmNvZGVfdGltZXN0YW1wX20vcF9taWxsaXNlY29uZHMuanBnICggbS9wIG1lYW5zIG1pbnVzIG9yIHBsdXMgKQoKT3VyIGNhbWVyYSBrZWVwIGNhcHR1cmluZyBpbWFnZXMgZXZlcnkgMjUgbWlsbGlzZWNvbmRzLiBXaGVuIHRoZXJlIGlzIGEgYmFyY29kZSByZWFkaW5nIChhIHByb2R1Y3QgaXMgc2Nhbm5lZCksCnRoZSBtYWNoaW5lIHZpc2lvbiBzeXN0ZW0gc2F2ZXMgZm91ciBpbWFnZXMsIHdoaWNoIGFyZSBvbmUgaW1hZ2UgYmVmb3JlIHRoZSBiYXJjb2RlIHJlYWRpbmcgKHRpbWVzdGFtcCBtaW51cyB4IG1pbGxpc2Vjb25kcykKYW5kIHRocmVlIGltYWdlcyBhZnRlciB0aGUgYmFyY29kZSByZWFkaW5nICh0aW1lc3RhbXAgcGx1cyB5IG1pbGxpc2Vjb25kcykuIFRoZSB0aW1lc3RhbXAgc3BlY2lmaWVzIHdoZW4gaXQgcmVhZHMgYSBiYXJjb2RlLgoKKiBEYXRhc2V0IHN0cnVjdHVyZToKICAgMSkgYWxsIHRoZSBpbWFnZXMgZm9yIGVhY2ggYmFyY29kZSBoYXZlIGJlZW4gcHV0IHRvZ2V0aGVyIGluIGEgdGFyYmFsbCBmaWxlLgogICAyKSB1bnBhY2stZGF0YXNldC5zaCBjYW4gZXh0cmFjdCBhbGwgdGhlIHRhcmJhbGwgZmlsZXMgaW4gb25lIGdvLgogICAzKSBwcm9kdWN0cy5qc29uIGZpbGUgZGVzY3JpYmVzIHRoZSBkZXRhaWxzIG9mIGVhY2ggcHJvZHVjdC4KCgpCYXJjb2RlICAgICAgICAgICBJbWFnZXMgICAgIFByb2R1Y3QgTmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCc8PDwgQ29uZmlndXJhdGlvbnMgPj4+JykK</text>
+        <text encoding="base64">ICAgICMgbG9hZCBjb25maWd1cmF0aW9ucyBmcm9tIGNvbmZpZy5pbmkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBzdGF0aW9uX2lkCg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCc8PDwgQ29uZmlndXJhdGlvbnMgPj4+JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBjYW1lcmFfaWQK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBzdGF0aW9uX2lkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBjYW1lcmFfaWQKICAgIGdsb2JhbCBzdGF0aW9uX2lkCg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjYW1lcmFfaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjYW1lcmFfaWQKICAgIGdsb2JhbCBzdGF0aW9uX2lkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygnU3RhcnRpbmcgdGhlIGZpbGUgc2F2aW5nIHByb2Nlc3MgLi4uJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bGxfbmFtZSArPSBmbmFtZQo=</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygnU3RhcnRpbmcgdGhlIGZpbGUgc2F2aW5nIHByb2Nlc3MgLi4uJykK</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
