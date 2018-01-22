@@ -342,6 +342,9 @@
         <mark key="." line="1" column="63" />
         <mark key="^" line="1" column="63" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" timestamp="1516617035369">
+        <mark key="'" line="311" column="18" />
+      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/LICENSE" timestamp="1508968052184">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="17" />
@@ -610,7 +613,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516275430379">
+      <file name="/Dummy.txt" timestamp="1516616995767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1515755800754">
@@ -1269,6 +1272,12 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516617191491">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1501083459303">
         <mark key="[" line="5" column="72" />
         <mark key="]" line="5" column="72" />
@@ -1428,12 +1437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="9" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
-      <jump line="21" column="41" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
-      <jump line="52" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/yarn.lock" />
-      <jump line="685" column="6" filename="$USER_HOME$/DL_Speech/say-what-you-see/yarn.lock" />
-      <jump line="944" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/yarn.lock" />
       <jump line="946" column="63" filename="$USER_HOME$/DL_Speech/say-what-you-see/yarn.lock" />
       <jump line="951" column="0" filename="$USER_HOME$/DL_Speech/say-what-you-see/yarn.lock" />
       <jump line="5" column="75" filename="$USER_HOME$/DL_Speech/say-what-you-see/package.json" />
@@ -1528,10 +1531,16 @@
       <jump line="427" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
       <jump line="484" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
       <jump line="292" column="2" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
+      <jump line="97" column="5" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="311" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
+      <jump line="99" column="0" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
+      <jump line="89" column="0" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgbG9hZCBjb25maWd1cmF0aW9ucyBmcm9tIGNvbmZpZy5pbmkK</text>
+        <text encoding="base64">R3JvY2VyeSBQcm9kdWN0IEltYWdlIERhdGFzZXQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KClRoaXMgZGF0YXNldCBjb250YWlucyBwcm9kdWN0IGltYWdlcyB3aGljaCB3ZXJlIGF1dG9tYXRpY2FsbHkgY2FwdHVyZWQgYXQgcGlja2luZyBzdGF0aW9ucyBpbiB3YXJlaG91c2UuCgoqIEltYWdlIGZvcm1hdDogdGhlIGltYWdlcyBhcmUgaW4gSlBHIGZvcm1hdCBhbmQgaGF2ZSB0aGUgZGltZW5zaW9ucyBvZiAxMjgwIHggMTAyNCBwaXhlbHMgYW5kIFJHQiBjb2xvdXIgc3BhY2UuCgoqIEltYWdlIGZpbGUgbmFtaW5nIGNvbnZlbnRpb246IGJhcmNvZGVfdGltZXN0YW1wX20vcF9taWxsaXNlY29uZHMuanBnICggbS9wIG1lYW5zIG1pbnVzIG9yIHBsdXMgKQoKT3VyIGNhbWVyYSBrZWVwIGNhcHR1cmluZyBpbWFnZXMgZXZlcnkgMjUgbWlsbGlzZWNvbmRzLiBXaGVuIHRoZXJlIGlzIGEgYmFyY29kZSByZWFkaW5nIChhIHByb2R1Y3QgaXMgc2Nhbm5lZCksCnRoZSBtYWNoaW5lIHZpc2lvbiBzeXN0ZW0gc2F2ZXMgZm91ciBpbWFnZXMsIHdoaWNoIGFyZSBvbmUgaW1hZ2UgYmVmb3JlIHRoZSBiYXJjb2RlIHJlYWRpbmcgKHRpbWVzdGFtcCBtaW51cyB4IG1pbGxpc2Vjb25kcykKYW5kIHRocmVlIGltYWdlcyBhZnRlciB0aGUgYmFyY29kZSByZWFkaW5nICh0aW1lc3RhbXAgcGx1cyB5IG1pbGxpc2Vjb25kcykuIFRoZSB0aW1lc3RhbXAgc3BlY2lmaWVzIHdoZW4gaXQgcmVhZHMgYSBiYXJjb2RlLgoKKiBEYXRhc2V0IHN0cnVjdHVyZToKICAgMSkgYWxsIHRoZSBpbWFnZXMgZm9yIGVhY2ggYmFyY29kZSBoYXZlIGJlZW4gcHV0IHRvZ2V0aGVyIGluIGEgdGFyYmFsbCBmaWxlLgogICAyKSB1bnBhY2stZGF0YXNldC5zaCBjYW4gZXh0cmFjdCBhbGwgdGhlIHRhcmJhbGwgZmlsZXMgaW4gb25lIGdvLgogICAzKSBwcm9kdWN0cy5qc29uIGZpbGUgZGVzY3JpYmVzIHRoZSBkZXRhaWxzIG9mIGVhY2ggcHJvZHVjdC4KCgpCYXJjb2RlICAgICAgICAgICBJbWFnZXMgICAgIFByb2R1Y3QgTmFtZQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1556,49 +1565,49 @@
         <text>debug</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>5000169103937</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgbG9hZCBjb25maWd1cmF0aW9ucyBmcm9tIGNvbmZpZy5pbmkKICAgIGN1cnJlbnRfZGlyID0gcGF0aC5yZWFscGF0aChwYXRoLmFic3BhdGgocGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkKICAgIENPTkZJR19JTkkgPSBwYXRoLmpvaW4oY3VycmVudF9kaXIsICdjb25maWcuaW5pJykKCiAgICBjb25maWcgPSBDb25maWdQYXJzZXIoKQogICAgY29uZmlnLnJlYWQoQ09ORklHX0lOSSkKCiAgICBjYW1lcmFfaWQgPSBjb25maWcuZ2V0KCd2aXNpb24tc3lzdGVtJywgJ2NhbWVyYV9pZCcpCiAgICBzdGF0aW9uX2lkID0gY29uZmlnLmdldCgnd2FyZWhvdXNlJywgJ3N0YXRpb25faWQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbG9hZCBjb25maWd1cmF0aW9ucyBmcm9tIGNvbmZpZy5pbmkK</text>
+        <text encoding="base64">R3JvY2VyeSBQcm9kdWN0IEltYWdlIERhdGFzZXQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KClRoaXMgZGF0YXNldCBjb250YWlucyBwcm9kdWN0IGltYWdlcyB3aGljaCB3ZXJlIGF1dG9tYXRpY2FsbHkgY2FwdHVyZWQgYXQgcGlja2luZyBzdGF0aW9ucyBpbiB3YXJlaG91c2UuCgoqIEltYWdlIGZvcm1hdDogdGhlIGltYWdlcyBhcmUgaW4gSlBHIGZvcm1hdCBhbmQgaGF2ZSB0aGUgZGltZW5zaW9ucyBvZiAxMjgwIHggMTAyNCBwaXhlbHMgYW5kIFJHQiBjb2xvdXIgc3BhY2UuCgoqIEltYWdlIGZpbGUgbmFtaW5nIGNvbnZlbnRpb246IGJhcmNvZGVfdGltZXN0YW1wX20vcF9taWxsaXNlY29uZHMuanBnICggbS9wIG1lYW5zIG1pbnVzIG9yIHBsdXMgKQoKT3VyIGNhbWVyYSBrZWVwIGNhcHR1cmluZyBpbWFnZXMgZXZlcnkgMjUgbWlsbGlzZWNvbmRzLiBXaGVuIHRoZXJlIGlzIGEgYmFyY29kZSByZWFkaW5nIChhIHByb2R1Y3QgaXMgc2Nhbm5lZCksCnRoZSBtYWNoaW5lIHZpc2lvbiBzeXN0ZW0gc2F2ZXMgZm91ciBpbWFnZXMsIHdoaWNoIGFyZSBvbmUgaW1hZ2UgYmVmb3JlIHRoZSBiYXJjb2RlIHJlYWRpbmcgKHRpbWVzdGFtcCBtaW51cyB4IG1pbGxpc2Vjb25kcykKYW5kIHRocmVlIGltYWdlcyBhZnRlciB0aGUgYmFyY29kZSByZWFkaW5nICh0aW1lc3RhbXAgcGx1cyB5IG1pbGxpc2Vjb25kcykuIFRoZSB0aW1lc3RhbXAgc3BlY2lmaWVzIHdoZW4gaXQgcmVhZHMgYSBiYXJjb2RlLgoKKiBEYXRhc2V0IHN0cnVjdHVyZToKICAgMSkgYWxsIHRoZSBpbWFnZXMgZm9yIGVhY2ggYmFyY29kZSBoYXZlIGJlZW4gcHV0IHRvZ2V0aGVyIGluIGEgdGFyYmFsbCBmaWxlLgogICAyKSB1bnBhY2stZGF0YXNldC5zaCBjYW4gZXh0cmFjdCBhbGwgdGhlIHRhcmJhbGwgZmlsZXMgaW4gb25lIGdvLgogICAzKSBwcm9kdWN0cy5qc29uIGZpbGUgZGVzY3JpYmVzIHRoZSBkZXRhaWxzIG9mIGVhY2ggcHJvZHVjdC4KCgpCYXJjb2RlICAgICAgICAgICBJbWFnZXMgICAgIFByb2R1Y3QgTmFtZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCc8PDwgQ29uZmlndXJhdGlvbnMgPj4+JykK</text>
+        <text encoding="base64">ICAgICMgbG9hZCBjb25maWd1cmF0aW9ucyBmcm9tIGNvbmZpZy5pbmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBzdGF0aW9uX2lkCg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCc8PDwgQ29uZmlndXJhdGlvbnMgPj4+JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBjYW1lcmFfaWQK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBzdGF0aW9uX2lkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBjYW1lcmFfaWQKICAgIGdsb2JhbCBzdGF0aW9uX2lkCg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjYW1lcmFfaWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjYW1lcmFfaWQKICAgIGdsb2JhbCBzdGF0aW9uX2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygnU3RhcnRpbmcgdGhlIGZpbGUgc2F2aW5nIHByb2Nlc3MgLi4uJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1bGxfbmFtZSArPSBmbmFtZQo=</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZygnU3RhcnRpbmcgdGhlIGZpbGUgc2F2aW5nIHByb2Nlc3MgLi4uJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGZ1bGxfbmFtZSArPSBmbmFtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>5000169103937</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>5000169103937</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -1606,7 +1615,6 @@
     </search>
     <history>
       <history-search>
-        <entry>favicon</entry>
         <entry>ico</entry>
         <entry>cleartype</entry>
         <entry>size</entry>
@@ -1626,6 +1634,7 @@
         <entry>-</entry>
         <entry>wait</entry>
         <entry>main</entry>
+        <entry>5000169103937</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
