@@ -54,6 +54,12 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1516703312643">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test-requirements.txt" timestamp="1495705923662">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="1" column="16" />
@@ -618,7 +624,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516631386800">
+      <file name="/Dummy.txt" timestamp="1516703334925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516640137236">
@@ -1558,8 +1564,8 @@
       <jump line="35" column="93" filename="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/input/readme.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">R3JvY2VyeSBQcm9kdWN0IEltYWdlIERhdGFzZXQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KClRoaXMgZGF0YXNldCBjb250YWlucyBwcm9kdWN0IGltYWdlcyB3aGljaCB3ZXJlIGF1dG9tYXRpY2FsbHkgY2FwdHVyZWQgYXQgcGlja2luZyBzdGF0aW9ucyBpbiB3YXJlaG91c2UuCgoqIEltYWdlIGZvcm1hdDogdGhlIGltYWdlcyBhcmUgaW4gSlBHIGZvcm1hdCBhbmQgaGF2ZSB0aGUgZGltZW5zaW9ucyBvZiAxMjgwIHggMTAyNCBwaXhlbHMgYW5kIFJHQiBjb2xvdXIgc3BhY2UuCgoqIEltYWdlIGZpbGUgbmFtaW5nIGNvbnZlbnRpb246IGJhcmNvZGVfdGltZXN0YW1wX20vcF9taWxsaXNlY29uZHMuanBnICggbS9wIG1lYW5zIG1pbnVzIG9yIHBsdXMgKQoKT3VyIGNhbWVyYSBrZWVwIGNhcHR1cmluZyBpbWFnZXMgZXZlcnkgMjUgbWlsbGlzZWNvbmRzLiBXaGVuIHRoZXJlIGlzIGEgYmFyY29kZSByZWFkaW5nIChhIHByb2R1Y3QgaXMgc2Nhbm5lZCksCnRoZSBtYWNoaW5lIHZpc2lvbiBzeXN0ZW0gc2F2ZXMgZm91ciBpbWFnZXMsIHdoaWNoIGFyZSBvbmUgaW1hZ2UgYmVmb3JlIHRoZSBiYXJjb2RlIHJlYWRpbmcgKHRpbWVzdGFtcCBtaW51cyB4IG1pbGxpc2Vjb25kcykKYW5kIHRocmVlIGltYWdlcyBhZnRlciB0aGUgYmFyY29kZSByZWFkaW5nICh0aW1lc3RhbXAgcGx1cyB5IG1pbGxpc2Vjb25kcykuIFRoZSB0aW1lc3RhbXAgc3BlY2lmaWVzIHdoZW4gaXQgcmVhZHMgYSBiYXJjb2RlLgoKKiBEYXRhc2V0IHN0cnVjdHVyZToKICAgMSkgYWxsIHRoZSBpbWFnZXMgZm9yIGVhY2ggYmFyY29kZSBoYXZlIGJlZW4gcHV0IHRvZ2V0aGVyIGluIGEgdGFyYmFsbCBmaWxlLgogICAyKSB1bnBhY2stZGF0YXNldC5zaCBjYW4gZXh0cmFjdCBhbGwgdGhlIHRhcmJhbGwgZmlsZXMgaW4gb25lIGdvLgogICAzKSBwcm9kdWN0cy5qc29uIGZpbGUgZGVzY3JpYmVzIHRoZSBkZXRhaWxzIG9mIGVhY2ggcHJvZHVjdC4KCgpCYXJjb2RlICAgICAgICAgICBJbWFnZXMgICAgIFByb2R1Y3QgTmFtZQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1581,7 +1587,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>5000169103937</text>
