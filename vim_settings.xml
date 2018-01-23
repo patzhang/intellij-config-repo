@@ -632,7 +632,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516707031447">
+      <file name="/Dummy.txt" timestamp="1516725319558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516640137236">
@@ -793,6 +793,12 @@
         <mark key="]" line="0" column="229343" />
         <mark key="." line="0" column="229343" />
         <mark key="^" line="0" column="229343" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/logging_util.py" timestamp="1516725111070">
+        <mark key="[" line="27" column="105" />
+        <mark key="]" line="27" column="106" />
+        <mark key="." line="27" column="106" />
+        <mark key="^" line="27" column="106" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/import_sku/barcode_manager.py" timestamp="1516013174788">
         <mark key="[" line="40" column="59" />
@@ -1584,7 +1590,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEBUG</text>
+        <text>60</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1606,7 +1612,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>60</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWNrZXRcPg==</text>
