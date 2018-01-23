@@ -1631,7 +1631,7 @@
         <text encoding="base64">ICAgIGdsb2JhbCBjYW1lcmFfaWQK</text>
       </register>
       <register name=":" type="4">
-        <text>close</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -1681,12 +1681,12 @@
         <entry>52</entry>
         <entry>54</entry>
         <entry>88</entry>
-        <entry>vs</entry>
         <entry>s</entry>
         <entry>split</entry>
         <entry>only</entry>
         <entry>close</entry>
         <entry>unsplit</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
