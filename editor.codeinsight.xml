@@ -5,4 +5,5 @@
     <option name="JAVADOC_INFO_DELAY" value="500" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="StandardJSCodeStyle" />
 </application>
