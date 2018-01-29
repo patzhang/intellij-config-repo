@@ -330,12 +330,12 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1516808502198">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1517241559319">
         <mark key="'" line="85" column="14" />
-        <mark key="[" line="457" column="37" />
-        <mark key="]" line="457" column="39" />
-        <mark key="." line="457" column="39" />
-        <mark key="^" line="457" column="39" />
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="68" column="34" />
+        <mark key="." line="68" column="34" />
+        <mark key="^" line="68" column="34" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/summary.html" timestamp="1507726499803">
         <mark key="[" line="7" column="7" />
@@ -634,7 +634,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516810458186">
+      <file name="/Dummy.txt" timestamp="1517241832946">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516640137236">
@@ -718,12 +718,12 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1516808722793">
-        <mark key="'" line="72" column="30" />
-        <mark key="[" line="72" column="39" />
-        <mark key="]" line="72" column="41" />
-        <mark key="^" line="72" column="41" />
-        <mark key="." line="72" column="41" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1517241811502">
+        <mark key="'" line="41" column="30" />
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="36" />
+        <mark key="^" line="78" column="36" />
+        <mark key="." line="78" column="36" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/osx/mac-cli.sh" timestamp="1509046042967">
         <mark key="[" line="5" column="0" />
@@ -1617,7 +1617,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gcs-upload</text>
+        <text>barcodes</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1639,7 +1639,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gcs-upload</text>
+        <text>barcodes</text>
       </register>
       <register name="/" type="4">
         <text>JPG</text>
