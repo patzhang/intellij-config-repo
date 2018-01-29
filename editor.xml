@@ -1,7 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_SCALE" value="2.0833333" />
+    <option name="FONT_SIZE" value="7" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
@@ -9,5 +8,8 @@
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
