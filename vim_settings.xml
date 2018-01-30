@@ -330,8 +330,8 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1517324735317">
-        <mark key="'" line="466" column="19" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1517329567152">
+        <mark key="'" line="439" column="52" />
         <mark key="[" line="464" column="11" />
         <mark key="]" line="464" column="20" />
         <mark key="." line="464" column="20" />
@@ -1514,14 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="519" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
-      <jump line="5" column="0" filename="$USER_HOME$/training-coderetreat/code4life/code_for_life.py" />
-      <jump line="5" column="18" filename="$USER_HOME$/training-coderetreat/code4life/test_game.py" />
-      <jump line="2" column="33" filename="$USER_HOME$/training/scala-training/src/mysheet.sc" />
-      <jump line="5" column="0" filename="$USER_HOME$/training/scala-training/src/more.sc" />
-      <jump line="38" column="24" filename="$USER_HOME$/training/scala-training/src/filter_and_map.sc" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="133" column="43" filename="$USER_HOME$/Workspaces/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="94" column="8" filename="$USER_HOME$/codeVE/neuralnet_webcam_demo/make_class.py" />
       <jump line="34" column="16" filename="$USER_HOME$/codeVE/product-image-dataset-external/Dockerfile" />
@@ -1603,7 +1595,6 @@
       <jump line="319" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="324" column="91" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="359" column="41" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="446" column="66" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="448" column="63" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="85" column="14" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
@@ -1614,6 +1605,15 @@
       <jump line="461" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="14" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="466" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="365" column="29" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="300" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="582" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="584" column="41" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="296" column="42" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="298" column="41" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="433" column="51" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="439" column="52" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1642,7 +1642,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>resize</text>
+        <text>config.ini</text>
       </register>
       <register name="0" type="4">
         <text>Essential Waitrose Low Fat Natural Yogurt</text>
@@ -1682,9 +1682,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resize</last-search>
+      <last-search>config.ini</last-search>
       <last-offset />
-      <last-pattern>resize</last-pattern>
+      <last-pattern>config.ini</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1692,7 +1692,6 @@
     </search>
     <history>
       <history-search>
-        <entry>19487011</entry>
         <entry>321347011</entry>
         <entry>32134</entry>
         <entry>5010069660836</entry>
@@ -1712,6 +1711,7 @@
         <entry>png</entry>
         <entry>JPG</entry>
         <entry>resize</entry>
+        <entry>config.ini</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub3JtYWwgLg==</entry>
