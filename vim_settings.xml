@@ -330,8 +330,8 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1517243001934">
-        <mark key="'" line="461" column="16" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1517324735317">
+        <mark key="'" line="466" column="19" />
         <mark key="[" line="464" column="11" />
         <mark key="]" line="464" column="20" />
         <mark key="." line="464" column="20" />
@@ -1514,7 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="32" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
       <jump line="519" column="15" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
       <jump line="0" column="0" filename="$USER_HOME$/DL_Workspace/product-image-dataset-gc/src/dataset_builder/dataset_spec/products.json" />
       <jump line="5" column="0" filename="$USER_HOME$/training-coderetreat/code4life/code_for_life.py" />
@@ -1614,6 +1613,7 @@
       <jump line="72" column="30" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="461" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="14" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="466" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1642,7 +1642,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>JPG</text>
+        <text>resize</text>
       </register>
       <register name="0" type="4">
         <text>Essential Waitrose Low Fat Natural Yogurt</text>
@@ -1682,9 +1682,9 @@
       </register>
     </registers>
     <search>
-      <last-search>JPG</last-search>
+      <last-search>resize</last-search>
       <last-offset />
-      <last-pattern>JPG</last-pattern>
+      <last-pattern>resize</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1692,7 +1692,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ntp</entry>
         <entry>19487011</entry>
         <entry>321347011</entry>
         <entry>32134</entry>
@@ -1712,6 +1711,7 @@
         <entry>jpg</entry>
         <entry>png</entry>
         <entry>JPG</entry>
+        <entry>resize</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5ub3JtYWwgLg==</entry>
