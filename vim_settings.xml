@@ -9,7 +9,7 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1517243373416">
+      <file name="/a.dummy" timestamp="1517493297946">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
@@ -820,6 +820,12 @@
         <mark key="]" line="0" column="229343" />
         <mark key="." line="0" column="229343" />
         <mark key="^" line="0" column="229343" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/stereo_camera_still_object.py" timestamp="1517493886729">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/logging_util.py" timestamp="1517481371833">
         <mark key="[" line="21" column="0" />
@@ -1633,7 +1639,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JHtESVJfREVQTE9ZTUVOVH0vJHtDT0RFX1ZJU0lPTn0g</text>
+        <text encoding="base64">TG9va2luZyBmb3Ig</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1655,7 +1661,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHtESVJfREVQTE9ZTUVOVH0vJHtDT0RFX1ZJU0lPTn0g</text>
+        <text encoding="base64">TG9va2luZyBmb3Ig</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
