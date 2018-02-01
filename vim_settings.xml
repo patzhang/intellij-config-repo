@@ -138,6 +138,13 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" timestamp="1517479799852">
+        <mark key="'" line="901" column="15" />
+        <mark key="[" line="35" column="72" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+      </file>
       <file name="$USER_HOME$/training-coderetreat/code4life-py/game.py" timestamp="1512743818772">
         <mark key="[" line="25" column="32" />
         <mark key="]" line="26" column="13" />
@@ -730,12 +737,12 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1517331675561">
-        <mark key="'" line="107" column="19" />
-        <mark key="[" line="53" column="44" />
-        <mark key="]" line="53" column="55" />
-        <mark key="^" line="106" column="56" />
-        <mark key="." line="53" column="55" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1517480072379">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="84" column="19" />
+        <mark key="^" line="84" column="19" />
+        <mark key="." line="84" column="19" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/osx/mac-cli.sh" timestamp="1509046042967">
         <mark key="[" line="5" column="0" />
@@ -1533,21 +1540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" />
-      <jump line="25" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" />
-      <jump line="333" column="5" filename="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" />
-      <jump line="334" column="5" filename="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" />
-      <jump line="15426" column="5" filename="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" />
-      <jump line="15427" column="7" filename="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" />
-      <jump line="1427" column="5" filename="$USER_HOME$/codeVE/product-image-dataset-gc/import_sku/input/image_stats.json" />
-      <jump line="14987" column="21" filename="$USER_HOME$/codeVE/product-image-dataset/import_sku/input/image_stats.json" />
-      <jump line="41" column="31" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
-      <jump line="450" column="14" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
-      <jump line="451" column="34" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
-      <jump line="51" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
-      <jump line="53" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-external/kubernetes/jobs/generate_jobs.py" />
-      <jump line="480" column="27" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
       <jump line="220" column="30" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
       <jump line="18" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
       <jump line="456" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
@@ -1608,7 +1600,6 @@
       <jump line="20" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="72" column="30" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="461" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="466" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="365" column="29" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="300" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
@@ -1633,10 +1624,26 @@
       <jump line="299" column="13" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="6" column="2" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" />
       <jump line="4" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" />
+      <jump line="39" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="31" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="48" column="15" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="66" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="75" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="820" column="8" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
+      <jump line="33" column="63" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
+      <jump line="901" column="15" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
+      <jump line="14" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>info</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1658,10 +1665,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSdW5cPg==</text>
+        <text>warning</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdjc19wcm9qZWN0ID0gY29uZmlnLmdldCgnZ29vZ2xlLWNsb3VkLXN0b3JhZ2UnLCAncHJvamVjdC1pZCcpCg==</text>
@@ -1697,23 +1704,20 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>close</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSdW5cPg==</last-search>
+      <last-search>warning</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSdW5cPg==</last-pattern>
+      <last-pattern>warning</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>5010069660836</entry>
-        <entry>-</entry>
-        <entry>wait</entry>
         <entry>main</entry>
         <entry>5000169103937</entry>
         <entry>CLUSTER</entry>
@@ -1731,10 +1735,11 @@
         <entry>config.ini</entry>
         <entry>Config</entry>
         <entry encoding="base64">XDxSdW5cPg==</entry>
+        <entry>logger</entry>
+        <entry>error</entry>
+        <entry>warning</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5ub3JtYWwgLg==</entry>
-        <entry>h back</entry>
         <entry>46</entry>
         <entry>vsp</entry>
         <entry>set hlsearch! hlsearch?</entry>
@@ -1748,11 +1753,13 @@
         <entry>s</entry>
         <entry>split</entry>
         <entry>only</entry>
-        <entry>close</entry>
         <entry>unsplit</entry>
         <entry>vs</entry>
         <entry>jpg</entry>
         <entry>PNG</entry>
+        <entry>close</entry>
+        <entry>c</entry>
+        <entry>cl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
