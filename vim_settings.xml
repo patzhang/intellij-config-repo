@@ -54,11 +54,12 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1516703312643">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1517481725358">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test-requirements.txt" timestamp="1495705923662">
         <mark key="[" line="0" column="13" />
@@ -428,9 +429,6 @@
         <mark key="^" line="119" column="51" />
         <mark key="." line="119" column="51" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/Dockerfile" timestamp="1516035787599">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/import_sku/README.md" timestamp="1511431986363">
         <mark key="[" line="17" column="81" />
         <mark key="]" line="17" column="81" />
@@ -521,11 +519,6 @@
         <mark key="]" line="21" column="12" />
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/version.txt" timestamp="1516707590072">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/installation/requirements.txt" timestamp="1486141505713">
         <mark key="[" line="1" column="5" />
@@ -683,6 +676,12 @@
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="56" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/README.md" timestamp="1517480675779">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+      </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" timestamp="1510600735024">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="8" column="10" />
@@ -737,12 +736,12 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1517480072379">
-        <mark key="'" line="14" column="9" />
-        <mark key="[" line="84" column="15" />
-        <mark key="]" line="84" column="19" />
-        <mark key="^" line="84" column="19" />
-        <mark key="." line="84" column="19" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1517480328031">
+        <mark key="'" line="34" column="11" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="25" />
+        <mark key="^" line="31" column="25" />
+        <mark key="." line="31" column="25" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/osx/mac-cli.sh" timestamp="1509046042967">
         <mark key="[" line="5" column="0" />
@@ -822,10 +821,10 @@
         <mark key="." line="0" column="229343" />
         <mark key="^" line="0" column="229343" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/logging_util.py" timestamp="1516725111070">
-        <mark key="[" line="27" column="105" />
-        <mark key="]" line="27" column="106" />
-        <mark key="." line="27" column="106" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/logging_util.py" timestamp="1517481371833">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="43" />
+        <mark key="." line="21" column="43" />
         <mark key="^" line="27" column="106" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/import_sku/barcode_manager.py" timestamp="1516013174788">
@@ -899,6 +898,12 @@
         <mark key="]" line="21" column="57" />
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1517482349789">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-virtualenv/Readme.md" timestamp="1493730851671">
         <mark key="[" line="2" column="13" />
@@ -1062,9 +1067,6 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="2" column="65" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/input/readme.test.txt" timestamp="1516630461756">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/semantic-image-pairs/requirements.txt" timestamp="1487863377403">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="13" />
@@ -1155,12 +1157,6 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" timestamp="1516716355424">
-        <mark key="'" line="89" column="27" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/package-lock.json" timestamp="1516719006831">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/setup.py" timestamp="1494511945255">
         <mark key="[" line="29" column="46" />
         <mark key="]" line="29" column="52" />
@@ -1232,9 +1228,6 @@
         <mark key="]" line="18" column="64" />
         <mark key="." line="18" column="64" />
         <mark key="^" line="18" column="64" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy/deployment.yaml" timestamp="1516715203702">
-        <mark key="'" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/config.ini" timestamp="1516189368727">
         <mark key="[" line="4" column="15" />
@@ -1358,9 +1351,6 @@
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1516719418519">
-        <mark key="'" line="62" column="23" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1514,17 +1504,12 @@
         <mark key="^" line="45" column="6" />
         <mark key="." line="45" column="6" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/unpack-dataset.sh" timestamp="1516789302231">
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="8" column="50" />
-      </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" timestamp="1517332788935">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" timestamp="1517480436417">
         <mark key="'" line="5" column="3" />
-        <mark key="[" line="13" column="52" />
-        <mark key="]" line="14" column="48" />
-        <mark key="^" line="14" column="48" />
-        <mark key="." line="14" column="48" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-horse-vision-v4/barcode_scanner.py" timestamp="1494318770959">
         <mark key="[" line="79" column="116" />
@@ -1538,10 +1523,14 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-virtualenv/Readme.md" timestamp="1517480744452">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="30" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
       <jump line="456" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
       <jump line="413" column="21" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
       <jump line="87" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v5/snake_vision_v5.py" />
@@ -1625,25 +1614,27 @@
       <jump line="6" column="2" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" />
       <jump line="4" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" />
       <jump line="39" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
-      <jump line="33" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="44" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="48" column="15" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="62" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
-      <jump line="66" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="75" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="820" column="8" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
       <jump line="33" column="63" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
       <jump line="901" column="15" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
       <jump line="14" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="117" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="66" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="31" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="32" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="33" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="34" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVjaG8gIltgZGF0ZWBdIDogQ29tcGxldGVkIHRoZSBmaWxlIHRyYW5zZmVyIHNjcmlwdC4iCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1665,52 +1656,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>gcs_uploader.py</text>
       </register>
       <register name="/" type="4">
-        <text>warning</text>
+        <text>info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdjc19wcm9qZWN0ID0gY29uZmlnLmdldCgnZ29vZ2xlLWNsb3VkLXN0b3JhZ2UnLCAncHJvamVjdC1pZCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRfZGlyID0gcGF0aC5yZWFscGF0aChwYXRoLmFic3BhdGgocGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkKICAgIENPTkZJR19JTkkgPSBwYXRoLmpvaW4oY3VycmVudF9kaXIsICdjb25maWcuaW5pJykKCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIltgZGF0ZWBdIDogQ29tcGxldGVkIHRoZSBmaWxlIHRyYW5zZmVyIHNjcmlwdC4iCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRfZGlyID0gcGF0aC5yZWFscGF0aChwYXRoLmFic3BhdGgocGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkKICAgIENPTkZJR19JTkkgPSBwYXRoLmpvaW4oY3VycmVudF9kaXIsICdjb25maWcuaW5pJykKCg==</text>
+        <text encoding="base64">IyAgICBlY2hvICJzZXR0aW5nIHVwIGdvb2dsZSBjbG91ZCBrZXkgLi4uIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IENvbmZpZ1BhcnNlcigpCiAgICBjb25maWcucmVhZChDT05GSUdfSU5JKQogICAgCiAgICBnY3NfcHJvamVjdCA9IGNvbmZpZy5nZXQoJ2dvb2dsZS1jbG91ZC1zdG9yYWdlJywgJ3Byb2plY3RfaWQnKQogICAgZ2NzX2J1Y2tldCA9IGNvbmZpZy5nZXQoJ2dvb2dsZS1jbG91ZC1zdG9yYWdlJywgJ2J1Y2tldF9uYW1lJykKICAgIAo=</text>
+        <text encoding="base64">LSBzZXR1cCAxMHgtdmlzaW9uLnNlcnZpY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnZGlyOiAlcycsIHN1YmRpcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBvbmx5IGNoZWNrIEVBTjEzIGJhcmNvZGUgZGlyZWN0b3JpZXMK</text>
+        <text encoding="base64">IyAgICBnY2xvdWQgYXV0aCBhY3RpdmF0ZS1zZXJ2aWNlLWFjY291bnQgLS1rZXktZmlsZSAvaG9tZS8uZ2Nsb3VkLWtleQojICAgIGdjbG91ZCBjb25maWcgc2V0IGNvbXB1dGUvem9uZSAkWk9ORQojICAgIGdjbG91ZCBjb25maWcgc2V0IHByb2plY3QgJFBST0pFQ1RfSUQKIyAgICBlY2hvICJmaW5pc2hlZCBzZXR0aW5nIHVwIEdvb2dsZSBjbG91ZCBhdXRob3JpemF0aW9uLiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZ25vcmUgdGhlIGZpbGVzIHVuZGVyIGltYWdlIGRpcmVjdG9yeQo=</text>
+        <text encoding="base64">I1pPTkU9ImV1cm9wZS13ZXN0MS1kIgojUFJPSkVDVF9JRD0icHJvZHVjdC1kZXRlY3Rpb24tMTYwMzE0IgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R0NTX1BST0pFQ1QgPSAncHJvZHVjdC1kZXRlY3Rpb24tMTYwMzE0JwpHQ1NfQlVDS0VUID0gJ3Byb2R1Y3QtaW1hZ2UtZGF0YS10ZXN0aW5nJwoK</text>
+        <text encoding="base64">ICAgIGN1cnJlbnRfZGlyID0gcGF0aC5yZWFscGF0aChwYXRoLmFic3BhdGgocGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkKICAgIENPTkZJR19JTkkgPSBwYXRoLmpvaW4oY3VycmVudF9kaXIsICdjb25maWcuaW5pJykKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">XQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGN1cnJlbnRfZGlyID0gcGF0aC5yZWFscGF0aChwYXRoLmFic3BhdGgocGF0aC5zcGxpdChpbnNwZWN0LmdldGZpbGUoaW5zcGVjdC5jdXJyZW50ZnJhbWUoKSkpWzBdKSkKICAgIENPTkZJR19JTkkgPSBwYXRoLmpvaW4oY3VycmVudF9kaXIsICdjb25maWcuaW5pJykKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbmZpZyA9IENvbmZpZ1BhcnNlcigpCiAgICBjb25maWcucmVhZChDT05GSUdfSU5JKQogICAgCiAgICBnY3NfcHJvamVjdCA9IGNvbmZpZy5nZXQoJ2dvb2dsZS1jbG91ZC1zdG9yYWdlJywgJ3Byb2plY3RfaWQnKQogICAgZ2NzX2J1Y2tldCA9IGNvbmZpZy5nZXQoJ2dvb2dsZS1jbG91ZC1zdG9yYWdlJywgJ2J1Y2tldF9uYW1lJykKICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
       </register>
     </registers>
     <search>
-      <last-search>warning</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>warning</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1718,7 +1709,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
         <entry>5000169103937</entry>
         <entry>CLUSTER</entry>
         <entry>POOL</entry>
@@ -1738,6 +1728,7 @@
         <entry>logger</entry>
         <entry>error</entry>
         <entry>warning</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
