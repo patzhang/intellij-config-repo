@@ -899,11 +899,11 @@
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1517482349789">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1517483410489">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="29" column="9" />
+        <mark key="^" line="29" column="9" />
+        <mark key="." line="29" column="9" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-virtualenv/Readme.md" timestamp="1493730851671">
         <mark key="[" line="2" column="13" />
@@ -1633,8 +1633,8 @@
       <jump line="29" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIltgZGF0ZWBdIDogQ29tcGxldGVkIHRoZSBmaWxlIHRyYW5zZmVyIHNjcmlwdC4iCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHtESVJfREVQTE9ZTUVOVH0vJHtDT0RFX1ZJU0lPTn0g</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1656,7 +1656,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>gcs_uploader.py</text>
+        <text encoding="base64">JHtESVJfREVQTE9ZTUVOVH0vJHtDT0RFX1ZJU0lPTn0g</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
