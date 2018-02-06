@@ -30,8 +30,12 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/logger.js" timestamp="1517925331465">
-        <mark key="'" line="29" column="7" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/logger.js" timestamp="1517928241828">
+        <mark key="'" line="30" column="7" />
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/virtualenv/activate-venv.sh" timestamp="1494604727675">
         <mark key="[" line="4" column="29" />
@@ -1380,12 +1384,12 @@
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517925318263">
-        <mark key="'" line="78" column="23" />
-        <mark key="[" line="121" column="7" />
-        <mark key="]" line="121" column="7" />
-        <mark key="^" line="121" column="9" />
-        <mark key="." line="121" column="7" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517929481352">
+        <mark key="'" line="168" column="37" />
+        <mark key="[" line="173" column="28" />
+        <mark key="]" line="173" column="27" />
+        <mark key="^" line="173" column="27" />
+        <mark key="." line="173" column="27" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1566,14 +1570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="18" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy/deployment.yaml" />
-      <jump line="51" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
-      <jump line="4" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
-      <jump line="30" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
-      <jump line="70" column="26" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
-      <jump line="22" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
-      <jump line="97" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
       <jump line="93" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
       <jump line="92" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
@@ -1664,12 +1660,20 @@
       <jump line="15" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="17" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="78" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="29" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/logger.js" />
+      <jump line="51" column="36" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="56" column="36" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="67" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="78" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="172" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="188" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="192" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="5" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="168" column="37" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>../</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1691,52 +1695,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>../</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdwOiB0YWtlIHBpY3R1cmVzOyAgICAgcTogZXhpdCcpCg==</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnaW5kZXhpbmcgYnVja2V0ICcgKyBidWNrZXROYW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dnZXIuZGVidWcoJycpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">bGV0IEJVQ0tFVF9OQU1FID0gJ3Byb2R1Y3QtaW1hZ2UtZGF0YS10ZXN0LTEnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dnZXIuZGVidWcoJ2luZGV4aW5nIGJ1Y2tldCBub3cgJyArIGJ1Y2tldE5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cywgdGVybWlvcywgdHR5LCBvcywgdGltZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnV0dG9uX2RlbGF5ID0gMC4xCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNoYXIgPSBnZXRjaCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cywgdGVybWlvcywgdHR5LCBvcywgdGltZQo=</text>
       </register>
       <register name=":" type="4">
         <text>close</text>
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1744,8 +1748,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxaW1hZ2VcPg==</entry>
-        <entry>jpg</entry>
         <entry>png</entry>
         <entry>JPG</entry>
         <entry>resize</entry>
@@ -1764,6 +1766,8 @@
         <entry encoding="base64">XDxnY3NcPg==</entry>
         <entry>Processed</entry>
         <entry>debug</entry>
+        <entry>log</entry>
+        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
