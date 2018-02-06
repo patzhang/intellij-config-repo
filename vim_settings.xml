@@ -665,7 +665,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517908437303">
+      <file name="/Dummy.txt" timestamp="1517924116959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516640137236">
@@ -1377,7 +1377,8 @@
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517923378116">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517924341866">
+        <mark key="'" line="11" column="0" />
         <mark key="[" line="121" column="7" />
         <mark key="]" line="121" column="7" />
         <mark key="^" line="121" column="9" />
@@ -1562,8 +1563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
-      <jump line="26" column="24" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
       <jump line="104" column="46" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
       <jump line="13" column="5" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
       <jump line="339" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
@@ -1662,6 +1661,8 @@
       <jump line="72" column="8" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/test-stereo.py" />
       <jump line="59" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/stereo_camera_still_object.py" />
       <jump line="76" column="39" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/stereo_camera_still_object.py" />
+      <jump line="186" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
