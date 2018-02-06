@@ -1384,12 +1384,12 @@
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517929481352">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517930737737">
         <mark key="'" line="168" column="37" />
-        <mark key="[" line="173" column="28" />
-        <mark key="]" line="173" column="27" />
-        <mark key="^" line="173" column="27" />
-        <mark key="." line="173" column="27" />
+        <mark key="[" line="164" column="38" />
+        <mark key="]" line="164" column="51" />
+        <mark key="^" line="164" column="51" />
+        <mark key="." line="164" column="51" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1673,7 +1673,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>Dev1</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1695,7 +1695,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>Dev1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
