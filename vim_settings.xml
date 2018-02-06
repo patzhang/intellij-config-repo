@@ -30,6 +30,9 @@
         <mark key="^" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/logger.js" timestamp="1517925331465">
+        <mark key="'" line="29" column="7" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/virtualenv/activate-venv.sh" timestamp="1494604727675">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="29" />
@@ -424,11 +427,11 @@
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/config.json" timestamp="1517923010700">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/config.json" timestamp="1517925258201">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/training/scala-training/src/filter.sc" timestamp="1513088323914">
         <mark key="[" line="20" column="1" />
@@ -1377,8 +1380,8 @@
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517924341866">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517925318263">
+        <mark key="'" line="78" column="23" />
         <mark key="[" line="121" column="7" />
         <mark key="]" line="121" column="7" />
         <mark key="^" line="121" column="9" />
@@ -1563,11 +1566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="46" filename="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" />
-      <jump line="13" column="5" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
-      <jump line="339" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
-      <jump line="63" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
-      <jump line="35" column="93" filename="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/input/readme.txt" />
       <jump line="8" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="18" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy/deployment.yaml" />
       <jump line="51" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
@@ -1663,10 +1661,15 @@
       <jump line="76" column="39" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/stereo_camera_still_object.py" />
       <jump line="186" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="11" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="15" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="17" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="78" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="29" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/logger.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text>../</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1688,10 +1691,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text>../</text>
       </register>
       <register name="/" type="4">
-        <text>main()</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCdwOiB0YWtlIHBpY3R1cmVzOyAgICAgcTogZXhpdCcpCg==</text>
@@ -1731,9 +1734,9 @@
       </register>
     </registers>
     <search>
-      <last-search>main()</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>main()</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1741,9 +1744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>storage</entry>
-        <entry encoding="base64">XDxidWNrZXRcPg==</entry>
-        <entry>sav</entry>
         <entry encoding="base64">XDxxaW1hZ2VcPg==</entry>
         <entry>jpg</entry>
         <entry>png</entry>
@@ -1761,6 +1761,9 @@
         <entry>config</entry>
         <entry>imwrite</entry>
         <entry>main()</entry>
+        <entry encoding="base64">XDxnY3NcPg==</entry>
+        <entry>Processed</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
