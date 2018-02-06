@@ -1384,12 +1384,12 @@
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517930737737">
-        <mark key="'" line="168" column="37" />
-        <mark key="[" line="164" column="38" />
-        <mark key="]" line="164" column="51" />
-        <mark key="^" line="164" column="51" />
-        <mark key="." line="164" column="51" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517933003207">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="201" column="34" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1570,7 +1570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
       <jump line="93" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
       <jump line="92" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
       <jump line="89" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/deploy.sh" />
@@ -1670,10 +1669,11 @@
       <jump line="192" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="5" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="168" column="37" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Dev1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bmV3IGNyb24uQ3JvbkpvYignMCAwIDEyICogKiAqJywgKCkgPT4gewogIGluZGV4QnVja2V0KGJ1Y2tldENoaWxsKQogICAgLmNhdGNoKGVyciA9PiBsb2dnZXIuZXJyb3IoZXJyKSkKfSwgdW5kZWZpbmVkLCB0cnVlKQoKaW5kZXhCdWNrZXQoYnVja2V0Q2hpbGwpCiAgLmNhdGNoKGVyciA9PiBsb2dnZXIuZXJyb3IoZXJyKSkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1695,13 +1695,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Dev1</text>
+        <text>Ambinent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnaW5kZXhpbmcgYnVja2V0ICcgKyBidWNrZXROYW1lKQo=</text>
+        <text encoding="base64">bmV3IGNyb24uQ3JvbkpvYignMCAwIDEyICogKiAqJywgKCkgPT4gewogIGluZGV4QnVja2V0KGJ1Y2tldENoaWxsKQogICAgLmNhdGNoKGVyciA9PiBsb2dnZXIuZXJyb3IoZXJyKSkKfSwgdW5kZWZpbmVkLCB0cnVlKQoKaW5kZXhCdWNrZXQoYnVja2V0Q2hpbGwpCiAgLmNhdGNoKGVyciA9PiBsb2dnZXIuZXJyb3IoZXJyKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBsb2dnZXIuZGVidWcoJycpCg==</text>
