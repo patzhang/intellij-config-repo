@@ -1608,9 +1608,11 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package.json" timestamp="1518096833551">
+        <mark key="'" line="6" column="42" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="74" column="92" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="452" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="47" column="80" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
@@ -1710,6 +1712,7 @@
       <jump line="15" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="113" column="3" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="33" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/main.js" />
+      <jump line="6" column="42" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1738,7 +1741,7 @@
         <text encoding="base64">Q2hpbGwg</text>
       </register>
       <register name="/" type="4">
-        <text>datastore</text>
+        <text>hexagon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAuZ2V0KCcvYXBpL2ltYWdlcy9jaGlsbCcsIGFzeW5jIChjdHgpID0+IHsKICAgIGxldCBlbnRpdHlDaGlsbCA9IGRhdGFzdG9yZS5rZXkoW2NvbmZpZy5lbnRpdHlLaW5kLCBjb25maWcuZW50aXR5TmFtZUNoaWxsXSkKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGRhdGFzdG9yZS5nZXQoZW50aXR5Q2hpbGwpCiAgICBjdHguYm9keSA9IEpTT04ucGFyc2UocmVzWzBdLmluZGV4KQogIH0pCg==</text>
@@ -1778,13 +1781,13 @@
       </register>
     </registers>
     <search>
-      <last-search>datastore</last-search>
+      <last-search>hexagon</last-search>
       <last-offset />
-      <last-pattern>datastore</last-pattern>
+      <last-pattern>hexagon</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1808,6 +1811,7 @@
         <entry>size</entry>
         <entry>config</entry>
         <entry>datastore</entry>
+        <entry>hexagon</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
