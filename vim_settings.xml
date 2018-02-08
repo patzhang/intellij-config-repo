@@ -1273,7 +1273,8 @@
         <mark key="^" line="32" column="30" />
         <mark key="." line="32" column="30" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/main.js" timestamp="1518090272709">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/main.js" timestamp="1518095413324">
+        <mark key="'" line="33" column="8" />
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="14" />
         <mark key="." line="28" column="14" />
@@ -1609,7 +1610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/package-lock.json" />
       <jump line="62" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="74" column="92" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="452" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
@@ -1709,6 +1709,7 @@
       <jump line="27" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="15" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="113" column="3" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="33" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
