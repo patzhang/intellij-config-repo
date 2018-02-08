@@ -1591,6 +1591,9 @@
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="41" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package-lock.json" timestamp="1518101804556">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task4_ErrorHandling.java" timestamp="1494412416010">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="6" />
@@ -1637,8 +1640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="47" column="80" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="274" column="38" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="319" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="324" column="91" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
@@ -1737,6 +1738,8 @@
       <jump line="33" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/main.js" />
       <jump line="6" column="42" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package.json" />
       <jump line="31" column="0" filename="$USER_HOME$/codeVE/product-image-dataset/pages/index.html" />
+      <jump line="18" column="35" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package-lock.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package-lock.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1765,7 +1768,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>coff</text>
+        <text>hexagon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgImhleGFnb24tb2NhZG8tcmVsZWFzZXMiOiAiXjEuMTEuMCIK</text>
@@ -1805,9 +1808,9 @@
       </register>
     </registers>
     <search>
-      <last-search>coff</last-search>
+      <last-search>hexagon</last-search>
       <last-offset />
-      <last-pattern>coff</last-pattern>
+      <last-pattern>hexagon</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1835,9 +1838,9 @@
         <entry>size</entry>
         <entry>config</entry>
         <entry>datastore</entry>
-        <entry>hexagon</entry>
         <entry>coffee</entry>
         <entry>coff</entry>
+        <entry>hexagon</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
