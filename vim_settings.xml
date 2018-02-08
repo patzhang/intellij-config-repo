@@ -751,6 +751,9 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1518109589869">
+        <mark key="'" line="15108" column="17" />
+      </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.production.config.js" timestamp="1510608340267">
         <mark key="[" line="44" column="8" />
         <mark key="]" line="44" column="24" />
@@ -769,12 +772,12 @@
         <mark key="." line="51" column="44" />
         <mark key="^" line="51" column="44" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" timestamp="1518106331796">
-        <mark key="'" line="0" column="61" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" timestamp="1518109958033">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="113" column="4" />
+        <mark key="^" line="97" column="0" />
+        <mark key="." line="103" column="12" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
         <mark key="[" line="6" column="3" />
@@ -836,6 +839,9 @@
         <mark key="]" line="31" column="18" />
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" timestamp="1518107945515">
+        <mark key="'" line="32" column="2" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1513699576952">
         <mark key="[" line="1" column="0" />
@@ -1642,15 +1648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="588" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="302" column="13" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="514" column="18" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="301" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="511" column="18" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="582" column="13" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="134" column="14" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="167" column="26" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="298" column="22" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="299" column="13" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="6" column="2" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" />
@@ -1724,10 +1721,8 @@
       <jump line="97" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="100" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
-      <jump line="95" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="96" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="3" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
-      <jump line="15" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="16" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="18" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="19" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
@@ -1741,7 +1736,18 @@
       <jump line="46" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="47" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="48" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
-      <jump line="0" column="61" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="64" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="95" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="32" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" />
+      <jump line="89" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="15" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="91" column="36" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="94" column="21" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="103" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="0" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="15108" column="17" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1767,52 +1773,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>titleBar</text>
+        <text>select</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgImhleGFnb24tb2NhZG8tcmVsZWFzZXMiOiAiXjEuMTEuMCIK</text>
+      <register name="0" type="4">
+        <text encoding="base64">c2VsZWN0KCdib2R5JykKICAuY2xhc3NlZCgnaHgtaGVhZGluZy1maXhlZCcsIHRydWUpCiAgLmFkZCh0aXRsZUJhcih7CiAgICB0aXRsZTogJzEwWCcsCiAgICBzdWJ0aXRsZTogJ1BhdHJpY2tOZXQnCiAgfSkpCiAgLmFkZChkaXYoJ3BuLWZpcnN0JykudGV4dCgndG9wLXBhbmVsJykpCiAgLmFkZChkaXYoJ3BuLXNlY29uZCcpLnRleHQoJ3NlY29uZC1wYW5lbCcpKQoKZmV0Y2goJ2FwaS9pbWFnZXMvY2hpbGwnLCB7CiAgY3JlZGVudGlhbHM6ICdpbmNsdWRlJwp9KS50aGVuKHJlcyA9PiByZXMuanNvbigpKQogIC50aGVuKGltYWdlSW5kZXggPT4gewogICAgY29uc29sZS5sb2coaW1hZ2VJbmRleCkKCiAgICBzZWxlY3QoJ3BuLXNlY29uZCcpCiAgICAgIC5hZGQoZ3JvdXAoKQogICAgICAgIC5hZGQoc2VjdGlvbigpLmFkZChjb3VudEJ5RGF5Q2FyZChpbWFnZUluZGV4KSkpKQogICAgICAuYWRkKGdyb3VwKCkKICAgICAgICAuYWRkKHNlY3Rpb24oKS5hZGQobnVtYmVyQ2FyZCgnVG90YWwgSW1hZ2UgQ291bnQnLCBpbWFnZUluZGV4LmNvdW50KSkpCiAgICAgICAgLmFkZChzZWN0aW9uKCkuYWRkKG51bWJlckNhcmQoJ051bWJlciBvZiBTS1VzJywgT2JqZWN0LmtleXMoaW1hZ2VJbmRleC5za3VEZXRhaWxzKS5sZW5ndGgpKSkKICAgICAgICAuYWRkKHNlY3Rpb24oKS5hZGQobnVtYmVyQ2FyZCgnTnVtYmVyIG9mIFNLVXMgPiA1MDAwJywgT2JqZWN0LmtleXMoaW1hZ2VJbmRleC5za3VEZXRhaWxzKS5maWx0ZXIoc2t1ID0+IGltYWdlSW5kZXguY291bnRCeVNrdVtza3VdID4gNTAwMCkubGVuZ3RoKSkpCiAgICAgICAgLmFkZChzZWN0aW9uKCkuYWRkKG51bWJlckNhcmQoJ051bWJlciBvZiBTS1VzID4gMjAwMCcsIE9iamVjdC5rZXlzKGltYWdlSW5kZXguc2t1RGV0YWlscykuZmlsdGVyKHNrdSA9PiBpbWFnZUluZGV4LmNvdW50QnlTa3Vbc2t1XSA+IDIwMDApLmxlbmd0aCkpKQogICAgICAgIC5hZGQoc2VjdGlvbigpLmFkZChudW1iZXJDYXJkKCdOdW1iZXIgb2YgU0tVcyA+IDEwMDAnLCBPYmplY3Qua2V5cyhpbWFnZUluZGV4LnNrdURldGFpbHMpLmZpbHRlcihza3UgPT4gaW1hZ2VJbmRleC5jb3VudEJ5U2t1W3NrdV0gPiAxMDAwKS5sZW5ndGgpKSkKICAgICAgICAuYWRkKHNlY3Rpb24oKS5hZGQobnVtYmVyQ2FyZCgnQXZnLiBJbWFnZSBDb3VudCBwZXIgU0tVJywgKGltYWdlSW5kZXguY291bnQgLyBPYmplY3Qua2V5cyhpbWFnZUluZGV4LnNrdURldGFpbHMpLmxlbmd0aCkudG9GaXhlZCgxKSkpKSkKICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnREYXRlID0gbmV3IERhdGUoY3VycmVudERhdGUudmFsdWVPZigpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRpdGxlQmFyIGZyb20gJ2NvbXBvbmVudHMvdGl0bGViYXInCg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgImhleGFnb24tb2NhZG8tcmVsZWFzZXMiOiAiXjEuMTEuMCIK</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3QKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLmFkZChncm91cCgpCiAgICAgICAgLmFkZChzZWN0aW9uKCkuYWRkKHNrdUxpc3RDYXJkKGltYWdlSW5kZXgpKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAuZ2V0KCcvYXBpL2ltYWdlcycsIGFzeW5jIChjdHgpID0+IHsKICAgIC8vIFhYWDogZ2V0IGZyb20gc3RvcmFnZQogICAgLy8gY3R4LmJvZHkgPSByZXF1aXJlKCcuLi9pbmRleC5qc29uJykKICAgIGNvbnN0IHJlcyA9IGF3YWl0IGRhdGFzdG9yZS5nZXQoZGF0YXN0b3JlLmtleShbY29uZmlnLmVudGl0eUtpbmQsICdpbmRleCddKSkKICAgIGN0eC5ib2R5ID0gSlNPTi5wYXJzZShyZXNbMF0uaW5kZXgpCiAgfSkK</text>
+        <text encoding="base64">ICAgICAgLmFkZChkaXYoJ2h4LWNvbnRlbnQnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFhYWDogZ2V0IGZyb20gc3RvcmFnZQogICAgLy8gY3R4LmJvZHkgPSByZXF1aXJlKCcuLi9pbmRleC5qc29uJykK</text>
+        <text encoding="base64">ICAgICAgLmNsYXNzZWQoJ2h4LWhlYWRpbmctZml4ZWQnLCB0cnVlKQogICAgICAuYWRkKHRpdGxlQmFyKHsKICAgICAgICB0aXRsZTogJzEwWCcsCiAgICAgICAgc3VidGl0bGU6ICdQYXRyaWNrTmV0JwogICAgICB9KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2RpcmVjdG9yeTogJXMnLCBfX2Rpcm5hbWUpCgo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiZGF0YXN0b3JlIjogewo=</text>
+        <text encoding="base64">ICAuYWRkKGdyb3VwKCkK</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search>titleBar</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern>titleBar</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1847,6 +1853,11 @@
         <entry>hx</entry>
         <entry>add</entry>
         <entry>titleBar</entry>
+        <entry>10</entry>
+        <entry encoding="base64">XDxoZWFkaW5nXD4=</entry>
+        <entry>fixed</entry>
+        <entry>div</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
