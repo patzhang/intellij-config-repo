@@ -1774,7 +1774,7 @@
         <text encoding="base64">bmV3IGNyb24uQ3JvblRpbWUoJycpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>close</text>
+        <text>8</text>
       </register>
     </registers>
     <search>
@@ -1830,6 +1830,7 @@
         <entry>close</entry>
         <entry>c</entry>
         <entry>cl</entry>
+        <entry>8</entry>
       </history-cmd>
       <history-expr />
       <history-input />
