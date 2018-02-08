@@ -2,8 +2,7 @@
   <component name="WebBrowsersConfiguration">
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME">
       <settings>
-        <command-line-options>google-stable-chrome</command-line-options>
-        <use-custom-profile>true</use-custom-profile>
+        <command-line-options>chrome</command-line-options>
         <user-data-dir>$APPLICATION_CONFIG_DIR$/chrome-user-data</user-data-dir>
       </settings>
     </browser>
