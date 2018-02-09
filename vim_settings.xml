@@ -691,7 +691,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518104258648">
+      <file name="/Dummy.txt" timestamp="1518166365990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516640137236">
@@ -840,8 +840,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" timestamp="1518107945515">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" timestamp="1518167124853">
         <mark key="'" line="32" column="2" />
+        <mark key="[" line="82" column="14" />
+        <mark key="]" line="82" column="15" />
+        <mark key="." line="82" column="15" />
+        <mark key="^" line="83" column="18" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1513699576952">
         <mark key="[" line="1" column="0" />
@@ -1773,7 +1777,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
