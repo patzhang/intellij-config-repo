@@ -1615,11 +1615,11 @@
         <mark key="^" line="45" column="6" />
         <mark key="." line="45" column="6" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/readme.md" timestamp="1518099729356">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="78" />
-        <mark key="^" line="5" column="78" />
-        <mark key="." line="5" column="78" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/readme.md" timestamp="1518188198812">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" timestamp="1517480436417">
         <mark key="'" line="5" column="3" />
@@ -1789,34 +1789,34 @@
         <text encoding="base64">ICAgIC5hZGQoc2t1TGlzdENhcmQoaW1hZ2VJbmRleCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC4vZGVwbG95LnNoIC0tY2x1c3Rlcj1vY2Fkb2xhYnMgLS1yb3V0ZXItbmFtZT1wYXRyaWNrbmV0LWRhc2hib2FyZC1mcm9udGVuZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuZXcgQ29sbGFwc2libGUoY29sbGFwc2libGVDb250YWluZXIpCiAgc2VsZWN0KCcuaHgtY29sbGFwc2libGUtY29udGVudCcpLmFkZChza3VMaXN0Q2FyZChpbWFnZUluZGV4KSkKCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBuZXcgQ29sbGFwc2libGUoY29sbGFwc2libGVDb250YWluZXIpCiAgc2VsZWN0KCcuaHgtY29sbGFwc2libGUtY29udGVudCcpLmFkZChza3VMaXN0Q2FyZChpbWFnZUluZGV4KSkKCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuZXcgQ29sbGFwc2libGUoY29sbGFwc2libGVDb250YWluZXIpCiAgc2VsZWN0KCcuaHgtY29sbGFwc2libGUtY29udGVudCcpLmFkZChza3VMaXN0Q2FyZChpbWFnZUluZGV4KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBhZGQgdGhlIGNvbGxhcHNpYmxlIGNvbnRlbnQK</text>
+        <text encoding="base64">ICBuZXcgQ29sbGFwc2libGUoY29sbGFwc2libGVDb250YWluZXIpCiAgc2VsZWN0KCcuaHgtY29sbGFwc2libGUtY29udGVudCcpLmFkZChza3VMaXN0Q2FyZChpbWFnZUluZGV4KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgY29sbGFwc2libGVTa3VMaXN0ID0gbmV3IENvbGxhcHNpYmxlKCkKICBjb2xsYXBzaWJsZVNrdUxpc3QuaW5pdGlhbGl6ZUNvbGxhcHNpYmxlcygnY29sbGFwc2libGVTa3VMaXN0JykK</text>
+        <text encoding="base64">ICAvLyBhZGQgdGhlIGNvbGxhcHNpYmxlIGNvbnRlbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb2xsYXBzaWJsZUNvbnRhaW5lci5zZWxlY3QoJy5oeC1jb2xsYXBzaWFibGUtY29udGVudCcpCiAgICAuYWRkKHNrdUxpc3RDYXJkKGltYWdlSW5kZXgpKQo=</text>
+        <text encoding="base64">ICBsZXQgY29sbGFwc2libGVTa3VMaXN0ID0gbmV3IENvbGxhcHNpYmxlKCkKICBjb2xsYXBzaWJsZVNrdUxpc3QuaW5pdGlhbGl6ZUNvbGxhcHNpYmxlcygnY29sbGFwc2libGVTa3VMaXN0JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5hZGQoc2t1TGlzdENhcmQoaW1hZ2VJbmRleCkpCg==</text>
+        <text encoding="base64">ICBjb2xsYXBzaWJsZUNvbnRhaW5lci5zZWxlY3QoJy5oeC1jb2xsYXBzaWFibGUtY29udGVudCcpCiAgICAuYWRkKHNrdUxpc3RDYXJkKGltYWdlSW5kZXgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb2xsYXBzaWJsZVNrdUxpc3Quc2VsZWN0aW9uKCcuaHgtY29sbGFwc2libGUtY29udGVudCcpCg==</text>
+        <text encoding="base64">ICAgIC5hZGQoc2t1TGlzdENhcmQoaW1hZ2VJbmRleCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
