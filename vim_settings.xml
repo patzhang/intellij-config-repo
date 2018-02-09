@@ -772,12 +772,12 @@
         <mark key="." line="51" column="44" />
         <mark key="^" line="51" column="44" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" timestamp="1518171539016">
-        <mark key="'" line="91" column="52" />
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="90" column="28" />
-        <mark key="^" line="90" column="28" />
-        <mark key="." line="90" column="28" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" timestamp="1518177944578">
+        <mark key="'" line="119" column="14" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="^" line="108" column="1" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
         <mark key="[" line="6" column="3" />
@@ -1655,8 +1655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="2" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" />
-      <jump line="4" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" />
       <jump line="39" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="44" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="48" column="15" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
@@ -1746,7 +1744,6 @@
       <jump line="32" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" />
       <jump line="89" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="15" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
-      <jump line="94" column="21" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="122" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="0" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="88" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
@@ -1755,6 +1752,9 @@
       <jump line="118" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="91" column="52" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="4889" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/node_modules/hexagon-ocado-releases/technology-light/hexagon.js" />
+      <jump line="94" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="99" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="119" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1780,43 +1780,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>panelDiv</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmFkZChjYXJkLmhlYWRlci5zZWN0aW9uKCkK</text>
+        <text encoding="base64">ICAgIC5hZGQoc2t1TGlzdENhcmQoaW1hZ2VJbmRleCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuYWRkKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBuZXcgQ29sbGFwc2libGUoY29sbGFwc2libGVDb250YWluZXIpCiAgc2VsZWN0KCcuaHgtY29sbGFwc2libGUtY29udGVudCcpLmFkZChza3VMaXN0Q2FyZChpbWFnZUluZGV4KSkKCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IGNvbCA9IG5ldyBjb2xsYXBzaWJsZS5Db2xsYXBzaWJsZSgnI2V4YW1wbGUnKQpjb2wuaW5pdGlhbGl6ZUNvbGxhcHNpYmxlcygpCmNvbnNvbGUubG9nKCdpc09wZW46ICcgKyBjb2wuaXNPcGVuKCkpCg==</text>
+        <text encoding="base64">ICBuZXcgQ29sbGFwc2libGUoY29sbGFwc2libGVDb250YWluZXIpCiAgc2VsZWN0KCcuaHgtY29sbGFwc2libGUtY29udGVudCcpLmFkZChza3VMaXN0Q2FyZChpbWFnZUluZGV4KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImV4YW1wbGUiPgogICAgICA8ZGl2IGNsYXNzPSJoeC1jb2xsYXBzaWJsZS1oZWFkaW5nIj5IZWFkZXI8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iaHgtY29sbGFwc2libGUtY29udGVudCI+CiAgICAgICAgPGRpdiBzdHlsZT0icGFkZGluZzoxZW07Zm9udC1zaXplOjJlbSI+CiAgICAgICAgICBDb250ZW50CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAvLyBhZGQgdGhlIGNvbGxhcHNpYmxlIGNvbnRlbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC5hZGQoZGl2KCd0ZXN0JykpKQo=</text>
+        <text encoding="base64">ICBsZXQgY29sbGFwc2libGVTa3VMaXN0ID0gbmV3IENvbGxhcHNpYmxlKCkKICBjb2xsYXBzaWJsZVNrdUxpc3QuaW5pdGlhbGl6ZUNvbGxhcHNpYmxlcygnY29sbGFwc2libGVTa3VMaXN0JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5hZGQoY29sbGFwc2libGUoKSkK</text>
+        <text encoding="base64">ICBjb2xsYXBzaWJsZUNvbnRhaW5lci5zZWxlY3QoJy5oeC1jb2xsYXBzaWFibGUtY29udGVudCcpCiAgICAuYWRkKHNrdUxpc3RDYXJkKGltYWdlSW5kZXgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmFkZChjYXJkLmxhcmdlLnRpdGxlKCkuY29tcG9uZW50KCkudGV4dCh0aXRsZSkpCg==</text>
+        <text encoding="base64">ICAgIC5hZGQoc2t1TGlzdENhcmQoaW1hZ2VJbmRleCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5hZGQoY29sbGFwc2libGUoJy50ZXN0JykpKQo=</text>
+        <text encoding="base64">ICBjb2xsYXBzaWJsZVNrdUxpc3Quc2VsZWN0aW9uKCcuaHgtY29sbGFwc2libGUtY29udGVudCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
