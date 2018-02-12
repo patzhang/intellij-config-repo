@@ -1819,7 +1819,7 @@
         <text encoding="base64">ICAgIC5hZGQoY2FyZC5oZWFkZXIuc2VjdGlvbigpLnRleHQoJ0ltYWdlIENvdW50cyBieSBTS1UnKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -1889,8 +1889,8 @@
         <entry>cl</entry>
         <entry>8</entry>
         <entry>call functions#WinMove('k')</entry>
-        <entry>split</entry>
         <entry>vs</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
