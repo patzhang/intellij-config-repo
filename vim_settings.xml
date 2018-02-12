@@ -871,9 +871,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1518435776193">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="69" column="34" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1518446378738">
+        <mark key="'" line="174" column="27" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="63" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509031253291">
         <mark key="[" line="13" column="0" />
@@ -1666,7 +1667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="15" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="62" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="75" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="820" column="8" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
@@ -1766,6 +1766,7 @@
       <jump line="70" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" />
       <jump line="64" column="107" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
+      <jump line="174" column="27" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1797,7 +1798,7 @@
         <text>sku detail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3VkbyB3Z2V0IGh0dHA6Ly9uZXRuaXgub2NhZG8uY29tL2NlcnRzL29jYWRvLWNhLnBlbSAtTyAvdXNyL2xvY2FsL3NoYXJlL2NhLWNlcnRpZmljYXRlcy9vY2Fkby1jYS5jcnQK</text>
+        <text encoding="base64">ICBodHRwczovL2dpdGh1Yi5jb20vZ2VnZ28vTVZhY3F1aXJlL2Jsb2IvbWFzdGVyL2RvY3MvaW50cm8ucnN0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
