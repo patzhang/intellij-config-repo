@@ -871,10 +871,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1518446378738">
-        <mark key="'" line="174" column="27" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="63" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1518611637076">
+        <mark key="'" line="298" column="4" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="103" column="85" />
+        <mark key="^" line="103" column="85" />
+        <mark key="." line="103" column="85" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509031253291">
         <mark key="[" line="13" column="0" />
@@ -882,7 +884,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="49" />
       </file>
-      <file name="localhost:8080/index.js" timestamp="1518105299101" />
       <file name="$USER_HOME$/Workspaces/docker-lab/flutter-docker/Dockerfile" timestamp="1504696963030">
         <mark key="[" line="4" column="47" />
         <mark key="]" line="4" column="57" />
@@ -950,7 +951,6 @@
         <mark key="^" line="3" column="85" />
         <mark key="." line="3" column="85" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/target/index.js" timestamp="1518105179617" />
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/test_barcodeManager.py" timestamp="1505818750940">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="18" />
@@ -1667,7 +1667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="75" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="820" column="8" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
@@ -1767,6 +1766,7 @@
       <jump line="64" column="107" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="174" column="27" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="297" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1795,7 +1795,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>sku detail</text>
+        <text>ntp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBodHRwczovL2dpdGh1Yi5jb20vZ2VnZ28vTVZhY3F1aXJlL2Jsb2IvbWFzdGVyL2RvY3MvaW50cm8ucnN0Cg==</text>
@@ -1835,9 +1835,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sku detail</last-search>
+      <last-search>ntp</last-search>
       <last-offset />
-      <last-pattern>sku detail</last-pattern>
+      <last-pattern>ntp</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1845,20 +1845,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Config</entry>
-        <entry encoding="base64">XDxSdW5cPg==</entry>
-        <entry>logger</entry>
-        <entry>error</entry>
-        <entry>warning</entry>
-        <entry>info</entry>
-        <entry>save</entry>
-        <entry>process</entry>
-        <entry>imwrite</entry>
-        <entry>main()</entry>
-        <entry encoding="base64">XDxnY3NcPg==</entry>
-        <entry>Processed</entry>
-        <entry>debug</entry>
-        <entry>log</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry>upsert</entry>
         <entry encoding="base64">XDxQYXRyaWNrTmV0U3RhYmxlXD4=</entry>
@@ -1879,10 +1865,9 @@
         <entry>select</entry>
         <entry>SKU detail</entry>
         <entry>sku detail</entry>
+        <entry>ntp</entry>
       </history-search>
       <history-cmd>
-        <entry>46</entry>
-        <entry>vsp</entry>
         <entry>44</entry>
         <entry>33</entry>
         <entry>37</entry>
