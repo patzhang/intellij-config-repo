@@ -797,12 +797,12 @@
         <mark key="^" line="3" column="59" />
         <mark key="." line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1517480328031">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" timestamp="1518775786407">
         <mark key="'" line="34" column="11" />
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="25" />
+        <mark key="[" line="103" column="16" />
+        <mark key="]" line="103" column="16" />
         <mark key="^" line="31" column="25" />
-        <mark key="." line="31" column="25" />
+        <mark key="." line="103" column="16" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/osx/mac-cli.sh" timestamp="1509046042967">
         <mark key="[" line="5" column="0" />
@@ -1787,7 +1787,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICA=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>ntp</text>
@@ -1826,7 +1826,7 @@
         <text encoding="base64">ICAgIC5jbGFzc2VkKCdza3UtbGlzdCcsIHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>104</text>
       </register>
     </registers>
     <search>
@@ -1883,6 +1883,7 @@
         <entry>split</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>vs</entry>
+        <entry>104</entry>
       </history-cmd>
       <history-expr />
       <history-input />
