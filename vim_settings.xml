@@ -470,10 +470,6 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/components/titlebar.js" timestamp="1518099206226">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="69" />
-      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/.gitignore" timestamp="1508947566632">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="40" column="0" />
@@ -1453,12 +1449,12 @@
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1517938013666">
-        <mark key="'" line="168" column="41" />
-        <mark key="[" line="168" column="42" />
-        <mark key="]" line="168" column="47" />
-        <mark key="^" line="168" column="47" />
-        <mark key="." line="168" column="47" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1518776742347">
+        <mark key="'" line="215" column="2" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="183" column="20" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1544,10 +1540,6 @@
         <mark key="]" line="32" column="71" />
         <mark key="." line="32" column="71" />
         <mark key="^" line="32" column="71" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/.npmrc" timestamp="1518100218086">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="46" />
       </file>
       <file name="/JavaScript Console" timestamp="1518106219325">
         <mark key="[" line="0" column="0" />
@@ -1662,7 +1654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="820" column="8" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
       <jump line="0" column="0" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
       <jump line="33" column="63" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
@@ -1762,6 +1753,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="174" column="27" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="297" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="214" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1787,16 +1779,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
-        <text>ntp</text>
+        <text>processing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBodHRwczovL2dpdGh1Yi5jb20vZ2VnZ28vTVZhY3F1aXJlL2Jsb2IvbWFzdGVyL2RvY3MvaW50cm8ucnN0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVzZXJ2ZWQgSVA6IDEwLjI2LjUuNDEKTUFDIGFkZHJlc3M6IEY0IDREIDMwIDYxIEY1IDA5CkluZk1pczogaHR0cHM6Ly9pbmZtaXMub2NhZG8uY29tL2NvcmUvYXNzZXQvMTIyMzIxLwoKUGlja2luZyBTdGF0aW9uOiBDWlAgQzFENQo=</text>
+        <text encoding="base64">ICBsb2dnZXIuZGVidWcoJ2RldmljZUlkOiAlcycsIGRldmljZUlkKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1804,23 +1796,23 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dXNlcgo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">UmVzZXJ2ZWQgSVA6IDEwLjI2LjUuNDEKTUFDIGFkZHJlc3M6IEY0IDREIDMwIDYxIEY1IDA5CkluZk1pczogaHR0cHM6Ly9pbmZtaXMub2NhZG8uY29tL2NvcmUvYXNzZXQvMTIyMzIxLwoKUGlja2luZyBTdGF0aW9uOiBDWlAgQzFENQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMjIFJ1biB0aGUgaW5zdGFsbGF0aW9uIHNjcmlwdCBpbiB0aGlzIGRpcmVjdG9yeSB0byBjcmVhdGUgc29tZSBmb2xkZXJzLgotIGNvcHkgLmdjbG91ZC1rZXkgdG8gL2hvbWUKLSB2ZS1jb25maWc6IGNvcHkgY29uZmlnLmluaSB0byAvaG9tZQotIHZlLXZpcnR1YWxlbnY6IGNyZWF0ZSB2aXJ0dWFsZW52IGluIH4vdmVudjMKLSB2ZS1zZXJ2aWNlOiBzZXR1cCAxMHgtdmlzaW9uLnNlcnZpY2UKLSB1cGxvYWRfdG9fZ2NzOiBzZXR1cCBjcm9uIGpvYiBmb3IgR0NTIHVwbG9hZGluZwoKIyMgUnVuIHRoZSBkZXBsb3ltZW50IHNjcmlwdCB0byBkZXBsb3kgdGhlIG5ldyBjb2RlLgotIGNvcHkgdGhlIGxhdGVzdCBjb2RlIHRvIHZlLWRlcGxveW1lbnQgZGlyZWN0b3J5IGJ5IHJ1biBkZXBsb3ktdmUtc25ha2UtY29kZS5zaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY291bnRCeURheUNhcmQgKGltYWdlSW5kZXgpIHsKICBjb25zdCBtYXhEYXlzVG9TaG93ID0gNTAKCiAgZnVuY3Rpb24gcGFkIChkKSB7IHJldHVybiBkIDwgMTAgPyAnMCcgKyBkIDogJycgKyBkIH0KCiAgY29uc3Qgc3RhcnREYXRlID0gbmV3IERhdGUoKQogIHN0YXJ0RGF0ZS5zZXREYXRlKHN0YXJ0RGF0ZS5nZXREYXRlKCkgLSBtYXhEYXlzVG9TaG93KQogIGNvbnN0IGVuZERhdGUgPSBuZXcgRGF0ZSgpCgogIGNvbnN0IGRhdGVzID0gZ2V0RGF0ZXMoc3RhcnREYXRlLCBlbmREYXRlKS5tYXAoZCA9PiB7CiAgICByZXR1cm4gewogICAgICBuaWNlTGFiZWw6IHBhZChkLmdldERhdGUoKSkgKyAnLycgKyBwYWQoZC5nZXRNb250aCgpICsgMSksCiAgICAgIGtleTogZC5nZXRGdWxsWWVhcigpICsgJy0nICsgKGQuZ2V0TW9udGgoKSArIDEpICsgJy0nICsgZC5nZXREYXRlKCkKICAgIH0KICB9KQoKICByZXR1cm4gY2FyZCgpCiAgICAuYWRkKGNhcmQuc2VjdGlvbigpCiAgICAgIC5hZGQoZ3JhcGgoewogICAgICAgIGF4ZXM6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgeDogeyB0aXRsZTogJ0RheScsIHNjYWxlVHlwZTogJ2Rpc2NyZXRlJywgZ3JpZExpbmVzOiBmYWxzZSB9LAogICAgICAgICAgICB5OiB7IHRpdGxlOiAnQ291bnQnLCBncmlkTGluZXM6IGZhbHNlIH0sCiAgICAgICAgICAgIHNlcmllczogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHR5cGU6ICdiYXInLAogICAgICAgICAgICAgICAgb3B0aW9uczogewogICAgICAgICAgICAgICAgICB0aXRsZTogJ0ltYWdlIGNvdW50JywKICAgICAgICAgICAgICAgICAgZmlsbENvbG9yOiAncmdiKDAsIDE2MywgMjI0KScsCiAgICAgICAgICAgICAgICAgIGRhdGE6IGRhdGVzLm1hcChkID0+ICh7eDogZC5uaWNlTGFiZWwsIHk6IGltYWdlSW5kZXguY291bnRCeURheVtkLmtleV0gfHwgMH0pKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSkpKQp9Cgo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">dXNlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbnVtYmVyQ2FyZCAodGl0bGUsIG51bWJlcikgewogIHJldHVybiBjYXJkKCkKICAgIC5hZGQoY2FyZC5oZWFkZXIuc2VjdGlvbigpLnRleHQodGl0bGUpKQogICAgLmFkZChjYXJkLnNlY3Rpb24oKQogICAgICAuY2xhc3NlZCgncG4tYmlnLW51bWJlcicsIHRydWUpCiAgICAgIC50ZXh0KG51bWJlcikpCn0KCg==</text>
+        <text encoding="base64">CiMjIFJ1biB0aGUgaW5zdGFsbGF0aW9uIHNjcmlwdCBpbiB0aGlzIGRpcmVjdG9yeSB0byBjcmVhdGUgc29tZSBmb2xkZXJzLgotIGNvcHkgLmdjbG91ZC1rZXkgdG8gL2hvbWUKLSB2ZS1jb25maWc6IGNvcHkgY29uZmlnLmluaSB0byAvaG9tZQotIHZlLXZpcnR1YWxlbnY6IGNyZWF0ZSB2aXJ0dWFsZW52IGluIH4vdmVudjMKLSB2ZS1zZXJ2aWNlOiBzZXR1cCAxMHgtdmlzaW9uLnNlcnZpY2UKLSB1cGxvYWRfdG9fZ2NzOiBzZXR1cCBjcm9uIGpvYiBmb3IgR0NTIHVwbG9hZGluZwoKIyMgUnVuIHRoZSBkZXBsb3ltZW50IHNjcmlwdCB0byBkZXBsb3kgdGhlIG5ldyBjb2RlLgotIGNvcHkgdGhlIGxhdGVzdCBjb2RlIHRvIHZlLWRlcGxveW1lbnQgZGlyZWN0b3J5IGJ5IHJ1biBkZXBsb3ktdmUtc25ha2UtY29kZS5zaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5jbGFzc2VkKCdza3UtbGlzdCcsIHRydWUpCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gY291bnRCeURheUNhcmQgKGltYWdlSW5kZXgpIHsKICBjb25zdCBtYXhEYXlzVG9TaG93ID0gNTAKCiAgZnVuY3Rpb24gcGFkIChkKSB7IHJldHVybiBkIDwgMTAgPyAnMCcgKyBkIDogJycgKyBkIH0KCiAgY29uc3Qgc3RhcnREYXRlID0gbmV3IERhdGUoKQogIHN0YXJ0RGF0ZS5zZXREYXRlKHN0YXJ0RGF0ZS5nZXREYXRlKCkgLSBtYXhEYXlzVG9TaG93KQogIGNvbnN0IGVuZERhdGUgPSBuZXcgRGF0ZSgpCgogIGNvbnN0IGRhdGVzID0gZ2V0RGF0ZXMoc3RhcnREYXRlLCBlbmREYXRlKS5tYXAoZCA9PiB7CiAgICByZXR1cm4gewogICAgICBuaWNlTGFiZWw6IHBhZChkLmdldERhdGUoKSkgKyAnLycgKyBwYWQoZC5nZXRNb250aCgpICsgMSksCiAgICAgIGtleTogZC5nZXRGdWxsWWVhcigpICsgJy0nICsgKGQuZ2V0TW9udGgoKSArIDEpICsgJy0nICsgZC5nZXREYXRlKCkKICAgIH0KICB9KQoKICByZXR1cm4gY2FyZCgpCiAgICAuYWRkKGNhcmQuc2VjdGlvbigpCiAgICAgIC5hZGQoZ3JhcGgoewogICAgICAgIGF4ZXM6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgeDogeyB0aXRsZTogJ0RheScsIHNjYWxlVHlwZTogJ2Rpc2NyZXRlJywgZ3JpZExpbmVzOiBmYWxzZSB9LAogICAgICAgICAgICB5OiB7IHRpdGxlOiAnQ291bnQnLCBncmlkTGluZXM6IGZhbHNlIH0sCiAgICAgICAgICAgIHNlcmllczogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHR5cGU6ICdiYXInLAogICAgICAgICAgICAgICAgb3B0aW9uczogewogICAgICAgICAgICAgICAgICB0aXRsZTogJ0ltYWdlIGNvdW50JywKICAgICAgICAgICAgICAgICAgZmlsbENvbG9yOiAncmdiKDAsIDE2MywgMjI0KScsCiAgICAgICAgICAgICAgICAgIGRhdGE6IGRhdGVzLm1hcChkID0+ICh7eDogZC5uaWNlTGFiZWwsIHk6IGltYWdlSW5kZXguY291bnRCeURheVtkLmtleV0gfHwgMH0pKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSkpKQp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5zZWN0aW9uKCkK</text>
+        <text encoding="base64">ZnVuY3Rpb24gbnVtYmVyQ2FyZCAodGl0bGUsIG51bWJlcikgewogIHJldHVybiBjYXJkKCkKICAgIC5hZGQoY2FyZC5oZWFkZXIuc2VjdGlvbigpLnRleHQodGl0bGUpKQogICAgLmFkZChjYXJkLnNlY3Rpb24oKQogICAgICAuY2xhc3NlZCgncG4tYmlnLW51bWJlcicsIHRydWUpCiAgICAgIC50ZXh0KG51bWJlcikpCn0KCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIC5jbGFzc2VkKCdza3UtbGlzdCcsIHRydWUpCg==</text>
@@ -1830,9 +1822,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ntp</last-search>
+      <last-search>processing</last-search>
       <last-offset />
-      <last-pattern>ntp</last-pattern>
+      <last-pattern>processing</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1861,6 +1853,7 @@
         <entry>SKU detail</entry>
         <entry>sku detail</entry>
         <entry>ntp</entry>
+        <entry>processing</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
