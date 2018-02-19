@@ -343,6 +343,12 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/package.json" timestamp="1519052181378">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="3" column="67" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/dataset_readme.txt" timestamp="1495209969136">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
@@ -1476,12 +1482,12 @@
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1518780807071">
-        <mark key="'" line="215" column="2" />
-        <mark key="[" line="183" column="15" />
-        <mark key="]" line="183" column="41" />
-        <mark key="^" line="183" column="41" />
-        <mark key="." line="183" column="41" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1519052323830">
+        <mark key="'" line="182" column="41" />
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1672,16 +1678,15 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package.json" timestamp="1518104186421">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package.json" timestamp="1519052178764">
         <mark key="'" line="10" column="42" />
-        <mark key="[" line="20" column="57" />
-        <mark key="]" line="20" column="63" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="3" />
         <mark key="." line="20" column="63" />
         <mark key="^" line="20" column="63" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="66" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="31" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="32" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
@@ -1781,6 +1786,7 @@
       <jump line="1785" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
       <jump line="33" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="182" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1806,13 +1812,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>product image</text>
+        <text>Dev</text>
       </register>
       <register name="/" type="4">
         <text>5000169059579</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgcHJvZHVjdCBpbWFnZSBkYXRhc2V0IC0gdjAuMgo=</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdEBnaXRsYWIudGVjaC5sYXN0bWlsZS5jb206MTB4L3BhdHJpY2tuZXQtZGFzaGJvYXJkLmdpdCIKICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">R3JvY2VyeSBQcm9kdWN0IEltYWdlIERhdGFzZXQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KClRoaXMgZGF0YXNldCBjb250YWlucyBwcm9kdWN0IGltYWdlcyB3aGljaCB3ZXJlIGF1dG9tYXRpY2FsbHkgY2FwdHVyZWQgYXQgcGlja2luZyBzdGF0aW9ucyBpbiB3YXJlaG91c2UuCgoqIEltYWdlIGZvcm1hdDogdGhlIGltYWdlcyBhcmUgaW4gSlBHIGZvcm1hdCBhbmQgaGF2ZSB0aGUgZGltZW5zaW9ucyBvZiAxMjgwIHggMTAyNCBwaXhlbHMgYW5kIFJHQiBjb2xvdXIgc3BhY2UuCgoqIEltYWdlIGZpbGUgbmFtaW5nIGNvbnZlbnRpb246IGJhcmNvZGVfdGltZXN0YW1wX20vcF9taWxsaXNlY29uZHMuanBnICggbS9wIG1lYW5zIG1pbnVzIG9yIHBsdXMgKQoKT3VyIGNhbWVyYSBrZWVwIGNhcHR1cmluZyBpbWFnZXMgZXZlcnkgMjUgbWlsbGlzZWNvbmRzLiBXaGVuIHRoZXJlIGlzIGEgYmFyY29kZSByZWFkaW5nIChhIHByb2R1Y3QgaXMgc2Nhbm5lZCksCnRoZSBtYWNoaW5lIHZpc2lvbiBzeXN0ZW0gc2F2ZXMgZm91ciBpbWFnZXMsIHdoaWNoIGFyZSBvbmUgaW1hZ2UgYmVmb3JlIHRoZSBiYXJjb2RlIHJlYWRpbmcgKHRpbWVzdGFtcCBtaW51cyB4IG1pbGxpc2Vjb25kcykKYW5kIHRocmVlIGltYWdlcyBhZnRlciB0aGUgYmFyY29kZSByZWFkaW5nICh0aW1lc3RhbXAgcGx1cyB5IG1pbGxpc2Vjb25kcykuIFRoZSB0aW1lc3RhbXAgc3BlY2lmaWVzIHdoZW4gaXQgcmVhZHMgYSBiYXJjb2RlLgoKKiBEYXRhc2V0IHN0cnVjdHVyZToKICAgMSkgYWxsIHRoZSBpbWFnZXMgZm9yIGVhY2ggYmFyY29kZSBoYXZlIGJlZW4gcHV0IHRvZ2V0aGVyIGluIGEgdGFyYmFsbCBmaWxlLgogICAyKSB1bnBhY2stZGF0YXNldC5zaCBjYW4gZXh0cmFjdCBhbGwgdGhlIHRhcmJhbGwgZmlsZXMgaW4gb25lIGdvLgogICAzKSBwcm9kdWN0cy5qc29uIGZpbGUgZGVzY3JpYmVzIHRoZSBkZXRhaWxzIG9mIGVhY2ggcHJvZHVjdC4KCgpCYXJjb2RlICAgICAgICAgICBJbWFnZXMgICAgIFByb2R1Y3QgTmFtZQo=</text>
