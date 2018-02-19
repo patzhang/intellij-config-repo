@@ -301,11 +301,11 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/README.md" timestamp="1516012994266">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-        <mark key="^" line="3" column="2" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/README.md" timestamp="1519034191342">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1490798450733">
         <mark key="[" line="1" column="31" />
@@ -391,6 +391,11 @@
         <mark key="]" line="1" column="63" />
         <mark key="." line="1" column="63" />
         <mark key="^" line="1" column="63" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" timestamp="1519033853648">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2235" column="15" />
+        <mark key="]" line="2235" column="46" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/LICENSE" timestamp="1508968052184">
         <mark key="[" line="2" column="18" />
@@ -699,7 +704,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518799069616">
+      <file name="/Dummy.txt" timestamp="1519034199950">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1519031924096">
@@ -904,6 +909,12 @@
         <mark key="]" line="110" column="22" />
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/input/readme.txt.v0.3" timestamp="1519033858915">
+        <mark key="[" line="441" column="29" />
+        <mark key="]" line="441" column="61" />
+        <mark key="." line="441" column="29" />
+        <mark key="^" line="441" column="28" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/logging_util.py" timestamp="1517481371833">
         <mark key="[" line="21" column="0" />
@@ -1362,6 +1373,11 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset/pages/index.html" timestamp="1518098487344">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="76" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/rfrecord_util.py" timestamp="1487841012807">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="25" />
@@ -1665,10 +1681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="63" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
-      <jump line="901" column="15" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" />
-      <jump line="14" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
-      <jump line="117" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="66" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="31" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
@@ -1765,6 +1777,10 @@
       <jump line="214" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="91" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/input/readme.txt" />
+      <jump line="831" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="1785" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="33" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1790,13 +1806,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>xx</text>
       </register>
       <register name="/" type="4">
-        <text>card-number</text>
+        <text>5000169059579</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoc2VjdGlvbigpLmFkZChudW1iZXJDYXJkKCdOdW0gb2YgU0tVcyA+IDIwMDAnLCBPYmplY3Qua2V5cyhpbWFnZUluZGV4LnNrdURldGFpbHMpLmZpbHRlcihza3UgPT4gaW1hZ2VJbmRleC5jb3VudEJ5U2t1W3NrdV0gPiAyMDAwKS5sZW5ndGgpKSkK</text>
+        <text encoding="base64">IyMgcHJvZHVjdCBpbWFnZSBkYXRhc2V0IC0gdjAuMgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">R3JvY2VyeSBQcm9kdWN0IEltYWdlIERhdGFzZXQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KClRoaXMgZGF0YXNldCBjb250YWlucyBwcm9kdWN0IGltYWdlcyB3aGljaCB3ZXJlIGF1dG9tYXRpY2FsbHkgY2FwdHVyZWQgYXQgcGlja2luZyBzdGF0aW9ucyBpbiB3YXJlaG91c2UuCgoqIEltYWdlIGZvcm1hdDogdGhlIGltYWdlcyBhcmUgaW4gSlBHIGZvcm1hdCBhbmQgaGF2ZSB0aGUgZGltZW5zaW9ucyBvZiAxMjgwIHggMTAyNCBwaXhlbHMgYW5kIFJHQiBjb2xvdXIgc3BhY2UuCgoqIEltYWdlIGZpbGUgbmFtaW5nIGNvbnZlbnRpb246IGJhcmNvZGVfdGltZXN0YW1wX20vcF9taWxsaXNlY29uZHMuanBnICggbS9wIG1lYW5zIG1pbnVzIG9yIHBsdXMgKQoKT3VyIGNhbWVyYSBrZWVwIGNhcHR1cmluZyBpbWFnZXMgZXZlcnkgMjUgbWlsbGlzZWNvbmRzLiBXaGVuIHRoZXJlIGlzIGEgYmFyY29kZSByZWFkaW5nIChhIHByb2R1Y3QgaXMgc2Nhbm5lZCksCnRoZSBtYWNoaW5lIHZpc2lvbiBzeXN0ZW0gc2F2ZXMgZm91ciBpbWFnZXMsIHdoaWNoIGFyZSBvbmUgaW1hZ2UgYmVmb3JlIHRoZSBiYXJjb2RlIHJlYWRpbmcgKHRpbWVzdGFtcCBtaW51cyB4IG1pbGxpc2Vjb25kcykKYW5kIHRocmVlIGltYWdlcyBhZnRlciB0aGUgYmFyY29kZSByZWFkaW5nICh0aW1lc3RhbXAgcGx1cyB5IG1pbGxpc2Vjb25kcykuIFRoZSB0aW1lc3RhbXAgc3BlY2lmaWVzIHdoZW4gaXQgcmVhZHMgYSBiYXJjb2RlLgoKKiBEYXRhc2V0IHN0cnVjdHVyZToKICAgMSkgYWxsIHRoZSBpbWFnZXMgZm9yIGVhY2ggYmFyY29kZSBoYXZlIGJlZW4gcHV0IHRvZ2V0aGVyIGluIGEgdGFyYmFsbCBmaWxlLgogICAyKSB1bnBhY2stZGF0YXNldC5zaCBjYW4gZXh0cmFjdCBhbGwgdGhlIHRhcmJhbGwgZmlsZXMgaW4gb25lIGdvLgogICAzKSBwcm9kdWN0cy5qc29uIGZpbGUgZGVzY3JpYmVzIHRoZSBkZXRhaWxzIG9mIGVhY2ggcHJvZHVjdC4KCgpCYXJjb2RlICAgICAgICAgICBJbWFnZXMgICAgIFByb2R1Y3QgTmFtZQo=</text>
@@ -1829,13 +1845,13 @@
         <text encoding="base64">dXNlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>121</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>card-number</last-search>
+      <last-search>5000169059579</last-search>
       <last-offset />
-      <last-pattern>card-number</last-pattern>
+      <last-pattern>5000169059579</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1866,6 +1882,10 @@
         <entry>ntp</entry>
         <entry>processing</entry>
         <entry>card-number</entry>
+        <entry>5017397001959</entry>
+        <entry>8712566479481</entry>
+        <entry>0061232200989</entry>
+        <entry>5000169059579</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
@@ -1887,9 +1907,9 @@
         <entry>call functions#WinMove('k')</entry>
         <entry>split</entry>
         <entry>set hlsearch! hlsearch?</entry>
-        <entry>vs</entry>
         <entry>104</entry>
         <entry>121</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
