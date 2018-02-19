@@ -301,11 +301,11 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/README.md" timestamp="1519034191342">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/README.md" timestamp="1519035406574">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1490798450733">
         <mark key="[" line="1" column="31" />
@@ -704,7 +704,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519034199950">
+      <file name="/Dummy.txt" timestamp="1519035972662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1519031924096">
@@ -1571,12 +1571,12 @@
       <file name="/JavaScript Console" timestamp="1518106219325">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1516099517806">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1519035278508">
         <mark key="'" line="220" column="30" />
-        <mark key="[" line="452" column="11" />
-        <mark key="]" line="452" column="15" />
-        <mark key="^" line="452" column="15" />
-        <mark key="." line="452" column="15" />
+        <mark key="[" line="66" column="16" />
+        <mark key="]" line="66" column="30" />
+        <mark key="^" line="66" column="30" />
+        <mark key="." line="66" column="30" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_import_sku.py" timestamp="1505312899393">
         <mark key="[" line="5" column="6" />
@@ -1806,7 +1806,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>xx</text>
+        <text>product image</text>
       </register>
       <register name="/" type="4">
         <text>5000169059579</text>
