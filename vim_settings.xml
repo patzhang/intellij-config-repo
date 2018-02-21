@@ -404,11 +404,12 @@
         <mark key="." line="1" column="63" />
         <mark key="^" line="1" column="63" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/utils/other_util.py" timestamp="1519213475128">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/utils/other_util.py" timestamp="1519232752566">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="10" column="5" />
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="54" column="72" />
+        <mark key="." line="54" column="72" />
+        <mark key="^" line="54" column="72" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/LICENSE" timestamp="1508968052184">
         <mark key="[" line="2" column="18" />
@@ -615,8 +616,8 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1519229376976">
-        <mark key="'" line="447" column="57" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1519232852190">
+        <mark key="'" line="25" column="57" />
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="1" />
         <mark key="." line="14" column="1" />
@@ -1717,7 +1718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4889" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/node_modules/hexagon-ocado-releases/technology-light/hexagon.js" />
       <jump line="94" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="99" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="119" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
@@ -1817,6 +1817,7 @@
       <jump line="292" column="25" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="298" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="447" column="57" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="25" column="57" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1842,53 +1843,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>building</text>
+        <text encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRhcmJhbGwgPSBkYXRlICsgVU5ERVJTQ09SRSArICdQcm9kdWN0cycgKyBVTkRFUlNDT1JFICsgdGltZXN0YW1wICsgJy50YXIuZ3onCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhcmJhbGwgPSBkYXRlICsgVU5ERVJTQ09SRSArICdQcm9kdWN0cycgKyBVTkRFUlNDT1JFICsgdGltZXN0YW1wICsgJy50YXIuZ3onCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRlbGV0ZSAlcycsIGZpbGVfbmFtZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R0NTX0JVQ0tFVF9JTUFHRV9EQVRBID0gJ3Byb2R1Y3QtaW1hZ2UtZGF0YS1vc3InICAgICMgQW1iaWVudAojIEdDU19CVUNLRVRfSU1BR0VfREFUQSA9ICdwcm9kdWN0LWltYWdlLWRhdGEnICAgICAgIyBDaGlsbAo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBzb3VyY2UgYnVja2V0OiBvcmlnaW5hbCBwcm9kdWN0IGltYWdlcwojIEdDU19CVUNLRVRfSU1BR0VfREFUQSA9ICdwcm9kdWN0LWltYWdlLWRhdGEtdGVzdGluZycgICAgIyBUZXN0aW5nIGJ1Y2tldAo=</text>
+        <text encoding="base64">ICAgIHRhcmJhbGwgPSBkYXRlICsgVU5ERVJTQ09SRSArICdQcm9kdWN0cycgKyBVTkRFUlNDT1JFICsgdGltZXN0YW1wICsgJy50YXIuZ3onCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">R0NTX0JVQ0tFVF9JTUFHRV9EQVRBID0gJ3Byb2R1Y3QtaW1hZ2UtZGF0YS1vc3InICAgICMgQW1iaWVudAojIEdDU19CVUNLRVRfSU1BR0VfREFUQSA9ICdwcm9kdWN0LWltYWdlLWRhdGEnICAgICAgIyBDaGlsbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBzb3VyY2UgYnVja2V0OiBvcmlnaW5hbCBwcm9kdWN0IGltYWdlcwojIEdDU19CVUNLRVRfSU1BR0VfREFUQSA9ICdwcm9kdWN0LWltYWdlLWRhdGEtdGVzdGluZycgICAgIyBUZXN0aW5nIGJ1Y2tldAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>(bc, str(bc_img_dict[bc])))
         item_summary = '     '.join(</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpdGVtX3N1bW1hcnkgPSAnICAgICAnLmpvaW4oKCd7MDogPDEzfScuZm9ybWF0KFNFTEVDVEVEX0RBVEUpLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RfdHh0ID0gJ3Byb2R1Y3RzLXt9LnR4dCcuZm9ybWF0KFNFTEVDVEVEX0RBVEUpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBwYXRoLmV4aXN0cyhmdWxsX25hbWUpOgogICAgICAgIGluaXRfZmlsZV9mcm9tX3RlbXBsYXRlKGZpbGVfbmFtZT1maWxlX25hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlX2Rpcj1maW5kX3NvdXJjZV9kaXIoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXN0X2Rpcj1maWxlX3BhdGgpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGluaXRpYWxpc2UgcHJvZHVjdHMgZmlsZSBmcm9tIHRoZSBleGlzdGluZyB0ZW1wbGF0ZSBpbiBzb3VyY2UgZGlyZWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RfdHh0ID0gJ3Byb2R1Y3RzLXt9LnR4dCcuZm9ybWF0KFNFTEVDVEVEX0RBVEUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
       </register>
     </registers>
     <search>
-      <last-search>building</last-search>
+      <last-search encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>building</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1949,6 +1950,8 @@
         <entry>Failed to process</entry>
         <entry>tarball</entry>
         <entry>building</entry>
+        <entry>Failed to delete</entry>
+        <entry encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
