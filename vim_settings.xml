@@ -110,12 +110,6 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="2" column="66" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/input/readme.txt" timestamp="1519031952167">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -404,10 +398,10 @@
         <mark key="." line="1" column="63" />
         <mark key="^" line="1" column="63" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" timestamp="1519033853648">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2235" column="15" />
-        <mark key="]" line="2235" column="46" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/utils/other_util.py" timestamp="1519208455518">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/LICENSE" timestamp="1508968052184">
         <mark key="[" line="2" column="18" />
@@ -613,6 +607,13 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1519212898991">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+        <mark key="^" line="166" column="35" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/upload-docker-image.sh" timestamp="1509724199371">
         <mark key="[" line="2" column="32" />
@@ -971,6 +972,13 @@
         <mark key="]" line="3" column="85" />
         <mark key="^" line="3" column="85" />
         <mark key="." line="3" column="85" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" timestamp="1519209548395">
+        <mark key="'" line="95" column="4" />
+        <mark key="[" line="49" column="47" />
+        <mark key="]" line="50" column="46" />
+        <mark key="." line="50" column="46" />
+        <mark key="^" line="50" column="46" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/test_barcodeManager.py" timestamp="1505818750940">
         <mark key="[" line="10" column="18" />
@@ -1385,11 +1393,6 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset/pages/index.html" timestamp="1518098487344">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="76" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/utils/rfrecord_util.py" timestamp="1487841012807">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="25" />
@@ -1425,6 +1428,12 @@
         <mark key="]" line="16" column="43" />
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/cluster/delete_kube_jobs.sh" timestamp="1519210367437">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/docker/Dockerfile" timestamp="1509748140595">
         <mark key="[" line="8" column="8" />
@@ -1583,10 +1592,10 @@
       <file name="/JavaScript Console" timestamp="1519057100320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1519035278508">
-        <mark key="'" line="220" column="30" />
-        <mark key="[" line="66" column="16" />
-        <mark key="]" line="66" column="30" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1519210591608">
+        <mark key="'" line="121" column="33" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="53" />
         <mark key="^" line="66" column="30" />
         <mark key="." line="66" column="30" />
       </file>
@@ -1695,15 +1704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="15" column="5" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="26" column="17" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="64" column="77" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="71" column="20" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="140" column="32" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="359" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="505" column="24" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="601" column="13" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="94" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/stereo_camera_still_object.py" />
       <jump line="72" column="8" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/test-stereo.py" />
       <jump line="59" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/stereo_camera_still_object.py" />
@@ -1795,6 +1795,15 @@
       <jump line="108" column="24" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="110" column="68" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="205" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
+      <jump line="13" column="29" filename="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
+      <jump line="66" column="30" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
+      <jump line="90" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
+      <jump line="121" column="33" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" />
+      <jump line="415" column="38" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="33" column="29" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="108" column="23" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1820,52 +1829,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BARCODE</text>
+        <text>a_</text>
       </register>
       <register name="/" type="4">
-        <text>creationtime</text>
+        <text>:8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBuZXcgRGF0ZShpbWFnZUluZGV4LmNyZWF0aW9uVGltZSkudG9Mb2NhbGVTdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRlX3N0cmluZyA9IGN1cnJlbnRfZGF0ZS5zdHJmdGltZSgiJVklbSVkIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogSU1HX1BFUl9TS1UKICAgICAgICAgICAgdmFsdWU6IHtJTUdfUEVSX1NLVX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYmFyY29kZV9hIGluIGJhcmNvZGVfaW1hZ2VzOgogICAgICAgICAgICAgICAgYmFyY29kZV9pbWFnZXNbYmFyY29kZV9hXSA9IGJhcmNvZGVfaW1hZ2VzLmdldChiYXJjb2RlX2EpICsgMQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgYmFyY29kZV9pbWFnZXNbYmFyY29kZV9hXSA9IDEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBFTlYgSU1HX1BFUl9TS1U9JzEwJwojIEVOViBCQVJDT0RFPSczMDczNzgxMDExNDU2Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFyY29kZV9pbWFnZXMuZ2V0KGJhcmNvZGVfYSwgMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhcmNvZGVfc2V0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldCBiYXJjb2RlX3NldCA9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgYnVja2V0QW1iaWVudCA9ICdwcm9kdWN0LWltYWdlLWRhdGEtdGVzdGluZycK</text>
+        <text encoding="base64">ZWxzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBpbWFnZUluZGV4LmNyZWF0aW9uVGltZS50b0xvY2FsZVN0cmluZygpCg==</text>
+        <text encoding="base64">ICAgZWNobyAiRmlsdGVyaW5nIGpvYnMgd2l0aCBrZXl3b3JkOiAke2tleXdvcmR9IgplbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKmZsZXgtd3JhcDogd3JhcDsqLwogIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbCA9IGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>creationtime</last-search>
+      <last-search>:8</last-search>
       <last-offset />
-      <last-pattern>creationtime</last-pattern>
+      <last-pattern>:8</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1903,6 +1912,8 @@
         <entry encoding="base64">XDxyb2NrZXRcPg==</entry>
         <entry>click</entry>
         <entry>creationtime</entry>
+        <entry>delta</entry>
+        <entry>:8</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
@@ -1927,6 +1938,8 @@
         <entry>121</entry>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>75</entry>
+        <entry>49</entry>
         <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
