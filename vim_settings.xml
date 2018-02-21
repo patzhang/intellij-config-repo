@@ -122,6 +122,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/Dockerfile" timestamp="1519208037053">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="52" column="29" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/Readme.txt" timestamp="1495198708235">
         <mark key="[" line="3" column="75" />
         <mark key="]" line="3" column="46" />
@@ -997,6 +1003,12 @@
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/job-template.yaml" timestamp="1519208113823">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="32" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/ve-virtualenv/Readme.md" timestamp="1493730851671">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -1808,7 +1820,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>BARCODE</text>
       </register>
       <register name="/" type="4">
         <text>creationtime</text>
@@ -1817,37 +1829,37 @@
         <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBuZXcgRGF0ZShpbWFnZUluZGV4LmNyZWF0aW9uVGltZSkudG9Mb2NhbGVTdHJpbmcoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogSU1HX1BFUl9TS1UKICAgICAgICAgICAgdmFsdWU6IHtJTUdfUEVSX1NLVX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBFTlYgSU1HX1BFUl9TS1U9JzEwJwojIEVOViBCQVJDT0RFPSczMDczNzgxMDExNDU2Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYnVja2V0QW1iaWVudCA9ICdwcm9kdWN0LWltYWdlLWRhdGEtdGVzdGluZycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBpbWFnZUluZGV4LmNyZWF0aW9uVGltZS50b0xvY2FsZVN0cmluZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
+        <text encoding="base64">Y29uc3QgYnVja2V0QW1iaWVudCA9ICdwcm9kdWN0LWltYWdlLWRhdGEtdGVzdGluZycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKmZsZXgtd3JhcDogd3JhcDsqLwogIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBpbWFnZUluZGV4LmNyZWF0aW9uVGltZS50b0xvY2FsZVN0cmluZygpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA6ICdnbyB0byBidWNrZXQnCg==</text>
+        <text encoding="base64">ICAvKmZsZXgtd3JhcDogd3JhcDsqLwogIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAudGV4dCh0aXRsZSkpCg==</text>
+        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
@@ -1913,9 +1925,9 @@
         <entry>split</entry>
         <entry>104</entry>
         <entry>121</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
