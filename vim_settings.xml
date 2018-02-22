@@ -532,6 +532,10 @@
         <mark key="^" line="35" column="63" />
         <mark key="." line="35" column="63" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/output/job_ds-builder-20180221-1610683091-1-20180207.yaml" timestamp="1519304685700">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="28" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitlab-ci.yml" timestamp="1510222459535">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="18" column="57" />
@@ -1474,11 +1478,6 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/.gitlab-ci.yml" timestamp="1518795301888">
-        <mark key="[" line="23" column="100" />
-        <mark key="]" line="23" column="101" />
-        <mark key="." line="23" column="101" />
-      </file>
       <file name="$USER_HOME$/Workspaces/flutter-docker/README.md" timestamp="1504876542900">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1680,11 +1679,6 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/config.json" timestamp="1519054542959">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" timestamp="1517480436417">
         <mark key="'" line="5" column="3" />
         <mark key="[" line="12" column="0" />
@@ -1850,7 +1844,7 @@
         <text>getSkuForBar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyBsb2dnZXIuaW5mbygnYmFyY29kZSAlcyA8PiBza3UgJXMnLCBiYXJjb2RlLCBza3UpCg==</text>
+        <text encoding="base64">YXBpVmVyc2lvbjogYmF0Y2gvdjEKa2luZDogSm9iCm1ldGFkYXRhOgogIG5hbWU6IGRzLWJ1aWxkZXItMjAxODAyMjEtMTYxMDY4MzA5MS0xLTIwMTgwMjA3CnNwZWM6CiAgdGVtcGxhdGU6CiAgICBzcGVjOgogICAgICByZXN0YXJ0UG9saWN5OiBOZXZlcgogICAgICBjb250YWluZXJzOgogICAgICAtIG5hbWU6IGRhdGFzZXQtYnVpbGRlcgogICAgICAgIGltYWdlOiBldS5nY3IuaW8vbmlmdHktcmVhbG0tMTEzL2FtYmllbnQtcHJvZHVjdC1kYXRhc2V0LWJ1aWxkZXI6MC4wLjEKICAgICAgICBpbWFnZVB1bGxQb2xpY3k6IEFsd2F5cwogICAgICAgIGVudjoKICAgICAgICAgIC0gbmFtZTogREFUQVNFVF9WRVJTSU9OCiAgICAgICAgICAgIHZhbHVlOiAiMC4xIgogICAgICAgICAgLSBuYW1lOiBTRUxFQ1RFRF9EQVRFCiAgICAgICAgICAgIHZhbHVlOiAiMjAxODAyMDciCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bG9nZ2VyLmluZm8oJ2JhcmNvZGUgJXMgPD4gc2t1ICVzJywgYmFyY29kZSwgbXlTa3UpCmxvZ2dlci5kZWJ1ZygnbXkgc2t1OiAlcycsIG15U2t1KQo=</text>
