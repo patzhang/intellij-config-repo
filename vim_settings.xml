@@ -343,7 +343,8 @@
         <mark key="." line="26" column="45" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/package.json" timestamp="1519052181378">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/package.json" timestamp="1519292168742">
+        <mark key="'" line="4" column="2" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="7" column="4" />
         <mark key="^" line="3" column="67" />
@@ -1505,12 +1506,12 @@
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1519061277408">
-        <mark key="'" line="205" column="0" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
-        <mark key="^" line="24" column="32" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1519293012014">
+        <mark key="'" line="252" column="1" />
+        <mark key="[" line="249" column="4" />
+        <mark key="]" line="249" column="9" />
+        <mark key="." line="249" column="9" />
+        <mark key="^" line="249" column="9" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1718,8 +1719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
-      <jump line="99" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="119" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="14" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="70" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" />
@@ -1818,6 +1817,8 @@
       <jump line="298" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="447" column="57" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="25" column="57" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="4" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/package.json" />
+      <jump line="252" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1843,53 +1844,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</text>
+        <text>promis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRhcmJhbGwgPSBkYXRlICsgVU5ERVJTQ09SRSArICdQcm9kdWN0cycgKyBVTkRFUlNDT1JFICsgdGltZXN0YW1wICsgJy50YXIuZ3onCg==</text>
+        <text encoding="base64">ICBjb25zdCBza3UgPSBhd2FpdCByb2NrZXQuZ2V0U2t1Rm9yQmFyY29kZShiYXJjb2RlLCB7IHRva2VuIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRlbGV0ZSAlcycsIGZpbGVfbmFtZSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">Y29uc3QgcmV0cnlPcHRpb25zID0gewogIHJldHJpZXM6IDUsCiAgbWluVGltZW91dDogNTAwLAogIG1heFRpbWVvdXQ6IDYwMDAwLAogIHJhbmRvbWl6ZTogMS41Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRhcmJhbGwgPSBkYXRlICsgVU5ERVJTQ09SRSArICdQcm9kdWN0cycgKyBVTkRFUlNDT1JFICsgdGltZXN0YW1wICsgJy50YXIuZ3onCg==</text>
+        <text encoding="base64">Ly8gcmV0cnlQcm9taXNlKGdldFNrdShiYXJjb2RlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R0NTX0JVQ0tFVF9JTUFHRV9EQVRBID0gJ3Byb2R1Y3QtaW1hZ2UtZGF0YS1vc3InICAgICMgQW1iaWVudAojIEdDU19CVUNLRVRfSU1BR0VfREFUQSA9ICdwcm9kdWN0LWltYWdlLWRhdGEnICAgICAgIyBDaGlsbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBzb3VyY2UgYnVja2V0OiBvcmlnaW5hbCBwcm9kdWN0IGltYWdlcwojIEdDU19CVUNLRVRfSU1BR0VfREFUQSA9ICdwcm9kdWN0LWltYWdlLWRhdGEtdGVzdGluZycgICAgIyBUZXN0aW5nIGJ1Y2tldAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(bc, str(bc_img_dict[bc])))
-        item_summary = '     '.join(</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ215IHNrdSBpcyAlcycsIG15U2t1KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewoKICAvLyAgIGNvbnN0IHNrdSA9IHJvY2tldC5nZXRTa3VCeUJhcmNvZGUoYmFyY29kZSwgeyB0b2tlbiB9KQogIC8vICAgcmVzb2x2ZShza3UpCiAgLy8gfSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRlbGV0ZSAlcycsIGZpbGVfbmFtZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtX3N1bW1hcnkgPSAnICAgICAnLmpvaW4oKCd7MDogPDEzfScuZm9ybWF0KFNFTEVDVEVEX0RBVEUpLAo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb2R1Y3RfdHh0ID0gJ3Byb2R1Y3RzLXt9LnR4dCcuZm9ybWF0KFNFTEVDVEVEX0RBVEUpCg==</text>
+        <text encoding="base64">ICAgIHRhcmJhbGwgPSBkYXRlICsgVU5ERVJTQ09SRSArICdQcm9kdWN0cycgKyBVTkRFUlNDT1JFICsgdGltZXN0YW1wICsgJy50YXIuZ3onCg==</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</last-search>
+      <last-search>promis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</last-pattern>
+      <last-pattern>promis</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1952,6 +1952,7 @@
         <entry>building</entry>
         <entry>Failed to delete</entry>
         <entry encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</entry>
+        <entry>promis</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
