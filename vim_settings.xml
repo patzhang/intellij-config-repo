@@ -1332,7 +1332,7 @@
         <mark key="." line="11" column="5" />
         <mark key="^" line="11" column="5" />
       </file>
-      <file name="/fragment.js" timestamp="1519056248896">
+      <file name="/fragment.js" timestamp="1519294700925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/issues/issues.txt" timestamp="1508959199412">
@@ -1506,12 +1506,12 @@
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1519293012014">
-        <mark key="'" line="252" column="1" />
-        <mark key="[" line="249" column="4" />
-        <mark key="]" line="249" column="9" />
-        <mark key="." line="249" column="9" />
-        <mark key="^" line="249" column="9" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1519295207737">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="248" column="3" />
+        <mark key="]" line="248" column="3" />
+        <mark key="." line="248" column="3" />
+        <mark key="^" line="248" column="3" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1719,7 +1719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="14" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="70" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" />
       <jump line="64" column="107" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
@@ -1819,6 +1818,7 @@
       <jump line="25" column="57" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="4" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/package.json" />
       <jump line="252" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="32" column="3" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1844,52 +1844,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>promis</text>
+        <text>getSkuForBar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBza3UgPSBhd2FpdCByb2NrZXQuZ2V0U2t1Rm9yQmFyY29kZShiYXJjb2RlLCB7IHRva2VuIH0pCg==</text>
+        <text encoding="base64">ICAvLyBsb2dnZXIuaW5mbygnYmFyY29kZSAlcyA8PiBza3UgJXMnLCBiYXJjb2RlLCBza3UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bG9nZ2VyLmluZm8oJ2JhcmNvZGUgJXMgPD4gc2t1ICVzJywgYmFyY29kZSwgbXlTa3UpCmxvZ2dlci5kZWJ1ZygnbXkgc2t1OiAlcycsIG15U2t1KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcmV0cnlPcHRpb25zID0gewogIHJldHJpZXM6IDUsCiAgbWluVGltZW91dDogNTAwLAogIG1heFRpbWVvdXQ6IDYwMDAwLAogIHJhbmRvbWl6ZTogMS41Cn0K</text>
+        <text encoding="base64">CiAgLy8gbG9nZ2VyLmluZm8oJ2JhcmNvZGUgJXMgPD4gc2t1ICVzJywgYmFyY29kZSwgc2t1KQogIC8vIHJldHVybiBza3UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gcmV0cnlQcm9taXNlKGdldFNrdShiYXJjb2RlKSkK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ215IHNrdSBpcyAlcycsIG15U2t1KQo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBnZXRTa3VXaXRoUmV0cnkgKCkgewogICAgcHJvbWlzZVJldHJ5KHJldHJ5T3B0aW9ucywgZnVuY3Rpb24gKHJldHJ5LCBudW1iZXIpIHsKICAgICAgbG9nZ2VyLmRlYnVnKCdhdHRlbXB0OiAlZCcsIG51bWJlcikKICAgICAgcmV0dXJuIGdldFNrdUZvckJhcmNvZGUxKHJvY2tldCwgYmFyY29kZSwgdG9rZW4pLmNhdGNoKHJldHJ5KQogICAgfSkKICAgICAgLnRoZW4oZnVuY3Rpb24gKHZhbHVlKSB7CiAgICAgICAgbG9nZ2VyLmluZm8oJ3RoZW5hYmxlIGZ1bmN0aW9uOiAnICsgdmFsdWUpCiAgICAgICAgcmV0dXJuIHZhbHVlCiAgICAgIH0sIGZ1bmN0aW9uIChlcnIpIHsKICAgICAgICBsb2dnZXIuZXJyb3IoJ2ZhaWxlZCBhZnRlciByZXRyeTogJyArIGVycikKICAgICAgfSkKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewoKICAvLyAgIGNvbnN0IHNrdSA9IHJvY2tldC5nZXRTa3VCeUJhcmNvZGUoYmFyY29kZSwgeyB0b2tlbiB9KQogIC8vICAgcmVzb2x2ZShza3UpCiAgLy8gfSkK</text>
+        <text encoding="base64">ICAvLyBhd2FpdCBzbGVlcCgyMDAwKQogIC8vIGNvbnN0IHNrdSA9IGF3YWl0IHJvY2tldC5nZXRTa3VGb3JCYXJjb2RlKGJhcmNvZGUsIHsgdG9rZW4gfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBPU0Vycm9yOgogICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRlbGV0ZSAlcycsIGZpbGVfbmFtZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQuY2F0Y2gocmV0cnkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHJvY2tldC5nZXRTa3VGb3JCYXJjb2RlKGJhcmNvZGUsIHsgdG9rZW4gfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhcmJhbGwgPSBkYXRlICsgVU5ERVJTQ09SRSArICdQcm9kdWN0cycgKyBVTkRFUlNDT1JFICsgdGltZXN0YW1wICsgJy50YXIuZ3onCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
       </register>
     </registers>
     <search>
-      <last-search>promis</last-search>
+      <last-search>getSkuForBar</last-search>
       <last-offset />
-      <last-pattern>promis</last-pattern>
+      <last-pattern>getSkuForBar</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -1953,6 +1953,7 @@
         <entry>Failed to delete</entry>
         <entry encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</entry>
         <entry>promis</entry>
+        <entry>getSkuForBar</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
