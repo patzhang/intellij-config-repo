@@ -18,6 +18,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/delete_kube_jobs.sh" timestamp="1519306593231">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/setup.py" timestamp="1487860699776">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="89" />
@@ -386,6 +392,12 @@
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/config.ini" timestamp="1519305396982">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" timestamp="1510766774453">
         <mark key="[" line="25" column="21" />
@@ -814,6 +826,12 @@
         <mark key="^" line="107" column="6" />
         <mark key="." line="158" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/src/dataset_builder/main.py" timestamp="1519306527501">
+        <mark key="[" line="62" column="20" />
+        <mark key="]" line="62" column="20" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="62" column="20" />
+      </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="21" />
@@ -1186,6 +1204,7 @@
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/Dockerfile" timestamp="1519305679353" />
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-service/Readme.md" timestamp="1516810170399">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="4" />
@@ -1338,6 +1357,12 @@
       </file>
       <file name="/fragment.js" timestamp="1519294700925">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/generate_jobs.py" timestamp="1519306583180">
+        <mark key="[" line="81" column="30" />
+        <mark key="]" line="81" column="32" />
+        <mark key="^" line="81" column="32" />
+        <mark key="." line="81" column="32" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/issues/issues.txt" timestamp="1508959199412">
         <mark key="[" line="1" column="0" />
@@ -1838,7 +1863,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>getSkuForBar</text>
@@ -1847,34 +1872,34 @@
         <text encoding="base64">YXBpVmVyc2lvbjogYmF0Y2gvdjEKa2luZDogSm9iCm1ldGFkYXRhOgogIG5hbWU6IGRzLWJ1aWxkZXItMjAxODAyMjEtMTYxMDY4MzA5MS0xLTIwMTgwMjA3CnNwZWM6CiAgdGVtcGxhdGU6CiAgICBzcGVjOgogICAgICByZXN0YXJ0UG9saWN5OiBOZXZlcgogICAgICBjb250YWluZXJzOgogICAgICAtIG5hbWU6IGRhdGFzZXQtYnVpbGRlcgogICAgICAgIGltYWdlOiBldS5nY3IuaW8vbmlmdHktcmVhbG0tMTEzL2FtYmllbnQtcHJvZHVjdC1kYXRhc2V0LWJ1aWxkZXI6MC4wLjEKICAgICAgICBpbWFnZVB1bGxQb2xpY3k6IEFsd2F5cwogICAgICAgIGVudjoKICAgICAgICAgIC0gbmFtZTogREFUQVNFVF9WRVJTSU9OCiAgICAgICAgICAgIHZhbHVlOiAiMC4xIgogICAgICAgICAgLSBuYW1lOiBTRUxFQ1RFRF9EQVRFCiAgICAgICAgICAgIHZhbHVlOiAiMjAxODAyMDciCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oJ2JhcmNvZGUgJXMgPD4gc2t1ICVzJywgYmFyY29kZSwgbXlTa3UpCmxvZ2dlci5kZWJ1ZygnbXkgc2t1OiAlcycsIG15U2t1KQo=</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5vdGhlcl91dGlsIGltcG9ydCAoZG93bmxvYWRfZmlsZV93aXRoX3JldHJ5LCBkZWxldGVfZmlsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlX2RpciwgYW1lbmRfdG9fZmlsZSwgY2hlY2tfYW5kX2RlbGV0ZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgLy8gbG9nZ2VyLmluZm8oJ2JhcmNvZGUgJXMgPD4gc2t1ICVzJywgYmFyY29kZSwgc2t1KQogIC8vIHJldHVybiBza3UK</text>
+        <text encoding="base64">ICAgIFVQTE9BRF9UT19HQ1MgPSBGYWxzZSAgICMgaWYgdGhlIHJlc3VsdCBkYXRhc2V0IGlzIHVwbG9hZGVkIHRvIEdDUwogICAgVVNJTkdfVEFSQkFMTCA9IEZhbHNlICAgIyBpZiB0aGUgdGFyYmFsbCBmaWxlcyBhcmUgY3JlYXRlZAogICAgIyBVUExPQURfVE9fR0NTID0gVHJ1ZSAgICMgaWYgdGhlIHJlc3VsdCBkYXRhc2V0IGlzIHVwbG9hZGVkIHRvIEdDUwogICAgIyBVU0lOR19UQVJCQUxMID0gVHJ1ZSAgICMgaWYgdGhlIHRhcmJhbGwgZmlsZXMgYXJlIGNyZWF0ZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">CiAgICAjIHNvdXJjZSBidWNrZXQ6IG9yaWdpbmFsIHByb2R1Y3QgaW1hZ2VzCiAgICBHQ1NfQlVDS0VUX0lNQUdFX0RBVEEgPSAncHJvZHVjdC1pbWFnZS1kYXRhLXRlc3RpbmcnICAgICMgVGVzdGluZyBidWNrZXQKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc291cmNlIGJ1Y2tldDogb3JpZ2luYWwgcHJvZHVjdCBpbWFnZXMKICAgIEdDU19CVUNLRVRfSU1BR0VfREFUQSA9ICdwcm9kdWN0LWltYWdlLWRhdGEtb3NyJyAgICAjIEFtYmllbnQKICAgICMgR0NTX0JVQ0tFVF9JTUFHRV9EQVRBID0gJ3Byb2R1Y3QtaW1hZ2UtZGF0YScgICAgICAjIENoaWxsCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBnZXRTa3VXaXRoUmV0cnkgKCkgewogICAgcHJvbWlzZVJldHJ5KHJldHJ5T3B0aW9ucywgZnVuY3Rpb24gKHJldHJ5LCBudW1iZXIpIHsKICAgICAgbG9nZ2VyLmRlYnVnKCdhdHRlbXB0OiAlZCcsIG51bWJlcikKICAgICAgcmV0dXJuIGdldFNrdUZvckJhcmNvZGUxKHJvY2tldCwgYmFyY29kZSwgdG9rZW4pLmNhdGNoKHJldHJ5KQogICAgfSkKICAgICAgLnRoZW4oZnVuY3Rpb24gKHZhbHVlKSB7CiAgICAgICAgbG9nZ2VyLmluZm8oJ3RoZW5hYmxlIGZ1bmN0aW9uOiAnICsgdmFsdWUpCiAgICAgICAgcmV0dXJuIHZhbHVlCiAgICAgIH0sIGZ1bmN0aW9uIChlcnIpIHsKICAgICAgICBsb2dnZXIuZXJyb3IoJ2ZhaWxlZCBhZnRlciByZXRyeTogJyArIGVycikKICAgICAgfSkKICB9Cg==</text>
+        <text encoding="base64">ICAgIFVQTE9BRF9UT19HQ1MgPSBUcnVlICAgIyBpZiB0aGUgcmVzdWx0IGRhdGFzZXQgaXMgdXBsb2FkZWQgdG8gR0NTCiAgICBVU0lOR19UQVJCQUxMID0gVHJ1ZSAgICMgaWYgdGhlIHRhcmJhbGwgZmlsZXMgYXJlIGNyZWF0ZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCBzbGVlcCgyMDAwKQogIC8vIGNvbnN0IHNrdSA9IGF3YWl0IHJvY2tldC5nZXRTa3VGb3JCYXJjb2RlKGJhcmNvZGUsIHsgdG9rZW4gfSkK</text>
+        <text encoding="base64">ZnJvbSBzZWdtZW50YXRpb25fZmlsdGVyIGltcG9ydCBTZWdtZW50YXRpb25GaWx0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQuY2F0Y2gocmV0cnkpCg==</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aApmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQpmcm9tIGdvb2dsZS5jbG91ZCBpbXBvcnQgc3RvcmFnZQpmcm9tIGdvb2dsZS5jbG91ZC5leGNlcHRpb25zIGltcG9ydCBHb29nbGVDbG91ZEVycm9yCmZyb20gZ29vZ2xlLmNsb3VkLnN0b3JhZ2UgaW1wb3J0IEJsb2IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHJvY2tldC5nZXRTa3VGb3JCYXJjb2RlKGJhcmNvZGUsIHsgdG9rZW4gfSkK</text>
+        <text encoding="base64">aW1wb3J0IGN2MgppbXBvcnQgaW5zcGVjdAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name=":" type="4">
         <text>208</text>
