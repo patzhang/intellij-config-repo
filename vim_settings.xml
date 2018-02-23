@@ -252,8 +252,8 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" timestamp="1519311672219">
-        <mark key="'" line="215" column="22" />
+      <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" timestamp="1519391343979">
+        <mark key="'" line="197" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
         <mark key="[" line="0" column="0" />
@@ -1756,7 +1756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="214" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="91" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/input/readme.txt" />
@@ -1856,6 +1855,7 @@
       <jump line="3" column="6" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="26" column="9" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="215" column="22" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
+      <jump line="197" column="0" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
