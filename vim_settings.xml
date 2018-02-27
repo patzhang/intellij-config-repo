@@ -1655,6 +1655,13 @@
       <file name="/JavaScript Console" timestamp="1519057100320">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519745920037">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1519210591608">
         <mark key="'" line="121" column="33" />
         <mark key="[" line="121" column="0" />
@@ -1692,11 +1699,11 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/README.md" timestamp="1519744273384">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/README.md" timestamp="1519745661622">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.cordova.config.js" timestamp="1510588801715">
         <mark key="[" line="43" column="49" />
@@ -1770,7 +1777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/input/readme.txt" />
       <jump line="831" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
       <jump line="1785" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
       <jump line="33" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
@@ -1870,6 +1876,7 @@
       <jump line="197" column="0" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="77" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/99-rupert" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" />
+      <jump line="3" column="10" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1895,7 +1902,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>product-detection</text>
+        <text>```</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXRyeVByb21pc2VcPg==</text>
