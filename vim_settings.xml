@@ -9,7 +9,7 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1517493297946">
+      <file name="/a.dummy" timestamp="1519731886736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
@@ -48,6 +48,13 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="35" />
+        <mark key="." line="22" column="35" />
+        <mark key="^" line="22" column="35" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logging_util.py" timestamp="1487174819585">
         <mark key="[" line="20" column="42" />
@@ -173,6 +180,12 @@
         <mark key="]" line="26" column="13" />
         <mark key="^" line="26" column="13" />
         <mark key="." line="26" column="13" />
+      </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/create-node-pool.sh" timestamp="1519732077688">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/create_kube_jobs.py" timestamp="1509751312269">
         <mark key="[" line="4" column="0" />
@@ -304,6 +317,12 @@
         <mark key="^" line="57" column="31" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/89-wlan.sh" timestamp="1519730777956">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="2" column="88" />
+        <mark key="^" line="2" column="88" />
+        <mark key="." line="2" column="88" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/dl-py3-test/code_snippets/keras_cnn_morvan.py" timestamp="1498550490983">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="33" column="55" />
@@ -426,13 +445,6 @@
         <mark key="." line="1" column="63" />
         <mark key="^" line="1" column="63" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/utils/other_util.py" timestamp="1519232752566">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="52" column="30" />
-        <mark key="]" line="54" column="72" />
-        <mark key="." line="54" column="72" />
-        <mark key="^" line="54" column="72" />
-      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/LICENSE" timestamp="1508968052184">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="17" />
@@ -462,6 +474,12 @@
         <mark key="]" line="2" column="53" />
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/create-cluster.sh" timestamp="1519732675100">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/run-unit-tests.sh" timestamp="1496235858186">
         <mark key="[" line="2" column="27" />
@@ -641,13 +659,6 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1519232852190">
-        <mark key="'" line="25" column="57" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
-        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/upload-docker-image.sh" timestamp="1509724199371">
         <mark key="[" line="2" column="32" />
@@ -905,18 +916,18 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" timestamp="1519060378796">
-        <mark key="'" line="98" column="13" />
-        <mark key="[" line="102" column="10" />
-        <mark key="]" line="102" column="16" />
-        <mark key="." line="102" column="16" />
-        <mark key="^" line="102" column="16" />
-      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1513699576952">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/99-rupert" timestamp="1519731478670">
+        <mark key="'" line="82" column="3" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="63" />
+        <mark key="^" line="9" column="63" />
+        <mark key="." line="9" column="63" />
       </file>
       <file name="$USER_HOME$/Workspaces/docker-lab/doc/kubernetes/Readme.md" timestamp="1497603772301">
         <mark key="[" line="3" column="0" />
@@ -1315,6 +1326,12 @@
         <mark key="." line="10" column="16" />
         <mark key="^" line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/delete-cluster.sh" timestamp="1519732701284">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-first/install.sh" timestamp="1518435601637">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="100" />
@@ -1371,6 +1388,12 @@
         <mark key="]" line="81" column="32" />
         <mark key="^" line="81" column="32" />
         <mark key="." line="81" column="32" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/89-wlan" timestamp="1519730986317">
+        <mark key="[" line="2" column="89" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/issues/issues.txt" timestamp="1508959199412">
         <mark key="[" line="1" column="0" />
@@ -1511,6 +1534,12 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/README.md" timestamp="1519732613018">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspaces/flutter-docker/README.md" timestamp="1504876542900">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1537,13 +1566,6 @@
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1519295207737">
-        <mark key="'" line="32" column="3" />
-        <mark key="[" line="248" column="3" />
-        <mark key="]" line="248" column="3" />
-        <mark key="." line="248" column="3" />
-        <mark key="^" line="248" column="3" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1740,17 +1762,8 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package.json" timestamp="1519052178764">
-        <mark key="'" line="10" column="42" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="20" column="63" />
-        <mark key="^" line="20" column="63" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="91" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.css" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/input/readme.txt" />
       <jump line="831" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
       <jump line="1785" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
@@ -1849,6 +1862,8 @@
       <jump line="26" column="9" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="215" column="22" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="197" column="0" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
+      <jump line="77" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/99-rupert" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1874,43 +1889,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>product-detection</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXRyeVByb21pc2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBpVmVyc2lvbjogYmF0Y2gvdjEKa2luZDogSm9iCm1ldGFkYXRhOgogIG5hbWU6IGRzLWJ1aWxkZXItMjAxODAyMjEtMTYxMDY4MzA5MS0xLTIwMTgwMjA3CnNwZWM6CiAgdGVtcGxhdGU6CiAgICBzcGVjOgogICAgICByZXN0YXJ0UG9saWN5OiBOZXZlcgogICAgICBjb250YWluZXJzOgogICAgICAtIG5hbWU6IGRhdGFzZXQtYnVpbGRlcgogICAgICAgIGltYWdlOiBldS5nY3IuaW8vbmlmdHktcmVhbG0tMTEzL2FtYmllbnQtcHJvZHVjdC1kYXRhc2V0LWJ1aWxkZXI6MC4wLjEKICAgICAgICBpbWFnZVB1bGxQb2xpY3k6IEFsd2F5cwogICAgICAgIGVudjoKICAgICAgICAgIC0gbmFtZTogREFUQVNFVF9WRVJTSU9OCiAgICAgICAgICAgIHZhbHVlOiAiMC4xIgogICAgICAgICAgLSBuYW1lOiBTRUxFQ1RFRF9EQVRFCiAgICAgICAgICAgIHZhbHVlOiAiMjAxODAyMDciCg==</text>
+        <text encoding="base64">Q0xVU1RFUl9OQU1FPXByb2R1Y3QtZGV0ZWN0aW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjdXJzb3I6cG9pbnRlcjsK</text>
+        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5vdGhlcl91dGlsIGltcG9ydCAoZG93bmxvYWRfZmlsZV93aXRoX3JldHJ5LCBkZWxldGVfZmlsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlX2RpciwgYW1lbmRfdG9fZmlsZSwgY2hlY2tfYW5kX2RlbGV0ZSkK</text>
+        <text encoding="base64">ICBjdXJzb3I6cG9pbnRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFVQTE9BRF9UT19HQ1MgPSBGYWxzZSAgICMgaWYgdGhlIHJlc3VsdCBkYXRhc2V0IGlzIHVwbG9hZGVkIHRvIEdDUwogICAgVVNJTkdfVEFSQkFMTCA9IEZhbHNlICAgIyBpZiB0aGUgdGFyYmFsbCBmaWxlcyBhcmUgY3JlYXRlZAogICAgIyBVUExPQURfVE9fR0NTID0gVHJ1ZSAgICMgaWYgdGhlIHJlc3VsdCBkYXRhc2V0IGlzIHVwbG9hZGVkIHRvIEdDUwogICAgIyBVU0lOR19UQVJCQUxMID0gVHJ1ZSAgICMgaWYgdGhlIHRhcmJhbGwgZmlsZXMgYXJlIGNyZWF0ZWQK</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5vdGhlcl91dGlsIGltcG9ydCAoZG93bmxvYWRfZmlsZV93aXRoX3JldHJ5LCBkZWxldGVfZmlsZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVtb3ZlX2RpciwgYW1lbmRfdG9fZmlsZSwgY2hlY2tfYW5kX2RlbGV0ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAjIHNvdXJjZSBidWNrZXQ6IG9yaWdpbmFsIHByb2R1Y3QgaW1hZ2VzCiAgICBHQ1NfQlVDS0VUX0lNQUdFX0RBVEEgPSAncHJvZHVjdC1pbWFnZS1kYXRhLXRlc3RpbmcnICAgICMgVGVzdGluZyBidWNrZXQKCg==</text>
+        <text encoding="base64">ICAgIFVQTE9BRF9UT19HQ1MgPSBGYWxzZSAgICMgaWYgdGhlIHJlc3VsdCBkYXRhc2V0IGlzIHVwbG9hZGVkIHRvIEdDUwogICAgVVNJTkdfVEFSQkFMTCA9IEZhbHNlICAgIyBpZiB0aGUgdGFyYmFsbCBmaWxlcyBhcmUgY3JlYXRlZAogICAgIyBVUExPQURfVE9fR0NTID0gVHJ1ZSAgICMgaWYgdGhlIHJlc3VsdCBkYXRhc2V0IGlzIHVwbG9hZGVkIHRvIEdDUwogICAgIyBVU0lOR19UQVJCQUxMID0gVHJ1ZSAgICMgaWYgdGhlIHRhcmJhbGwgZmlsZXMgYXJlIGNyZWF0ZWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgc291cmNlIGJ1Y2tldDogb3JpZ2luYWwgcHJvZHVjdCBpbWFnZXMKICAgIEdDU19CVUNLRVRfSU1BR0VfREFUQSA9ICdwcm9kdWN0LWltYWdlLWRhdGEtb3NyJyAgICAjIEFtYmllbnQKICAgICMgR0NTX0JVQ0tFVF9JTUFHRV9EQVRBID0gJ3Byb2R1Y3QtaW1hZ2UtZGF0YScgICAgICAjIENoaWxsCgo=</text>
+        <text encoding="base64">CiAgICAjIHNvdXJjZSBidWNrZXQ6IG9yaWdpbmFsIHByb2R1Y3QgaW1hZ2VzCiAgICBHQ1NfQlVDS0VUX0lNQUdFX0RBVEEgPSAncHJvZHVjdC1pbWFnZS1kYXRhLXRlc3RpbmcnICAgICMgVGVzdGluZyBidWNrZXQKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFVQTE9BRF9UT19HQ1MgPSBUcnVlICAgIyBpZiB0aGUgcmVzdWx0IGRhdGFzZXQgaXMgdXBsb2FkZWQgdG8gR0NTCiAgICBVU0lOR19UQVJCQUxMID0gVHJ1ZSAgICMgaWYgdGhlIHRhcmJhbGwgZmlsZXMgYXJlIGNyZWF0ZWQK</text>
+        <text encoding="base64">ICAgICMgc291cmNlIGJ1Y2tldDogb3JpZ2luYWwgcHJvZHVjdCBpbWFnZXMKICAgIEdDU19CVUNLRVRfSU1BR0VfREFUQSA9ICdwcm9kdWN0LWltYWdlLWRhdGEtb3NyJyAgICAjIEFtYmllbnQKICAgICMgR0NTX0JVQ0tFVF9JTUFHRV9EQVRBID0gJ3Byb2R1Y3QtaW1hZ2UtZGF0YScgICAgICAjIENoaWxsCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzZWdtZW50YXRpb25fZmlsdGVyIGltcG9ydCBTZWdtZW50YXRpb25GaWx0ZXIK</text>
+        <text encoding="base64">ICAgIFVQTE9BRF9UT19HQ1MgPSBUcnVlICAgIyBpZiB0aGUgcmVzdWx0IGRhdGFzZXQgaXMgdXBsb2FkZWQgdG8gR0NTCiAgICBVU0lOR19UQVJCQUxMID0gVHJ1ZSAgICMgaWYgdGhlIHRhcmJhbGwgZmlsZXMgYXJlIGNyZWF0ZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aApmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQpmcm9tIGdvb2dsZS5jbG91ZCBpbXBvcnQgc3RvcmFnZQpmcm9tIGdvb2dsZS5jbG91ZC5leGNlcHRpb25zIGltcG9ydCBHb29nbGVDbG91ZEVycm9yCmZyb20gZ29vZ2xlLmNsb3VkLnN0b3JhZ2UgaW1wb3J0IEJsb2IK</text>
+        <text encoding="base64">ZnJvbSBzZWdtZW50YXRpb25fZmlsdGVyIGltcG9ydCBTZWdtZW50YXRpb25GaWx0ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGN2MgppbXBvcnQgaW5zcGVjdAoK</text>
+        <text encoding="base64">ZnJvbSBvcyBpbXBvcnQgcGF0aApmcm9tIGRhdGV0aW1lIGltcG9ydCBkYXRldGltZQpmcm9tIGdvb2dsZS5jbG91ZCBpbXBvcnQgc3RvcmFnZQpmcm9tIGdvb2dsZS5jbG91ZC5leGNlcHRpb25zIGltcG9ydCBHb29nbGVDbG91ZEVycm9yCmZyb20gZ29vZ2xlLmNsb3VkLnN0b3JhZ2UgaW1wb3J0IEJsb2IK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
