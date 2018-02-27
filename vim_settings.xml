@@ -1041,7 +1041,6 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/data/index.json" timestamp="1519056994342" />
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/requirements.txt" timestamp="1487160490834">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="13" />
@@ -1222,7 +1221,6 @@
         <mark key="^" line="10" column="42" />
         <mark key="." line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/codeVE/gc-dataset-builder/Dockerfile" timestamp="1519305679353" />
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-service/Readme.md" timestamp="1516810170399">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="4" />
@@ -1693,6 +1691,12 @@
         <mark key="]" line="5" column="62" />
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/README.md" timestamp="1519744273384">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.cordova.config.js" timestamp="1510588801715">
         <mark key="[" line="43" column="49" />
