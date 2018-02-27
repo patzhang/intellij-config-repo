@@ -389,11 +389,11 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1517845934915">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1519729351072">
         <mark key="'" line="601" column="13" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="163" column="97" />
-        <mark key="." line="299" column="0" />
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="73" column="37" />
+        <mark key="." line="73" column="37" />
         <mark key="^" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/summary.html" timestamp="1507726499803">
@@ -751,7 +751,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519057132803">
+      <file name="/Dummy.txt" timestamp="1519729362140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1519031924096">
@@ -1015,13 +1015,6 @@
         <mark key="]" line="3" column="85" />
         <mark key="^" line="3" column="85" />
         <mark key="." line="3" column="85" />
-      </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" timestamp="1519209548395">
-        <mark key="'" line="95" column="4" />
-        <mark key="[" line="49" column="47" />
-        <mark key="]" line="50" column="46" />
-        <mark key="." line="50" column="46" />
-        <mark key="^" line="50" column="46" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/test_barcodeManager.py" timestamp="1505818750940">
         <mark key="[" line="10" column="18" />
@@ -1881,7 +1874,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nifty-realm-113</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXRyeVByb21pc2VcPg==</text>
