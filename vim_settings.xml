@@ -265,6 +265,9 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
+      <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" timestamp="1519391343979">
+        <mark key="'" line="197" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
@@ -829,6 +832,9 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1518109589869">
+        <mark key="'" line="15108" column="17" />
+      </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.production.config.js" timestamp="1510608340267">
         <mark key="[" line="44" column="8" />
         <mark key="]" line="44" column="24" />
@@ -1271,6 +1277,9 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/node_modules/hexagon-ocado-releases/technology-light/hexagon.js" timestamp="1518170971979">
+        <mark key="'" line="4889" column="4" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
         <mark key="[" line="4" column="29" />
         <mark key="]" line="4" column="35" />
@@ -1557,6 +1566,13 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" timestamp="1519817076656">
+        <mark key="'" line="72" column="61" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="70" column="52" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/README.md" timestamp="1519732613018">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
@@ -1580,6 +1596,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" timestamp="1519815581491">
+        <mark key="'" line="180" column="12" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/create-venv.sh" timestamp="1488214647012">
         <mark key="[" line="2" column="12" />
@@ -1759,6 +1778,9 @@
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="41" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package-lock.json" timestamp="1518101804556">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task4_ErrorHandling.java" timestamp="1494412416010">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="6" />
@@ -1776,6 +1798,12 @@
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/config.ini" timestamp="1519817058045">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" timestamp="1517480436417">
         <mark key="'" line="5" column="3" />
@@ -1811,15 +1839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1785" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
-      <jump line="33" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/dataset_spec/products.json" />
-      <jump line="182" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="136" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="108" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="114" column="33" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="115" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="123" column="29" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="138" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="162" column="45" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="183" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
@@ -1911,6 +1930,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" />
       <jump line="3" column="10" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" />
       <jump line="9" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" />
+      <jump line="12" column="13" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
+      <jump line="23" column="41" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
+      <jump line="44" column="22" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
+      <jump line="45" column="20" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
+      <jump line="71" column="5" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
+      <jump line="85" column="60" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
+      <jump line="90" column="2" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
+      <jump line="180" column="12" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
+      <jump line="73" column="61" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1936,52 +1964,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SERVICE</text>
+        <text encoding="base64">ICsgJ1xuJw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXRyeVByb21pc2VcPg==</text>
+        <text>13</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">d2xhbj1gL3NiaW4vaWZjb25maWcgJHtpd30gfCBncmVwIGluZXRcIGFkZHIgfCB3YyAtbGAKCmlmIFsgJHt3bGFufSAtZXEgMCBdOyB0aGVuCiAgICBraWxsX2djc191cGxvYWRpbmcKCiAgICBlY2hvICJbYGRhdGVgXSA6ICR7aXd9IGludGVyZmFjZSBpcyBkb3duLiByZXN0YXJ0aW5nIC4uLiIKICAgIC91c3Ivc2Jpbi9zZXJ2aWNlIG5ldHdvcmstbWFuYWdlciByZXN0YXJ0CiAgICBlY2hvICQoZGF0ZSkgIndpZmkgd2FzIHJlc3RhcnRlZCIgCiAgICBlY2hvICQoL3NiaW4vaWZjb25maWcgJHtpd30pCmVsc2UKICAgIGVjaG8gIltgZGF0ZWBdIDogJHtpd30gaW50ZXJmYWNlIGlzIHVwLiIKZmkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImNoZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhcmNvZGVfaW1hZ2VzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VzID0gYmFyY29kZV9pbWFnZXNbYmFyY29kZV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZGVhbCB3aXRoIHRoZSBweXRob24gZ2NzIHVwbG9hZGluZyBwcm9jZXNzCiAgICBzdGF0dXM9YHBzIC1heCB8IGdyZXAgLXYgZ3JlcCB8IGdyZXAgIiR7U0NSSVBUfSJgCiAgICBpZiBbICEgLXogIiR7c3RhdHVzfSIgXTsgdGhlbgogICAgICAgIGVjaG8gIltgZGF0ZWBdIDogJHtTQ1JJUFR9IGlzIHJ1bm5pbmcgLi4uIgogICAgICAgICMgdGhlIGdjcyB1cGxvYWRpbmcgc2NyaXB0IGluIFB5dGhvbiBtYXkgc3R1Y2sKICAgICAgICBlY2hvICJraWxsaW5nIGdjcyB1cGxvYWRpbmcgcHJvY2VzcyAuLi4iCiAgICBlbHNlCiAgICAgICAgZWNobyAiW2BkYXRlYF0gOiAke1NDUklQVH0gaXMgbm90IHJ1bm5pbmcuIE5vIG5lZWQgdG8ga2lsbCEiCiAgICBmaQo=</text>
+        <text encoding="base64">ZGVmIHNvcnRfZGljdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ki8xNSAqICogKiAqIC9iaW4vYmFzaCAvcm9vdC9jaGVja3dhbnVwCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHlpZWxkIHN0YXJ0X2RhdGUgKyB0aW1lZGVsdGEoZGF5X251bSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LndyaXRlKCdcbicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGF1dG8tcmVjb2AKYGBgYmFzaAojIS9iaW4vYmFzaCAgICAKd2xhbj1gL3NiaW4vaWZjb25maWcgd2xhbjAgfCBncmVwIGluZXRcIGFkZHIgfCB3YyAtbGAgICAgCmlmIFsgJHdsYW4gLWVxIDAgXTsgdGhlbiAgICAKICAgIC9zYmluL2lmZG93biB3bGFuMCAmJiAvc2Jpbi9pZnVwIHdsYW4wCmVsc2UgICAgCiAgICBlY2hvIGludGVyZmFjZSBpcyB1cCAgICAKZmkKYGBgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYmFyY29kZSBub3QgaW4gYmFyY29kZXM6CiAgICAgICAgICAgICAgICBiYXJjb2Rlcy5hZGQoYmFyY29kZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Cg==</text>
+        <text encoding="base64">ICAgIGJhcmNvZGVfaW1hZ2VzID0gc2V0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gImNoZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>57</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXRyeVByb21pc2VcPg==</last-search>
+      <last-search>13</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXRyeVByb21pc2VcPg==</last-pattern>
+      <last-pattern>13</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -2035,7 +2063,6 @@
         <entry>init</entry>
         <entry encoding="base64">PjY=</entry>
         <entry encoding="base64">XDwxM1w+</entry>
-        <entry>13</entry>
         <entry>testing</entry>
         <entry>found bucke</entry>
         <entry>obtain</entry>
@@ -2048,6 +2075,9 @@
         <entry>getSkuForBar</entry>
         <entry encoding="base64">XDxwcm9taXNlUmV0cnlcPg==</entry>
         <entry encoding="base64">XDxyZXRyeVByb21pc2VcPg==</entry>
+        <entry>get</entry>
+        <entry>.get</entry>
+        <entry>13</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
@@ -2076,6 +2106,8 @@
         <entry>vs</entry>
         <entry>208</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>43</entry>
+        <entry>57</entry>
       </history-cmd>
       <history-expr />
       <history-input />
