@@ -1254,9 +1254,9 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="2" column="65" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/reconnect-wifi.sh" timestamp="1519747543256">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/reconnect-wifi.sh" timestamp="1519813990345">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="30" column="1" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/semantic-image-pairs/requirements.txt" timestamp="1487863377403">
@@ -1557,11 +1557,6 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/.gitlab-ci.yml" timestamp="1518795301888">
-        <mark key="[" line="23" column="100" />
-        <mark key="]" line="23" column="101" />
-        <mark key="." line="23" column="101" />
-      </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/README.md" timestamp="1519732613018">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
@@ -1734,9 +1729,9 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/README.md" timestamp="1519747264271">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/README.md" timestamp="1519813908910">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="80" />
         <mark key="^" line="23" column="4" />
         <mark key="." line="24" column="0" />
       </file>
@@ -1781,11 +1776,6 @@
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/config.json" timestamp="1519054542959">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" timestamp="1517480436417">
         <mark key="'" line="5" column="3" />
@@ -1952,7 +1942,7 @@
         <text encoding="base64">XDxyZXRyeVByb21pc2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVwbG95X2NvZGUgIi4vaW5zdGFsbGF0aW9uLXZlLXNuYWtlLyR7Q09ERV9WRV9TRVJWSUNFfSIgJHtDT0RFX1ZFX1NFUlZJQ0V9Cg==</text>
+        <text encoding="base64">d2xhbj1gL3NiaW4vaWZjb25maWcgJHtpd30gfCBncmVwIGluZXRcIGFkZHIgfCB3YyAtbGAKCmlmIFsgJHt3bGFufSAtZXEgMCBdOyB0aGVuCiAgICBraWxsX2djc191cGxvYWRpbmcKCiAgICBlY2hvICJbYGRhdGVgXSA6ICR7aXd9IGludGVyZmFjZSBpcyBkb3duLiByZXN0YXJ0aW5nIC4uLiIKICAgIC91c3Ivc2Jpbi9zZXJ2aWNlIG5ldHdvcmstbWFuYWdlciByZXN0YXJ0CiAgICBlY2hvICQoZGF0ZSkgIndpZmkgd2FzIHJlc3RhcnRlZCIgCiAgICBlY2hvICQoL3NiaW4vaWZjb25maWcgJHtpd30pCmVsc2UKICAgIGVjaG8gIltgZGF0ZWBdIDogJHtpd30gaW50ZXJmYWNlIGlzIHVwLiIKZmkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVjaG8gImNoZQo=</text>
