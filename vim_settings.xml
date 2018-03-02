@@ -1566,13 +1566,6 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" timestamp="1519817076656">
-        <mark key="'" line="72" column="61" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="70" column="52" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/README.md" timestamp="1519732613018">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
