@@ -9,7 +9,7 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1519731886736">
+      <file name="/a.dummy" timestamp="1519984321019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
@@ -252,6 +252,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/notebook/activate-venv3.sh" timestamp="1496237977153">
         <mark key="[" line="2" column="0" />
@@ -542,6 +549,10 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/components/titlebar.js" timestamp="1518099206226">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="69" />
+      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/.gitignore" timestamp="1508947566632">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="40" column="0" />
@@ -663,12 +674,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1519232852190">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1519986537239">
         <mark key="'" line="25" column="57" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
-        <mark key="^" line="14" column="1" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="76" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/upload-docker-image.sh" timestamp="1509724199371">
         <mark key="[" line="2" column="32" />
@@ -1289,12 +1300,12 @@
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/node_modules/hexagon-ocado-releases/technology-light/hexagon.js" timestamp="1518170971979">
         <mark key="'" line="4889" column="4" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" timestamp="1519983652918">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="64" column="15" />
-        <mark key="." line="64" column="15" />
-        <mark key="^" line="64" column="15" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" timestamp="1519985497181">
+        <mark key="'" line="61" column="6" />
+        <mark key="[" line="65" column="52" />
+        <mark key="]" line="65" column="53" />
+        <mark key="." line="65" column="53" />
+        <mark key="^" line="65" column="53" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
         <mark key="[" line="4" column="29" />
@@ -1660,6 +1671,10 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset/dataset_builder/main.py" timestamp="1519986494043">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="78" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/download_images_wildcard.sh" timestamp="1487246665477">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="30" />
@@ -1719,6 +1734,10 @@
         <mark key="]" line="32" column="71" />
         <mark key="." line="32" column="71" />
         <mark key="^" line="32" column="71" />
+      </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/.npmrc" timestamp="1518100218086">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="46" />
       </file>
       <file name="/JavaScript Console" timestamp="1519057100320">
         <mark key="[" line="0" column="0" />
@@ -1858,13 +1877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="37" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="7" column="36" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="104" column="33" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="66" column="25" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
-      <jump line="108" column="24" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
-      <jump line="110" column="68" filename="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/index.js" />
       <jump line="205" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="49" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
       <jump line="13" column="29" filename="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/generate_jobs.py" />
@@ -1958,6 +1970,13 @@
       <jump line="64" column="39" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" />
       <jump line="1210" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/output/barcodes.txt" />
       <jump line="88" column="46" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" />
+      <jump line="36" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" />
+      <jump line="40" column="19" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
+      <jump line="60" column="38" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
+      <jump line="106" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
+      <jump line="103" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
+      <jump line="61" column="6" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1983,52 +2002,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>creating</text>
+        <text encoding="base64">ICAgICMgcHJvY2Vzc2VkIGltYWdlcyBhcyBkYXRhc2V0cw==</text>
       </register>
       <register name="/" type="4">
-        <text>13</text>
+        <text>populate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEpPQl9PVVRQVVRfRElSID0gcGF0aC5qb2luKENSVF9ESVIsICdvdXRwdXQnKQo=</text>
+        <text encoding="base64">R0NTX0JVQ0tFVF9JTUFHRV9EQVRBU0VUUyA9ICdpbWFnZS1kYXRhc2V0cycgICAgIyBwcm9jZXNzZWQgaW1hZ2VzIGFzIGRhdGFzZXRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9iX2ltYWdlcyA9IDAK</text>
+        <text encoding="base64">U1RBUlRfREFURSA9ICcyMDE3MDUwOScK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lc3RhbXAgPSBkdC5ub3coKS5zdHJmdGltZSgnJVklbSVkLSVIJU0lZicpCiAgICAgICAgam9iX25hbWUgPSAnLScuam9pbigoJ2djLWRzLWJ1aWxkZXInLCB0aW1lc3RhbXAsIHN0cih0b3RhbCksIGRhdGVfc3RyaW5nKSkK</text>
+        <text encoding="base64">R0NTX0JVQ0tFVF9JTUFHRV9EQVRBU0VUUyA9ICdpbWFnZS1kYXRhc2V0cycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCiAgICBsb2dnZXIuYWRkSGFuZGxlcihsb2dnaW5nLlN0cmVhbUhhbmRsZXIoKSkgICAgIyBsb2cgdG8gc3Rkb3V0Cgo=</text>
+        <text encoding="base64">R0NTX0JVQ0tFVF9JTUFHRV9EQVRBU0VUUyA9ICdpbWFnZS1kYXRhc2V0cy1mb3ItZXh0ZXJuYWwtcHJvamVjdHMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQogICAgbG9nZ2VyLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCiAgICBsb2dnZXIuYWRkSGFuZGxlcihsb2dnaW5nLlN0cmVhbUhhbmRsZXIoKSkgICAgIyBsb2cgdG8gc3Rkb3V0CgogICAgbG9nZ2VyLmluZm8oJ3JlYWRpbmcgY29uZmlndXJhdGlvbiBmaWxlICVzJywgQ09ORklHX0lOSSkKICAgIGNvbmZpZyA9IENvbmZpZ1BhcnNlcigpCiAgICBjb25maWcucmVhZChDT05GSUdfSU5JKQoKICAgIGRhdGFzZXRfdmVyc2lvbiA9IGNvbmZpZy5nZXQoJ2RhdGFzZXQnLCAndmVyc2lvbicpCiAgICBzdGFydF9kYXRlID0gY29uZmlnLmdldCgnZGF0YXNldCcsICdzdGFydF9kYXRlJykKICAgIGVuZF9kYXRlID0gY29uZmlnLmdldCgnZGF0YXNldCcsICdlbmRfZGF0ZScpCgogICAgZGtfaW1nX25hbWUgPSBjb25maWcuZ2V0KCdkb2NrZXItaW1hZ2UnLCAnbmFtZScpCiAgICBka19pbWdfdmVyc2lvbiA9IGNvbmZpZy5nZXQoJ2RvY2tlci1pbWFnZScsICd2ZXJzaW9uJykKICAgIGRrX2ltZ19mdWxsX25hbWUgPSAnOicuam9pbigoZGtfaW1nX25hbWUsIGRrX2ltZ192ZXJzaW9uKSkKCg==</text>
+        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUyA9IGdldF9wYXJhbSgnSU1HX1BFUl9TS1UnLCBpbnQpCiAgICBTRUxFQ1RFRF9CQVJDT0RFID0gZ2V0X3BhcmFtKCdCQVJDT0RFJywgc3RyKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiY19pbWdbYmFyY29kZV0gPSBpbWFnZXMK</text>
+        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUyA9IDUgICAgICAgICMgdGhlIHRvdGFsIGltYWdlcyBwZXIgYmFyY29kZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBsaW5lID0gJy0tLS0tLS0tLS0tJwogICAgICAgIHJlc3VsdC53cml0ZShsaW5lICsgJ1xuJykKICAgICAgICBsaW5lID0gJ1RvdGFsIGJhcmNvZGVzOiB7fSAgICAgVG90YWwgaW1hZ2VzOiB7fScgXAogICAgICAgICAgICAuZm9ybWF0KHRvdGFsX2JhcmNvZGVzLCB0b3RhbF9pbWFnZXMpCiAgICAgICAgcmVzdWx0LndyaXRlKGxpbmUgKyAnXG4nKQo=</text>
+        <text encoding="base64">ICAgIGJhcmNvZGVfaW1hZ2VzX2RpY3QgPSBkaWN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lID0gJyAgICAgJy5qb2luKCgnezA6PDEzfScuZm9ybWF0KGJhcmNvZGUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICd7MDo+MTB9Jy5mb3JtYXQoc3RyKGltYWdlcykpKSkKICAgICAgICByZXN1bHQud3JpdGUobGluZSArICdcbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0X2RhdGUsCiAgICAgICAgICAgICAgICAgICAgICBlbmRfZGF0ZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVwbGFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhcmNvZGVzID0gZGljdCgpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>57</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>13</last-search>
+      <last-search>populate</last-search>
       <last-offset />
-      <last-pattern>13</last-pattern>
+      <last-pattern>populate</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -2097,6 +2116,7 @@
         <entry>get</entry>
         <entry>.get</entry>
         <entry>13</entry>
+        <entry>populate</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
@@ -2124,10 +2144,11 @@
         <entry>49</entry>
         <entry>vs</entry>
         <entry>208</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>43</entry>
         <entry>57</entry>
         <entry>call functions#WinMove('l')</entry>
+        <entry encoding="base64">JzwsJz5jYWxsIGZ1bmN0aW9ucyNXaW5Nb3ZlKCdsJyk=</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
