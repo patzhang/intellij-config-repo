@@ -1260,6 +1260,9 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/input/barcodes.txt" timestamp="1519980987983">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/docker-lab/doc/references.md" timestamp="1496413637379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="65" />
@@ -1285,6 +1288,9 @@
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/node_modules/hexagon-ocado-releases/technology-light/hexagon.js" timestamp="1518170971979">
         <mark key="'" line="4889" column="4" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" timestamp="1519980877811">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
         <mark key="[" line="4" column="29" />
@@ -1357,6 +1363,9 @@
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/output/barcodes.txt" timestamp="1519981553520">
+        <mark key="'" line="1210" column="18" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/.gitignore" timestamp="1492686429739">
         <mark key="[" line="7" column="21" />
@@ -1571,6 +1580,13 @@
         <mark key="]" line="10" column="47" />
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" timestamp="1519982357222">
+        <mark key="'" line="89" column="46" />
+        <mark key="[" line="74" column="10" />
+        <mark key="]" line="74" column="11" />
+        <mark key="." line="74" column="11" />
+        <mark key="^" line="74" column="10" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/README.md" timestamp="1519732613018">
         <mark key="[" line="14" column="28" />
@@ -1838,11 +1854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="162" column="45" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="183" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="185" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="186" column="28" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="189" column="37" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="7" column="36" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="104" column="33" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
@@ -1938,6 +1949,11 @@
       <jump line="90" column="2" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
       <jump line="180" column="12" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
       <jump line="73" column="61" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/input/barcodes.txt" />
+      <jump line="64" column="39" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" />
+      <jump line="1210" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/output/barcodes.txt" />
+      <jump line="88" column="46" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1963,43 +1979,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>products.json</text>
+        <text>})</text>
       </register>
       <register name="/" type="4">
         <text>13</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Kiovb3V0cHV0L3Byb2R1Y3RzLmpzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LndyaXRlKGxpbmUgKyAnXG4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiY19pbWdbYmFyY29kZV0gPSBpbWFnZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhcmNvZGVfaW1hZ2VzLgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBsaW5lID0gJy0tLS0tLS0tLS0tJwogICAgICAgIHJlc3VsdC53cml0ZShsaW5lICsgJ1xuJykKICAgICAgICBsaW5lID0gJ1RvdGFsIGJhcmNvZGVzOiB7fSAgICAgVG90YWwgaW1hZ2VzOiB7fScgXAogICAgICAgICAgICAuZm9ybWF0KHRvdGFsX2JhcmNvZGVzLCB0b3RhbF9pbWFnZXMpCiAgICAgICAgcmVzdWx0LndyaXRlKGxpbmUgKyAnXG4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VzID0gYmFyY29kZV9pbWFnZXNbYmFyY29kZV0K</text>
+        <text encoding="base64">ICAgICAgICBsaW5lID0gJyAgICAgJy5qb2luKCgnezA6PDEzfScuZm9ybWF0KGJhcmNvZGUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICd7MDo+MTB9Jy5mb3JtYXQoc3RyKGltYWdlcykpKSkKICAgICAgICByZXN1bHQud3JpdGUobGluZSArICdcbicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHNvcnRfZGljdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHlpZWxkIHN0YXJ0X2RhdGUgKyB0aW1lZGVsdGEoZGF5X251bSkK</text>
+        <text encoding="base64">ICAgIGJhcmNvZGVzID0gZGljdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LndyaXRlKCdcbicpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBiYXJjb2RlX2ltYWdlX2xpc3Q6CiAgICAgICAgICAgIGJhcmNvZGUgPSBpdGVtWzBdCiAgICAgICAgICAgIGltYWdlcyA9IGl0ZW1bMV0KICAgICAgICAgICAgdG90YWxfYmFyY29kZXMgKz0gMQogICAgICAgICAgICB0b3RhbF9pbWFnZXMgKz0gaW1hZ2VzCiAgICAgICAgICAgIGxpbmUgPSAnICAgICAnLmpvaW4oKCd7MDo8MTN9Jy5mb3JtYXQoYmFyY29kZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd7MDo+MTB9Jy5mb3JtYXQoc3RyKGltYWdlcykpKSkKICAgICAgICAgICAgcmVzdWx0LndyaXRlKGxpbmUgKyAnXG4nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYmFyY29kZSBub3QgaW4gYmFyY29kZXM6CiAgICAgICAgICAgICAgICBiYXJjb2Rlcy5hZGQoYmFyY29kZSkK</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbF9iYXJjb2RlcyA9IDAKICAgICAgICB0b3RhbF9pbWFnZXMgPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhcmNvZGVfaW1hZ2VzID0gc2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImNoZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
@@ -2107,6 +2123,7 @@
         <entry>set hlsearch! hlsearch?</entry>
         <entry>43</entry>
         <entry>57</entry>
+        <entry>call functions#WinMove('l')</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -2171,6 +2188,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
