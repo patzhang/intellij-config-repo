@@ -939,6 +939,12 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/.gitignore" timestamp="1519980550009">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1513699576952">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1957,13 +1963,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJ1xuJw==</text>
+        <text>products.json</text>
       </register>
       <register name="/" type="4">
         <text>13</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2xhbj1gL3NiaW4vaWZjb25maWcgJHtpd30gfCBncmVwIGluZXRcIGFkZHIgfCB3YyAtbGAKCmlmIFsgJHt3bGFufSAtZXEgMCBdOyB0aGVuCiAgICBraWxsX2djc191cGxvYWRpbmcKCiAgICBlY2hvICJbYGRhdGVgXSA6ICR7aXd9IGludGVyZmFjZSBpcyBkb3duLiByZXN0YXJ0aW5nIC4uLiIKICAgIC91c3Ivc2Jpbi9zZXJ2aWNlIG5ldHdvcmstbWFuYWdlciByZXN0YXJ0CiAgICBlY2hvICQoZGF0ZSkgIndpZmkgd2FzIHJlc3RhcnRlZCIgCiAgICBlY2hvICQoL3NiaW4vaWZjb25maWcgJHtpd30pCmVsc2UKICAgIGVjaG8gIltgZGF0ZWBdIDogJHtpd30gaW50ZXJmYWNlIGlzIHVwLiIKZmkK</text>
+        <text encoding="base64">Kiovb3V0cHV0L3Byb2R1Y3RzLmpzb24K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
