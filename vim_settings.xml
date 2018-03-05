@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520257984535">
-        <mark key="'" line="249" column="8" />
-        <mark key="[" line="200" column="42" />
-        <mark key="]" line="200" column="42" />
-        <mark key="." line="200" column="42" />
-        <mark key="^" line="200" column="42" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520261385471">
+        <mark key="'" line="149" column="10" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+        <mark key="^" line="195" column="85" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/data/Readme.txt" timestamp="1487173392585">
         <mark key="[" line="2" column="66" />
@@ -285,9 +285,6 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" timestamp="1519391343979">
-        <mark key="'" line="197" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/input/barcodes.json" timestamp="1520247783438">
         <mark key="[" line="170" column="5" />
         <mark key="]" line="170" column="17" />
@@ -451,7 +448,8 @@
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/dataset_spec/dashboard-ambient-summary.json" timestamp="1520255204445">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/dataset_spec/dashboard-ambient-summary.json" timestamp="1520261682811">
+        <mark key="'" line="151" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="606442" />
         <mark key="^" line="0" column="606442" />
@@ -875,9 +873,6 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts" timestamp="1518109589869">
-        <mark key="'" line="15108" column="17" />
-      </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.production.config.js" timestamp="1510608340267">
         <mark key="[" line="44" column="8" />
         <mark key="]" line="44" column="24" />
@@ -1207,7 +1202,7 @@
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="/Python Console" timestamp="1520246021804">
+      <file name="/Python Console" timestamp="1520259402142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1505829396642">
@@ -1306,9 +1301,6 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/input/barcodes.txt" timestamp="1519980987983">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/docker-lab/doc/references.md" timestamp="1496413637379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="65" />
@@ -1326,9 +1318,6 @@
         <mark key="]" line="9" column="95" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/node_modules/hexagon-ocado-releases/technology-light/hexagon.js" timestamp="1518170971979">
-        <mark key="'" line="4889" column="4" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" timestamp="1520244541293">
         <mark key="'" line="61" column="6" />
@@ -1408,9 +1397,6 @@
         <mark key="]" line="1" column="4" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/output/barcodes.txt" timestamp="1519981553520">
-        <mark key="'" line="1210" column="18" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/.gitignore" timestamp="1492686429739">
         <mark key="[" line="7" column="21" />
@@ -1663,9 +1649,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" timestamp="1519815581491">
-        <mark key="'" line="180" column="12" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/create-venv.sh" timestamp="1488214647012">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -1858,9 +1841,6 @@
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="41" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package-lock.json" timestamp="1518101804556">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task4_ErrorHandling.java" timestamp="1494412416010">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="6" />
@@ -1919,21 +1899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="13" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="209" column="65" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="180" column="48" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="7" column="7" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="24" column="47" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="378" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="198" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="111" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="112" column="24" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="196" column="54" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="481" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="460" column="55" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="434" column="55" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="429" column="44" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="388" column="57" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="379" column="32" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="466" column="3" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="197" column="41" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2019,6 +1984,21 @@
       <jump line="201" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="21" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="248" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="200" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="177" column="40" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="246" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="243" column="40" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="251" column="25" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="295" column="20" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="311" column="22" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="245" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="319" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="115" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="148" column="25" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="149" column="10" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="23" column="19" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/dataset_spec/dashboard-ambient-summary.json" />
+      <jump line="151" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/dataset_spec/dashboard-ambient-summary.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2047,49 +2027,49 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PCAyMA==</text>
+        <text>main(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygnJXM6ICVzJywgZmlsZV9uYW1lLCBsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoJ0ZhaWxlZCB0byBmaW5kIGRlc2NyaXB0aW9uIGZvciBiYXJjb2RlICVzIHNrdSAlcycsIGJhcmNvZGUsIHNrdSkKICAgICAgICAgICAgICAgICAgICBwcm9kdWN0X25hbWUgPSAndW5rbm93bicK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygndG90YWwgYmFyY29kZXM6ICVkJywgdG90YWxfYmFyY29kZXMpCiAgICAgICAgbG9nZ2VyLmluZm8oJ3RvdGFsIGltYWdlczogJWQnLCB0b3RhbF9pbWFnZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNrdV9kZXRhaWwgPSBza3VfcHJvZHVjdF9kaWN0LmdldChza3UpCiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgcHJvZHVjdF9uYW1lID0gc2t1X2RldGFpbFsnZGVzY3JpcHRpb24nXQogICAgICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGZpbmQgZGVzY3JpcHRpb24gZm9yIGJhcmNvZGUgJXMgc2t1ICVzJywgYmFyY29kZSwgc2t1KQogICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfbmFtZSA9ICd1bmtub3duJwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBibG9iID0gTm9uZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBibG9iID0gY2hlY2tfZmlsZV9pbl9nY3MoUkVBRE1FX0ZJTEUpCg==</text>
+        <text encoding="base64">ZGVmIGZpbmRfcHJvZHVjdF9uYW1lX2J5X3NrdShiYXJjb2RlLCBza3UsIHNrdV9wcm9kdWN0X2RpY3QpOgogICAgc2t1X2RldGFpbHMgPSBza3VfcHJvZHVjdF9kaWN0LmdldChza3UpCiAgICB0cnk6CiAgICAgICAgcHJvZHVjdF9uYW1lID0gc2t1X2RldGFpbHNbJ2Rlc2NyaXB0aW9uJ10KICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICBsb2dnZXIuZXJyb3IoJ0ZhaWxlZCB0byBmaW5kIGRlc2NyaXB0aW9uIGZvciBiYXJjb2RlICVzIHNrdSAlcycsIGJhcmNvZGUsIHNrdSkKICAgICAgICBwcm9kdWN0X25hbWUgPSAndW5rbm93bicKICAgIHJldHVybiBwcm9kdWN0X25hbWUKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJsb2IgPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGVmIGZpbmRfc29ydF90YXJiYWxsc19pbl9kYXRhc2V0KGJsb2IsIGJ1Y2tldF9kYXRhc2V0cywgdGFyZ2V0X2RhdGFzZXQpOgogICAgYmxvYnMgPSBidWNrZXRfZGF0YXNldHMubGlzdF9ibG9icyhwcmVmaXg9dGFyZ2V0X2RhdGFzZXQpCiAgICBiYXJjb2RlX2ltYWdlcyA9IHt9CiAgICBmb3IgYmxvYiBpbiBibG9iczoKICAgICAgICBibG9iX25hbWUgPSBibG9iLm5hbWUKICAgICAgICBpZiBibG9iX25hbWUuZW5kc3dpdGgoJy50YXIuZ3onKToKICAgICAgICAgICAgcGFydHMgPSBibG9iX25hbWUuc3BsaXQoJy8nKQogICAgICAgICAgICBmaWxlX25hbWUgPSBwYXJ0c1sxXQogICAgICAgICAgICBiaXRzID0gZmlsZV9uYW1lLnNwbGl0KCdfJykKICAgICAgICAgICAgYmFyY29kZSA9IGJpdHNbMF0KICAgICAgICAgICAgaW1hZ2VzID0gYml0c1sxXQogICAgICAgICAgICBiYXJjb2RlX2ltYWdlc1tiYXJjb2RlXSA9IGludChpbWFnZXMpCiAgICAjIHNvcnQgYmFyY29kZXMgYnkgaW1hZ2VzCiAgICBiYXJjb2RlX2ltYWdlX2xpc3QgPSBzb3J0ZWQoYmFyY29kZV9pbWFnZXMuaXRlbXMoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9b3BlcmF0b3IuaXRlbWdldHRlcigxKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXZlcnNlPVRydWUpCiAgICByZXR1cm4gYmFyY29kZV9pbWFnZV9saXN0LCBibG9iCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGJhcmNvZGVfaW1hZ2VfbGlzdCA9IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXRfY29kZV9kaXIgPSBmaW5kX3NvdXJjZV9kaXIoKQo=</text>
+        <text encoding="base64">ICAgIGJhcmNvZGVfaW1hZ2VfbGlzdCwgYmxvYiA9IGZpbmRfc29ydF90YXJiYWxsc19pbl9kYXRhc2V0KGJsb2IsIGJ1Y2tldF9kYXRhc2V0cywgdGFyZ2V0X2RhdGFzZXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJhcmNvZGUgaGFzIGJlZW4gcHJvY2Vzc2VkIGJlZm9yZSwgc28gaWdub3JlIGl0Lgo=</text>
+        <text encoding="base64">ICAgIGJhcmNvZGVfaW1hZ2VfbGlzdCwgYmxvYiA9IGZpbmRfc29ydF90YXJiYWxsc19pbl9kYXRhc2V0KGJsb2IsIGJ1Y2tldF9kYXRhc2V0cywgdGFyZ2V0X2RhdGFzZXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcyA9IGJpdHNbMV0KICAgICAgICAgICAgICAgIGJhcmNvZGVfaW1hZ2VzW2JhcmNvZGVdID0gaW50KGltYWdlcykK</text>
+        <text encoding="base64">ICAgICAgICBibG9icyA9IGJ1Y2tldF9kYXRhc2V0cy5saXN0X2Jsb2JzKHByZWZpeD10YXJnZXRfZGF0YXNldCkKICAgICAgICBiYXJjb2RlX2ltYWdlcyA9IHt9CiAgICAgICAgZm9yIGJsb2IgaW4gYmxvYnM6CiAgICAgICAgICAgIGJsb2JfbmFtZSA9IGJsb2IubmFtZQogICAgICAgICAgICBpZiBibG9iX25hbWUuZW5kc3dpdGgoJy50YXIuZ3onKToKICAgICAgICAgICAgICAgIHBhcnRzID0gYmxvYl9uYW1lLnNwbGl0KCcvJykKICAgICAgICAgICAgICAgIGZpbGVfbmFtZSA9IHBhcnRzWzFdCiAgICAgICAgICAgICAgICBiaXRzID0gZmlsZV9uYW1lLnNwbGl0KCdfJykKICAgICAgICAgICAgICAgIGJhcmNvZGUgPSBiaXRzWzBdCiAgICAgICAgICAgICAgICBpbWFnZXMgPSBiaXRzWzFdCiAgICAgICAgICAgICAgICBiYXJjb2RlX2ltYWdlc1tiYXJjb2RlXSA9IGludChpbWFnZXMpCgogICAgICAgICMgc29ydCBiYXJjb2RlcyBieSBpbWFnZXMKICAgICAgICBiYXJjb2RlX2ltYWdlX2xpc3QgPSBzb3J0ZWQoYmFyY29kZV9pbWFnZXMuaXRlbXMoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5PW9wZXJhdG9yLml0ZW1nZXR0ZXIoMSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldmVyc2U9VHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>293</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PCAyMA==</last-search>
+      <last-search>main(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PCAyMA==</last-pattern>
+      <last-pattern>main(</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -2161,8 +2141,10 @@
         <entry>certif</entry>
         <entry>certificate</entry>
         <entry>init</entry>
-        <entry>True</entry>
         <entry encoding="base64">PCAyMA==</entry>
+        <entry>True</entry>
+        <entry>try</entry>
+        <entry>main(</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
@@ -2195,6 +2177,7 @@
         <entry>call functions#WinMove('l')</entry>
         <entry encoding="base64">JzwsJz5jYWxsIGZ1bmN0aW9ucyNXaW5Nb3ZlKCdsJyk=</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>293</entry>
       </history-cmd>
       <history-expr />
       <history-input />
