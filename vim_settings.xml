@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520255801645">
-        <mark key="[" line="215" column="4" />
-        <mark key="]" line="215" column="16" />
-        <mark key="." line="215" column="16" />
-        <mark key="^" line="215" column="16" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520257984535">
+        <mark key="'" line="249" column="8" />
+        <mark key="[" line="200" column="42" />
+        <mark key="]" line="200" column="42" />
+        <mark key="." line="200" column="42" />
+        <mark key="^" line="200" column="42" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/data/Readme.txt" timestamp="1487173392585">
         <mark key="[" line="2" column="66" />
@@ -1632,6 +1633,12 @@
         <mark key="." line="74" column="11" />
         <mark key="^" line="74" column="10" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/dataset_spec/readme.txt" timestamp="1520258052580">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="41" />
+        <mark key="." line="19" column="42" />
+      </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/README.md" timestamp="1519732613018">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
@@ -1912,9 +1919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="31" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="247" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="307" column="19" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="200" column="13" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="209" column="65" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="180" column="48" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2012,6 +2016,9 @@
       <jump line="0" column="2" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="30" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/output/job_ds-builder-20180305-1009260901-1.yaml" />
       <jump line="212" column="3" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="201" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="21" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="248" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2037,56 +2044,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>details_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>True</text>
+        <text encoding="base64">PCAyMA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z2Nsb3VkIGFscGhhIGNvbnRhaW5lciBub2RlLXBvb2xzIGNyZWF0ZSBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygnJXM6ICVzJywgZmlsZV9uYW1lLCBsaW5lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygndG90YWwgYmFyY29kZXM6ICVkJywgdG90YWxfYmFyY29kZXMpCiAgICAgICAgbG9nZ2VyLmluZm8oJ3RvdGFsIGltYWdlczogJWQnLCB0b3RhbF9pbWFnZXMpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGFzZXRfY29kZV9kaXIgPSBmaW5kX3NvdXJjZV9kaXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBibG9iID0gTm9uZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJhcmNvZGUgaGFzIGJlZW4gcHJvY2Vzc2VkIGJlZm9yZSwgc28gaWdub3JlIGl0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBibG9iID0gY2hlY2tfZmlsZV9pbl9nY3MoUkVBRE1FX0ZJTEUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcyA9IGJpdHNbMV0KICAgICAgICAgICAgICAgIGJhcmNvZGVfaW1hZ2VzW2JhcmNvZGVdID0gaW50KGltYWdlcykK</text>
+        <text encoding="base64">ICAgIGJsb2IgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYXJjb2RlX2ltYWdlcyA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIGRhdGFzZXRfY29kZV9kaXIgPSBmaW5kX3NvdXJjZV9kaXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0b3RhbCBiYXJjb2RlczogJWQnLCBsZW4oYmNfaW1nX2xpc3QpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJhcmNvZGUgaGFzIGJlZW4gcHJvY2Vzc2VkIGJlZm9yZSwgc28gaWdub3JlIGl0Lgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcyA9IGJpdHNbMV0KICAgICAgICAgICAgICAgIGJhcmNvZGVfaW1hZ2VzW2JhcmNvZGVdID0gaW50KGltYWdlcykK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>True</last-search>
+      <last-search encoding="base64">PCAyMA==</last-search>
       <last-offset />
-      <last-pattern>True</last-pattern>
+      <last-pattern encoding="base64">PCAyMA==</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2155,6 +2162,7 @@
         <entry>certificate</entry>
         <entry>init</entry>
         <entry>True</entry>
+        <entry encoding="base64">PCAyMA==</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
