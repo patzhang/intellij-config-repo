@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520245575620">
-        <mark key="'" line="29" column="28" />
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="239" column="52" />
-        <mark key="." line="199" column="51" />
-        <mark key="^" line="199" column="51" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520255801645">
+        <mark key="[" line="215" column="4" />
+        <mark key="]" line="215" column="16" />
+        <mark key="." line="215" column="16" />
+        <mark key="^" line="215" column="16" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/data/Readme.txt" timestamp="1487173392585">
         <mark key="[" line="2" column="66" />
@@ -450,6 +449,12 @@
         <mark key="]" line="6" column="40" />
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/dataset_spec/dashboard-ambient-summary.json" timestamp="1520255204445">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="606442" />
+        <mark key="^" line="0" column="606442" />
+        <mark key="." line="0" column="606442" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" timestamp="1510766774453">
         <mark key="[" line="25" column="21" />
@@ -1907,7 +1912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="22" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="242" column="31" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="247" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="307" column="19" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2007,6 +2011,7 @@
       <jump line="517" column="27" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="0" column="2" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="30" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/output/job_ds-builder-20180305-1009260901-1.yaml" />
+      <jump line="212" column="3" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2032,7 +2037,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>details_</text>
       </register>
       <register name="/" type="4">
         <text>True</text>
@@ -2041,34 +2046,34 @@
         <text encoding="base64">Z2Nsb3VkIGFscGhhIGNvbnRhaW5lciBub2RlLXBvb2xzIGNyZWF0ZSBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJhcmNvZGUgaGFzIGJlZW4gcHJvY2Vzc2VkIGJlZm9yZSwgc28gaWdub3JlIGl0Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcyA9IGJpdHNbMV0KICAgICAgICAgICAgICAgIGJhcmNvZGVfaW1hZ2VzW2JhcmNvZGVdID0gaW50KGltYWdlcykK</text>
+        <text encoding="base64">ICAgIGRhdGFzZXRfY29kZV9kaXIgPSBmaW5kX3NvdXJjZV9kaXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYXJjb2RlX2ltYWdlcyA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJhcmNvZGUgaGFzIGJlZW4gcHJvY2Vzc2VkIGJlZm9yZSwgc28gaWdub3JlIGl0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcyA9IGJpdHNbMV0KICAgICAgICAgICAgICAgIGJhcmNvZGVfaW1hZ2VzW2JhcmNvZGVdID0gaW50KGltYWdlcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBiYXJjb2RlX2ltYWdlcyA9IHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0b3RhbCBiYXJjb2RlczogJWQnLCBsZW4oYmNfaW1nX2xpc3QpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGFtZW5kX3RvX2ZpbGUoZmlsZV90b19hbWVuZCwgbGluZSk6CiAgICAiIiIgYW1lbmQgYSBsaW5lIHRvIGEgZmlsZSAiIiIKICAgIGxvZ2dlci5kZWJ1ZyhsaW5lKQogICAgYW1lbmRlZF9maWxlID0gb3BlbihmaWxlX3RvX2FtZW5kLCAnYScpCiAgICBhbWVuZGVkX2ZpbGUud3JpdGUobGluZSkKICAgIGFtZW5kZWRfZmlsZS53cml0ZSgnXG4nKQogICAgYW1lbmRlZF9maWxlLmNsb3NlKCkKCgo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0b3RhbCBiYXJjb2RlczogJWQnLCBsZW4oYmNfaW1nX2xpc3QpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBkZWYgc2VsZWN0X2Jsb2JzKGJ1Y2tldCwgZGF0YXNldCk6CiMgICAgIHJldHVybiBidWNrZXQubGlzdF9ibG9icyhwcmVmaXg9cHJlZml4KQoKCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
