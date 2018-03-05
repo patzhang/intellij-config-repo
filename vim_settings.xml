@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520243241633">
+        <mark key="'" line="29" column="28" />
+        <mark key="[" line="199" column="46" />
+        <mark key="]" line="199" column="51" />
+        <mark key="." line="199" column="51" />
+        <mark key="^" line="199" column="51" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/data/Readme.txt" timestamp="1487173392585">
         <mark key="[" line="2" column="66" />
         <mark key="]" line="4" column="18" />
@@ -235,6 +242,12 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/README.md" timestamp="1520244872519">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/bin/logging_util.py" timestamp="1490606394975">
         <mark key="[" line="20" column="71" />
         <mark key="]" line="20" column="71" />
@@ -274,6 +287,10 @@
       </file>
       <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" timestamp="1519391343979">
         <mark key="'" line="197" column="0" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/input/barcodes.json" timestamp="1520243395187">
+        <mark key="[" line="1415" column="5" />
+        <mark key="]" line="1415" column="17" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
         <mark key="[" line="0" column="0" />
@@ -589,6 +606,10 @@
         <mark key="^" line="35" column="63" />
         <mark key="." line="35" column="63" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/output/job_ds-builder-20180221-1610683091-1-20180207.yaml" timestamp="1519304685700">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="28" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitlab-ci.yml" timestamp="1510222459535">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="18" column="57" />
@@ -673,13 +694,6 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
         <mark key="^" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1519986537239">
-        <mark key="'" line="25" column="57" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="76" column="0" />
-        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/upload-docker-image.sh" timestamp="1509724199371">
         <mark key="[" line="2" column="32" />
@@ -783,7 +797,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519822910497">
+      <file name="/Dummy.txt" timestamp="1520243399513">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1519031924096">
@@ -950,11 +964,11 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/.gitignore" timestamp="1519980550009">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/.gitignore" timestamp="1520245230335">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/Workspaces/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1513699576952">
         <mark key="[" line="1" column="0" />
@@ -1300,12 +1314,12 @@
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/node_modules/hexagon-ocado-releases/technology-light/hexagon.js" timestamp="1518170971979">
         <mark key="'" line="4889" column="4" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" timestamp="1519985497181">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" timestamp="1520244541293">
         <mark key="'" line="61" column="6" />
-        <mark key="[" line="65" column="52" />
-        <mark key="]" line="65" column="53" />
-        <mark key="." line="65" column="53" />
-        <mark key="^" line="65" column="53" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="15" />
+        <mark key="." line="47" column="15" />
+        <mark key="^" line="47" column="15" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/tfrecords-util/virtualenv/activate-venv.sh" timestamp="1488213811219">
         <mark key="[" line="4" column="29" />
@@ -1653,6 +1667,12 @@
         <mark key="." line="116" column="29" />
         <mark key="^" line="116" column="28" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/cluster/create-node-pool.sh" timestamp="1520245080858">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1501083459303">
         <mark key="[" line="5" column="72" />
         <mark key="]" line="5" column="72" />
@@ -1877,8 +1897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="23" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="135" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="15" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/utils/other_util.py" />
       <jump line="206" column="40" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="227" column="22" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -1977,6 +1995,8 @@
       <jump line="67" column="89" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="68" column="84" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="69" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="225" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="29" column="28" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2002,52 +2022,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICMgcHJvY2Vzc2VkIGltYWdlcyBhcyBkYXRhc2V0cw==</text>
+        <text>txt</text>
       </register>
       <register name="/" type="4">
-        <text>certificate</text>
+        <text>init</text>
       </register>
       <register name="0" type="4">
-        <text>wget http://netnix.ocado.com/certs/lastmile-root.pem -O /usr/local/share/ca-certificates/lastmile.crt</text>
+        <text>5010092153541</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U1RBUlRfREFURSA9ICcyMDE3MDUwOScK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">R0NTX0JVQ0tFVF9JTUFHRV9EQVRBU0VUUyA9ICdpbWFnZS1kYXRhc2V0cycK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0b3RhbCBiYXJjb2RlczogJWQnLCBsZW4oYmNfaW1nX2xpc3QpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">R0NTX0JVQ0tFVF9JTUFHRV9EQVRBU0VUUyA9ICdpbWFnZS1kYXRhc2V0cy1mb3ItZXh0ZXJuYWwtcHJvamVjdHMnCg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUyA9IGdldF9wYXJhbSgnSU1HX1BFUl9TS1UnLCBpbnQpCiAgICBTRUxFQ1RFRF9CQVJDT0RFID0gZ2V0X3BhcmFtKCdCQVJDT0RFJywgc3RyKQoK</text>
+        <text encoding="base64">ZGVmIGFtZW5kX3RvX2ZpbGUoZmlsZV90b19hbWVuZCwgbGluZSk6CiAgICAiIiIgYW1lbmQgYSBsaW5lIHRvIGEgZmlsZSAiIiIKICAgIGxvZ2dlci5kZWJ1ZyhsaW5lKQogICAgYW1lbmRlZF9maWxlID0gb3BlbihmaWxlX3RvX2FtZW5kLCAnYScpCiAgICBhbWVuZGVkX2ZpbGUud3JpdGUobGluZSkKICAgIGFtZW5kZWRfZmlsZS53cml0ZSgnXG4nKQogICAgYW1lbmRlZF9maWxlLmNsb3NlKCkKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRPVEFMX0lNQUdFUyA9IDUgICAgICAgICMgdGhlIHRvdGFsIGltYWdlcyBwZXIgYmFyY29kZQo=</text>
+        <text encoding="base64">IyBkZWYgc2VsZWN0X2Jsb2JzKGJ1Y2tldCwgZGF0YXNldCk6CiMgICAgIHJldHVybiBidWNrZXQubGlzdF9ibG9icyhwcmVmaXg9cHJlZml4KQoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhcmNvZGVfaW1hZ2VzX2RpY3QgPSBkaWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFrZV90YXJmaWxlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0X2RhdGUsCiAgICAgICAgICAgICAgICAgICAgICBlbmRfZGF0ZSwK</text>
+        <text encoding="base64">IiIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAucmVwbGFjZSgpCg==</text>
+      <register name="8" type="4">
+        <text>&quot;&quot;&quot;
+Build a dataset with the images in Google cloud storage
+&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fbmFtZV9fKQo=</text>
+        <text encoding="base64">U1RBUlRfREFURSA9ICcyMDE3MDUwOScK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>certificate</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>certificate</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -2098,7 +2120,6 @@
         <entry>product_t</entry>
         <entry encoding="base64">XDxwYXRoX3RvX3NlbGVjdGVkX2RhdGVfZGlyXD4=</entry>
         <entry>READ</entry>
-        <entry>init</entry>
         <entry encoding="base64">PjY=</entry>
         <entry encoding="base64">XDwxM1w+</entry>
         <entry>testing</entry>
@@ -2119,6 +2140,7 @@
         <entry>populate</entry>
         <entry>certif</entry>
         <entry>certificate</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
