@@ -353,6 +353,12 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-external/README.md" timestamp="1519035406574">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/frontend/src/index.css" timestamp="1519310967214">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -438,6 +444,12 @@
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/config.ini" timestamp="1519404090143">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" timestamp="1510766774453">
         <mark key="[" line="25" column="21" />
@@ -659,6 +671,11 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/output/job_ds-builder-20180305-1009260901-1.yaml" timestamp="1520248755828">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="33" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/virtualenv/deactivate-venv.sh" timestamp="1487891002015">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
@@ -879,6 +896,12 @@
         <mark key="^" line="107" column="6" />
         <mark key="." line="158" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/gc-dataset-builder/src/dataset_builder/main.py" timestamp="1519308146935">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="21" />
@@ -1094,6 +1117,12 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1519746969796">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="123" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="21" column="57" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1519747415090">
         <mark key="[" line="45" column="64" />
         <mark key="]" line="45" column="67" />
@@ -1279,11 +1308,6 @@
         <mark key="]" line="2" column="65" />
         <mark key="^" line="2" column="65" />
         <mark key="." line="2" column="65" />
-      </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/reconnect-wifi.sh" timestamp="1519813990345">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="30" column="1" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-recognition/tools/semantic-image-pairs/requirements.txt" timestamp="1487863377403">
         <mark key="[" line="5" column="0" />
@@ -1560,6 +1584,12 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/cluster/delete_kube_jobs.sh" timestamp="1519210367437">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/docker/Dockerfile" timestamp="1509748140595">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="11" />
@@ -1647,9 +1677,9 @@
         <mark key="." line="116" column="29" />
         <mark key="^" line="116" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/cluster/create-node-pool.sh" timestamp="1520245080858">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="22" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/cluster/create-node-pool.sh" timestamp="1520248685590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="16" />
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
@@ -1786,6 +1816,12 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/README.md" timestamp="1519813908910">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="80" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.cordova.config.js" timestamp="1510588801715">
         <mark key="[" line="43" column="49" />
         <mark key="]" line="44" column="3" />
@@ -1871,7 +1907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="40" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="227" column="22" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="242" column="31" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="247" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -1971,6 +2006,7 @@
       <jump line="29" column="28" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="517" column="27" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="0" column="2" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/output/job_ds-builder-20180305-1009260901-1.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2001,8 +2037,8 @@
       <register name="/" type="4">
         <text>True</text>
       </register>
-      <register name="0" type="4">
-        <text>5050083566196</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXBpVmVyc2lvbjogYmF0Y2gvdjEKa2luZDogSm9iCm1ldGFkYXRhOgogIG5hbWU6IGRzLWJ1aWxkZXItMjAxODAzMDUtMTAwOTI2MDkwMS0xCnNwZWM6CiAgdGVtcGxhdGU6CiAgICBzcGVjOgogICAgICBub2RlU2VsZWN0b3I6CiAgICAgICAgbWFjaGluZS10eXBlOiBuMS1zdGFuZGFyZC0yCiAgICAgIHJlc3RhcnRQb2xpY3k6IE5ldmVyCiAgICAgIGNvbnRhaW5lcnM6CiAgICAgIC0gbmFtZTogZGF0YXNldC1idWlsZGVyCiAgICAgICAgaW1hZ2U6IGV1Lmdjci5pby9wcm9kdWN0LWRldGVjdGlvbi0xNjAzMTQvYW1iaWVudC1za3UtZGF0YXNldC1idWlsZGVyOjAuMC4yCiAgICAgICAgaW1hZ2VQdWxsUG9saWN5OiBBbHdheXMKICAgICAgICByZXNvdXJjZXM6CiAgICAgICAgICByZXF1ZXN0czoKICAgICAgICAgICAgbWVtb3J5OiAiMkdpIgogICAgICAgICAgICBjcHU6ICIxIgogICAgICAgICAgbGltaXRzOgogICAgICAgICAgICBtZW1vcnk6ICI0R2kiCiAgICAgICAgICAgIGNwdTogIjEiCiAgICAgICAgZW52OgogICAgICAgICAgLSBuYW1lOiBEQVRBU0VUX1ZFUlNJT04KICAgICAgICAgICAgdmFsdWU6ICIwLjIiCiAgICAgICAgICAtIG5hbWU6IFNUQVJUX0RBVEUKICAgICAgICAgICAgdmFsdWU6ICIyMDE4MDIwNyIKICAgICAgICAgIC0gbmFtZTogRU5EX0RBVEUKICAgICAgICAgICAgdmFsdWU6ICIyMDE4MDIwOSIKICAgICAgICAgIC0gbmFtZTogQkFSQ09ERV9MSVNUCiAgICAgICAgICAgIHZhbHVlOiAiNTAxMDA5MjE1MzU0MSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJhcmNvZGUgaGFzIGJlZW4gcHJvY2Vzc2VkIGJlZm9yZSwgc28gaWdub3JlIGl0Lgo=</text>
