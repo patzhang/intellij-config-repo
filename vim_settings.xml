@@ -1677,9 +1677,9 @@
         <mark key="." line="116" column="29" />
         <mark key="^" line="116" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/cluster/create-node-pool.sh" timestamp="1520248685590">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="16" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/cluster/create-node-pool.sh" timestamp="1520251184551">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="42" />
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
       </file>
@@ -2038,7 +2038,7 @@
         <text>True</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBpVmVyc2lvbjogYmF0Y2gvdjEKa2luZDogSm9iCm1ldGFkYXRhOgogIG5hbWU6IGRzLWJ1aWxkZXItMjAxODAzMDUtMTAwOTI2MDkwMS0xCnNwZWM6CiAgdGVtcGxhdGU6CiAgICBzcGVjOgogICAgICBub2RlU2VsZWN0b3I6CiAgICAgICAgbWFjaGluZS10eXBlOiBuMS1zdGFuZGFyZC0yCiAgICAgIHJlc3RhcnRQb2xpY3k6IE5ldmVyCiAgICAgIGNvbnRhaW5lcnM6CiAgICAgIC0gbmFtZTogZGF0YXNldC1idWlsZGVyCiAgICAgICAgaW1hZ2U6IGV1Lmdjci5pby9wcm9kdWN0LWRldGVjdGlvbi0xNjAzMTQvYW1iaWVudC1za3UtZGF0YXNldC1idWlsZGVyOjAuMC4yCiAgICAgICAgaW1hZ2VQdWxsUG9saWN5OiBBbHdheXMKICAgICAgICByZXNvdXJjZXM6CiAgICAgICAgICByZXF1ZXN0czoKICAgICAgICAgICAgbWVtb3J5OiAiMkdpIgogICAgICAgICAgICBjcHU6ICIxIgogICAgICAgICAgbGltaXRzOgogICAgICAgICAgICBtZW1vcnk6ICI0R2kiCiAgICAgICAgICAgIGNwdTogIjEiCiAgICAgICAgZW52OgogICAgICAgICAgLSBuYW1lOiBEQVRBU0VUX1ZFUlNJT04KICAgICAgICAgICAgdmFsdWU6ICIwLjIiCiAgICAgICAgICAtIG5hbWU6IFNUQVJUX0RBVEUKICAgICAgICAgICAgdmFsdWU6ICIyMDE4MDIwNyIKICAgICAgICAgIC0gbmFtZTogRU5EX0RBVEUKICAgICAgICAgICAgdmFsdWU6ICIyMDE4MDIwOSIKICAgICAgICAgIC0gbmFtZTogQkFSQ09ERV9MSVNUCiAgICAgICAgICAgIHZhbHVlOiAiNTAxMDA5MjE1MzU0MSIK</text>
+        <text encoding="base64">Z2Nsb3VkIGFscGhhIGNvbnRhaW5lciBub2RlLXBvb2xzIGNyZWF0ZSBcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJhcmNvZGUgaGFzIGJlZW4gcHJvY2Vzc2VkIGJlZm9yZSwgc28gaWdub3JlIGl0Lgo=</text>
