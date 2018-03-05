@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520243241633">
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520245575620">
         <mark key="'" line="29" column="28" />
-        <mark key="[" line="199" column="46" />
-        <mark key="]" line="199" column="51" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="239" column="52" />
         <mark key="." line="199" column="51" />
         <mark key="^" line="199" column="51" />
       </file>
@@ -353,12 +353,6 @@
         <mark key="^" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/README.md" timestamp="1519035406574">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-      </file>
       <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/frontend/src/index.css" timestamp="1519310967214">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -444,12 +438,6 @@
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="12" />
-      </file>
-      <file name="$USER_HOME$/codeVE/gc-dataset-builder/config.ini" timestamp="1519404090143">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
-        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/src/states/Splash.js" timestamp="1510766774453">
         <mark key="[" line="25" column="21" />
@@ -695,6 +683,13 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" timestamp="1520246209823">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/object-recognition/floodlight/upload-docker-image.sh" timestamp="1509724199371">
         <mark key="[" line="2" column="32" />
         <mark key="]" line="2" column="36" />
@@ -797,7 +792,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520243399513">
+      <file name="/Dummy.txt" timestamp="1520246002115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1519031924096">
@@ -883,12 +878,6 @@
         <mark key="]" line="158" column="0" />
         <mark key="^" line="107" column="6" />
         <mark key="." line="158" column="0" />
-      </file>
-      <file name="$USER_HOME$/codeVE/gc-dataset-builder/src/dataset_builder/main.py" timestamp="1519308146935">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/WorkspacesDart/myapp/pubspec.yaml" timestamp="1502121317621">
         <mark key="[" line="6" column="3" />
@@ -1105,12 +1094,6 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1519746969796">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="123" />
-        <mark key="." line="21" column="57" />
-        <mark key="^" line="21" column="57" />
-      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1519747415090">
         <mark key="[" line="45" column="64" />
         <mark key="]" line="45" column="67" />
@@ -1188,6 +1171,9 @@
         <mark key="]" line="0" column="49" />
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="10" />
+      </file>
+      <file name="/Python Console" timestamp="1520246021804">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1505829396642">
         <mark key="[" line="0" column="0" />
@@ -1574,12 +1560,6 @@
         <mark key="." line="16" column="43" />
         <mark key="^" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/cluster/delete_kube_jobs.sh" timestamp="1519210367437">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/docker/Dockerfile" timestamp="1509748140595">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="11" />
@@ -1806,12 +1786,6 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/README.md" timestamp="1519813908910">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="80" />
-        <mark key="^" line="23" column="4" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.cordova.config.js" timestamp="1510588801715">
         <mark key="[" line="43" column="49" />
         <mark key="]" line="44" column="3" />
@@ -1897,7 +1871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/utils/other_util.py" />
       <jump line="206" column="40" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="227" column="22" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="242" column="31" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -1924,7 +1897,6 @@
       <jump line="193" column="29" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="213" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="192" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="204" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="367" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="372" column="17" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -1997,6 +1969,8 @@
       <jump line="69" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="225" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="29" column="28" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
+      <jump line="517" column="27" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
+      <jump line="0" column="2" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2022,54 +1996,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>txt</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>True</text>
       </register>
-      <register name="0" type="4">
-        <text>5010092153541</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBibG9icyA9IGJ1Y2tldF9kYXRhc2V0cy5saXN0X2Jsb2JzKHByZWZpeD10YXJnZXRfZGF0YXNldCkKICAgICAgICBiYXJjb2RlX2ltYWdlcyA9IHt9CiAgICAgICAgZm9yIGJsb2IgaW4gYmxvYnM6CiAgICAgICAgICAgIGJsb2JfbmFtZSA9IGJsb2IubmFtZQogICAgICAgICAgICBpZiBibG9iX25hbWUuZW5kc3dpdGgoJy50YXIuZ3onKToKICAgICAgICAgICAgICAgIHBhcnRzID0gYmxvYl9uYW1lLnNwbGl0KCcvJykKICAgICAgICAgICAgICAgIGZpbGVfbmFtZSA9IHBhcnRzWzFdCiAgICAgICAgICAgICAgICBiaXRzID0gZmlsZV9uYW1lLnNwbGl0KCdfJykKICAgICAgICAgICAgICAgIGJhcmNvZGUgPSBiaXRzWzBdCiAgICAgICAgICAgICAgICBpbWFnZXMgPSBiaXRzWzFdCiAgICAgICAgICAgICAgICBiYXJjb2RlX2ltYWdlc1tiYXJjb2RlXSA9IGludChpbWFnZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0aGlzIGJhcmNvZGUgaGFzIGJlZW4gcHJvY2Vzc2VkIGJlZm9yZSwgc28gaWdub3JlIGl0Lgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0b3RhbCBiYXJjb2RlczogJWQnLCBsZW4oYmNfaW1nX2xpc3QpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcyA9IGJpdHNbMV0KICAgICAgICAgICAgICAgIGJhcmNvZGVfaW1hZ2VzW2JhcmNvZGVdID0gaW50KGltYWdlcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICBiYXJjb2RlX2ltYWdlcyA9IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGFtZW5kX3RvX2ZpbGUoZmlsZV90b19hbWVuZCwgbGluZSk6CiAgICAiIiIgYW1lbmQgYSBsaW5lIHRvIGEgZmlsZSAiIiIKICAgIGxvZ2dlci5kZWJ1ZyhsaW5lKQogICAgYW1lbmRlZF9maWxlID0gb3BlbihmaWxlX3RvX2FtZW5kLCAnYScpCiAgICBhbWVuZGVkX2ZpbGUud3JpdGUobGluZSkKICAgIGFtZW5kZWRfZmlsZS53cml0ZSgnXG4nKQogICAgYW1lbmRlZF9maWxlLmNsb3NlKCkKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBkZWYgc2VsZWN0X2Jsb2JzKGJ1Y2tldCwgZGF0YXNldCk6CiMgICAgIHJldHVybiBidWNrZXQubGlzdF9ibG9icyhwcmVmaXg9cHJlZml4KQoKCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFrZV90YXJmaWxlKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCd0b3RhbCBiYXJjb2RlczogJWQnLCBsZW4oYmNfaW1nX2xpc3QpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IiIK</text>
+        <text encoding="base64">ICAgIGxvZ2dlcgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;&quot;&quot;
-Build a dataset with the images in Google cloud storage
-&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIGFtZW5kX3RvX2ZpbGUoZmlsZV90b19hbWVuZCwgbGluZSk6CiAgICAiIiIgYW1lbmQgYSBsaW5lIHRvIGEgZmlsZSAiIiIKICAgIGxvZ2dlci5kZWJ1ZyhsaW5lKQogICAgYW1lbmRlZF9maWxlID0gb3BlbihmaWxlX3RvX2FtZW5kLCAnYScpCiAgICBhbWVuZGVkX2ZpbGUud3JpdGUobGluZSkKICAgIGFtZW5kZWRfZmlsZS53cml0ZSgnXG4nKQogICAgYW1lbmRlZF9maWxlLmNsb3NlKCkKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U1RBUlRfREFURSA9ICcyMDE3MDUwOScK</text>
+        <text encoding="base64">IyBkZWYgc2VsZWN0X2Jsb2JzKGJ1Y2tldCwgZGF0YXNldCk6CiMgICAgIHJldHVybiBidWNrZXQubGlzdF9ibG9icyhwcmVmaXg9cHJlZml4KQoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>True</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern>True</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>storage</last-substitute>
       <last-dir>1</last-dir>
@@ -2141,6 +2113,7 @@ Build a dataset with the images in Google cloud storage
         <entry>certif</entry>
         <entry>certificate</entry>
         <entry>init</entry>
+        <entry>True</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
