@@ -16,7 +16,7 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1519984321019">
+      <file name="/a.dummy" timestamp="1520329600427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
@@ -1672,11 +1672,11 @@
         <mark key="." line="116" column="29" />
         <mark key="^" line="116" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/cluster/create-node-pool.sh" timestamp="1520251184551">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="42" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="22" />
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/cluster/create-node-pool.sh" timestamp="1520330516677">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="51" />
+        <mark key="." line="9" column="35" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_webcam/output/readme.txt" timestamp="1501083459303">
         <mark key="[" line="5" column="72" />
@@ -2024,7 +2024,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cHJlZW1wdGlibGVwLXBvb2wg</text>
       </register>
       <register name="/" type="4">
         <text>main(</text>
@@ -2077,54 +2077,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry>upsert</entry>
-        <entry encoding="base64">XDxQYXRyaWNrTmV0U3RhYmxlXD4=</entry>
-        <entry>size</entry>
-        <entry>config</entry>
-        <entry>datastore</entry>
-        <entry>coffee</entry>
-        <entry>coff</entry>
-        <entry>hexagon</entry>
-        <entry encoding="base64">XDx0aXRsZUJhclw+</entry>
-        <entry>hx</entry>
-        <entry>add</entry>
-        <entry>titleBar</entry>
-        <entry>10</entry>
-        <entry encoding="base64">XDxoZWFkaW5nXD4=</entry>
-        <entry>fixed</entry>
-        <entry>div</entry>
-        <entry>select</entry>
-        <entry>SKU detail</entry>
-        <entry>sku detail</entry>
-        <entry>ntp</entry>
-        <entry>processing</entry>
-        <entry>card-number</entry>
-        <entry>5017397001959</entry>
-        <entry>8712566479481</entry>
-        <entry>0061232200989</entry>
-        <entry>5000169059579</entry>
-        <entry encoding="base64">XDxyb2NrZXRcPg==</entry>
-        <entry>click</entry>
-        <entry>creationtime</entry>
-        <entry>delta</entry>
-        <entry>:8</entry>
-        <entry>line</entry>
-        <entry>with</entry>
-        <entry>check</entry>
-        <entry>init_re</entry>
-        <entry>open</entry>
-        <entry encoding="base64">XDxvdXRwdXRfZGlyXD4=</entry>
-        <entry encoding="base64">XDxkYXRhc2V0X2NvZGVfZGlyXD4=</entry>
-        <entry>sleep</entry>
-        <entry>product_t</entry>
-        <entry encoding="base64">XDxwYXRoX3RvX3NlbGVjdGVkX2RhdGVfZGlyXD4=</entry>
-        <entry>READ</entry>
-        <entry encoding="base64">PjY=</entry>
-        <entry encoding="base64">XDwxM1w+</entry>
-        <entry>testing</entry>
-        <entry>found bucke</entry>
-        <entry>obtain</entry>
         <entry>Failed to process</entry>
         <entry>tarball</entry>
         <entry>building</entry>
@@ -2147,17 +2099,6 @@
         <entry>main(</entry>
       </history-search>
       <history-cmd>
-        <entry>44</entry>
-        <entry>33</entry>
-        <entry>37</entry>
-        <entry>36</entry>
-        <entry>52</entry>
-        <entry>54</entry>
-        <entry>88</entry>
-        <entry>s</entry>
-        <entry>only</entry>
-        <entry>unsplit</entry>
-        <entry>jpg</entry>
         <entry>PNG</entry>
         <entry>close</entry>
         <entry>c</entry>
