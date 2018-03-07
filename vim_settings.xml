@@ -1191,12 +1191,12 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" timestamp="1520418643637">
-        <mark key="'" line="101" column="6" />
-        <mark key="[" line="77" column="18" />
-        <mark key="]" line="79" column="25" />
-        <mark key="." line="79" column="25" />
-        <mark key="^" line="79" column="25" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" timestamp="1520422479701">
+        <mark key="'" line="102" column="6" />
+        <mark key="[" line="79" column="88" />
+        <mark key="]" line="79" column="88" />
+        <mark key="^" line="79" column="89" />
+        <mark key="." line="79" column="88" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/backup.sh" timestamp="1509042394043">
         <mark key="[" line="26" column="16" />
@@ -2038,13 +2038,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>directories</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>output_resu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBkaXJfbmFtZSBpbiBvcy5saXN0ZGlyKElNQUdFX0RJUik6CiAgICAgICAgaWYgbGVuKGRpcl9uYW1lKSAhPSAxMyBvciBub3QgZGlyX25hbWUuaXNhbG51bSgpOgogICAgICAgICAgICAjIG9ubHkgY2hlY2sgRUFOMTMgYmFyY29kZSBkaXJlY3RvcmllcwogICAgICAgICAgICBsb2dnZXIud2FybmluZygnJXMgaXMgbm90IGEgYmFyY29kZSBkaXIsIHNvIGlnbm9yZSBpdCEnLCBkaXJfbmFtZSkKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgc3ViX2RpciA9ICcvJy5qb2luKChJTUFHRV9ESVIsIGRpcl9uYW1lKSkKICAgICAgICBpZiBub3QgcGF0aC5pc2RpcihzdWJfZGlyKToKICAgICAgICAgICAgIyBpZ25vcmUgdGhlIGZpbGVzIHVuZGVyIHRoZSBpbWFnZSBkaXJlY3RvcnkKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJyVzIGlzIG5vdCBhIGRpcmVjdG9yeSwgc28gaWdub3JlIGl0IScsIHN1Yl9kaXIpCiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIHByb2Nlc3NfYmFyY29kZV9kaXIoc3ViX2RpcikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncHJvY2Vzc2luZyAnICsgc3ViX2Rpcl9maWxlcykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkaXJlY3Rvcmllcy5hcHBlbmQoc3ViX2RpcikK</text>
