@@ -1106,6 +1106,13 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-virtualenv/requirements.txt" timestamp="1520417304007">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp_to_ceph_s3/requirements.txt" timestamp="1487160490834">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="13" />
@@ -1184,11 +1191,12 @@
         <mark key="^" line="5" column="31" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" timestamp="1520415787689">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="4" />
-        <mark key="." line="109" column="4" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" timestamp="1520418433402">
+        <mark key="'" line="97" column="6" />
+        <mark key="[" line="115" column="24" />
+        <mark key="]" line="116" column="40" />
+        <mark key="." line="116" column="40" />
+        <mark key="^" line="116" column="40" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/backup.sh" timestamp="1509042394043">
         <mark key="[" line="26" column="16" />
@@ -1905,10 +1913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="367" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="372" column="17" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="384" column="10" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="385" column="22" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="412" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="413" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2005,6 +2009,10 @@
       <jump line="110" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
       <jump line="14" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
       <jump line="117" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
+      <jump line="96" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-virtualenv/requirements.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2030,13 +2038,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>s(dir_name</text>
       </register>
       <register name="/" type="4">
-        <text>main(</text>
+        <text>output_resu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnR0NTIHByb2plY3QgSUQ6ICVzJywgZ2NzX3Byb2plY3QpCg==</text>
+        <text encoding="base64">ICAgIGZvciBkaXJfbmFtZSBpbiBvcy5saXN0ZGlyKElNQUdFX0RJUik6CiAgICAgICAgaWYgbGVuKGRpcl9uYW1lKSAhPSAxMyBvciBub3QgZGlyX25hbWUuaXNhbG51bSgpOgogICAgICAgICAgICAjIG9ubHkgY2hlY2sgRUFOMTMgYmFyY29kZSBkaXJlY3RvcmllcwogICAgICAgICAgICBsb2dnZXIud2FybmluZygnJXMgaXMgbm90IGEgYmFyY29kZSBkaXIsIHNvIGlnbm9yZSBpdCEnLCBkaXJfbmFtZSkKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgc3ViX2RpciA9ICcvJy5qb2luKChJTUFHRV9ESVIsIGRpcl9uYW1lKSkKICAgICAgICBpZiBub3QgcGF0aC5pc2RpcihzdWJfZGlyKToKICAgICAgICAgICAgIyBpZ25vcmUgdGhlIGZpbGVzIHVuZGVyIHRoZSBpbWFnZSBkaXJlY3RvcnkKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJyVzIGlzIG5vdCBhIGRpcmVjdG9yeSwgc28gaWdub3JlIGl0IScsIHN1Yl9kaXIpCiAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgIHByb2Nlc3NfYmFyY29kZV9kaXIoc3ViX2RpcikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2045,41 +2053,41 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2VyID0gc2V0dXBfbG9nZ2luZyhhcHBfbmFtZT0nZmFzdGVyX2djc191cGxvYWRlcicsIGxvZ19sZXZlbD1sb2dnaW5nLkRFQlVHKQoKSU1BR0VfRElSID0gJy9ob21lL2ltYWdlcycKQ09ORklHX0lOSSA9ICcvaG9tZS9jb25maWcuaW5pJwoKUE5HID0gJ3BuZycKSlBHID0gJ2pwZycKCgo=</text>
+        <text encoding="base64">ZGVmIHByb2Nlc3Nfc3ViX2RpcnMoZGlyX25hbWUpOgogICAgcHJvY2Vzc19iYXJjb2RlX2RpcihzdWJfZGlyKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnR0NTIHByb2plY3QgSUQ6ICVzJywgZ2NzX3Byb2plY3QpCg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbihkaXJfbmFtZSkgIT0gMTMgb3Igbm90IGRpcl9uYW1lLmlzYWxudW0oKToKICAgICAgICAjIG9ubHkgY2hlY2sgRUFOMTMgYmFyY29kZSBkaXJlY3RvcmllcwogICAgICAgIGxvZ2dlci53YXJuaW5nKCclcyBpcyBub3QgYSBiYXJjb2RlIGRpciwgc28gaWdub3JlIGl0IScsIGRpcl9uYW1lKQogICAgICAgIHJldHVybgoKICAgIHN1Yl9kaXIgPSAnLycuam9pbigoSU1BR0VfRElSLCBkaXJfbmFtZSkpCiAgICBpZiBub3QgcGF0aC5pc2RpcihzdWJfZGlyKToKICAgICAgICAjIGlnbm9yZSB0aGUgZmlsZXMgdW5kZXIgdGhlIGltYWdlIGRpcmVjdG9yeQogICAgICAgIGxvZ2dlci53YXJuaW5nKCclcyBpcyBub3QgYSBkaXJlY3RvcnksIHNvIGlnbm9yZSBpdCEnLCBzdWJfZGlyKQogICAgICAgIHJldHVybgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgbG9hZGluZyB0aGUgY29uZmlndXJhdGlvbnMgZm9yIGdvb2dsZSBjbG91ZCBzdG9yYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNrdV9kZXRhaWwgPSBza3VfcHJvZHVjdF9kaWN0LmdldChza3UpCiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgcHJvZHVjdF9uYW1lID0gc2t1X2RldGFpbFsnZGVzY3JpcHRpb24nXQogICAgICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGZpbmQgZGVzY3JpcHRpb24gZm9yIGJhcmNvZGUgJXMgc2t1ICVzJywgYmFyY29kZSwgc2t1KQogICAgICAgICAgICAgICAgICAgIHByb2R1Y3RfbmFtZSA9ICd1bmtub3duJwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oZGlyX25hbWUpICE9IDEzIG9yIG5vdCBkaXJfbmFtZS5pc2FsbnVtKCk6CiAgICAgICAgICAgICMgb25seSBjaGVjayBFQU4xMyBiYXJjb2RlIGRpcmVjdG9yaWVzCiAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCclcyBpcyBub3QgYSBiYXJjb2RlIGRpciwgc28gaWdub3JlIGl0IScsIGRpcl9uYW1lKQogICAgICAgICAgICBjb250aW51ZQoKICAgICAgICBzdWJfZGlyID0gJy8nLmpvaW4oKElNQUdFX0RJUiwgZGlyX25hbWUpKQogICAgICAgIGlmIG5vdCBwYXRoLmlzZGlyKHN1Yl9kaXIpOgogICAgICAgICAgICAjIGlnbm9yZSB0aGUgZmlsZXMgdW5kZXIgdGhlIGltYWdlIGRpcmVjdG9yeQogICAgICAgICAgICBsb2dnZXIud2FybmluZygnJXMgaXMgbm90IGEgZGlyZWN0b3J5LCBzbyBpZ25vcmUgaXQhJywgc3ViX2RpcikKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgcHJvY2Vzc19iYXJjb2RlX2RpcihzdWJfZGlyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGZpbmRfcHJvZHVjdF9uYW1lX2J5X3NrdShiYXJjb2RlLCBza3UsIHNrdV9wcm9kdWN0X2RpY3QpOgogICAgc2t1X2RldGFpbHMgPSBza3VfcHJvZHVjdF9kaWN0LmdldChza3UpCiAgICB0cnk6CiAgICAgICAgcHJvZHVjdF9uYW1lID0gc2t1X2RldGFpbHNbJ2Rlc2NyaXB0aW9uJ10KICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICBsb2dnZXIuZXJyb3IoJ0ZhaWxlZCB0byBmaW5kIGRlc2NyaXB0aW9uIGZvciBiYXJjb2RlICVzIHNrdSAlcycsIGJhcmNvZGUsIHNrdSkKICAgICAgICBwcm9kdWN0X25hbWUgPSAndW5rbm93bicKICAgIHJldHVybiBwcm9kdWN0X25hbWUKCgo=</text>
+        <text encoding="base64">dG90YWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZWYgb3V0cHV0X3Jlc3VsdHMoc3VjY2VzcywgZmFpbHVyZSwgdG90YWwpOgojICAgICBmaW5pc2hlZCA9IGR0Lm5vdygpCiMgICAgIGxvZ2dlci5pbmZvKCdTdW1tYXJ5OiBjb21wbGV0ZWQgYXQge30nLmZvcm1hdChmaW5pc2hlZCkpCiMgICAgIGxvZ2dlci5pbmZvKCc+Pj4gU3VjY2Vzc2Z1bGx5IHVwbG9hZGVkIHt9IGZpbGVzJy5mb3JtYXQoc3VjY2VzcykpCiMgICAgIGxvZ2dlci5pbmZvKCc+Pj4gRmFpbGVkIHRvIHVwbG9hZCB7fSBmaWxlcycuZm9ybWF0KGZhaWx1cmUpKQojICAgICBsb2dnZXIuaW5mbygnPj4+IFByb2Nlc3NlZCB0b3RhbCBmaWxlcyB7fVxuJy5mb3JtYXQodG90YWwpKQp0b3RhbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGZpbmRfc29ydF90YXJiYWxsc19pbl9kYXRhc2V0KGJsb2IsIGJ1Y2tldF9kYXRhc2V0cywgdGFyZ2V0X2RhdGFzZXQpOgogICAgYmxvYnMgPSBidWNrZXRfZGF0YXNldHMubGlzdF9ibG9icyhwcmVmaXg9dGFyZ2V0X2RhdGFzZXQpCiAgICBiYXJjb2RlX2ltYWdlcyA9IHt9CiAgICBmb3IgYmxvYiBpbiBibG9iczoKICAgICAgICBibG9iX25hbWUgPSBibG9iLm5hbWUKICAgICAgICBpZiBibG9iX25hbWUuZW5kc3dpdGgoJy50YXIuZ3onKToKICAgICAgICAgICAgcGFydHMgPSBibG9iX25hbWUuc3BsaXQoJy8nKQogICAgICAgICAgICBmaWxlX25hbWUgPSBwYXJ0c1sxXQogICAgICAgICAgICBiaXRzID0gZmlsZV9uYW1lLnNwbGl0KCdfJykKICAgICAgICAgICAgYmFyY29kZSA9IGJpdHNbMF0KICAgICAgICAgICAgaW1hZ2VzID0gYml0c1sxXQogICAgICAgICAgICBiYXJjb2RlX2ltYWdlc1tiYXJjb2RlXSA9IGludChpbWFnZXMpCiAgICAjIHNvcnQgYmFyY29kZXMgYnkgaW1hZ2VzCiAgICBiYXJjb2RlX2ltYWdlX2xpc3QgPSBzb3J0ZWQoYmFyY29kZV9pbWFnZXMuaXRlbXMoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9b3BlcmF0b3IuaXRlbWdldHRlcigxKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXZlcnNlPVRydWUpCiAgICByZXR1cm4gYmFyY29kZV9pbWFnZV9saXN0LCBibG9iCgoK</text>
+        <text encoding="base64">ZnJvbSBnb29nbGUuY2xvdWQuc3RvcmFnZSBpbXBvcnQgQmxvYgo=</text>
       </register>
       <register name=":" type="4">
-        <text>293</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>main(</last-search>
+      <last-search>output_resu</last-search>
       <last-offset />
-      <last-pattern>main(</last-pattern>
+      <last-pattern>output_resu</last-pattern>
       <last-replace>_</last-replace>
-      <last-substitute>storage</last-substitute>
+      <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2103,6 +2111,7 @@
         <entry>True</entry>
         <entry>try</entry>
         <entry>main(</entry>
+        <entry>output_resu</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
@@ -2123,8 +2132,8 @@
         <entry>57</entry>
         <entry>call functions#WinMove('l')</entry>
         <entry encoding="base64">JzwsJz5jYWxsIGZ1bmN0aW9ucyNXaW5Nb3ZlKCdsJyk=</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>293</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
