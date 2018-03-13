@@ -438,11 +438,12 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/install-89-99-scripts.sh" timestamp="1520940752279">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/install-89-99-scripts.sh" timestamp="1520942486866">
+        <mark key="'" line="7" column="38" />
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/training/prometheus/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508410349698">
         <mark key="[" line="8" column="28" />
@@ -1932,7 +1933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="413" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="439" column="6" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="480" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="359" column="30" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2032,6 +2032,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-virtualenv/requirements.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-config/config.ini" />
       <jump line="76" column="30" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
+      <jump line="7" column="38" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/install-89-99-scripts.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2057,7 +2058,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>output_resu</text>
@@ -2066,37 +2067,37 @@
         <text>/etc/NetworkManager/dispatcher.d</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzc2Vyb2NyCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIiR7UlUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIElOQ0xVREVfT1JJR0lOQUxfSU1HOgogICAgICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAgICAgaW1nX29yaWdpbmFsID0gY3YyLmltcmVhZChpbWFnZV9maWxlX2EpCiAgICAgICAgICAgICAgICAgICAgICAgIGltZ19haGUgPSBTZWdtZW50YXRpb25GaWx0ZXIuZXF1YWxpemVfYWRhcHRpdmVfaGlzdG9ncmFtKGltZ19vcmlnaW5hbCAvIDI1NS4wKSAqIDI1NS4wCiAgICAgICAgICAgICAgICAgICAgICAgIGltZ19vdXRwdXQgPSBwYXRoLmpvaW4ob3V0cHV0X2RpciwgcGF0aC5iYXNlbmFtZShpbWFnZV9hKSkKICAgICAgICAgICAgICAgICAgICAgICAgY3YyLmltd3JpdGUoaW1nX291dHB1dCwgaW1nX2FoZSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoJ0ZhaWxlZCB0byBjb3B5IHRoZSBvcmlnaW5hbCBpbWFnZSB7fScuZm9ybWF0KGltYWdlX2EpLCBleGNfaW5mbz1UcnVlKQoK</text>
+        <text encoding="base64">ICAgIGVjaG8gIiR7UnUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGltZW5zaW9uPURJTUVOU0lPTl8yNTYsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2UyPWltYWdlX2ZpbGVfYiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkb3dubG9hZCB0aGUgYmxvYiBiIGFzIGEgZmlsZQo=</text>
+        <text encoding="base64">dGVzc2Vyb2NyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfZmlsZV9iID0gb3MucGF0aC5qb2luKERJUl9PUklHSU5BTF9QUk9EVUNUX0lNQUdFUywgaW1hZ2VfYikKICAgICAgICAgICAgc3VjY2Vzc2Z1bCA9IGRvd25sb2FkX2ZpbGVfd2l0aF9yZXRyeShidWNrZXQsIGltYWdlX2ZpbGVfYiwgYmxvYl9iKQogICAgICAgICAgICBpZiBub3Qgc3VjY2Vzc2Z1bDoKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIGRvd25sb2FkICVzIGFmdGVyIHJldHJpZXMhJywgYmxvYl9iKQogICAgICAgICAgICAgICAgY29udGludWUgICAjIGlnbm9yZSB0aGlzIGZpbGUgYW5kIGNvbnRpbnVlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBkb3dubG9hZGVkICs9IDEKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIElOQ0xVREVfT1JJR0lOQUxfSU1HOgogICAgICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAgICAgaW1nX29yaWdpbmFsID0gY3YyLmltcmVhZChpbWFnZV9maWxlX2EpCiAgICAgICAgICAgICAgICAgICAgICAgIGltZ19haGUgPSBTZWdtZW50YXRpb25GaWx0ZXIuZXF1YWxpemVfYWRhcHRpdmVfaGlzdG9ncmFtKGltZ19vcmlnaW5hbCAvIDI1NS4wKSAqIDI1NS4wCiAgICAgICAgICAgICAgICAgICAgICAgIGltZ19vdXRwdXQgPSBwYXRoLmpvaW4ob3V0cHV0X2RpciwgcGF0aC5iYXNlbmFtZShpbWFnZV9hKSkKICAgICAgICAgICAgICAgICAgICAgICAgY3YyLmltd3JpdGUoaW1nX291dHB1dCwgaW1nX2FoZSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoJ0ZhaWxlZCB0byBjb3B5IHRoZSBvcmlnaW5hbCBpbWFnZSB7fScuZm9ybWF0KGltYWdlX2EpLCBleGNfaW5mbz1UcnVlKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKCdpbWFnZSAlZCA6ICVzJywgaSArIDEsIGltYWdlX2EpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGltZW5zaW9uPURJTUVOU0lPTl8yNTYsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpbWFnZV9hIGV4YW1wbGUKICAgICAgICAgICAgIyA1MDAwMTY5MDcxNTk1XzIwMTctMDgtMjFfMDAuMTEuNTguNjE0X21fMDExX3ZlM19vc3IybTRzMy5wbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2UyPWltYWdlX2ZpbGVfYiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYmFyY29kZV9hICE9IGJhcmNvZGVfYjoKICAgICAgICAgICAgICAgICMgdHdvIGltYWdlcyBhcmUgZm9yIGRpZmZlcmVudCBiYXJjb2RlcywgZG8gbm90IGNvbXBhcmUgYW5kIGRlbGV0ZSBpbWdfYQogICAgICAgICAgICAgICAgY2hlY2tfYW5kX2RlbGV0ZShESVJfT1JJR0lOQUxfUFJPRFVDVF9JTUFHRVMsIGltYWdlX2EpCiAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgIyBpbWFnZV9hIGFuZCBpbWFnZV9iIHNob3VsZCBoYXZlIHRoZSBzYW1lIGZpbGUgbmFtZSB3aXRoIGJhcmNvZGUgYW5kIHRpbWVzdGFtcAogICAgICAgICAgICAjIGVnLiA1MDAwMTY5MDcxNTk1XzIwMTctMDgtMjFfMDAuMTEuNTguNjE0CiAgICAgICAgICAgIG5hbWVfYSA9IGltYWdlX2FbOjM4XQogICAgICAgICAgICBuYW1lX2IgPSBpbWFnZV9iWzozOF0KICAgICAgICAgICAgaWYgbmFtZV9hICE9IG5hbWVfYjoKICAgICAgICAgICAgICAgICMgYiBpcyB0aGUgZmlyc3Qgb2YgdGhlIG5leHQgZ3JvdXAgb2YgaW1hZ2VzCiAgICAgICAgICAgICAgICBjb250aW51ZQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBkb3dubG9hZCB0aGUgYmxvYiBiIGFzIGEgZmlsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
@@ -2150,8 +2151,8 @@
         <entry>call functions#WinMove('l')</entry>
         <entry encoding="base64">JzwsJz5jYWxsIGZ1bmN0aW9ucyNXaW5Nb3ZlKCdsJyk=</entry>
         <entry>293</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>vs</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
