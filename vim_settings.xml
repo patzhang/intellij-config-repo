@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/99-rupert" timestamp="1520940644017">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520261385471">
         <mark key="'" line="149" column="10" />
         <mark key="[" line="196" column="0" />
@@ -291,10 +297,6 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/input/barcodes.json" timestamp="1520247783438">
-        <mark key="[" line="170" column="5" />
-        <mark key="]" line="170" column="17" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
@@ -435,6 +437,12 @@
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/install-89-99-scripts.sh" timestamp="1520940752279">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/training/prometheus/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508410349698">
         <mark key="[" line="8" column="28" />
@@ -589,10 +597,6 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/components/titlebar.js" timestamp="1518099206226">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="69" />
-      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/.gitignore" timestamp="1508947566632">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="40" column="0" />
@@ -628,10 +632,6 @@
         <mark key="]" line="35" column="63" />
         <mark key="^" line="35" column="63" />
         <mark key="." line="35" column="63" />
-      </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/output/job_ds-builder-20180221-1610683091-1-20180207.yaml" timestamp="1519304685700">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitlab-ci.yml" timestamp="1510222459535">
         <mark key="[" line="2" column="0" />
@@ -1737,10 +1737,6 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset/dataset_builder/main.py" timestamp="1519986494043">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="78" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/download_images_wildcard.sh" timestamp="1487246665477">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="30" />
@@ -1800,10 +1796,6 @@
         <mark key="]" line="32" column="71" />
         <mark key="." line="32" column="71" />
         <mark key="^" line="32" column="71" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/.npmrc" timestamp="1518100218086">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="46" />
       </file>
       <file name="/JavaScript Console" timestamp="1519057100320">
         <mark key="[" line="0" column="0" />
@@ -2070,8 +2062,8 @@
       <register name="/" type="4">
         <text>output_resu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dGVuc29yZmxvdwo=</text>
+      <register name="0" type="4">
+        <text>/etc/NetworkManager/dispatcher.d</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dGVzc2Vyb2NyCg==</text>
