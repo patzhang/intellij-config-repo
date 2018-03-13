@@ -695,11 +695,6 @@
         <mark key="^" line="24" column="25" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/output/job_ds-builder-20180305-1009260901-1.yaml" timestamp="1520248755828">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="33" />
-      </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/virtualenv/deactivate-venv.sh" timestamp="1487891002015">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
@@ -1024,8 +1019,8 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1519998339944">
-        <mark key="'" line="69" column="23" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1520946814952">
+        <mark key="'" line="113" column="16" />
         <mark key="[" line="67" column="13" />
         <mark key="]" line="67" column="113" />
         <mark key="^" line="103" column="85" />
@@ -1933,8 +1928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="6" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="480" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="359" column="30" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="463" column="39" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="210" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -1988,7 +1981,6 @@
       <jump line="106" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
       <jump line="103" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
       <jump line="61" column="6" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="63" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="64" column="17" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="65" column="21" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
@@ -2033,6 +2025,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-config/config.ini" />
       <jump line="76" column="30" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
       <jump line="7" column="38" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/install-89-99-scripts.sh" />
+      <jump line="22" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="113" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2061,7 +2056,7 @@
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>output_resu</text>
+        <text>network</text>
       </register>
       <register name="0" type="4">
         <text>/etc/NetworkManager/dispatcher.d</text>
@@ -2101,13 +2096,13 @@
       </register>
     </registers>
     <search>
-      <last-search>output_resu</last-search>
+      <last-search>network</last-search>
       <last-offset />
-      <last-pattern>output_resu</last-pattern>
+      <last-pattern>network</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2131,6 +2126,7 @@
         <entry>try</entry>
         <entry>main(</entry>
         <entry>output_resu</entry>
+        <entry>network</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
