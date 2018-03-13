@@ -1019,12 +1019,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1520946814952">
-        <mark key="'" line="113" column="16" />
-        <mark key="[" line="67" column="13" />
-        <mark key="]" line="67" column="113" />
-        <mark key="^" line="103" column="85" />
-        <mark key="." line="103" column="85" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1520947975321">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="115" column="3" />
+        <mark key="]" line="115" column="112" />
+        <mark key="^" line="115" column="2" />
+        <mark key="." line="115" column="3" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509031253291">
         <mark key="[" line="13" column="0" />
@@ -1928,7 +1928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="30" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="463" column="39" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="210" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="357" column="30" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2026,8 +2025,9 @@
       <jump line="76" column="30" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
       <jump line="7" column="38" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/install-89-99-scripts.sh" />
       <jump line="22" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="113" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="258" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
