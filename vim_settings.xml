@@ -1035,12 +1035,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1521044962155">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1521045693403">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="217" column="11" />
-        <mark key="]" line="217" column="11" />
+        <mark key="[" line="179" column="9" />
+        <mark key="]" line="179" column="9" />
         <mark key="^" line="115" column="2" />
-        <mark key="." line="217" column="11" />
+        <mark key="." line="179" column="9" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509031253291">
         <mark key="[" line="13" column="0" />
@@ -1164,10 +1164,10 @@
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1519747415090">
-        <mark key="[" line="45" column="64" />
-        <mark key="]" line="45" column="67" />
-        <mark key="." line="45" column="67" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1521046596089">
+        <mark key="[" line="47" column="11" />
+        <mark key="]" line="47" column="11" />
+        <mark key="." line="47" column="11" />
         <mark key="^" line="45" column="67" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/job-template.yaml" timestamp="1519208113823">
@@ -1211,6 +1211,12 @@
         <mark key="]" line="2" column="78" />
         <mark key="^" line="13" column="20" />
         <mark key="." line="2" column="78" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/install-cron-job-faster-gcs-uploader.sh" timestamp="1521047323516">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/json_file_manager.py" timestamp="1505319819441">
         <mark key="[" line="24" column="0" />
@@ -1463,12 +1469,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1521045076067">
-        <mark key="'" line="93" column="23" />
-        <mark key="[" line="76" column="25" />
-        <mark key="]" line="76" column="25" />
-        <mark key="^" line="78" column="51" />
-        <mark key="." line="76" column="25" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1521046781000">
+        <mark key="'" line="100" column="23" />
+        <mark key="[" line="111" column="9" />
+        <mark key="]" line="111" column="75" />
+        <mark key="^" line="111" column="75" />
+        <mark key="." line="111" column="75" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-first/install.sh" timestamp="1518435601637">
         <mark key="[" line="12" column="0" />
@@ -2084,13 +2090,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZpcnR1YWxlbnY=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>certificate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3VkbyBhcHQgaW5zdGFsbCB2aW0gbmNkdSB2aXJ0dWFsZW52Cg==</text>
+        <text encoding="base64">ZWNobyAiIC0gc3VkbyByZWJvb3QiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
