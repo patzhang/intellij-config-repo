@@ -1019,10 +1019,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1520947975321">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1521040393498">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="115" column="3" />
-        <mark key="]" line="115" column="112" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="69" column="34" />
         <mark key="^" line="115" column="2" />
         <mark key="." line="115" column="3" />
       </file>
@@ -1446,6 +1446,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1521040990391">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="66" column="8" />
+        <mark key="]" line="66" column="8" />
+        <mark key="." line="66" column="8" />
+        <mark key="^" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-first/install.sh" timestamp="1518435601637">
         <mark key="[" line="12" column="0" />
@@ -1928,10 +1935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="463" column="39" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="210" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="357" column="30" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="360" column="30" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="211" column="43" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="35" column="28" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="105" column="51" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
@@ -2027,7 +2030,11 @@
       <jump line="22" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="113" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="258" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="115" column="22" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="9" column="69" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
+      <jump line="66" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
+      <jump line="46" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2053,52 +2060,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>-get</text>
       </register>
       <register name="/" type="4">
-        <text>network</text>
+        <text>certificate</text>
       </register>
-      <register name="0" type="4">
-        <text>/etc/NetworkManager/dispatcher.d</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzdWRvIHdnZXQgaHR0cDovL25ldG5peC5vY2Fkby5jb20vY2VydHMvbGFzdG1pbGUtcm9vdC5wZW0gLU8gL3Vzci9sb2NhbC9zaGFyZS9jYS1jZXJ0aWZpY2F0ZXMvbGFzdG1pbGUuY3J0CiAgICAgICAgc3VkbyB3Z2V0IGh0dHA6Ly9uZXRuaXgub2NhZG8uY29tL2NlcnRzL29jYWRvLWNhLnBlbSAtTyAvdXNyL2xvY2FsL3NoYXJlL2NhLWNlcnRpZmljYXRlcy9vY2Fkby1jYS5jcnQKICAgICAgICBzdWRvIHVwZGF0ZS1jYS1jZXJ0aWZpY2F0ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiR7UlUK</text>
+        <text encoding="base64">ICAgIGVjaG8gLWUgIlxuIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIiR7UnUK</text>
+        <text encoding="base64">ICAgIGVjaG8gLWUgIlxuIgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgogICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaW5zdGFsbCB0aGUgc2NyaXB0IGZvciBub3RpZnlpbmcgdGhlIElQIGZyb20gREhDUAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dGVzc2Vyb2NyCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgogICAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIElOQ0xVREVfT1JJR0lOQUxfSU1HOgogICAgICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAgICAgaW1nX29yaWdpbmFsID0gY3YyLmltcmVhZChpbWFnZV9maWxlX2EpCiAgICAgICAgICAgICAgICAgICAgICAgIGltZ19haGUgPSBTZWdtZW50YXRpb25GaWx0ZXIuZXF1YWxpemVfYWRhcHRpdmVfaGlzdG9ncmFtKGltZ19vcmlnaW5hbCAvIDI1NS4wKSAqIDI1NS4wCiAgICAgICAgICAgICAgICAgICAgICAgIGltZ19vdXRwdXQgPSBwYXRoLmpvaW4ob3V0cHV0X2RpciwgcGF0aC5iYXNlbmFtZShpbWFnZV9hKSkKICAgICAgICAgICAgICAgICAgICAgICAgY3YyLmltd3JpdGUoaW1nX291dHB1dCwgaW1nX2FoZSkKICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoJ0ZhaWxlZCB0byBjb3B5IHRoZSBvcmlnaW5hbCBpbWFnZSB7fScuZm9ybWF0KGltYWdlX2EpLCBleGNfaW5mbz1UcnVlKQoK</text>
+        <text encoding="base64">ICAgICMgaW5zdGFsbCB0aGUgc2NyaXB0IGZvciBkaXNhYmxpbmcgd2lmaSB3aGVuIGV0aGVybmV0IGlzIGF2YWlsYWJsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGltZW5zaW9uPURJTUVOU0lPTl8yNTYsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2UyPWltYWdlX2ZpbGVfYiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBkb3dubG9hZCB0aGUgYmxvYiBiIGFzIGEgZmlsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>network</last-search>
+      <last-search>certificate</last-search>
       <last-offset />
-      <last-pattern>network</last-pattern>
+      <last-pattern>certificate</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
@@ -2119,7 +2126,6 @@
         <entry>13</entry>
         <entry>populate</entry>
         <entry>certif</entry>
-        <entry>certificate</entry>
         <entry>init</entry>
         <entry encoding="base64">PCAyMA==</entry>
         <entry>True</entry>
@@ -2127,6 +2133,7 @@
         <entry>main(</entry>
         <entry>output_resu</entry>
         <entry>network</entry>
+        <entry>certificate</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
@@ -2147,8 +2154,8 @@
         <entry>call functions#WinMove('l')</entry>
         <entry encoding="base64">JzwsJz5jYWxsIGZ1bmN0aW9ucyNXaW5Nb3ZlKCdsJyk=</entry>
         <entry>293</entry>
-        <entry>vs</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
