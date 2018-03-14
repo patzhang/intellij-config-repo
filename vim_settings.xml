@@ -22,9 +22,6 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1520329600427">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/logs/Readme.txt" timestamp="1487174229570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="13" />
@@ -175,9 +172,6 @@
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="47" />
-      </file>
-      <file name="/" timestamp="1518092337145">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/temp/s3-error/error1.xml" timestamp="1489768934328">
         <mark key="[" line="12" column="0" />
@@ -774,6 +768,12 @@
         <mark key="^" line="45" column="48" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/install-cron-reconnect-wifi.sh" timestamp="1521048102437">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gcloud" timestamp="1510057642211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="1" />
@@ -839,12 +839,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1520247787018">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1519031924096">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508416839422">
         <mark key="[" line="1" column="21" />
@@ -1158,8 +1152,8 @@
         <mark key="^" line="8" column="36" />
         <mark key="." line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1519746969796">
-        <mark key="[" line="21" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/Readme.md" timestamp="1521047544994">
+        <mark key="[" line="21" column="83" />
         <mark key="]" line="21" column="123" />
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
@@ -1212,11 +1206,11 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="2" column="78" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/install-cron-job-faster-gcs-uploader.sh" timestamp="1521047323516">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="1" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/install-cron-job-faster-gcs-uploader.sh" timestamp="1521047918243">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="15" column="70" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/import_sku/json_file_manager.py" timestamp="1505319819441">
         <mark key="[" line="24" column="0" />
@@ -1254,9 +1248,6 @@
         <mark key="]" line="0" column="49" />
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="10" />
-      </file>
-      <file name="/Python Console" timestamp="1520259402142">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1505829396642">
         <mark key="[" line="0" column="0" />
@@ -1524,14 +1515,16 @@
         <mark key="." line="11" column="5" />
         <mark key="^" line="11" column="5" />
       </file>
-      <file name="/fragment.js" timestamp="1519294700925">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/generate_jobs.py" timestamp="1519306583180">
         <mark key="[" line="81" column="30" />
         <mark key="]" line="81" column="32" />
         <mark key="^" line="81" column="32" />
         <mark key="." line="81" column="32" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/install-cron-gcs-uploader.sh" timestamp="1521047984067">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/89-wlan" timestamp="1519730986317">
         <mark key="[" line="2" column="89" />
@@ -1721,9 +1714,6 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-external/verify_sku/README.md" timestamp="1516629077315">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1519295207737">
         <mark key="'" line="32" column="3" />
         <mark key="[" line="248" column="3" />
@@ -1829,9 +1819,6 @@
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/.npmrc" timestamp="1518100218086">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="46" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1519057100320">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
         <mark key="'" line="8" column="12" />
@@ -2090,13 +2077,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gcs-upload-job-history</text>
       </register>
       <register name="/" type="4">
         <text>certificate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiIC0gc3VkbyByZWJvb3QiCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">aG9tZS9sb2dzL2djcy11cGxvYWQtam9iLWhpc3RvcnkubG9nIDI+JjE=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2105,28 +2092,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0dXBfcHl0aG9uM192ZW52Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaW5zdGFsbF9kbnNfbm90aWZpZXIoKSB7CiAgICBydXBlcnRfZnVsbD0kMQogICAgcnVwZXJ0PSQoYmFzZW5hbWUgJHtydXBlcnRfZnVsbH0pCiAgICBubV9kaXJfcnVwZXJ0PSIke05NX0RJUn0vJHtydXBlcnR9IgoKICAgIGlmIFsgLWYgJHtubV9kaXJfcnVwZXJ0fSBdOyB0aGVuCiAgICAgICAgZWNobyAiT0s6ICR7cnVwZXJ0fSBpcyBhbHJlYWR5IGluc3RhbGxlZCEiCiAgICBlbHNlCiAgICAgICAgZWNobyAiaW5zdGFsbGluZyAke3J1cGVydH0gLi4uIgogICAgICAgIHN1ZG8gY3AgJHtydXBlcnRfZnVsbH0gJHtOTV9ESVJ9CiAgICAgICAgc3VkbyBjaG1vZCA3MDAgJHtubV9kaXJfcnVwZXJ0fQogICAgICAgIHN1ZG8gY2hvd24gcm9vdDpyb290ICR7bm1fZGlyX3J1cGVydH0KICAgICAgICBlY2hvICJpbnN0YWxsZWQgJHtubV9kaXJfcnVwZXJ0fSIKICAgIGZpCn0KCmZ1bmN0aW9uIGluc3RhbGxfdXNiX3J1bGUoKSB7CgoKfQo=</text>
+        <text encoding="base64">c2V0dXBfcHl0aG9uM192ZW52Cgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBpbnN0YWxsIHRoZSBzY3JpcHQgZm9yIG5vdGlmeWluZyB0aGUgSVAgZnJvbSBESENQCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gaW5zdGFsbF9kbnNfbm90aWZpZXIoKSB7CiAgICBydXBlcnRfZnVsbD0kMQogICAgcnVwZXJ0PSQoYmFzZW5hbWUgJHtydXBlcnRfZnVsbH0pCiAgICBubV9kaXJfcnVwZXJ0PSIke05NX0RJUn0vJHtydXBlcnR9IgoKICAgIGlmIFsgLWYgJHtubV9kaXJfcnVwZXJ0fSBdOyB0aGVuCiAgICAgICAgZWNobyAiT0s6ICR7cnVwZXJ0fSBpcyBhbHJlYWR5IGluc3RhbGxlZCEiCiAgICBlbHNlCiAgICAgICAgZWNobyAiaW5zdGFsbGluZyAke3J1cGVydH0gLi4uIgogICAgICAgIHN1ZG8gY3AgJHtydXBlcnRfZnVsbH0gJHtOTV9ESVJ9CiAgICAgICAgc3VkbyBjaG1vZCA3MDAgJHtubV9kaXJfcnVwZXJ0fQogICAgICAgIHN1ZG8gY2hvd24gcm9vdDpyb290ICR7bm1fZGlyX3J1cGVydH0KICAgICAgICBlY2hvICJpbnN0YWxsZWQgJHtubV9kaXJfcnVwZXJ0fSIKICAgIGZpCn0KCmZ1bmN0aW9uIGluc3RhbGxfdXNiX3J1bGUoKSB7CgoKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBpbnN0YWxsIHRoZSBzY3JpcHQgZm9yIGRpc2FibGluZyB3aWZpIHdoZW4gZXRoZXJuZXQgaXMgYXZhaWxhYmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBpbnN0YWxsIHRoZSB1c2IgcnVsZSBmb3IgdW5iaW5kIGJhcmNvZGUgc3BsaXR0ZXIK</text>
+        <text encoding="base64">IyBpbnN0YWxsIHRoZSBzY3JpcHQgZm9yIG5vdGlmeWluZyB0aGUgSVAgZnJvbSBESENQCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0IC1vIG5vdW5zZXQK</text>
+        <text encoding="base64">IyBpbnN0YWxsIHRoZSBzY3JpcHQgZm9yIGRpc2FibGluZyB3aWZpIHdoZW4gZXRoZXJuZXQgaXMgYXZhaWxhYmxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
