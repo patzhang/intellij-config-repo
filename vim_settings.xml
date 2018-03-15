@@ -1029,10 +1029,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1521119218462">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1521132520079">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="166" column="44" />
+        <mark key="[" line="219" column="12" />
+        <mark key="]" line="219" column="33" />
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
       </file>
@@ -2094,8 +2094,8 @@
       <register name="/" type="4">
         <text>certificate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cmVmZXIgdG8gc2V0dXAub3JnCg==</text>
+      <register name="0" type="4">
+        <text>http://www.libusb.org/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
