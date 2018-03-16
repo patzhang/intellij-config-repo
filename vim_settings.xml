@@ -852,6 +852,9 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/automl-test/result1.txt" timestamp="1521206753989">
+        <mark key="'" line="1" column="1430" />
+      </file>
       <file name="$USER_HOME$/Workspaces/py3-proj-skeleton/test/context.py" timestamp="1496235720244">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="21" />
@@ -1952,8 +1955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
-      <jump line="447" column="57" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="25" column="57" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_builder/main.py" />
       <jump line="4" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/package.json" />
       <jump line="252" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
@@ -2052,6 +2053,8 @@
       <jump line="34" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
       <jump line="50" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
       <jump line="87" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/automl-test/result1.txt" />
+      <jump line="1" column="1430" filename="$USER_HOME$/automl-test/result1.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2080,7 +2083,7 @@
         <text encoding="base64">IyMjIA==</text>
       </register>
       <register name="/" type="4">
-        <text>certificate</text>
+        <text>5000169124789</text>
       </register>
       <register name="0" type="4">
         <text>http://www.libusb.org/</text>
@@ -2120,9 +2123,9 @@
       </register>
     </registers>
     <search>
-      <last-search>certificate</last-search>
+      <last-search>5000169124789</last-search>
       <last-offset />
-      <last-pattern>certificate</last-pattern>
+      <last-pattern>5000169124789</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
@@ -2151,6 +2154,7 @@
         <entry>output_resu</entry>
         <entry>network</entry>
         <entry>certificate</entry>
+        <entry>5000169124789</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
