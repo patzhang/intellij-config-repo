@@ -1027,11 +1027,11 @@
         <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1521467237913">
-        <mark key="'" line="203" column="4" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="5" />
-        <mark key="." line="179" column="5" />
-        <mark key="^" line="168" column="2" />
+        <mark key="'" line="207" column="4" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="5" />
+        <mark key="." line="183" column="5" />
+        <mark key="^" line="172" column="2" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install/linux/apt-get.sh" timestamp="1509031253291">
         <mark key="[" line="13" column="0" />
@@ -2096,7 +2096,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>gcs</text>
+        <text>udevadm</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Ki8xICogKiAqICogL2hvbWUvcGF0cmlja3poYW5nL3ZlLWRlcGxveW1lbnQvdXBsb2FkX3RvX2djcy9ydW4tZmFzdGVyLWdjcy11cGxvYWRlci5zaCA+PiAvaG9tZS9sb2dzL2Zhc3Rlci1nY3MtdXBsb2FkLWpvYi1oaXN0b3J5LmxvZyAyPiYx</text>
@@ -2136,9 +2136,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gcs</last-search>
+      <last-search>udevadm</last-search>
       <last-offset />
-      <last-pattern>gcs</last-pattern>
+      <last-pattern>udevadm</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
@@ -2169,6 +2169,7 @@
         <entry>certificate</entry>
         <entry>5000169124789</entry>
         <entry>gcs</entry>
+        <entry>udevadm</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
