@@ -1457,11 +1457,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1521466960075">
-        <mark key="[" line="105" column="7" />
-        <mark key="]" line="105" column="7" />
-        <mark key="." line="105" column="7" />
-        <mark key="^" line="105" column="4" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1521479015884">
+        <mark key="'" line="90" column="39" />
+        <mark key="[" line="90" column="5" />
+        <mark key="]" line="90" column="40" />
+        <mark key="." line="90" column="40" />
+        <mark key="^" line="90" column="40" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-first/install.sh" timestamp="1518435601637">
         <mark key="[" line="12" column="0" />
@@ -1968,7 +1969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="32" column="3" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="34" column="9" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="3" column="6" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
@@ -2068,6 +2068,7 @@
       <jump line="1" column="1430" filename="$USER_HOME$/automl-test/result1.txt" />
       <jump line="25" column="1" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/README.md" />
       <jump line="191" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
+      <jump line="90" column="39" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2093,43 +2094,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text encoding="base64">KSA=</text>
       </register>
       <register name="/" type="4">
         <text>udevadm</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Ki8xICogKiAqICogL2hvbWUvcGF0cmlja3poYW5nL3ZlLWRlcGxveW1lbnQvdXBsb2FkX3RvX2djcy9ydW4tZmFzdGVyLWdjcy11cGxvYWRlci5zaCA+PiAvaG9tZS9sb2dzL2Zhc3Rlci1nY3MtdXBsb2FkLWpvYi1oaXN0b3J5LmxvZyAyPiYx</text>
+        <text encoding="base64">JChwcyAtYXggfCBncmVwIG50cCB8IGdyZXAgLXYgZ3JlcCkg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TlRQX0RJUj0iL2V0YyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMjIFJ1biBHQ1MgVXBsb2FkZXIgKHB5dGhvbiBjb2RlKQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMjIFJ1biBHQ1MgVXBsb2FkZXIgKHB5dGhvbiBjb2RlKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIGNvbmZpZy5pbmkKLSBydW4gdGhlIHNjcmlwdCB0byBjb3B5IHRoZSBkZWZhdWx0IGNvbmZpZy5pbmkgZmlsZSB0byAvaG9tZQpgYGBiYXNoCi4vY29uZmlnLXNldHVwLnNoCmBgYAotIHVwZGF0ZSAvaG9tZS9jb25maWcuaW5pCmBgYGJhc2gKc3VkbyB2aSAvaG9tZS9jb25maWcuaW5pCmBgYAoKIyMjIC5nY2xvdWQta2V5IGZvciB1cGxvYWRpbmcgdG8gR0NTIGJ1Y2tldAoKY29weSAuZ2Nsb3VkLWtleSB0byAvaG9tZQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyMjIGNvbmZpZy5pbmkKLSBydW4gdGhlIHNjcmlwdCB0byBjb3B5IHRoZSBkZWZhdWx0IGNvbmZpZy5pbmkgZmlsZSB0byAvaG9tZQpgYGBiYXNoCi4vY29uZmlnLXNldHVwLnNoCmBgYAotIHVwZGF0ZSAvaG9tZS9jb25maWcuaW5pCmBgYGJhc2gKc3VkbyB2aSAvaG9tZS9jb25maWcuaW5pCmBgYAoKIyMjIC5nY2xvdWQta2V5IGZvciB1cGxvYWRpbmcgdG8gR0NTIGJ1Y2tldAoKY29weSAuZ2Nsb3VkLWtleSB0byAvaG9tZQoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci0gdXBsb2FkX3RvX2djczogc2V0dXAgY3JvbiBqb2IgZm9yIEdDUyB1cGxvYWRpbmcKCiMjIFJ1biB0aGUgZGVwbG95bWVudCBzY3JpcHQgdG8gZGVwbG95IHRoZSBuZXcgY29kZS4KLSBjb3B5IHRoZSBsYXRlc3QgY29kZSB0byB2ZS1kZXBsb3ltZW50IGRpcmVjdG9yeSBieSBydW4gZGVwbG95LXZlLXNuYWtlLWNvZGUuc2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LSBjb3B5IC5nY2xvdWQta2V5IHRvIC9ob21lCi0gdmUtY29uZmlnOiBjb3B5IGNvbmZpZy5pbmkgdG8gL2hvbWUKLSB2ZS12aXJ0dWFsZW52OiBjcmVhdGUgdmlydHVhbGVudiBpbiB+L3ZlbnYzCi0gdmUtc2VydmljZTogc2V0dXAgMTB4LXZpc2lvbi5zZXJ2aWNlCg==</text>
+        <text encoding="base64">Ci0gdXBsb2FkX3RvX2djczogc2V0dXAgY3JvbiBqb2IgZm9yIEdDUyB1cGxvYWRpbmcKCiMjIFJ1biB0aGUgZGVwbG95bWVudCBzY3JpcHQgdG8gZGVwbG95IHRoZSBuZXcgY29kZS4KLSBjb3B5IHRoZSBsYXRlc3QgY29kZSB0byB2ZS1kZXBsb3ltZW50IGRpcmVjdG9yeSBieSBydW4gZGVwbG95LXZlLXNuYWtlLWNvZGUuc2gK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
