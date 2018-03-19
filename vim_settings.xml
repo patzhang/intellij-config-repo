@@ -867,6 +867,12 @@
         <mark key="." line="24" column="56" />
         <mark key="^" line="24" column="56" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/README.md" timestamp="1521480378935">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/.gitignore" timestamp="1510600735024">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="8" column="10" />
@@ -1457,12 +1463,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1521479015884">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1521480662758">
         <mark key="'" line="90" column="39" />
-        <mark key="[" line="90" column="5" />
-        <mark key="]" line="90" column="40" />
-        <mark key="." line="90" column="40" />
-        <mark key="^" line="90" column="40" />
+        <mark key="[" line="95" column="9" />
+        <mark key="]" line="95" column="10" />
+        <mark key="." line="95" column="10" />
+        <mark key="^" line="95" column="10" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-first/install.sh" timestamp="1518435601637">
         <mark key="[" line="12" column="0" />
@@ -1969,8 +1975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="3" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="34" column="9" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="3" column="6" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="26" column="9" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="215" column="22" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
@@ -2069,6 +2073,8 @@
       <jump line="25" column="1" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/README.md" />
       <jump line="191" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="90" column="39" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
+      <jump line="67" column="18" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2094,52 +2100,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA=</text>
+        <text>cp</text>
       </register>
       <register name="/" type="4">
-        <text>udevadm</text>
+        <text>ntp</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JChwcyAtYXggfCBncmVwIG50cCB8IGdyZXAgLXYgZ3JlcCkg</text>
+        <text>sudo cp /etc/ntp.conf /etc/ntp.conf.bak$(date -I)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TlRQX0RJUj0iL2V0YyIK</text>
+        <text encoding="base64">IyMjIENvbmZpZyBudHAKY29uZmlndXJlZCB0byB1c2Ugb3VyIE5UUCBzZXJ2ZXIgaW7CoC9ldGMvbnRwLmNvbmbCoGJ5IGFkZGluZzoKYGBgYmFzaAojIE9jYWRvIG50cCBzZXJ2ZXJzCnNlcnZlciBudHAudGMub2NhZG8uY29tCnNlcnZlciBudHAuaGQub2NhZG8uY29tCnNlcnZlciBudHAudGQub2NhZG8uY29tCnNlcnZlciBudHAuaGF0ZmllbGQub2NhZG8uY29tCmBgYApjaGVjayBzZXR1cC5vcmcgZm9yIG1vcmUgZGV0YWlscy4KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">TlRQX0RJUj0iL2V0YyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMjIFJ1biBHQ1MgVXBsb2FkZXIgKHB5dGhvbiBjb2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMjIFJ1biBHQ1MgVXBsb2FkZXIgKHB5dGhvbiBjb2RlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIGNvbmZpZy5pbmkKLSBydW4gdGhlIHNjcmlwdCB0byBjb3B5IHRoZSBkZWZhdWx0IGNvbmZpZy5pbmkgZmlsZSB0byAvaG9tZQpgYGBiYXNoCi4vY29uZmlnLXNldHVwLnNoCmBgYAotIHVwZGF0ZSAvaG9tZS9jb25maWcuaW5pCmBgYGJhc2gKc3VkbyB2aSAvaG9tZS9jb25maWcuaW5pCmBgYAoKIyMjIC5nY2xvdWQta2V5IGZvciB1cGxvYWRpbmcgdG8gR0NTIGJ1Y2tldAoKY29weSAuZ2Nsb3VkLWtleSB0byAvaG9tZQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci0gdXBsb2FkX3RvX2djczogc2V0dXAgY3JvbiBqb2IgZm9yIEdDUyB1cGxvYWRpbmcKCiMjIFJ1biB0aGUgZGVwbG95bWVudCBzY3JpcHQgdG8gZGVwbG95IHRoZSBuZXcgY29kZS4KLSBjb3B5IHRoZSBsYXRlc3QgY29kZSB0byB2ZS1kZXBsb3ltZW50IGRpcmVjdG9yeSBieSBydW4gZGVwbG95LXZlLXNuYWtlLWNvZGUuc2gK</text>
+        <text encoding="base64">IyMjIGNvbmZpZy5pbmkKLSBydW4gdGhlIHNjcmlwdCB0byBjb3B5IHRoZSBkZWZhdWx0IGNvbmZpZy5pbmkgZmlsZSB0byAvaG9tZQpgYGBiYXNoCi4vY29uZmlnLXNldHVwLnNoCmBgYAotIHVwZGF0ZSAvaG9tZS9jb25maWcuaW5pCmBgYGJhc2gKc3VkbyB2aSAvaG9tZS9jb25maWcuaW5pCmBgYAoKIyMjIC5nY2xvdWQta2V5IGZvciB1cGxvYWRpbmcgdG8gR0NTIGJ1Y2tldAoKY29weSAuZ2Nsb3VkLWtleSB0byAvaG9tZQoK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>udevadm</last-search>
+      <last-search>ntp</last-search>
       <last-offset />
-      <last-pattern>udevadm</last-pattern>
+      <last-pattern>ntp</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
@@ -2171,6 +2177,7 @@
         <entry>5000169124789</entry>
         <entry>gcs</entry>
         <entry>udevadm</entry>
+        <entry>ntp</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
