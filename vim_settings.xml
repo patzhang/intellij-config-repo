@@ -378,12 +378,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-config/config.ini" timestamp="1520423360973">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-config/config.ini" timestamp="1521645903175">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="11" column="9" />
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/logging_util.py" timestamp="1485183332984">
         <mark key="[" line="6" column="40" />
@@ -459,12 +459,12 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521567970550">
-        <mark key="'" line="601" column="13" />
-        <mark key="[" line="73" column="37" />
-        <mark key="]" line="73" column="37" />
-        <mark key="." line="73" column="37" />
-        <mark key="^" line="73" column="37" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521646279562">
+        <mark key="'" line="301" column="11" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="72" column="37" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/summary.html" timestamp="1507726499803">
         <mark key="[" line="7" column="7" />
@@ -1161,7 +1161,8 @@
         <mark key="." line="21" column="57" />
         <mark key="^" line="21" column="57" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1521046596089">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1521645912459">
+        <mark key="'" line="23" column="7" />
         <mark key="[" line="47" column="11" />
         <mark key="]" line="47" column="11" />
         <mark key="." line="47" column="11" />
@@ -1975,12 +1976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="6" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
-      <jump line="26" column="9" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
-      <jump line="215" column="22" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
-      <jump line="197" column="0" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
-      <jump line="77" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/99-rupert" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" />
       <jump line="3" column="10" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" />
       <jump line="9" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" />
       <jump line="12" column="13" filename="$USER_HOME$/codeVE/product-image-dataset-gc-daily/src/dataset_builder/main.py" />
@@ -2075,6 +2070,12 @@
       <jump line="90" column="39" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
       <jump line="67" column="18" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/README.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="14" column="25" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="299" column="13" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="23" column="7" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" />
+      <jump line="301" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2103,49 +2104,49 @@
         <text encoding="base64">c3VkbyA=</text>
       </register>
       <register name="/" type="4">
-        <text>ntp</text>
+        <text encoding="base64">XDxDb25maWdQYXJzZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>sudo cp /etc/ntp.conf /etc/ntp.conf.bak$(date -I)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIENvbmZpZyBudHAKY29uZmlndXJlZCB0byB1c2Ugb3VyIE5UUCBzZXJ2ZXIgaW7CoC9ldGMvbnRwLmNvbmbCoGJ5IGFkZGluZzoKYGBgYmFzaAojIE9jYWRvIG50cCBzZXJ2ZXJzCnNlcnZlciBudHAudGMub2NhZG8uY29tCnNlcnZlciBudHAuaGQub2NhZG8uY29tCnNlcnZlciBudHAudGQub2NhZG8uY29tCnNlcnZlciBudHAuaGF0ZmllbGQub2NhZG8uY29tCmBgYApjaGVjayBzZXR1cC5vcmcgZm9yIG1vcmUgZGV0YWlscy4KCg==</text>
+        <text encoding="base64">aW1wb3J0IGluc3BlY3QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">IyMjIENvbmZpZyBudHAKY29uZmlndXJlZCB0byB1c2Ugb3VyIE5UUCBzZXJ2ZXIgaW7CoC9ldGMvbnRwLmNvbmbCoGJ5IGFkZGluZzoKYGBgYmFzaAojIE9jYWRvIG50cCBzZXJ2ZXJzCnNlcnZlciBudHAudGMub2NhZG8uY29tCnNlcnZlciBudHAuaGQub2NhZG8uY29tCnNlcnZlciBudHAudGQub2NhZG8uY29tCnNlcnZlciBudHAuaGF0ZmllbGQub2NhZG8uY29tCmBgYApjaGVjayBzZXR1cC5vcmcgZm9yIG1vcmUgZGV0YWlscy4KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TlRQX0RJUj0iL2V0YyIK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TlRQX0RJUj0iL2V0YyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMjIFJ1biBHQ1MgVXBsb2FkZXIgKHB5dGhvbiBjb2RlKQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMjIFJ1biBHQ1MgVXBsb2FkZXIgKHB5dGhvbiBjb2RlKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjIGNvbmZpZy5pbmkKLSBydW4gdGhlIHNjcmlwdCB0byBjb3B5IHRoZSBkZWZhdWx0IGNvbmZpZy5pbmkgZmlsZSB0byAvaG9tZQpgYGBiYXNoCi4vY29uZmlnLXNldHVwLnNoCmBgYAotIHVwZGF0ZSAvaG9tZS9jb25maWcuaW5pCmBgYGJhc2gKc3VkbyB2aSAvaG9tZS9jb25maWcuaW5pCmBgYAoKIyMjIC5nY2xvdWQta2V5IGZvciB1cGxvYWRpbmcgdG8gR0NTIGJ1Y2tldAoKY29weSAuZ2Nsb3VkLWtleSB0byAvaG9tZQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>ntp</last-search>
+      <last-search encoding="base64">XDxDb25maWdQYXJzZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>ntp</last-pattern>
+      <last-pattern encoding="base64">XDxDb25maWdQYXJzZXJcPg==</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
@@ -2178,6 +2179,8 @@
         <entry>gcs</entry>
         <entry>udevadm</entry>
         <entry>ntp</entry>
+        <entry>config</entry>
+        <entry encoding="base64">XDxDb25maWdQYXJzZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
