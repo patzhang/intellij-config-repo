@@ -462,12 +462,12 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521651762814">
-        <mark key="'" line="582" column="16" />
-        <mark key="[" line="584" column="0" />
-        <mark key="]" line="584" column="56" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="72" column="37" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521716727718">
+        <mark key="'" line="588" column="23" />
+        <mark key="[" line="585" column="0" />
+        <mark key="]" line="585" column="35" />
+        <mark key="." line="585" column="0" />
+        <mark key="^" line="589" column="50" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/summary.html" timestamp="1507726499803">
         <mark key="[" line="7" column="7" />
@@ -1979,9 +1979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="39" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" />
-      <jump line="1210" column="18" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/output/barcodes.txt" />
-      <jump line="88" column="46" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" />
       <jump line="36" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" />
       <jump line="40" column="19" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
@@ -2079,6 +2076,9 @@
       <jump line="508" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="511" column="51" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="582" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="293" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="588" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2104,43 +2104,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VkbyA=</text>
+        <text>system</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW1lcmFfaWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhbWVyYV9pZCA9IGNvbmZpZy5nZXQoJ3Zpc2lvbi1zeXN0ZW0nLCAnY2FtZXJhX2lkJykK</text>
+        <text encoding="base64">ICAgIE5VTV9JTUdfQjRfQkMgPSAnbnVtX2ltZ19iNF9iYycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CltzbmFrZS12aXNpb25dCg==</text>
+        <text encoding="base64">ICAgIHZpc2lvbl9zeXN0ZW0gPSAndmlzaW9uLXN5c3RlbScK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bnVtX2ltZ19iNF9iYzogMjAKbnVtX2ltZ19hZl9iYzogMwo=</text>
+        <text encoding="base64">ICAgIHN0YXRpb25faWQgPSAnc3RhdGlvbl9pZCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGluc3BlY3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIENvbmZpZyBudHAKY29uZmlndXJlZCB0byB1c2Ugb3VyIE5UUCBzZXJ2ZXIgaW7CoC9ldGMvbnRwLmNvbmbCoGJ5IGFkZGluZzoKYGBgYmFzaAojIE9jYWRvIG50cCBzZXJ2ZXJzCnNlcnZlciBudHAudGMub2NhZG8uY29tCnNlcnZlciBudHAuaGQub2NhZG8uY29tCnNlcnZlciBudHAudGQub2NhZG8uY29tCnNlcnZlciBudHAuaGF0ZmllbGQub2NhZG8uY29tCmBgYApjaGVjayBzZXR1cC5vcmcgZm9yIG1vcmUgZGV0YWlscy4KCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZfZGljdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIE5VTV9JTUdfQjRfQkMgPSAnbnVtX2ltZ19iNF9iYycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TlRQX0RJUj0iL2V0YyIK</text>
+        <text encoding="base64">Q0FNRVJBX0lEID0gJ2NhbWVyYV9pZCcKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhbWVyYV9pZCA9IGNvbmZpZy5nZXQoJ3Zpc2lvbi1zeXN0ZW0nLCAnY2FtZXJhX2lkJykKICAgIHN0YXRpb25faWQgPSBjb25maWcuZ2V0KCd3YXJlaG91c2UnLCAnc3RhdGlvbl9pZCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">CltzbmFrZS12aXNpb25dCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiMjIFJ1biBHQ1MgVXBsb2FkZXIgKHB5dGhvbiBjb2RlKQo=</text>
+        <text encoding="base64">bnVtX2ltZ19iNF9iYzogMjAKbnVtX2ltZ19hZl9iYzogMwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
