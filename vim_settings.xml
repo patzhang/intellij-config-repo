@@ -326,6 +326,12 @@
       <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/configparser.py" timestamp="1521651013149">
         <mark key="'" line="1183" column="6" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_load_configurations.py" timestamp="1521726026752">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="57" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_macOS.sh" timestamp="1487156919377">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -462,12 +468,12 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521716727718">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521725787765">
         <mark key="'" line="588" column="23" />
         <mark key="[" line="585" column="0" />
         <mark key="]" line="585" column="35" />
         <mark key="." line="585" column="0" />
-        <mark key="^" line="589" column="50" />
+        <mark key="^" line="593" column="46" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/summary.html" timestamp="1507726499803">
         <mark key="[" line="7" column="7" />
@@ -2104,7 +2110,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>system</text>
+        <text>_c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW1lcmFfaWRcPg==</text>
@@ -2113,34 +2119,34 @@
         <text encoding="base64">ICAgIE5VTV9JTUdfQjRfQkMgPSAnbnVtX2ltZ19iNF9iYycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZpc2lvbl9zeXN0ZW0gPSAndmlzaW9uLXN5c3RlbScK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoKQogICAgICAgIAogICAgICAgIAogICAgICAgIHNlbGYuZmFpbCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpb25faWQgPSAnc3RhdGlvbl9pZCcK</text>
+        <text encoding="base64">ICAgIHNlY3Rpb25fd2FyZWhvdXNlID0gJ3dhcmVob3VzZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbmZfZGljdCA9IGRpY3QoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbmZfZGljdCkK</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjb25mX2RpY3QsIENBTUVSQV9JRAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE5VTV9JTUdfQjRfQkMgPSAnbnVtX2ltZ19iNF9iYycK</text>
+        <text encoding="base64">ICAgIHZpc2lvbl9zeXN0ZW0gPSAndmlzaW9uLXN5c3RlbScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q0FNRVJBX0lEID0gJ2NhbWVyYV9pZCcKCgo=</text>
+        <text encoding="base64">ICAgIHN0YXRpb25faWQgPSAnc3RhdGlvbl9pZCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhbWVyYV9pZCA9IGNvbmZpZy5nZXQoJ3Zpc2lvbi1zeXN0ZW0nLCAnY2FtZXJhX2lkJykKICAgIHN0YXRpb25faWQgPSBjb25maWcuZ2V0KCd3YXJlaG91c2UnLCAnc3RhdGlvbl9pZCcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CltzbmFrZS12aXNpb25dCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbmZfZGljdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bnVtX2ltZ19iNF9iYzogMjAKbnVtX2ltZ19hZl9iYzogMwo=</text>
+        <text encoding="base64">ICAgIE5VTV9JTUdfQjRfQkMgPSAnbnVtX2ltZ19iNF9iYycK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -2276,6 +2282,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
