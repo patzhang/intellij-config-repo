@@ -326,11 +326,12 @@
       <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/configparser.py" timestamp="1521651013149">
         <mark key="'" line="1183" column="6" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_load_configurations.py" timestamp="1521726026752">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="12" column="57" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_load_configurations.py" timestamp="1521729157745">
+        <mark key="'" line="4" column="38" />
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="53" />
+        <mark key="^" line="14" column="53" />
+        <mark key="." line="14" column="53" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/google-storage/download_images_macOS.sh" timestamp="1487156919377">
         <mark key="[" line="22" column="23" />
@@ -468,12 +469,12 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521727800607">
-        <mark key="'" line="588" column="23" />
-        <mark key="[" line="350" column="35" />
-        <mark key="]" line="350" column="46" />
-        <mark key="." line="585" column="0" />
-        <mark key="^" line="593" column="46" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521729353455">
+        <mark key="'" line="591" column="89" />
+        <mark key="[" line="593" column="74" />
+        <mark key="]" line="593" column="75" />
+        <mark key="." line="593" column="75" />
+        <mark key="^" line="593" column="70" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/summary.html" timestamp="1507726499803">
         <mark key="[" line="7" column="7" />
@@ -1262,6 +1263,9 @@
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="/Python Console" timestamp="1521728515421">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1505829396642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -1985,8 +1989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" />
       <jump line="40" column="19" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
       <jump line="60" column="38" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
       <jump line="106" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" />
@@ -2085,6 +2087,8 @@
       <jump line="17" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="293" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="588" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="591" column="89" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="4" column="38" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_load_configurations.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2110,43 +2114,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_c</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW1lcmFfaWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>3D RGB array</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBjb25mX2RpY3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoKQogICAgICAgIAogICAgICAgIAogICAgICAgIHNlbGYuZmFpbCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlY3Rpb25fd2FyZWhvdXNlID0gJ3dhcmVob3VzZScK</text>
+        <text encoding="base64">ICAgIENPTkZfU0VDX1ZJU0lPTl9TWVNURU0gPSAndmlzaW9uLXN5c3RlbScKICAgIENPTkZfU0VDX1dBUkVIT1VTRSA9ICd3YXJlaG91c2UnCiAgICBDT05GX0NBTUVSQV9JRCA9ICdjYW1lcmFfaWQnCiAgICBDT05GX05VTV9JTUdfQjRfQkMgPSAnQ09ORl9OVU1fSU1HX0I0X0JDJwogICAgQ09ORl9OVU1fSU1HX0FGX0JDID0gJ0NPTkZfTlVNX0lNR19BRl9CQycKICAgIENPTkZfU1RBVElPTl9JRCA9ICdDT05GX1NUQVRJT05fSUQnCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZfZGljdCA9IGRpY3QoKQo=</text>
+        <text encoding="base64">ICAgIENPTkZfU0VDX1ZJU0lPTl9TWVNURU0gPSAndmlzaW9uLXN5c3RlbScKICAgIENPTkZfU0VDX1dBUkVIT1VTRSA9ICd3YXJlaG91c2UnCiAgICBDT05GX0NBTUVSQV9JRCA9ICdjYW1lcmFfaWQnCiAgICBDT05GX05VTV9JTUdfQjRfQkMgPSAnQ09ORl9OVU1fSU1HX0I0X0JDJwogICAgQ09ORl9OVU1fSU1HX0FGX0JDID0gJ0NPTkZfTlVNX0lNR19BRl9CQycKICAgIENPTkZfU1RBVElPTl9JRCA9ICdDT05GX1NUQVRJT05fSUQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBjb25mX2RpY3QsIENBTUVSQV9JRAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoKQogICAgICAgIAogICAgICAgIAogICAgICAgIHNlbGYuZmFpbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZpc2lvbl9zeXN0ZW0gPSAndmlzaW9uLXN5c3RlbScK</text>
+        <text encoding="base64">ICAgIHNlY3Rpb25fd2FyZWhvdXNlID0gJ3dhcmVob3VzZScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpb25faWQgPSAnc3RhdGlvbl9pZCcK</text>
+        <text encoding="base64">ICAgIGNvbmZfZGljdCA9IGRpY3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBjb25mX2RpY3QsIENBTUVSQV9JRAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvbmZfZGljdCkK</text>
+        <text encoding="base64">ICAgIHZpc2lvbl9zeXN0ZW0gPSAndmlzaW9uLXN5c3RlbScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE5VTV9JTUdfQjRfQkMgPSAnbnVtX2ltZ19iNF9iYycK</text>
+        <text encoding="base64">ICAgIHN0YXRpb25faWQgPSAnc3RhdGlvbl9pZCcK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
@@ -2159,20 +2163,10 @@
       <last-replace>_</last-replace>
       <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tarball</entry>
-        <entry>building</entry>
-        <entry>Failed to delete</entry>
-        <entry encoding="base64">XDxjaGVja19hbmRfZGVsZXRlXD4=</entry>
-        <entry>promis</entry>
-        <entry>getSkuForBar</entry>
-        <entry encoding="base64">XDxwcm9taXNlUmV0cnlcPg==</entry>
-        <entry encoding="base64">XDxyZXRyeVByb21pc2VcPg==</entry>
-        <entry>get</entry>
-        <entry>.get</entry>
         <entry>13</entry>
         <entry>populate</entry>
         <entry>certif</entry>
