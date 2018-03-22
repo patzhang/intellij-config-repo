@@ -468,10 +468,10 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521725787765">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521727041077">
         <mark key="'" line="588" column="23" />
-        <mark key="[" line="585" column="0" />
-        <mark key="]" line="585" column="35" />
+        <mark key="[" line="350" column="35" />
+        <mark key="]" line="350" column="46" />
         <mark key="." line="585" column="0" />
         <mark key="^" line="593" column="46" />
       </file>
@@ -2115,8 +2115,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjYW1lcmFfaWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE5VTV9JTUdfQjRfQkMgPSAnbnVtX2ltZ19iNF9iYycK</text>
+      <register name="0" type="4">
+        <text>3D RGB array</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQoKQogICAgICAgIAogICAgICAgIAogICAgICAgIHNlbGYuZmFpbCgpCg==</text>
