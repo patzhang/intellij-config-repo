@@ -28,7 +28,7 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1521729616820">
+      <file name="/a.dummy" timestamp="1521794743091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/cluster/delete_kube_jobs.sh" timestamp="1519306593231">
@@ -135,10 +135,6 @@
         <mark key="]" line="2" column="66" />
         <mark key="^" line="5" column="34" />
         <mark key="." line="2" column="66" />
-      </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/89-wlan" timestamp="1521044376578">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="80" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -298,10 +294,6 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/input/barcodes.json" timestamp="1520247783438">
-        <mark key="[" line="170" column="5" />
-        <mark key="]" line="170" column="17" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="46" />
@@ -325,6 +317,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="36" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521794766972">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/configparser.py" timestamp="1521651013149">
         <mark key="'" line="1183" column="6" />
@@ -472,8 +470,8 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521733804644">
-        <mark key="'" line="191" column="4" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521794786704">
+        <mark key="'" line="599" column="20" />
         <mark key="[" line="599" column="20" />
         <mark key="]" line="599" column="11" />
         <mark key="." line="599" column="11" />
@@ -613,10 +611,6 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/components/titlebar.js" timestamp="1518099206226">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="69" />
-      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/.gitignore" timestamp="1508947566632">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="40" column="0" />
@@ -652,10 +646,6 @@
         <mark key="]" line="35" column="63" />
         <mark key="^" line="35" column="63" />
         <mark key="." line="35" column="63" />
-      </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/output/job_ds-builder-20180221-1610683091-1-20180207.yaml" timestamp="1519304685700">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/.gitlab-ci.yml" timestamp="1510222459535">
         <mark key="[" line="2" column="0" />
@@ -1784,10 +1774,6 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset/dataset_builder/main.py" timestamp="1519986494043">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="78" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/download_images_wildcard.sh" timestamp="1487246665477">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="30" />
@@ -1853,10 +1839,6 @@
         <mark key="]" line="32" column="71" />
         <mark key="." line="32" column="71" />
         <mark key="^" line="32" column="71" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/.npmrc" timestamp="1518100218086">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="46" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
         <mark key="'" line="8" column="12" />
@@ -1997,7 +1979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="64" column="17" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="65" column="21" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="66" column="68" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
@@ -2097,6 +2078,7 @@
       <jump line="613" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="84" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="191" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="599" column="20" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2122,7 +2104,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FtZXJhX2lkLCA=</text>
+        <text>LoadConfigurations</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3F1aXNpdGlvbl9wcm9jZXNzXD4=</text>
