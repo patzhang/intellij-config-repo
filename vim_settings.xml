@@ -318,11 +318,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521799813794">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="62" column="39" />
-        <mark key="]" line="61" column="46" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521800510418">
+        <mark key="'" line="3" column="3" />
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="37" />
+        <mark key="^" line="51" column="37" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/configparser.py" timestamp="1521651013149">
         <mark key="'" line="1183" column="6" />
@@ -470,11 +471,11 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521798911593">
-        <mark key="[" line="44" column="21" />
-        <mark key="]" line="46" column="4" />
-        <mark key="." line="46" column="4" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521800868476">
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="303" column="0" />
         <mark key="^" line="46" column="4" />
+        <mark key="." line="303" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/summary.html" timestamp="1507726499803">
         <mark key="[" line="7" column="7" />
@@ -883,6 +884,10 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/datetime_util.py" timestamp="1521800785449">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="56" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/.dockerignore" timestamp="1510606993576">
         <mark key="[" line="1" column="0" />
@@ -1987,8 +1992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="3" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
-      <jump line="201" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="21" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="248" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="200" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
@@ -2087,6 +2090,8 @@
       <jump line="3" column="83" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="4" column="22" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="28" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
+      <jump line="45" column="132" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
+      <jump line="3" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2112,43 +2117,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Not</text>
+        <text>jpg</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dlbmVyYXRlX2ZpbGVfbmFtZV93aXRob3V0X2ltYWdlX3RzX3doZW5fbm90X2NvbmZpZ3VyZWQoc2VsZik6CiAgICAgICAgIyBnaXZlbgogICAgICAgIGNvbmZpZ19pbmkgPSAnLi9pbnB1dC9jb25maWcuaW5pJwogICAgICAgIGNmZ3MgPSBsb2FkX2NvbmZpZ3VyYXRpb25zKGNvbmZpZ19pbmkpCiAgICAgICAgYmMgPSAnNTAwMDE2OTEyNDc4OScKICAgICAgICBiY190cyA9ICcyMDE4LTAxLTI5XzIyLjI0LjMxLjg1NicKICAgICAgICByZWFkaW5nID0gW2JjX3RzLCBiY10KICAgICAgICBzdWZmaXggPSAncCcKICAgICAgICB0c19kaWZmID0gNTMKICAgICAgICAjIHdoZW4KICAgICAgICBmaWxlX25hbWUgPSBnZW5lcmF0ZV9maWxlX25hbWUocmVhZGluZz1yZWFkaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWZmaXg9c3VmZml4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaWZmX21pbGxpcz10c19kaWZmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZmdzPWNmZ3MpCiAgICAgICAgIyB0aGVuCiAgICAgICAgc2VsZi5hc3NlcnROb3RJbignX3RfJywgZmlsZV9uYW1lKQogICAgICAgIHNlbGYuYXNzZXJ0SW4oJ19wXzA1M18nLCBmaWxlX25hbWUpCg==</text>
+      <register name="0" type="4">
+        <text>dt.now().strftime('%Y-%m-%d_%H.%M.%S.%f')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydE5vdEluKCdfcF8wNTNfJywgZmlsZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgIGltYWdlc19iNF9iYyA9IGNmZ3NbQ0ZHX05VTV9JTUdfQjRfQkNdCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlc19hZl9iYyA9IGNmZ3NbQ0ZHX05VTV9JTUdfQUZfQkNdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RmVhdHVyZXM6CiAgICAtIGNoYW5nZSB0byBzYXZlIHggaW1hZ2VzIGJlZm9yZSBhbmQgeSBpbWFnZXMgYWZ0ZXIgYmFyY29kZSByZWFkaW5nCiAgICAgIE5vdGU6IGJlY2F1c2Ugb2YgdGhlIHBvc2l0aW9uIG9mIHR3byBjYW1lcmFzLCBpdCBtYWtlcyBtb3JlIHNlbnNlIHRvIHNhdmUgbW9yZSBpbWFnZXMgYWZ0ZXIgYmFyY29kZSByZWFkaW5nLgoKICAgICAgICAqIGFmdGVyIHNhdmVfZXZlbnQgaXMgc2V0LCB3YWl0IGZvciA4MG1zICgyNW1zICogMyArIDVtcyA9IDgwbXMsIGFzIGl0IHJ1bnMgYXQgNDBmcHMpCiAgICAgICAgKiBjb3B5IHRoZSBidWZmZXIgbGlzdCB0byByZXN1bHQgbGlzdAoK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9uYW1lID0gJy9ob21lL2ltYWdlcy8nICsgYmMgKyAnLycgKyAnXycuam9pbigKICAgICAgICAgICAgKGJjLCBiY190cywgc3VmZml4LCBzdHIoJyUwM2QnICUgdHNfZGlmZiksIGNmZ3NbQ0ZHX0NBTUVSQV9JRF0sIGNmZ3NbQ0ZHX1NUQVRJT05fSURdKSkgKyAnLmpwZycK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">SXQgaXMgY2FsbGVkIGhvcnNlIHZpc2lvbiwgYmVjYXVzZQogdGhlIG1hc3RlciBhbmQgc2xhdmUgY2FtZXJhcyB3b3JrIGxpa2Ugb25lIGhvcnNlIGZvbGxvd2luZyBhbm90aGVyIGhvcnNlLiBBbHNvLCBob3JzZXMgYWx3YXlzIHNlZSB0d28gaW1hZ2VzLCBiZWNhdXNlCiB0aGVyZSBpcyBhIGJsaW5kIHNwb3QgZGlyZWN0bHkgaW4gZnJvbnQgb2YgdGhlaXIgbm9zZXMuIFRoZXJlZm9yZSwgdGhlIHR3byBjYW1lcmFzIHdvcmsgbGlrZSB0aGUgZXllcyBvZiBhIGhvcnNlLgo=</text>
+        <text>es/' + bc + '/' + '_'.join(
+            (bc, bc_ts, suffix, str('%03d' % ts_diff), cfgs[CFG_CAMERA_ID], cfgs[CFG_STATION_ID])) + '.jpg'
+        self.assertEqual(j</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IiIiCkhvcnNlIHZpc2lvbiBpcyBkZXNpZ25lZCBmb3IgdGhlIE1hc3Rlci9TbGF2ZSBtb2RlbCBvZiB2aXNpb24gc3lzdGVtIGluIHRoaXMgY2FzZS4gSXQgaXMgY2FsbGVkIGhvcnNlIHZpc2lvbiwgYmVjYXVzZQogdGhlIG1hc3RlciBhbmQgc2xhdmUgY2FtZXJhcyB3b3JrIGxpa2Ugb25lIGhvcnNlIGZvbGxvd2luZyBhbm90aGVyIGhvcnNlLiBBbHNvLCBob3JzZXMgYWx3YXlzIHNlZSB0d28gaW1hZ2VzLCBiZWNhdXNlCiB0aGVyZSBpcyBhIGJsaW5kIHNwb3QgZGlyZWN0bHkgaW4gZnJvbnQgb2YgdGhlaXIgbm9zZXMuIFRoZXJlZm9yZSwgdGhlIHR3byBjYW1lcmFzIHdvcmsgbGlrZSB0aGUgZXllcyBvZiBhIGhvcnNlLgoKQW55d2F5LCB0aGUgY29kZSBjb25maWd1cmVzIHRoZSBjYW1lcmEgdG8gYmUgdHJpZ2dlcmVkIGJ5IHRoZSBvdXRwdXQgZnJvbSBhIENvZ25leCBjYW1lcmEsIHNvIGJvdGggdGhlIG1hc3RlciBhbmQgc2xhdmUKY2FtZXJhcyBjYXB0dXJlIGltYWdlcyBhdCB0aGUgc2FtZSB0aW1lIGFuZCBzaGFyZSB0aGUgc2FtZSBmbGFzaC4KCldlIG5lZWQgdG8gZG8gdGhyZWUgdGhpbmdzIGF0IHRoZSBzYW1lIHRpbWU6CjEpIHRvIGNvbnRpbnVvdXNseSBhY3F1aXJlIGltYWdlcyBmcm9tIGNhbWVyYTsKMikgdG8gd2FpdCBmb3Iga2V5Ym9hcmQgaW5wdXQgb3IgYmFyY29kZSByZWFkaW5nOwozKSB0byBzYXZlIGltYWdlcyBhZnRlciB0aGUgdHJpZ2dlci4KClRoaXMgaXMgaW1wbGVtZW50ZWQgdXNpbmcgdGhyZWUgcHJvY2Vzc2VzIGFuZCB0d28gcXVldWVzIChiYXJjb2RlIHF1ZXVlIGFuZCBpbWFnZS10by1maWxlIHF1ZXVlKS4KCk1haW5Qcm9jZXNzIGRvZXMgMi4KICAgIC0gV2hlbiB0aGVyZSBpcyBhbiBpbnB1dCwgcHV0IHRoZSBpbnB1dCAoYmFyY29kZSByZWFkaW5nKSB0byBiYXJjb2RlIHF1ZXVlOwogICAgLSBzZXQgdGhlIFNhdmUgRXZlbnQuCgpBY3FyUHJvY2VzcyBkb2VzIDEuCiAgICBhKSBPbmx5IGtlZXAgaW1hZ2UgZGF0YSBpbiBhIGJ1ZmZlciBsaXN0OwogICAgYikgV2hlbiB0aGUgc2F2ZSBldmVudCBpcyBzZXQsIGNvcHkgdGhlIGJ1ZmZlciBsaXN0IHRvIHJlc3VsdHMgbGlzdDsKICAgIGMpIElmIHRoZSByZXN1bHRzIGxpc3QgaXMgbm90IGVtcHR5LCByZWFkIHRoZSBsYXN0IGl0ZW0gYW5kIHB1dCBpdCBpbnRvIHRoZSBpbWFnZS10by1maWxlIHF1ZXVlLgogTm90ZTogaXQgaXMgc2xvdyB0byBwdXQgYW4gaXRlbSB0byBxdWV1ZSwgc28gaXQgb25seSBwdXQgb25lIGl0ZW0gdG8gdGhlIGltYWdlLXRvLWZpbGUgcXVldWUgZWFjaCB0aW1lIGFuZAogICAgICAgc3ByZWFkIHRoZSB3b3JrIGxvYWQgaW50byBkaWZmZXJlbnQgYWNxdWlzaXRpb24gY3ljbGVzLgoKU2F2ZVByb2Nlc3MgZG9lcyAzOgogICAgLSBJZiB0aGUgaW1hZ2UtdG8tZmlsZSBxdWV1ZSBpcyBub3QgZW1wdHksIGdldCBhbiBpdGVtIGFuZCBzYXZlIGl0IGludG8gYSBKUEcgZmlsZS4KCk5vdGU6CiAgICAtIEEgYmFyY29kZSByZWFkaW5nIHdpbGwgdHJpZ2dlciB0byBzb21lIGltYWdlcy4KICAgIC0gUHJlc3MgRW50ZXIgdG8gdHJpZ2dlciB0byBzYXZlIHNvbWUgaW1hZ2VzLgogICAgLSBQcmVzcyBDdHJsICsgQyB0aGVuIEVudGVyIHRvIGV4aXQgdGhlIGFwcC4KICAgIC0gVGhlIGNhbWVyYSBpcyBsb2FkZWQgd2l0aCBkZWZhdWx0IGZhY3Rvcnkgc2V0dGluZ3MsIGFuZCB0aGUgY29kZSB3aWxsIGNoYW5nZSB0aGUgc2V0dGluZ3MgaW4gcnVudGltZS4KClRvZG86CiAgICAtIGNoYW5nZSB0byBzYXZlIHggaW1hZ2VzIGJlZm9yZSBhbmQgeSBpbWFnZXMgYWZ0ZXIgYmFyY29kZSByZWFkaW5nCiAgICAgIE5vdGU6IGJlY2F1c2Ugb2YgdGhlIHBvc2l0aW9uIG9mIHR3byBjYW1lcmFzLCBpdCBtYWtlcyBtb3JlIHNlbnNlIHRvIHNhdmUgbW9yZSBpbWFnZXMgYWZ0ZXIgYmFyY29kZSByZWFkaW5nLgoKICAgICAgICAqIGFmdGVyIHNhdmVfZXZlbnQgaXMgc2V0LCB3YWl0IGZvciA4MG1zICgyNW1zICogMyArIDVtcyA9IDgwbXMsIGFzIGl0IHJ1bnMgYXQgNDBmcHMpCiAgICAgICAgKiBjb3B5IHRoZSBidWZmZXIgbGlzdCB0byByZXN1bHQgbGlzdAoKICAgIE5pY2UgdG8gaGF2ZToKICAgIC0gbG9hZCBkZWZhdWx0IGNvbmZpZ3VyYXRpb25zIHRvIHVzZXIgc2V0IGFuZCBvbmx5IGNoYW5nZSB0aGUgY3VzdG9taXplZCBjb25maWd1cmF0aW9ucy4KICAgIC0gY2hhbmdlIHRoZSBiYXJjb2RlIGJ1ZmZlciBsaXN0IHRvIGJlIGluY3JlbWVudGFsIHdpdGhpbiBhIGZpeGVkIGxpbWl0OwogICAgLSBleHRyYWN0IHRoZSBjYW1lcmEgdG8gYSBzZXBhcmF0ZSBjbGFzcy4KIiIiCgo=</text>
+        <text encoding="base64">ICAgICAgICA1MDAwMTY5MTI0Nzg5LzUwMDAxNjkxMjQ3ODlfMjAxOC0wMS0yOV8yMi4yNC4zMS5fcF8wNTNfdmV4X3N0YXRpb254LmpwZycsIGZpbGVfbmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnNTAwMDE2OTEyNDc4OV8yMDE4LTAxLTI5XzIyLjI0LjMxLjg1Nl9wXzA1M192ZTNfb3NyMm00czMuanBnJwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydE5vdEluKCdfcF8wNTNfJywgZmlsZV9uYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKCdWRXgnLCBjZmdzW0NGR19DQU1FUkFfSURdKQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoOSwgY2Znc1tDRkdfTlVNX0lNR19CNF9CQ10pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgzLCBjZmdzW0NGR19OVU1fSU1HX0FGX0JDXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjZmdzX25ldyA9IGxvYWRfY29uZmlndXJhdGlvbnMoY29uZmlnX25ld19pbmkpCg==</text>
+        <text encoding="base64">RmVhdHVyZXM6CiAgICAtIGNoYW5nZSB0byBzYXZlIHggaW1hZ2VzIGJlZm9yZSBhbmQgeSBpbWFnZXMgYWZ0ZXIgYmFyY29kZSByZWFkaW5nCiAgICAgIE5vdGU6IGJlY2F1c2Ugb2YgdGhlIHBvc2l0aW9uIG9mIHR3byBjYW1lcmFzLCBpdCBtYWtlcyBtb3JlIHNlbnNlIHRvIHNhdmUgbW9yZSBpbWFnZXMgYWZ0ZXIgYmFyY29kZSByZWFkaW5nLgoKICAgICAgICAqIGFmdGVyIHNhdmVfZXZlbnQgaXMgc2V0LCB3YWl0IGZvciA4MG1zICgyNW1zICogMyArIDVtcyA9IDgwbXMsIGFzIGl0IHJ1bnMgYXQgNDBmcHMpCiAgICAgICAgKiBjb3B5IHRoZSBidWZmZXIgbGlzdCB0byByZXN1bHQgbGlzdAoK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWdfbmV3X2luaSA9ICcuL2lucHV0L2NvbmZpZ19uZXcuaW5pJwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">SXQgaXMgY2FsbGVkIGhvcnNlIHZpc2lvbiwgYmVjYXVzZQogdGhlIG1hc3RlciBhbmQgc2xhdmUgY2FtZXJhcyB3b3JrIGxpa2Ugb25lIGhvcnNlIGZvbGxvd2luZyBhbm90aGVyIGhvcnNlLiBBbHNvLCBob3JzZXMgYWx3YXlzIHNlZSB0d28gaW1hZ2VzLCBiZWNhdXNlCiB0aGVyZSBpcyBhIGJsaW5kIHNwb3QgZGlyZWN0bHkgaW4gZnJvbnQgb2YgdGhlaXIgbm9zZXMuIFRoZXJlZm9yZSwgdGhlIHR3byBjYW1lcmFzIHdvcmsgbGlrZSB0aGUgZXllcyBvZiBhIGhvcnNlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
