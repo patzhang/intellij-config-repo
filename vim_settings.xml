@@ -172,6 +172,9 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="47" />
       </file>
+      <file name="/" timestamp="1521805643474">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/temp/s3-error/error1.xml" timestamp="1489768934328">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="38" column="10" />
@@ -318,12 +321,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521804369549">
-        <mark key="'" line="41" column="59" />
-        <mark key="[" line="58" column="40" />
-        <mark key="]" line="58" column="42" />
-        <mark key="." line="58" column="42" />
-        <mark key="^" line="58" column="42" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521805920126">
+        <mark key="'" line="42" column="59" />
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
+        <mark key="^" line="46" column="52" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/configparser.py" timestamp="1521651013149">
         <mark key="'" line="1183" column="6" />
@@ -471,11 +474,12 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521800868476">
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="303" column="0" />
-        <mark key="^" line="46" column="4" />
-        <mark key="." line="303" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521805791096">
+        <mark key="'" line="433" column="4" />
+        <mark key="[" line="459" column="51" />
+        <mark key="]" line="460" column="21" />
+        <mark key="." line="460" column="21" />
+        <mark key="^" line="460" column="21" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/summary.html" timestamp="1507726499803">
         <mark key="[" line="7" column="7" />
@@ -1458,11 +1462,11 @@
         <mark key="." line="55" column="44" />
         <mark key="^" line="55" column="44" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/input/config_new.ini" timestamp="1521796201754">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="4" column="28" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/input/config_new.ini" timestamp="1521804509187">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-readme.txt" timestamp="1495630693285">
         <mark key="[" line="9" column="61" />
@@ -1992,11 +1996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
-      <jump line="200" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
-      <jump line="177" column="40" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
-      <jump line="246" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
-      <jump line="243" column="40" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="251" column="25" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="295" column="20" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="311" column="22" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
@@ -2092,6 +2091,11 @@
       <jump line="45" column="132" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
       <jump line="3" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
       <jump line="41" column="59" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
+      <jump line="368" column="25" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="375" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="609" column="60" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="78" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="433" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2117,54 +2121,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jpg</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>%s</text>
+        <text encoding="base64">XDx1c2VfaW1nX3RzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>dt.now().strftime('%Y-%m-%d_%H.%M.%S.%f')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbWdfdHMgPSAnMjAxOC0wMS0yOV8yMi4yNC4zMS45MDkxMTEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltYWdlc19iNF9iYyA9IGNmZ3NbQ0ZHX05VTV9JTUdfQjRfQkNdCgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlc19hZl9iYyA9IGNmZ3NbQ0ZHX05VTV9JTUdfQUZfQkNdCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9uYW1lID0gJy9ob21lL2ltYWdlcy8nICsgYmMgKyAnLycgKyAnXycuam9pbigKICAgICAgICAgICAgKGJjLCBiY190cywgc3VmZml4LCBzdHIoJyUwM2QnICUgdHNfZGlmZiksIGNmZ3NbQ0ZHX0NBTUVSQV9JRF0sIGNmZ3NbQ0ZHX1NUQVRJT05fSURdKSkgKyAnLmpwZycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltZ190cwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>es/' + bc + '/' + '_'.join(
-            (bc, bc_ts, suffix, str('%03d' % ts_diff), cfgs[CFG_CAMERA_ID], cfgs[CFG_STATION_ID])) + '.jpg'
-        self.assertEqual(j</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyKCclMDNkJyAlIGRpZmZfbWlsbGlzKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA1MDAwMTY5MTI0Nzg5LzUwMDAxNjkxMjQ3ODlfMjAxOC0wMS0yOV8yMi4yNC4zMS5fcF8wNTNfdmV4X3N0YXRpb254LmpwZycsIGZpbGVfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VmZml4LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydE5vdEluKCdfcF8wNTNfJywgZmlsZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBleGFtcGxlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBleGFtcGxlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RmVhdHVyZXM6CiAgICAtIGNoYW5nZSB0byBzYXZlIHggaW1hZ2VzIGJlZm9yZSBhbmQgeSBpbWFnZXMgYWZ0ZXIgYmFyY29kZSByZWFkaW5nCiAgICAgIE5vdGU6IGJlY2F1c2Ugb2YgdGhlIHBvc2l0aW9uIG9mIHR3byBjYW1lcmFzLCBpdCBtYWtlcyBtb3JlIHNlbnNlIHRvIHNhdmUgbW9yZSBpbWFnZXMgYWZ0ZXIgYmFyY29kZSByZWFkaW5nLgoKICAgICAgICAqIGFmdGVyIHNhdmVfZXZlbnQgaXMgc2V0LCB3YWl0IGZvciA4MG1zICgyNW1zICogMyArIDVtcyA9IDgwbXMsIGFzIGl0IHJ1bnMgYXQgNDBmcHMpCiAgICAgICAgKiBjb3B5IHRoZSBidWZmZXIgbGlzdCB0byByZXN1bHQgbGlzdAoK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">SXQgaXMgY2FsbGVkIGhvcnNlIHZpc2lvbiwgYmVjYXVzZQogdGhlIG1hc3RlciBhbmQgc2xhdmUgY2FtZXJhcyB3b3JrIGxpa2Ugb25lIGhvcnNlIGZvbGxvd2luZyBhbm90aGVyIGhvcnNlLiBBbHNvLCBob3JzZXMgYWx3YXlzIHNlZSB0d28gaW1hZ2VzLCBiZWNhdXNlCiB0aGVyZSBpcyBhIGJsaW5kIHNwb3QgZGlyZWN0bHkgaW4gZnJvbnQgb2YgdGhlaXIgbm9zZXMuIFRoZXJlZm9yZSwgdGhlIHR3byBjYW1lcmFzIHdvcmsgbGlrZSB0aGUgZXllcyBvZiBhIGhvcnNlLgo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNmZ19kaWN0W0NGR19TVEFUSU9OX0lEXSA9IGNmZy5nZXQoQ0ZHX1NFQ19XQVJFSE9VU0UsIENGR19TVEFUSU9OX0lEKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>%s</last-search>
+      <last-search encoding="base64">XDx1c2VfaW1nX3RzXD4=</last-search>
       <last-offset />
-      <last-pattern>%s</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VfaW1nX3RzXD4=</last-pattern>
       <last-replace>-g-i</last-replace>
       <last-substitute>_new</last-substitute>
       <last-dir>1</last-dir>
@@ -2195,6 +2197,9 @@
         <entry encoding="base64">XDxhY3F1aXNpdGlvbl9wcm9jZXNzXD4=</entry>
         <entry>_new</entry>
         <entry>%s</entry>
+        <entry encoding="base64">XDxpbWdfdHNcPg==</entry>
+        <entry>img_ts</entry>
+        <entry encoding="base64">XDx1c2VfaW1nX3RzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
