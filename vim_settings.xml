@@ -212,6 +212,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/upgrade-ubuntu.sh" timestamp="1521811901801">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/training-coderetreat/code4life/code_for_life_tests.py" timestamp="1512739973355">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="47" />
@@ -1046,10 +1052,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1521467237913">
-        <mark key="'" line="207" column="4" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="5" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1521811891386">
+        <mark key="'" line="181" column="4" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="89" />
         <mark key="." line="183" column="5" />
         <mark key="^" line="172" column="2" />
       </file>
@@ -1996,7 +2002,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="25" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="295" column="20" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="311" column="22" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
@@ -2096,6 +2101,7 @@
       <jump line="609" column="60" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="78" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="433" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="181" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2121,16 +2127,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VfaW1nX3RzXD4=</text>
+        <text>auto</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfdHMgPSAnMjAxOC0wMS0yOV8yMi4yNC4zMS45MDkxMTEnCg==</text>
+        <text encoding="base64">ICBzdWRvIGFwdC1nZXQgaW5zdGFsbCAtLWluc3RhbGwtcmVjb21tZW5kcyBsaW51eC1nZW5lcmljLWh3ZS0xNi4wNCB4c2VydmVyLXhvcmctaHdlLTE2LjA0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
+        <text encoding="base64">c3VkbyBhcHQgdXBkYXRlCnN1ZG8gYXB0IHVwZ3JhZGUKc3VkbyBhcHQgZGlzdC11cGdyYWRlCnN1ZG8gYXB0IGF1dG8tcmVtb3ZlCgoK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2139,34 +2145,34 @@
         <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltZ190cwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyKCclMDNkJyAlIGRpZmZfbWlsbGlzKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltZ190cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VmZml4LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyKCclMDNkJyAlIGRpZmZfbWlsbGlzKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBleGFtcGxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VmZml4LAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAjIGZvciBleGFtcGxlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBleGFtcGxlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNmZ19kaWN0W0NGR19TVEFUSU9OX0lEXSA9IGNmZy5nZXQoQ0ZHX1NFQ19XQVJFSE9VU0UsIENGR19TVEFUSU9OX0lEKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VfaW1nX3RzXD4=</last-search>
+      <last-search>auto</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VfaW1nX3RzXD4=</last-pattern>
+      <last-pattern>auto</last-pattern>
       <last-replace>-g-i</last-replace>
       <last-substitute>_new</last-substitute>
       <last-dir>1</last-dir>
@@ -2200,6 +2206,7 @@
         <entry encoding="base64">XDxpbWdfdHNcPg==</entry>
         <entry>img_ts</entry>
         <entry encoding="base64">XDx1c2VfaW1nX3RzXD4=</entry>
+        <entry>auto</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
