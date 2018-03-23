@@ -866,7 +866,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521797901179">
+      <file name="/Dummy.txt" timestamp="1521823713239">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/training/prometheus-new/prometheus-workshop/images/prometheus/prometheus.yml" timestamp="1508416839422">
@@ -1766,11 +1766,12 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1521823673684">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1521823883771">
         <mark key="'" line="20" column="6" />
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="47" />
-        <mark key="." line="214" column="0" />
+        <mark key="[" line="219" column="70" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="221" column="0" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -1868,6 +1869,9 @@
         <mark key="]" line="32" column="71" />
         <mark key="." line="32" column="71" />
         <mark key="^" line="32" column="71" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1521823730754">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
         <mark key="'" line="8" column="12" />
