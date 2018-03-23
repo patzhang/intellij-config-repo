@@ -318,12 +318,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521800510418">
-        <mark key="'" line="3" column="3" />
-        <mark key="[" line="51" column="25" />
-        <mark key="]" line="51" column="37" />
-        <mark key="." line="51" column="37" />
-        <mark key="^" line="51" column="37" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521804369549">
+        <mark key="'" line="41" column="59" />
+        <mark key="[" line="58" column="40" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="42" />
+        <mark key="^" line="58" column="42" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/configparser.py" timestamp="1521651013149">
         <mark key="'" line="1183" column="6" />
@@ -1992,7 +1992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="15" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="248" column="8" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="200" column="42" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
       <jump line="177" column="40" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
@@ -2092,6 +2091,7 @@
       <jump line="28" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
       <jump line="45" column="132" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
       <jump line="3" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
+      <jump line="41" column="59" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
