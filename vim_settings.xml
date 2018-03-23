@@ -1766,11 +1766,11 @@
         <mark key="^" line="6" column="34" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1521822172839">
-        <mark key="[" line="217" column="18" />
-        <mark key="]" line="217" column="28" />
-        <mark key="^" line="26" column="48" />
-        <mark key="." line="26" column="48" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" timestamp="1521823673684">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="47" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -2008,11 +2008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
-      <jump line="148" column="25" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
-      <jump line="149" column="10" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" />
-      <jump line="23" column="19" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/dataset_spec/dashboard-ambient-summary.json" />
-      <jump line="151" column="4" filename="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/dataset_spec/dashboard-ambient-summary.json" />
       <jump line="115" column="42" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/gcs_uploader.py" />
       <jump line="85" column="24" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
       <jump line="19" column="10" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
@@ -2108,6 +2103,11 @@
       <jump line="7" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
       <jump line="17" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
+      <jump line="201" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="200" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="22" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="21" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
+      <jump line="20" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2136,49 +2136,49 @@
         <text>-entity</text>
       </register>
       <register name="/" type="4">
-        <text>count-by-sku</text>
+        <text encoding="base64">XDxkYXRhc3RvcmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ewogICJidWNrZXRzIjogWwogICAgewogICAgICAiYnVja2V0IjogInByb2R1Y3QtaW1hZ2UtZGF0YS1vc3IiLAogICAgICAiaW5kZXgiOiAiaW5kZXgtYW1iaWVudCIsCiAgICAgICJjcm9uIjogIjAgMCA3ICogKiAqIiwKICAgICAgImNvdW50QnlEYXkiOiB0cnVlLAogICAgICAiY291bnRCeVNrdSI6IHRydWUKICAgIH0sCiAgICB7CiAgICAgICJidWNrZXQiOiAicHJvZHVjdC1pbWFnZS1kYXRhIiwKICAgICAgImluZGV4IjogImluZGV4LWNoaWxsIiwKICAgICAgImNyb24iOiAiMCAwIDEyICogKiAqIiwKICAgICAgImNvdW50QnlEYXkiOiBmYWxzZSwKICAgICAgImNvdW50QnlTa3UiOiBmYWxzZQogICAgfQogIF0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3VkbyBhcHQgdXBkYXRlCnN1ZG8gYXB0IHVwZ3JhZGUKc3VkbyBhcHQgZGlzdC11cGdyYWRlCnN1ZG8gYXB0IGF1dG8tcmVtb3ZlCgoK</text>
+        <text encoding="base64">bG9nZ2VyLmluZm8oJ2J1Y2tldCBjb25maWd1cmF0aW9uczogJyArIGNmZ3MpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltZ190cwo=</text>
+        <text encoding="base64">c3VkbyBhcHQgdXBkYXRlCnN1ZG8gYXB0IHVwZ3JhZGUKc3VkbyBhcHQgZGlzdC11cGdyYWRlCnN1ZG8gYXB0IGF1dG8tcmVtb3ZlCgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyKCclMDNkJyAlIGRpZmZfbWlsbGlzKSwK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VmZml4LAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBleGFtcGxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGltZ190cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBleGFtcGxlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RyKCclMDNkJyAlIGRpZmZfbWlsbGlzKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VmZml4LAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/count-by-sku/countBySku/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>count-by-sku</last-search>
+      <last-search encoding="base64">XDxkYXRhc3RvcmVcPg==</last-search>
       <last-offset />
-      <last-pattern>count-by-sku</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhc3RvcmVcPg==</last-pattern>
       <last-replace>countBySku</last-replace>
       <last-substitute>count-by-sku</last-substitute>
       <last-dir>1</last-dir>
@@ -2217,6 +2217,7 @@
         <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry encoding="base64">XDxza3VcPg==</entry>
         <entry>count-by-sku</entry>
+        <entry encoding="base64">XDxkYXRhc3RvcmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
