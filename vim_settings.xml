@@ -118,6 +118,10 @@
         <mark key="." line="15" column="26" />
         <mark key="^" line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/codeDL/deep-vision/image_to_video/images_to_video_v1.sh" timestamp="1522080343774">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="73" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/import_sku/json_file_manager.py" timestamp="1505832381782">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -135,6 +139,10 @@
         <mark key="]" line="2" column="66" />
         <mark key="^" line="5" column="34" />
         <mark key="." line="2" column="66" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/89-wlan" timestamp="1521044376578">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="80" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -329,6 +337,10 @@
         <mark key="]" line="30" column="3" />
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/input/barcodes.json" timestamp="1520247783438">
+        <mark key="[" line="170" column="5" />
+        <mark key="]" line="170" column="17" />
       </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/ftp-to-ceph-s3/bin/__init__.py" timestamp="1485184122319">
         <mark key="[" line="0" column="0" />
@@ -645,6 +657,10 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/components/titlebar.js" timestamp="1518099206226">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="69" />
+      </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/.gitignore" timestamp="1508947566632">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="40" column="0" />
@@ -680,6 +696,10 @@
         <mark key="]" line="35" column="63" />
         <mark key="^" line="35" column="63" />
         <mark key="." line="35" column="63" />
+      </file>
+      <file name="$USER_HOME$/codeVE/product-image-dataset-gc/kubernetes/jobs/output/job_ds-builder-20180221-1610683091-1-20180207.yaml" timestamp="1519304685700">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video.py" timestamp="1522056333190">
         <mark key="'" line="5" column="0" />
@@ -1916,6 +1936,10 @@
         <mark key="." line="32" column="71" />
         <mark key="^" line="32" column="71" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/.npmrc" timestamp="1518100218086">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="46" />
+      </file>
       <file name="/JavaScript Console" timestamp="1521823730754">
         <mark key="[" line="0" column="0" />
       </file>
@@ -2194,8 +2218,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxTZWdtZW50YXRpb25GaWx0ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ffmpeg -stats -framerate 40 -i '/tmp/patricknet1/image-%05d.jpg' -y patricknet.mp4</text>
+      <register name="0" type="2">
+        <text encoding="base64">Z3N1dGlsIC1tIGNwIC1yIGdzOi8vcHJvZHVjdC1pbWFnZS1kYXRhLWxhYjEvMjAxODAzMjMvKipfMjAxOC0wMy0yM18yMyogLgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Z29vZ2xlLWNsb3VkLXN0b3JhZ2U9PTAuMjIuMApib3RvMz09MS40LjQKam9ibGliPT0wLjExCg==</text>
