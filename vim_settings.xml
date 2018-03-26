@@ -490,8 +490,8 @@
         <mark key="." line="9" column="111" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1521805791096">
-        <mark key="'" line="433" column="4" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1522059305966">
+        <mark key="'" line="472" column="0" />
         <mark key="[" line="459" column="51" />
         <mark key="]" line="460" column="21" />
         <mark key="." line="460" column="21" />
@@ -873,12 +873,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" timestamp="1522057199173">
-        <mark key="'" line="24" column="33" />
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" timestamp="1522061773684">
+        <mark key="'" line="4" column="16" />
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="14" />
+        <mark key="^" line="36" column="73" />
+        <mark key="." line="37" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1521823713239">
         <mark key="[" line="0" column="0" />
@@ -2032,17 +2032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
-      <jump line="96" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-virtualenv/requirements.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-config/config.ini" />
-      <jump line="76" column="30" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" />
-      <jump line="7" column="38" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/install-89-99-scripts.sh" />
-      <jump line="22" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="113" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="258" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
       <jump line="115" column="22" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
@@ -2132,6 +2121,17 @@
       <jump line="5" column="0" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video.py" />
       <jump line="22" column="33" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
       <jump line="24" column="24" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.sh" />
+      <jump line="18" column="15" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
+      <jump line="472" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
+      <jump line="20" column="20" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
+      <jump line="14" column="4" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
+      <jump line="33" column="73" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
+      <jump line="5" column="18" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
+      <jump line="16" column="15" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
+      <jump line="27" column="20" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
+      <jump line="37" column="25" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
+      <jump line="4" column="16" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2157,56 +2157,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, 'image-%05d.jpg')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhc3RvcmVcPg==</text>
+        <text>os.path.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmZtcGVnIC1zdGF0cyAtZnJhbWVyYXRlIDQwIC1wYXR0ZXJuX3R5cGUgZ2xvYiAtaSAnKi5qcGcnIC15IHBhdHJpY2tuZXQubXA0Cg==</text>
+      <register name="0" type="4">
+        <text>ffmpeg -stats -framerate 40 -pattern_type glob -i '*.jpg' -y patricknet.mp4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2QgL3RtcApta2RpciAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCgppbWFnZV9wYXRoID0gJy90bXAvcGF0cmlja25ldCcKCmZvciBmaWxlIGluIG9zLmxpc3RkaXIoaW1hZ2VfcGF0aCk6CiAgICBvcmlnX2ZpbGUgPSBvcy5wYXRoLmpvaW4oaW1hZ2VfcGF0aCwgZmlsZSkKICAgIHBpZWNlcyA9IGZpbGUuc3BsaXQoJ18nKQogICAgaWYgbGVuKHBpZWNlcykgPj0gNDoKICAgICAgICB0aW1lc2hpZnQgPSAxMDAwICsgKGludChwaWVjZXNbNF0pIGlmIHBpZWNlc1szXSA9PSAncCcgZWxzZSAtaW50KHBpZWNlc1s0XSkpCiAgICAgICAgbmV3X2ZpbGUgPSAne31fe31fezowNGR9LmpwZycuZm9ybWF0KHBpZWNlc1sxXSwgcGllY2VzWzJdLCB0aW1lc2hpZnQpCiAgICAgICAgbmV3X2ZpbGUgPSBvcy5wYXRoLmpvaW4oaW1hZ2VfcGF0aCwgbmV3X2ZpbGUpCiAgICAgICAgIyBwcmludChvcmlnX2ZpbGUpCiAgICAgICAgIyBwcmludChuZXdfZmlsZSkKICAgICAgICBvcy5yZW5hbWUob3JpZ19maWxlLCBuZXdfZmlsZSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBPbmUgU0tVIGZvciBzZXZlcmFsIGRheXMKIyBnc3V0aWwgLW0gY3AgZ3M6Ly9wcm9kdWN0LWltYWdlLWRhdGEtb3NyLzIwMTgwMjI1LzUwNjAxMDczMzgwMTIvNTA2MDEwNzMzODAxMl8yMDE4LTAyLTI1XzE2KiAuCgojIEFsbCBTS1VzIGZvciBvbmUgaG91cgojIGdzdXRpbCAtbSBjcCBnczovL3Byb2R1Y3QtaW1hZ2UtZGF0YS1vc3IvMjAxODAyMjUvKipfMjAxOC0wMi0yNV8xMCogLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZmlsZV9pbnB1dCA9IG9zLnBhdGguam9pbihpbWFnZV9pbnB1dCwgZmlsZSkKICAgICMgcGllY2VzID0gZmlsZS5zcGxpdCgnXycpCiAgICAjIGlmIGxlbihwaWVjZXMpID49IDQ6CiAgICAjICAgICB0aW1lc2hpZnQgPSAxMDAwICsgKGludChwaWVjZXNbNF0pIGlmIHBpZWNlc1szXSA9PSAncCcgZWxzZSAtaW50KHBpZWNlc1s0XSkpCiAgICAjICAgICBuZXdfZmlsZSA9ICd7fV97fV97OjA0ZH0uanBnJy5mb3JtYXQocGllY2VzWzFdLCBwaWVjZXNbMl0sIHRpbWVzaGlmdCkKICAgICMgICAgIG5ld19maWxlID0gb3MucGF0aC5qb2luKGltYWdlX3BhdGgsIG5ld19maWxlKQogICAgIyAgICAgIyBwcmludChvcmlnX2ZpbGUpCiAgICAjICAgICAjIHByaW50KG5ld19maWxlKQogICAgIyAgICAgb3MucmVuYW1lKGZpbGVfaW5wdXQsIG5ld19maWxlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oJ2J1Y2tldCBjb25maWd1cmF0aW9uczogJyArIGNmZ3MpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdDcmVhdGVkICVzJy5mb3JtYXQoRElSX09VVFBVVCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNodXRpbC5kaQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGkgKz0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VkbyBhcHQgdXBkYXRlCnN1ZG8gYXB0IHVwZ3JhZGUKc3VkbyBhcHQgZGlzdC11cGdyYWRlCnN1ZG8gYXB0IGF1dG8tcmVtb3ZlCgoK</text>
+        <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKERJUl9PVVRQVVQpOgogICAgb3MubWtkaXIoRElSX09VVFBVVCkKCmlmIAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlX25hbWUgPSAnXycuam9pbihuYW1lX3BhcnRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/count-by-sku/countBySku/gc</text>
+        <text>%s/os.path./path./g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhc3RvcmVcPg==</last-search>
+      <last-search>os.path.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhc3RvcmVcPg==</last-pattern>
-      <last-replace>countBySku</last-replace>
-      <last-substitute>count-by-sku</last-substitute>
+      <last-pattern>os.path.</last-pattern>
+      <last-replace>path.</last-replace>
+      <last-substitute>os.path.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2236,12 +2236,14 @@
         <entry>img_ts</entry>
         <entry encoding="base64">XDx1c2VfaW1nX3RzXD4=</entry>
         <entry>auto</entry>
-        <entry>%s</entry>
         <entry>count-by-day</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
         <entry encoding="base64">XDxza3VcPg==</entry>
         <entry>count-by-sku</entry>
         <entry encoding="base64">XDxkYXRhc3RvcmVcPg==</entry>
+        <entry>%s</entry>
+        <entry>path</entry>
+        <entry>os.path.</entry>
       </history-search>
       <history-cmd>
         <entry>PNG</entry>
@@ -2267,11 +2269,12 @@
         <entry>s/_new/-g-i</entry>
         <entry>s/_new//-ig</entry>
         <entry>s/_new//-g</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>vs</entry>
         <entry>s/count-by-day/countByDay/-g</entry>
         <entry>%s/count-by-day/countByDay/g</entry>
         <entry>%s/count-by-sku/countBySku/gc</entry>
+        <entry>set hlsearch! hlsearch?</entry>
+        <entry>%s/os.path./path./g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
