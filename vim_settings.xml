@@ -281,11 +281,11 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/codeDL/deep-vision/image_to_video/images_to_video_v1.py" timestamp="1522069066423">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="16" />
+      <file name="$USER_HOME$/codeDL/deep-vision/image_to_video/images_to_video_v1.py" timestamp="1522075757337">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/README.md" timestamp="1520244872519">
         <mark key="[" line="34" column="0" />
@@ -442,11 +442,11 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/codeDL/deep-vision/.gitignore" timestamp="1520861704477">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/codeDL/deep-vision/.gitignore" timestamp="1522075836831">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/barcode-image-dataset/bin/__init__.py" timestamp="1487804928877">
         <mark key="[" line="0" column="0" />
@@ -1477,6 +1477,11 @@
         <mark key="." line="12" column="82" />
         <mark key="^" line="12" column="65" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/input/config.ini" timestamp="1521796172092">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/reference/C1D05-Weekly-Picking-Selected.csv" timestamp="1498554711332">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -1524,6 +1529,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/codeDL/product-recognition-demo/requirements.txt" timestamp="1522076261799">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1521480662758">
         <mark key="'" line="90" column="39" />
@@ -1870,11 +1880,11 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="42" column="27" />
       </file>
-      <file name="$USER_HOME$/codeDL/deep-vision/image_to_video/preprocessor.py" timestamp="1522069080479">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="13" column="32" />
-        <mark key="." line="13" column="32" />
+      <file name="$USER_HOME$/codeDL/deep-vision/image_to_video/preprocessor.py" timestamp="1522074743730">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/training/effective-refactoring/Original Video Rental - 3 Logic in Movie/src/main/java/pl/refactoring/videostore/original/moved_to_movie/ChildrenPricing.java" timestamp="1488373601791">
         <mark key="[" line="11" column="0" />
@@ -1976,6 +1986,12 @@
         <mark key="]" line="113" column="75" />
         <mark key="." line="113" column="75" />
         <mark key="^" line="113" column="75" />
+      </file>
+      <file name="$USER_HOME$/codeDL/product-recognition-demo/.gitignore" timestamp="1522076218821">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="3" />
+        <mark key="^" line="1" column="3" />
+        <mark key="." line="1" column="3" />
       </file>
       <file name="$USER_HOME$/Workspaces/puppet-app_stimgupload/manifests/vip.pp" timestamp="1485364432856">
         <mark key="[" line="57" column="22" />
@@ -2173,40 +2189,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>file_input</text>
+        <text>p/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWdtZW50YXRpb25GaWx0ZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBlcXVhbGl6ZV9hZGFwdGl2ZV9oaXN0b2dyYW0oaW1hZ2UpOgogICAgICAgIG54ID0gbnAuZW1wdHlfbGlrZShpbWFnZSkKICAgICAgICBmb3IgY2hhbm5lbCBpbiBbMCwgMSwgMl06CiAgICAgICAgICAgIG54WzosIDosIGNoYW5uZWxdID0gZXhwb3N1cmUuZXF1YWxpemVfYWRhcHRoaXN0KGltYWdlWzosIDosIGNoYW5uZWxdKQogICAgICAgIHJldHVybiBueAo=</text>
+      <register name="0" type="4">
+        <text>ffmpeg -stats -framerate 40 -i '/tmp/patricknet1/image-%05d.jpg' -y patricknet.mp4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGVfb3V0cHV0ID0gCg==</text>
+        <text encoding="base64">Z29vZ2xlLWNsb3VkLXN0b3JhZ2U9PTAuMjIuMApib3RvMz09MS40LjQKam9ibGliPT0wLjExCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgc2h1dGlsLmNvcHkoZmlsZV9pbnB1dCwgZmlsZV9vdXRwdXQpCg==</text>
+        <text encoding="base64">bWF0cGxvdGxpYj09Mi4wLjAKaXB5dGhvbj09NS4zLjAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlID0gaW1nIC8gMjU1LjAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KQogICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZXF1YWxpemVfYWRhcHRpdmVfaGlzdG9ncmFtKGltYWdlKToKICAgICAgICBueCA9IG5wLmVtcHR5X2xpa2UoaW1hZ2UpCiAgICAgICAgZm9yIGNoYW5uZWwgaW4gWzAsIDEsIDJdOgogICAgICAgICAgICBueFs6LCA6LCBjaGFubmVsXSA9IGV4cG9zdXJlLmVxdWFsaXplX2FkYXB0aGlzdChpbWFnZVs6LCA6LCBjaGFubmVsXSkKICAgICAgICByZXR1cm4gbngK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlID0gY3YyLmltcmVhZChpbWdfZmlsZSkgLyAyNTUuMAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
