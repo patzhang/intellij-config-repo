@@ -2252,7 +2252,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2262,26 +2262,10 @@
       <last-replace>path.</last-replace>
       <last-substitute>os.path.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>13</entry>
-        <entry>populate</entry>
-        <entry>certif</entry>
-        <entry>init</entry>
-        <entry encoding="base64">PCAyMA==</entry>
-        <entry>True</entry>
-        <entry>try</entry>
-        <entry>main(</entry>
-        <entry>output_resu</entry>
-        <entry>network</entry>
-        <entry>certificate</entry>
-        <entry>5000169124789</entry>
-        <entry>gcs</entry>
-        <entry>udevadm</entry>
-        <entry>ntp</entry>
-        <entry>config</entry>
         <entry encoding="base64">XDxDb25maWdQYXJzZXJcPg==</entry>
         <entry>get(</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
@@ -2304,17 +2288,6 @@
         <entry encoding="base64">XDxTZWdtZW50YXRpb25GaWx0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>PNG</entry>
-        <entry>close</entry>
-        <entry>c</entry>
-        <entry>cl</entry>
-        <entry>8</entry>
-        <entry>call functions#WinMove('k')</entry>
-        <entry>split</entry>
-        <entry>104</entry>
-        <entry>121</entry>
-        <entry>sp</entry>
-        <entry>75</entry>
         <entry>49</entry>
         <entry>208</entry>
         <entry>43</entry>
@@ -2334,6 +2307,7 @@
         <entry>%s/os.path./path./g</entry>
         <entry>13</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
