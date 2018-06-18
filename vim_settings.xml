@@ -2023,6 +2023,12 @@
         <mark key="^" line="57" column="41" />
         <mark key="." line="57" column="41" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" timestamp="1529331073519">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/training/RxJava-Codelab/rx-codelab/src/test/java/com/jraska/rx/codelab/Task4_ErrorHandling.java" timestamp="1494412416010">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="6" />
@@ -2190,8 +2196,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeDL/deep-vision/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3QKICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>three</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2213,7 +2219,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p/</text>
+        <text>three</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWdtZW50YXRpb25GaWx0ZXJcPg==</text>
