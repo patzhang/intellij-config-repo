@@ -393,12 +393,12 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/package.json" timestamp="1530009247033">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/package.json" timestamp="1530011269014">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="21" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495622516461">
         <mark key="[" line="147" column="28" />
@@ -1785,6 +1785,13 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" timestamp="1530011278690">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="68" />
+        <mark key="]" line="21" column="68" />
+        <mark key="^" line="21" column="68" />
+        <mark key="." line="21" column="68" />
+      </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/import_barcode/main.py" timestamp="1519982357222">
         <mark key="'" line="89" column="46" />
         <mark key="[" line="74" column="10" />
@@ -2005,11 +2012,10 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/readme.md" timestamp="1529657407399">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/readme.md" timestamp="1530010271670">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.cordova.config.js" timestamp="1510588801715">
         <mark key="[" line="43" column="49" />
@@ -2112,7 +2118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="46" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
       <jump line="75" column="33" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
       <jump line="77" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
@@ -2212,10 +2217,11 @@
       <jump line="19" column="32" filename="$USER_HOME$/codeVE/product-image-dataset/dataset_builder/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/codeDL/deep-vision/requirements.txt" />
       <jump line="15" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIGN1cmwgLVNMTyBodHRwOi8vbmV0bml4Lm9jYWRvLmNvbS9jZXJ0cy9sYXN0bWlsZS1yb290LnBlbSAmJiBtdiBsYXN0bWlsZS1yb290LnBlbSAvdXNyL2xvY2FsL3NoYXJlL2NhLWNlcnRpZmljYXRlcy9sYXN0bWlsZS1yb290LmNydApFTlYgTk9ERV9FWFRSQV9DQV9DRVJUUyAvdXNyL2xvY2FsL3NoYXJlL2NhLWNlcnRpZmljYXRlcy9sYXN0bWlsZS1yb290LmNydAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">XCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDE=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2237,52 +2243,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZWdtZW50YXRpb25GaWx0ZXJcPg==</text>
+        <text>dev</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UlVOIGN1cmwgLVNMTyBodHRwOi8vbmV0bml4Lm9jYWRvLmNvbS9jZXJ0cy9sYXN0bWlsZS1yb290LnBlbSAmJiBtdiBsYXN0bWlsZS1yb290LnBlbSAvdXNyL2xvY2FsL3NoYXJlL2NhLWNlcnRpZmljYXRlcy9sYXN0bWlsZS1yb290LmNydApFTlYgTk9ERV9FWFRSQV9DQV9DRVJUUyAvdXNyL2xvY2FsL3NoYXJlL2NhLWNlcnRpZmljYXRlcy9sYXN0bWlsZS1yb290LmNydAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">XCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDE=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJncnBjIjogIl4xLjEyLjMiLAo=</text>
+        <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4wLjAiLAogICAgInBvc3Rjc3MiOiAiXjUuMi4xMCIsCiAgICAicG9zdGNzcy1jbGkiOiAiXjIuNi4wIiwKICAgICJwb3N0Y3NzLWNzc25leHQiOiAiXjIuOS4wIiwKICAgICJwb3N0Y3NzLWltcG9ydCI6ICJeOS4xLjAiLAogICAgInJvbGx1cCI6ICJeMC40MS4xIiwKICAgICJyb2xsdXAtcGx1Z2luLWJ1YmxlIjogIl4wLjE1LjAiLAogICAgInJvbGx1cC1wbHVnaW4taW5jbHVkZXBhdGhzIjogIl4wLjIuMiIsCiAgICAicm9sbHVwLXBsdWdpbi1ub2RlLXJlc29sdmUiOiAiXjIuMC4wIiwKICAgICJyb2xsdXAtd2F0Y2giOiAiXjMuMi4yIiwKICAgICJoZXhhZ29uLW9jYWRvLXJlbGVhc2VzIjogIl4xLjE0LjAtYmV0YS4xIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiCg==</text>
+        <text encoding="base64">ICAgICMgc2V0IHVwIHRoZSBjYWZpbGUKICAgIG5wbSBjb25maWcgc2V0IGNhZmlsZT1wYXRoLXRvLWNhLWZpbGUvbGFzdG1pbGUtcm9vdC5jcnQKICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJncnBjIjogIl4xLjEyLjMiLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y2FmaWxlCiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgc2V0IHVwIHRoZSBjYWZpbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY2hlY2sgdGhlIHNldHVwCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y2FmaWxlCiA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICMgc2V0IHVwIHRoZSBjYWZpbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgY2hlY2sgdGhlIHNldHVwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z29vZ2xlLWNsb3VkLXN0b3JhZ2U9PTAuMjIuMApib3RvMz09MS40LjQKam9ibGliPT0wLjExCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZWdtZW50YXRpb25GaWx0ZXJcPg==</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZWdtZW50YXRpb25GaWx0ZXJcPg==</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>os.path.</last-substitute>
       <last-dir>1</last-dir>
@@ -2290,7 +2296,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb25maWdQYXJzZXJcPg==</entry>
         <entry>get(</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxjYW1lcmFfaWRcPg==</entry>
@@ -2310,6 +2315,7 @@
         <entry>os.path.</entry>
         <entry>ahe</entry>
         <entry encoding="base64">XDxTZWdtZW50YXRpb25GaWx0ZXJcPg==</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
