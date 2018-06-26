@@ -622,12 +622,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530022766469">
-        <mark key="'" line="247" column="4" />
-        <mark key="[" line="134" column="7" />
-        <mark key="]" line="134" column="6" />
-        <mark key="^" line="134" column="6" />
-        <mark key="." line="134" column="6" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530025291133">
+        <mark key="'" line="215" column="0" />
+        <mark key="[" line="163" column="7" />
+        <mark key="]" line="163" column="12" />
+        <mark key="^" line="163" column="12" />
+        <mark key="." line="163" column="12" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -664,6 +664,13 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" timestamp="1530024400904">
+        <mark key="'" line="117" column="6" />
+        <mark key="[" line="149" column="46" />
+        <mark key="]" line="149" column="52" />
+        <mark key="." line="149" column="52" />
+        <mark key="^" line="149" column="52" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/products-v1.json" timestamp="1495210778628">
         <mark key="[" line="14" column="5" />
@@ -1879,16 +1886,6 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset/dataset_builder/main.py" timestamp="1522068354192">
-        <mark key="'" line="19" column="32" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="78" />
-      </file>
-      <file name="$USER_HOME$/codeVE/product-image-dataset/dataset_builder/segmentation_filter.py" timestamp="1522068018896">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="139" column="16" />
-      </file>
       <file name="$USER_HOME$/Workspaces/image-pipeline/label_images/download_images_wildcard.sh" timestamp="1487246665477">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="30" />
@@ -2124,18 +2121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
-      <jump line="87" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/automl-test/result1.txt" />
-      <jump line="1" column="1430" filename="$USER_HOME$/automl-test/result1.txt" />
-      <jump line="25" column="1" filename="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/README.md" />
-      <jump line="191" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="90" column="39" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
-      <jump line="67" column="18" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/README.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="14" column="25" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="23" column="7" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" />
       <jump line="301" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
       <jump line="297" column="42" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
@@ -2224,6 +2209,18 @@
       <jump line="137" column="43" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="202" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="247" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="107" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="117" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="1" column="43" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="20" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="21" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="22" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="85" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="135" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="215" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2249,10 +2246,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>osr</text>
       </register>
       <register name="/" type="4">
-        <text>dev</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5wbSBsb2dpbiAtLXJlZ2lzdHJ5PWh0dHBzOi8vbmV4dXMudGVjaC5sYXN0bWlsZS5jb20vcmVwb3NpdG9yeS9ucG0tZ3JvdXAvCg==</text>
@@ -2292,13 +2289,13 @@
       </register>
     </registers>
     <search>
-      <last-search>dev</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>dev</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>os.path.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2322,6 +2319,7 @@
         <entry>ahe</entry>
         <entry encoding="base64">XDxTZWdtZW50YXRpb25GaWx0ZXJcPg==</entry>
         <entry>dev</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
