@@ -623,6 +623,13 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530022766469">
+        <mark key="'" line="247" column="4" />
+        <mark key="[" line="134" column="7" />
+        <mark key="]" line="134" column="6" />
+        <mark key="^" line="134" column="6" />
+        <mark key="." line="134" column="6" />
+      </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
         <mark key="]" line="52" column="22" />
@@ -2118,11 +2125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="33" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
-      <jump line="5" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
-      <jump line="77" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
-      <jump line="68" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
-      <jump line="34" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
       <jump line="50" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
       <jump line="87" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/automl-test/result1.txt" />
@@ -2218,10 +2220,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeDL/deep-vision/requirements.txt" />
       <jump line="15" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
+      <jump line="180" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="136" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="137" column="43" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="202" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="247" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">XCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDE=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -2243,7 +2250,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
