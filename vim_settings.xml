@@ -259,7 +259,6 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="/package.json" timestamp="1529656989002" />
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/virtualenv/create-venv.sh" timestamp="1494604734519">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
@@ -2019,9 +2018,9 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/readme.md" timestamp="1530010271670">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="31" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/readme.md" timestamp="1530023944264">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="78" />
         <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/webpack.cordova.config.js" timestamp="1510588801715">
@@ -2255,8 +2254,8 @@
       <register name="/" type="4">
         <text>dev</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">XCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDE=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG5wbSBsb2dpbiAtLXJlZ2lzdHJ5PWh0dHBzOi8vbmV4dXMudGVjaC5sYXN0bWlsZS5jb20vcmVwb3NpdG9yeS9ucG0tZ3JvdXAvCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJucG0tcnVuLWFsbCI6ICJeNC4wLjAiLAogICAgInBvc3Rjc3MiOiAiXjUuMi4xMCIsCiAgICAicG9zdGNzcy1jbGkiOiAiXjIuNi4wIiwKICAgICJwb3N0Y3NzLWNzc25leHQiOiAiXjIuOS4wIiwKICAgICJwb3N0Y3NzLWltcG9ydCI6ICJeOS4xLjAiLAogICAgInJvbGx1cCI6ICJeMC40MS4xIiwKICAgICJyb2xsdXAtcGx1Z2luLWJ1YmxlIjogIl4wLjE1LjAiLAogICAgInJvbGx1cC1wbHVnaW4taW5jbHVkZXBhdGhzIjogIl4wLjIuMiIsCiAgICAicm9sbHVwLXBsdWdpbi1ub2RlLXJlc29sdmUiOiAiXjIuMC4wIiwKICAgICJyb2xsdXAtd2F0Y2giOiAiXjMuMi4yIiwKICAgICJoZXhhZ29uLW9jYWRvLXJlbGVhc2VzIjogIl4xLjE0LjAtYmV0YS4xIgo=</text>
