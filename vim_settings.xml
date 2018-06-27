@@ -622,12 +622,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530089843880">
-        <mark key="'" line="12" column="49" />
-        <mark key="[" line="255" column="3" />
-        <mark key="]" line="255" column="3" />
-        <mark key="." line="255" column="3" />
-        <mark key="^" line="254" column="2" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530093735778">
+        <mark key="'" line="231" column="0" />
+        <mark key="[" line="209" column="39" />
+        <mark key="]" line="209" column="38" />
+        <mark key="." line="209" column="38" />
+        <mark key="^" line="209" column="38" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -2124,18 +2124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="132" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="3" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="41" column="59" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="368" column="25" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="375" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="609" column="60" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="78" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="433" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="181" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="6" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
-      <jump line="14" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
-      <jump line="7" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
       <jump line="17" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
       <jump line="201" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
@@ -2224,6 +2212,18 @@
       <jump line="126" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="192" column="24" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="12" column="49" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="75" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="165" column="53" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="15" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="187" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="6" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="95" column="35" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="106" column="29" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="207" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="77" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="231" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2249,52 +2249,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, apiResponse</text>
       </register>
       <register name="/" type="4">
-        <text>process</text>
+        <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gc3RhcnQgdG8gaW5kZXggdGhlIGJ1Y2tldCBub3cgYmVmb3JlIHRoZSBjcm9uIGpvYgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdVcGRhdGVkIGVudGl0eSBbJXMsICVzXScsIGVudGl0eUtpbmQsIGVudGl0eU5hbWVDaGlsbCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdTdGFydGVkIHRoZSBjcm9uIGpvYiBmb3IgaW5kZXhpbmcgJXMgLi4uJywgYnVja2V0Q2hpbGwpCg==</text>
+        <text encoding="base64">ICAgIGVycm9yQ2FsbGJhY2soKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9nZ2VyLmRlYnVnKCdzdGFydGVkIGNyb24gam9iIScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdVcGRhdGVkIGVudGl0eSBbJXMsICVzXScsIGVudGl0eUtpbmQsIGVudGl0eU5hbWVBbWJpZW50KQo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ1VwZGF0ZWQgZW50aXR5IFslcywgJXNdJywgZW50aXR5S2luZCwgZW50aXR5TmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdTdGFydGVkIHRoZSBjcm9uIGpvYiBmb3IgaW5kZXhpbmcgJXMgLi4uJywgYnVja2V0QW1iaWVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnVXBkYXRlZCBlbnRpdHkgWyVzLCAlc10nLCBlbnRpdHlLaW5kLCBlbnRpdHlOYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGFydE5vdzogdHJ1ZQo=</text>
+        <text encoding="base64">bmV3IERhdGFzdG9yZSh7YXBpRW5kcG9pbnQ6IGx9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdVcGRhdGVkIGVudGl0eSBbJXMsICVzXScsIGVudGl0eUtpbmQsIGVudGl0eU5hbWVDaGlsbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdTdGFydGVkIHRoZSBjcm9uIGpvYiBmb3IgaW5kZXhpbmcgJXMgLi4uJywgYnVja2V0Q2hpbGwpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>process</last-search>
+      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
       <last-offset />
-      <last-pattern>process</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>os.path.</last-substitute>
       <last-dir>1</last-dir>
@@ -2329,6 +2329,11 @@
         <entry encoding="base64">XDxjcm9uXD4=</entry>
         <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
         <entry>process</entry>
+        <entry encoding="base64">XDxnY3NcPg==</entry>
+        <entry>gcs</entry>
+        <entry encoding="base64">XDx1dWlkXD4=</entry>
+        <entry encoding="base64">XDx1dWlkdjRcPg==</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
@@ -2349,8 +2354,8 @@
         <entry>%s/count-by-sku/countBySku/gc</entry>
         <entry>%s/os.path./path./g</entry>
         <entry>13</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>q</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
