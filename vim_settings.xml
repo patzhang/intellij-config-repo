@@ -222,6 +222,12 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1530097919875">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="42" />
+        <mark key="." line="25" column="42" />
+        <mark key="^" line="34" column="2" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/create_kube_jobs.py" timestamp="1509751312269">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -622,11 +628,11 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530095451218">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530096476845">
         <mark key="'" line="38" column="28" />
-        <mark key="[" line="106" column="38" />
-        <mark key="]" line="106" column="38" />
-        <mark key="." line="106" column="38" />
+        <mark key="[" line="264" column="28" />
+        <mark key="]" line="264" column="29" />
+        <mark key="." line="264" column="29" />
         <mark key="^" line="108" column="67" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
@@ -1962,7 +1968,7 @@
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530088515855">
+      <file name="/JavaScript Console" timestamp="1530097145059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
@@ -2249,7 +2255,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmNhdGNoKGVyciA9PiBsb2dnZXIuZXJyb3IoZXJyKSk=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>catch</text>
@@ -2258,37 +2264,37 @@
         <text encoding="base64">Ly8gc3RhcnQgdG8gaW5kZXggdGhlIGJ1Y2tldCBub3cgYmVmb3JlIHRoZSBjcm9uIGpvYgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY3R4LmJvZHkgPSBKU09OLnBhcnNlKHJlc1swXVtlbnRpdHlOYW1lQ2hpbGxdKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVycm9yQ2FsbGJhY2soKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gSlNPTi5wYXJzZShyZXNbMF1bZW50aXR5TmFtZUFtYmllbnRdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ1VwZGF0ZWQgZW50aXR5IFslcywgJXNdJywgZW50aXR5S2luZCwgZW50aXR5TmFtZSkK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ3JlcyBzaXplICVuJywgcmVzLnNpemUoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ3JlcyBzaXplICVuJywgcmVzLnNpemUoKSkKICAgIH0pCiAgICBjdHguYm9keSA9IEpTT04ucGFyc2UocmVzWzBdW2VudGl0eU5hbWVBbWJpZW50XSkKICB9KQoKbGV0IGFwcCA9IG5ldyBLb2EoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnVXBkYXRlZCBlbnRpdHkgWyVzLCAlc10nLCBlbnRpdHlLaW5kLCBlbnRpdHlOYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgY3R4LmJvZHkgPSBKU09OLnBhcnNlKHJlc1swXVtlbnRpdHlOYW1lQW1iaWVudF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmV3IERhdGFzdG9yZSh7YXBpRW5kcG9pbnQ6IGx9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdVcGRhdGVkIGVudGl0eSBbJXMsICVzXScsIGVudGl0eUtpbmQsIGVudGl0eU5hbWVDaGlsbCkK</text>
+        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gSlNPTi5wYXJzZShyZXNbMF1bZW50aXR5TmFtZUFtYmllbnRdKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdTdGFydGVkIHRoZSBjcm9uIGpvYiBmb3IgaW5kZXhpbmcgJXMgLi4uJywgYnVja2V0Q2hpbGwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>39</text>
       </register>
     </registers>
     <search>
@@ -2296,7 +2302,7 @@
       <last-offset />
       <last-pattern>catch</last-pattern>
       <last-replace>path.</last-replace>
-      <last-substitute>os.path.</last-substitute>
+      <last-substitute>catch</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -2358,6 +2364,7 @@
         <entry>13</entry>
         <entry>q</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>39</entry>
       </history-cmd>
       <history-expr />
       <history-input />
