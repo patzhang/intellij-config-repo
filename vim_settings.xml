@@ -622,12 +622,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530028532951">
-        <mark key="'" line="236" column="11" />
-        <mark key="[" line="250" column="18" />
-        <mark key="]" line="250" column="18" />
-        <mark key="." line="250" column="18" />
-        <mark key="^" line="250" column="18" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530089843880">
+        <mark key="'" line="12" column="49" />
+        <mark key="[" line="255" column="3" />
+        <mark key="]" line="255" column="3" />
+        <mark key="." line="255" column="3" />
+        <mark key="^" line="254" column="2" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -1962,7 +1962,7 @@
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1521823730754">
+      <file name="/JavaScript Console" timestamp="1530088515855">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
@@ -1978,6 +1978,9 @@
         <mark key="]" line="121" column="53" />
         <mark key="^" line="66" column="30" />
         <mark key="." line="66" column="30" />
+      </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" timestamp="1530088862398">
+        <mark key="'" line="79" column="6" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/tests/test_import_sku.py" timestamp="1505312899393">
         <mark key="[" line="5" column="6" />
@@ -2121,42 +2124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="42" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="299" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="303" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="304" column="17" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="431" column="51" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="437" column="52" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="1183" column="6" filename="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/configparser.py" />
-      <jump line="584" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="585" column="17" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="70" column="20" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="298" column="26" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="508" column="11" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="511" column="51" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="582" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="293" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="588" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="591" column="89" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="4" column="57" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_load_configurations.py" />
-      <jump line="327" column="80" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="370" column="45" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="613" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="191" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="599" column="20" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="31" column="20" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="4" column="58" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="23" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="430" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="3" column="83" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="4" column="22" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
       <jump line="45" column="132" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
       <jump line="3" column="3" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
       <jump line="41" column="59" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
@@ -2211,7 +2178,6 @@
       <jump line="131" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="117" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="48" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="1" column="43" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="20" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="21" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -2221,6 +2187,43 @@
       <jump line="215" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="243" column="3" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="236" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="255" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="209" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="48" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="110" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="123" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="146" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="147" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="163" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="164" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="172" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="181" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="600" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="690" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="693" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="694" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="33" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="57" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="70" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="73" column="59" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="79" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
+      <jump line="249" column="17" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="8" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="216" column="28" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="3" column="30" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="36" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="74" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="234" column="36" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="2" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="90" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="125" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="126" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="192" column="24" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="12" column="49" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2249,7 +2252,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>jobFor</text>
+        <text>process</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gc3RhcnQgdG8gaW5kZXggdGhlIGJ1Y2tldCBub3cgYmVmb3JlIHRoZSBjcm9uIGpvYgo=</text>
@@ -2289,9 +2292,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jobFor</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern>jobFor</last-pattern>
+      <last-pattern>process</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>os.path.</last-substitute>
       <last-dir>1</last-dir>
@@ -2321,6 +2324,11 @@
         <entry>dev</entry>
         <entry>data</entry>
         <entry>jobFor</entry>
+        <entry>get</entry>
+        <entry encoding="base64">XDxLb2FSb3V0ZXJcPg==</entry>
+        <entry encoding="base64">XDxjcm9uXD4=</entry>
+        <entry encoding="base64">XDxQcm9taXNlXD4=</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
