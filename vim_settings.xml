@@ -622,12 +622,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530093735778">
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="209" column="39" />
-        <mark key="]" line="209" column="38" />
-        <mark key="." line="209" column="38" />
-        <mark key="^" line="209" column="38" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530095451218">
+        <mark key="'" line="38" column="28" />
+        <mark key="[" line="106" column="38" />
+        <mark key="]" line="106" column="38" />
+        <mark key="." line="106" column="38" />
+        <mark key="^" line="108" column="67" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -2124,13 +2124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" />
-      <jump line="201" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="200" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="22" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="21" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
-      <jump line="20" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/main.js" />
       <jump line="5" column="0" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video.py" />
       <jump line="22" column="33" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
       <jump line="24" column="24" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.sh" />
@@ -2166,8 +2159,6 @@
       <jump line="131" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="117" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="48" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="1" column="43" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="20" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="21" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="22" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="85" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -2197,7 +2188,6 @@
       <jump line="70" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
       <jump line="73" column="59" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
       <jump line="79" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
-      <jump line="249" column="17" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="8" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="216" column="28" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="3" column="30" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -2224,6 +2214,16 @@
       <jump line="207" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="77" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="231" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="197" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="256" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="220" column="48" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="24" column="33" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="249" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="96" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="20" column="32" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="257" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="38" column="28" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2249,10 +2249,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, apiResponse</text>
+        <text encoding="base64">LmNhdGNoKGVyciA9PiBsb2dnZXIuZXJyb3IoZXJyKSk=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsYmFja1w+</text>
+        <text>catch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gc3RhcnQgdG8gaW5kZXggdGhlIGJ1Y2tldCBub3cgYmVmb3JlIHRoZSBjcm9uIGpvYgo=</text>
@@ -2292,13 +2292,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
+      <last-search>catch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
+      <last-pattern>catch</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>os.path.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -2334,6 +2334,8 @@
         <entry encoding="base64">XDx1dWlkXD4=</entry>
         <entry encoding="base64">XDx1dWlkdjRcPg==</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
+        <entry>testing</entry>
+        <entry>catch</entry>
       </history-search>
       <history-cmd>
         <entry>49</entry>
