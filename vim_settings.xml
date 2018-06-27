@@ -222,11 +222,10 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1530098876958">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1530107769708">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset-gc/deploy/create_kube_jobs.py" timestamp="1509751312269">
         <mark key="[" line="4" column="0" />
@@ -832,6 +831,9 @@
         <mark key="]" line="2" column="36" />
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/frontend/src/index.js" timestamp="1530108087345">
+        <mark key="'" line="143" column="0" />
       </file>
       <file name="$USER_HOME$/WorkspacesBB/dotfiles-pz/install.sh" timestamp="1509034557552">
         <mark key="[" line="56" column="0" />
@@ -1653,6 +1655,9 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="4" />
       </file>
+      <file name="/fragment.js" timestamp="1530107624139">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/89-wlan" timestamp="1519730986317">
         <mark key="[" line="2" column="89" />
         <mark key="]" line="4" column="17" />
@@ -1968,7 +1973,7 @@
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530097145059">
+      <file name="/JavaScript Console" timestamp="1530107532996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
@@ -2130,8 +2135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="20" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
-      <jump line="14" column="4" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
       <jump line="13" column="0" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
       <jump line="33" column="73" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
       <jump line="5" column="18" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
@@ -2230,6 +2233,8 @@
       <jump line="17" column="61" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="147" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="157" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="34" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/frontend/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2255,74 +2260,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, entity</text>
+        <text>[0]</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text encoding="base64">XDxjdHhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gc3RhcnQgdG8gaW5kZXggdGhlIGJ1Y2tldCBub3cgYmVmb3JlIHRoZSBjcm9uIGpvYgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IGF3YWl0IGRhdGFzdG9yZS5nZXQoZW50aXR5KQogICAgY3R4LmJvZHkgPSBKU09OLnBhcnNlKHJlc1swXVtlbnRpdHlOYW1lQW1iaWVudF0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LCAoZXJyKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdmYWlsbGVkIHRvIGdldCAlcycsIGVycikKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IGRhdGFzdG9yZS5nZXQoZW50aXR5LCAoZXJyLCBlbnRpdHkpID0+IHsKICAgICAgaWYgKGVycikgewogICAgICAgIGNvbnNvbGUubG9nKCdmYWlsZWQgdG8gcmV0cmlldmUgZW50aXR5IFslcywgJXNdJywgZW50aXR5S2luZCwgZW50aXR5TmFtZUFtYmllbnQpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgY3R4LmJvZHkgPSBKU09OLnBhcnNlKGVudGl0eVtlbnRpdHlOYW1lQW1iaWVudF0pCiAgICAgIH0KICAgIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3R4LmJvZHkgPSBKU09OLnBhcnNlKHJlc1swXVtlbnRpdHlOYW1lQ2hpbGxdKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGN0eC5ib2R5ID0gSlNPTi5wYXJzZShyZXNbMF1bZW50aXR5TmFtZUFtYmllbnRdKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ3JlcyBzaXplICVuJywgcmVzLnNpemUoKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ3JlcyBzaXplICVuJywgcmVzLnNpemUoKSkKICAgIH0pCiAgICBjdHguYm9keSA9IEpTT04ucGFyc2UocmVzWzBdW2VudGl0eU5hbWVBbWJpZW50XSkKICB9KQoKbGV0IGFwcCA9IG5ldyBLb2EoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3R4LmJvZHkgPSBKU09OLnBhcnNlKHJlc1swXVtlbnRpdHlOYW1lQW1iaWVudF0pCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY3R4LmJvZHkgPSBKU09OLnBhcnNlKGVudGl0eVswXVtlbnRpdHlOYW1lQW1iaWVudF0pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LCAoZXJyKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdmYWlsbGVkIHRvIGdldCAlcycsIGVycikKICAgIH0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY3R4LmJvZHkgPSBKU09OLnBhcnNlKHJlc1swXVtlbnRpdHlOYW1lQ2hpbGxdKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGN0eC5ib2R5ID0gSlNPTi5wYXJzZShyZXNbMF1bZW50aXR5TmFtZUFtYmllbnRdKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oJ3JlcyBzaXplICVuJywgcmVzLnNpemUoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search encoding="base64">XDxjdHhcPg==</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern encoding="base64">XDxjdHhcPg==</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>catch</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get(</entry>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
-        <entry encoding="base64">XDxjYW1lcmFfaWRcPg==</entry>
-        <entry encoding="base64">XDxhY3F1aXNpdGlvbl9wcm9jZXNzXD4=</entry>
-        <entry>_new</entry>
-        <entry encoding="base64">XDxpbWdfdHNcPg==</entry>
-        <entry>img_ts</entry>
-        <entry encoding="base64">XDx1c2VfaW1nX3RzXD4=</entry>
-        <entry>auto</entry>
-        <entry>count-by-day</entry>
-        <entry encoding="base64">XDxjb3VudFw+</entry>
-        <entry encoding="base64">XDxza3VcPg==</entry>
-        <entry>count-by-sku</entry>
-        <entry encoding="base64">XDxkYXRhc3RvcmVcPg==</entry>
-        <entry>%s</entry>
         <entry>path</entry>
         <entry>os.path.</entry>
         <entry>ahe</entry>
@@ -2343,9 +2333,9 @@
         <entry>testing</entry>
         <entry>catch</entry>
         <entry>log</entry>
+        <entry encoding="base64">XDxjdHhcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>49</entry>
         <entry>208</entry>
         <entry>43</entry>
         <entry>57</entry>
