@@ -627,12 +627,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530200268919">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="239" column="7" />
-        <mark key="]" line="239" column="7" />
-        <mark key="." line="239" column="7" />
-        <mark key="^" line="234" column="12" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530204505011">
+        <mark key="'" line="50" column="1" />
+        <mark key="[" line="205" column="2" />
+        <mark key="]" line="205" column="52" />
+        <mark key="." line="205" column="52" />
+        <mark key="^" line="205" column="52" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -1655,7 +1655,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="4" />
       </file>
-      <file name="/fragment.js" timestamp="1530178430371">
+      <file name="/fragment.js" timestamp="1530204623647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/89-wlan" timestamp="1519730986317">
@@ -1973,7 +1973,7 @@
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530178407712">
+      <file name="/JavaScript Console" timestamp="1530204595285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
@@ -2135,7 +2135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="20" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
       <jump line="4" column="16" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
       <jump line="37" column="60" filename="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" />
       <jump line="254" column="4" filename="$USER_HOME$/codeVE/product-image-dataset/dataset_builder/main.py" />
@@ -2235,6 +2234,7 @@
       <jump line="257" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="201" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="13" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="49" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2260,43 +2260,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>entityKindAmbient</text>
       </register>
       <register name="/" type="4">
         <text>testing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHJlcyA9IGF3YWl0IGRhdGFzdG9yZS5nZXQoZW50aXR5KQogICAgLy8gY3R4LmJvZHkgPSBKU09OLnBhcnNlKHJlc1swXVtlbnRpdHlOYW1lQW1iaWVudF0pCg==</text>
+        <text encoding="base64">Y29uc3QgZW50aXR5S2luZEFtYmllbnQgPSAnUGF0cmlja05ldEFtYmllbnQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWU6IFt7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZDogYmFyY29kZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdrZXkgJXMgICAgYW5kIHZhbHVlICVzJywgYmFyY29kZSwgYmFyY29kZUltYWdlc1tiYXJjb2RlXSkK</text>
+        <text encoding="base64">Y29uc3QgZW50aXR5S2luZEFtYmllbnQgPSAnUGF0cmlja05ldEFtYmllbnQnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAK</text>
+        <text encoding="base64">Y29uc3QgZW50aXR5S2luZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewogICAgfSwK</text>
+        <text encoding="base64">fQogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCB2YWx1ZSA9IHsgaW1hZ2VzOiBiYXJjb2RlSW1hZ2VzW2JhcmNvZGVdIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVudGl0eUtpbmRBbWJpZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsdWU6IFt7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrZXk6IGRhdGFzdG9yZS5rZXkoW2VudGl0eUtpbmRBbWJpZW50LCBiYXJjb2RlXSksCiAgICAgICAgdmFsdWU6IFt7CiAgICAgICAgICBpZDogYmFyY29kZSwKICAgICAgICAgIHZhbHVlOiBKU09OLnN0cmluZ2lmeSh2YWx1ZSkKICAgICAgICB9XQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdrZXkgJXMgICAgYW5kIHZhbHVlICVzJywgYmFyY29kZSwgYmFyY29kZUltYWdlc1tiYXJjb2RlXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG4K</text>
+        <text encoding="base64">ICAgICAgewogICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
