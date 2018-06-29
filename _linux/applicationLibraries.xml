@@ -1,5 +1,15 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.6 (py3dl) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.5/lib/python3.6" />
