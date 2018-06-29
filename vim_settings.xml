@@ -627,12 +627,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530267844472">
-        <mark key="'" line="55" column="1" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="63" />
-        <mark key="." line="32" column="63" />
-        <mark key="^" line="32" column="63" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530269071346">
+        <mark key="'" line="54" column="1" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="31" column="63" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -2269,34 +2269,34 @@
         <text encoding="base64">Y29uc3QgZW50aXR5S2luZEFtYmllbnQgPSAnUGF0cmlja05ldEFtYmllbnQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZDogYmFyY29kZSwK</text>
+        <text encoding="base64">Y29uc3QgZW50aXR5S2luZCA9ICdQYXRyaWNrTmV0RGV2MScK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZW50aXR5S2luZEFtYmllbnQgPSAnUGF0cmlja05ldEFtYmllbnQnCg==</text>
+        <text encoding="base64">ICAgICAgICBpZDogYmFyY29kZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZW50aXR5S2luZAo=</text>
+        <text encoding="base64">Y29uc3QgZW50aXR5S2luZEFtYmllbnQgPSAnUGF0cmlja05ldEFtYmllbnQnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQogCg==</text>
+        <text encoding="base64">Y29uc3QgZW50aXR5S2luZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVudGl0eUtpbmRBbWJpZW50Cg==</text>
+        <text encoding="base64">fQogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWU6IFt7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVudGl0eUtpbmRBbWJpZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdrZXkgJXMgICAgYW5kIHZhbHVlICVzJywgYmFyY29kZSwgYmFyY29kZUltYWdlc1tiYXJjb2RlXSkK</text>
+        <text encoding="base64">ICAgICAgdmFsdWU6IFt7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdrZXkgJXMgICAgYW5kIHZhbHVlICVzJywgYmFyY29kZSwgYmFyY29kZUltYWdlc1tiYXJjb2RlXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
