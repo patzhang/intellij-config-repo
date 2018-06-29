@@ -397,12 +397,12 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/package.json" timestamp="1530276051728">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/package.json" timestamp="1530276726801">
         <mark key="'" line="10" column="30" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/dataset_builder/v1-products.json" timestamp="1495622516461">
         <mark key="[" line="147" column="28" />
@@ -2274,7 +2274,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>*&quot;</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
