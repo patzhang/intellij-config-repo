@@ -634,12 +634,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530541719928">
-        <mark key="'" line="113" column="15" />
-        <mark key="[" line="148" column="6" />
-        <mark key="]" line="148" column="6" />
-        <mark key="." line="148" column="6" />
-        <mark key="^" line="148" column="5" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530543353805">
+        <mark key="'" line="231" column="15" />
+        <mark key="[" line="152" column="26" />
+        <mark key="]" line="152" column="26" />
+        <mark key="." line="152" column="26" />
+        <mark key="^" line="152" column="44" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -1997,7 +1997,7 @@
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530538050941">
+      <file name="/JavaScript Console" timestamp="1530543210599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
@@ -2159,24 +2159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="21" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="22" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="85" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="135" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="215" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="243" column="3" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="236" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="255" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="209" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="48" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
-      <jump line="110" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
-      <jump line="123" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
-      <jump line="146" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
-      <jump line="147" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
       <jump line="163" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
       <jump line="164" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
       <jump line="172" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" />
@@ -2214,7 +2196,6 @@
       <jump line="106" column="29" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="207" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="77" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="231" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="197" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="256" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="220" column="48" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -2259,6 +2240,25 @@
       <jump line="53" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="0" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="113" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="184" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="246" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="260" column="28" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="277" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="292" column="17" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="313" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="316" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="318" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="320" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="323" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="327" column="3" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="329" column="12" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="330" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="259" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="248" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="247" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="244" column="25" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="232" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="231" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2284,52 +2284,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">ID8gc2VsZWN0ZWREYXRlIDogIiI=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2FuRm9sZGVyXD4=</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCByb2NrZXQgPSBjcmVhdGVSb2NrZXRDbGllbnQoKQogIGNvbnN0IGRldmljZUlkID0gdXVpZHY0KCkKICBhd2FpdCByb2NrZXQucmVnaXN0ZXJEZXZpY2UoZGV2aWNlSWQpCiAgY29uc3QgZGV2aWNlVG9rZW4gPSBhd2FpdCByb2NrZXQuZ2V0RGV2aWNlVG9rZW4oZGV2aWNlSWQpCiAgbG9nZ2VyLmRlYnVnKCdkZXZpY2VJZDogJXMnLCBkZXZpY2VJZCkKCiAgY29uc3QgcmVzdWx0cyA9IGF3YWl0IHByb2Nlc3NGaWxlcyhyb2NrZXQsIGZpbGVzLCBkZXZpY2VUb2tlbikKCiAgLy8gZnMud3JpdGVGaWxlU3luYygnZGF0YS9pbmRleC5qc29uJywgSlNPTi5zdHJpbmdpZnkocmVzdWx0cykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5kZXhCdWNrZXRPbkRheShidWNrZXRBbWJpZW50LCAnMjAxODA1MTAnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcihlcnIpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogUmV0dXJucyBhbGwgdGhlIGltYWdlIGZpbGVzIGluIHRoZSBidWNrZXQgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGxvZ2dlci5kZWJ1Zygnc3RhcnQgJXMgICBlbmQgJXMgICBjdXJyZW50ICVzJywgc3RhcnQsIGVuZCwgY3VycmVudCkK</text>
+        <text encoding="base64">ICAgICAgcHJlZml4OiBzZWxlY3RlZERhdGUsCiAgICAgIGF1dG9QYWdpbmF0ZTogZmFsc2UsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi4vc3JjL2xvZ2dlcicpCg==</text>
+        <text encoding="base64">aW5kZXhCdWNrZXRPbkRheShidWNrZXRBbWJpZW50LCAnMjAxODA1MTAnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnJykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiArK2RheXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvdGFsKysK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2FuRm9sZGVyXD4=</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2FuRm9sZGVyXD4=</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute encoding="base64">XDxjdHhcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2362,6 +2362,7 @@
         <entry>logger</entry>
         <entry encoding="base64">XDxjdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxzY2FuRm9sZGVyXD4=</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>208</entry>
