@@ -634,12 +634,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530537557543">
-        <mark key="'" line="60" column="18" />
-        <mark key="[" line="45" column="48" />
-        <mark key="]" line="45" column="48" />
-        <mark key="." line="45" column="48" />
-        <mark key="^" line="45" column="48" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530538722039">
+        <mark key="'" line="64" column="18" />
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="8" />
+        <mark key="." line="46" column="8" />
+        <mark key="^" line="46" column="8" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -2284,7 +2284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>logger.debug</text>
+        <text>Date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50XD4=</text>
@@ -2293,34 +2293,34 @@
         <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygnc3RhcnQgJXMgICBlbmQgJXMgICBjdXJyZW50ICVzJywgc3RhcnQsIGVuZCwgY3VycmVudCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGxvZ2dlci5kZWJ1Zygnc3RhcnQgJXMgICBlbmQgJXMgICBjdXJyZW50ICVzJywgc3RhcnQsIGVuZCwgY3VycmVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi4vc3JjL2xvZ2dlcicpCg==</text>
+        <text encoding="base64">ICAgIC8vIGxvZ2dlci5kZWJ1Zygnc3RhcnQgJXMgICBlbmQgJXMgICBjdXJyZW50ICVzJywgc3RhcnQsIGVuZCwgY3VycmVudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnJykK</text>
+        <text encoding="base64">Ly8gY29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi4vc3JjL2xvZ2dlcicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiArK2RheXMK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvdGFsKysK</text>
+        <text encoding="base64">ICAgIHJldHVybiArK2RheXMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHRvdGFsKysK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCB0b3RhbCA9IDAK</text>
+        <text encoding="base64">ICAgIHRvdGFsKysK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0b3RhbCA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIGNyZWF0ZSBhIGRhdGUgYmFzZWQgb24gYSBkYXRlIHN0cmluZyAneXl5eW1tZGQnCiAqIEB0eXBlIHt7ZnJvbURhdGVUb1N0cmluZzogKGZ1bmN0aW9uKCopOiBzdHJpbmcpfX0KICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
