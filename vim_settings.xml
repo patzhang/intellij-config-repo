@@ -634,12 +634,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530539744987">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530541719928">
         <mark key="'" line="113" column="15" />
-        <mark key="[" line="146" column="21" />
-        <mark key="]" line="147" column="26" />
-        <mark key="." line="147" column="26" />
-        <mark key="^" line="147" column="26" />
+        <mark key="[" line="148" column="6" />
+        <mark key="]" line="148" column="6" />
+        <mark key="." line="148" column="6" />
+        <mark key="^" line="148" column="5" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -2284,7 +2284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY2FuRm9sZGVyXD4=</text>
