@@ -144,12 +144,12 @@
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="80" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/main.test.js" timestamp="1530289039699">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/main.test.js" timestamp="1530536035119">
         <mark key="'" line="0" column="31" />
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="33" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
@@ -634,12 +634,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530288801365">
-        <mark key="'" line="34" column="9" />
-        <mark key="[" line="298" column="2" />
-        <mark key="]" line="298" column="2" />
-        <mark key="." line="298" column="2" />
-        <mark key="^" line="298" column="1" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530535972804">
+        <mark key="'" line="289" column="2" />
+        <mark key="[" line="44" column="52" />
+        <mark key="]" line="45" column="13" />
+        <mark key="." line="45" column="13" />
+        <mark key="^" line="45" column="13" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -1997,7 +1997,7 @@
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530289041530">
+      <file name="/JavaScript Console" timestamp="1530536040648">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
@@ -2159,7 +2159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="43" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="202" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="247" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="107" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
@@ -2259,6 +2258,7 @@
       <jump line="42" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="298" column="12" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="34" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="288" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2284,7 +2284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>total++</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
@@ -2293,34 +2293,34 @@
         <text encoding="base64">ICogY3JlYXRlIGEgZGF0ZSBiYXNlZCBvbiBhIGRhdGUgc3RyaW5nICd5eXl5bW1kZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0b3RhbCA9IDAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIGNyZWF0ZSBhIGRhdGUgYmFzZWQgb24gYSBkYXRlIHN0cmluZyAneXl5eW1tZGQnCiAqIEB0eXBlIHt7ZnJvbURhdGVUb1N0cmluZzogKGZ1bmN0aW9uKCopOiBzdHJpbmcpfX0KICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">LyoqCiAqIGNyZWF0ZSBhIGRhdGUgYmFzZWQgb24gYSBkYXRlIHN0cmluZyAneXl5eW1tZGQnCiAqIEB0eXBlIHt7ZnJvbURhdGVUb1N0cmluZzogKGZ1bmN0aW9uKCopOiBzdHJpbmcpfX0KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBleHBvcnRzLmZyb21EYXRlVG9TdHJpbmcgPSBmdW5jdGlvbiAoZGF0ZSkgewo=</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBleHBvcnRzLmZyb21EYXRlVG9TdHJpbmcgPSBmdW5jdGlvbiAoZGF0ZSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvdGFsKysK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRvdGFsKysK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gd2hpbGUgKGVuZERhdGUgPiBzdGFydERhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
