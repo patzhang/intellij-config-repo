@@ -144,6 +144,13 @@
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="80" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/main.test.js" timestamp="1530289039699">
+        <mark key="'" line="0" column="31" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="$USER_HOME$/DL_Workspace/tf-tutorial/tf_tests/hello_world.py" timestamp="1487403004398">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="22" />
@@ -627,12 +634,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530288131230">
-        <mark key="'" line="118" column="13" />
-        <mark key="[" line="42" column="11" />
-        <mark key="]" line="42" column="40" />
-        <mark key="." line="42" column="40" />
-        <mark key="^" line="42" column="40" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530288801365">
+        <mark key="'" line="34" column="9" />
+        <mark key="[" line="298" column="2" />
+        <mark key="]" line="298" column="2" />
+        <mark key="." line="298" column="2" />
+        <mark key="^" line="298" column="1" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -1604,12 +1611,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/util.test.js" timestamp="1530286857608">
-        <mark key="'" line="13" column="9" />
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="7" column="45" />
-        <mark key="^" line="7" column="45" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/util.test.js" timestamp="1530288368691">
+        <mark key="'" line="2" column="48" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/DL_Workspace/product-image-dataset/setup.py" timestamp="1494511945255">
         <mark key="[" line="29" column="46" />
@@ -1990,7 +1997,7 @@
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="46" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530287839152">
+      <file name="/JavaScript Console" timestamp="1530289041530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-wifi/auto-reconnect-wifi.sh" timestamp="1519746871827">
@@ -2152,12 +2159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="32" filename="$USER_HOME$/codeVE/product-image-dataset/dataset_builder/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeDL/deep-vision/requirements.txt" />
-      <jump line="15" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
-      <jump line="180" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="136" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="137" column="43" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="202" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="247" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -2252,6 +2253,12 @@
       <jump line="109" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="13" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="13" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/util.test.js" />
+      <jump line="2" column="48" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/util.test.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/main.test.js" />
+      <jump line="0" column="31" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/main.test.js" />
+      <jump line="42" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="298" column="12" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="34" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2277,7 +2284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>total++</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
