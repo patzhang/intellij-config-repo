@@ -633,11 +633,12 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530610532527">
-        <mark key="[" line="166" column="17" />
-        <mark key="]" line="166" column="30" />
-        <mark key="^" line="166" column="30" />
-        <mark key="." line="166" column="30" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530611750632">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/DL_Speech/say-what-you-see/index.html" timestamp="1510570412973">
         <mark key="[" line="52" column="11" />
@@ -1610,6 +1611,12 @@
         <mark key="." line="95" column="10" />
         <mark key="^" line="95" column="10" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" timestamp="1530612670671">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-first/install.sh" timestamp="1518435601637">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="100" />
@@ -2171,10 +2178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="77" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="197" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="256" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="220" column="48" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="24" column="33" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="249" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -2211,7 +2214,6 @@
       <jump line="51" column="57" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="7" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/main.test.js" />
       <jump line="11" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/main.test.js" />
-      <jump line="53" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="0" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="113" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="184" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -2271,6 +2273,11 @@
       <jump line="40" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="56" column="50" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="190" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2296,7 +2303,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bucketAmbient</text>
+        <text>Client</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnY2RzXD4=</text>
@@ -2304,35 +2311,35 @@
       <register name="0" type="2">
         <text encoding="base64">ZnVuY3Rpb24gdXBkYXRlU3VtbWFyeSAoa2luZCwgZW50aXR5LCBzdW1tYXJ5KSB7CiAgZGF0YXN0b3JlLnVwc2VydCgKICAgIHsKICAgICAga2V5OiBkYXRhc3RvcmUua2V5KFtraW5kLCBlbnRpdHldKSwKICAgICAgZGF0YTogW3sKICAgICAgICBuYW1lOiBlbnRpdHksCiAgICAgICAgdmFsdWU6IEpTT04uc3RyaW5naWZ5KHN1bW1hcnkpLAogICAgICAgIGV4Y2x1ZGVGcm9tSW5kZXhlczogdHJ1ZQogICAgICB9XQogICAgfSwKICAgIGZ1bmN0aW9uIGNhbGxiYWNrIChlcnIpIHsKICAgICAgaWYgKGVycikgewogICAgICAgIGxvZ2dlci5lcnJvcignRmFpbGVkIHRvIHVwZGF0ZSBlbnRpdHkgWyVzLCAlc10nLCBraW5kLCBlbnRpdHkpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgbG9nZ2VyLmluZm8oJ1VwZGF0ZWQgdGhlIGVudGl0eSBbJXMsICVzXScsIGtpbmQsIGVudGl0eSkKICAgICAgfQogICAgfSkKfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmluZGV4QnVja2V0T25EYXkoYnVja2V0QW1i</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZW50aXR5TmFtZUFtYmllbnQgPSAnaW5kZXgtYW1iaWVudCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYnVja2V0QW1iaWVudCA9ICdwcm9kdWN0LWltYWdlLWRhdGEtdmUxJwo=</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZ2V0U2t1Rm9yQmFyY29kZSAocm9ja2V0LCBiYXJjb2RlLCB0b2tlbikgewogIGlmIChiYXJjb2RlIGluIGJhcmNvZGVDYWNoZSkgewogICAgcmV0dXJuIGJhcmNvZGVDYWNoZVtiYXJjb2RlXQogIH0gZWxzZSB7CiAgICBjb25zdCBza3UgPSBhd2FpdCByZXRyeVByb21pc2UoKCkgPT4gcm9ja2V0LmdldFNrdUZvckJhcmNvZGUoYmFyY29kZSwgeyB0b2tlbiB9KSkKICAgIGJhcmNvZGVDYWNoZVtiYXJjb2RlXSA9IHNrdQogICAgcmV0dXJuIHNrdQogIH0KfQoKYXN5bmMgZnVuY3Rpb24gZ2V0RGV0YWlsc0ZvclNrdSAocm9ja2V0LCBza3UsIHRva2VuKSB7CiAgcmV0dXJuIHJldHJ5UHJvbWlzZSgoKSA9PiByb2NrZXQuZ2V0RGV0YWlsc0ZvclNrdShza3UsIHsgdG9rZW4gfSkpCn0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIHVwZGF0ZSB0aGUgc3VtbWFyeSBvZiBhIHBhcnRpY3VsYXIgZGF0ZQogKiBAcGFyYW0ga2luZAogKiBAcGFyYW0gZW50aXR5CiAqIEBwYXJhbSBzdW1tYXJ5CiAqLwpmdW5jdGlvbiB1cGRhdGVEYXlTdW1tYXJ5IChraW5kLCBlbnRpdHksIHN1bW1hcnkpIHsKICB1cGRhdGVTdW1tYXJ5KGtpbmQsIGVudGl0eSwgc3VtbWFyeSkKfQo=</text>
+        <text encoding="base64">Y29uc3QgYmFyY29kZUNhY2hlID0ge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYXRhc3RvcmUudXBzZXJ0KAogICAgewogICAgICBrZXk6IGRhdGFzdG9yZS5rZXkoW2tpbmQsIGVudGl0eV0pLAogICAgICBkYXRhOiBbewogICAgICAgIG5hbWU6IGVudGl0eSwKICAgICAgICB2YWx1ZTogSlNPTi5zdHJpbmdpZnkoc3VtbWFyeSksCiAgICAgICAgZXhjbHVkZUZyb21JbmRleGVzOiB0cnVlCiAgICAgIH1dCiAgICB9LAogICAgZnVuY3Rpb24gY2FsbGJhY2sgKGVycikgewogICAgICBpZiAoZXJyKSB7CiAgICAgICAgbG9nZ2VyLmVycm9yKCdGYWlsZWQgdG8gdXBkYXRlIGVudGl0eSBbJXMsICVzXScsIGtpbmQsIGVudGl0eSkKICAgICAgfSBlbHNlIHsKICAgICAgICBsb2dnZXIuaW5mbygnVXBkYXRlZCB0aGUgZW50aXR5IFslcywgJXNdJywga2luZCwgZW50aXR5KQogICAgICB9CiAgICB9KQo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gcmV0cnlQcm9taXNlIChwcm9taXNlRmFjdG9yeSkgewogIGNvbnN0IG9wdGlvbnMgPSB7CiAgICByZXRyaWVzOiA1LAogICAgbWluVGltZW91dDogNTAwLAogICAgbWF4VGltZW91dDogNjAwMDAsCiAgICByYW5kb21pemU6IDEuNQogIH0KCiAgcmV0dXJuIHByb21pc2VSZXRyeSgocmV0cnksIG51bWJlcikgPT4gewogICAgaWYgKG51bWJlciA+IDEpIHsKICAgICAgbG9nZ2VyLmRlYnVnKCdQcm9taXNlIGZhaWxlZCwgcmV0cnlpbmc6IGF0dGVtcHQgJyArIChudW1iZXIgLSAxKSkKICAgIH0KICAgIHJldHVybiBwcm9taXNlRmFjdG9yeSgpLmNhdGNoKHJldHJ5KQogIH0sIG9wdGlvbnMpCn0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5pdFJvY2tldENsaWVudCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnZGV2aWNlSWQ6ICVzJywgZGV2aWNlSWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRldmljZUlkID0gdXVpZHY0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGVzdCgnc2hvdWxkIGxvb3AgdGhyb3VnaCBhbGwgdGhlIGRheXMgaW4gcmFuZ2UnLCAoKSA9PiB7CiAgLy8gZ2l2ZW4KICBjb25zdCBzdGFydCA9ICcyMDE4MDkyOScKICBjb25zdCBlbmQgPSAnMjAxODEwMDInCiAgZnVuY3Rpb24gY291bnRUb3RhbERheXMgKHN0YXJ0LCBlbmQsIGN1cnJlbnQpIHsKICAgIGNvbnNvbGUubG9nKCdzdGFydCAlcyAgIGVuZCAlcyAgIGN1cnJlbnQgJXMnLCBzdGFydCwgZW5kLCBjdXJyZW50KQogIH0KICAvLyB3aGVuCiAgbGV0IHRvdGFsRGF5cyA9IG1haW4ucHJvY2Vzc0J5RGF5KHN0YXJ0LCBlbmQsIGNvdW50VG90YWxEYXlzKQogIC8vIHRoZW4KICBleHBlY3QodG90YWxEYXlzKS50b0VxdWFsKDQpCn0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
