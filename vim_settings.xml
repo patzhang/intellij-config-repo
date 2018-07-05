@@ -121,12 +121,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530797324316">
-        <mark key="c" line="104" column="20" />
-        <mark key="'" line="92" column="20" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530798420557">
+        <mark key="'" line="98" column="33" />
+        <mark key="[" line="118" column="48" />
+        <mark key="]" line="118" column="47" />
+        <mark key="." line="118" column="47" />
+        <mark key="^" line="118" column="47" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -383,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="13" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="27" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="166" column="21" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -426,7 +425,6 @@
       <jump line="47" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="62" column="50" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="96" column="26" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="98" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="99" column="31" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="7" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="77" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
@@ -483,6 +481,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="90" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="87" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="106" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="98" column="33" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -508,7 +508,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>barcodes</text>
+        <text encoding="base64">Ly8g</text>
       </register>
       <register name="/" type="4">
         <text>daysumm</text>
@@ -517,34 +517,34 @@
         <text encoding="base64">ICAgIC5zZWxlY3QoJ19fa2V5X18nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBiYXJjb2RlID0gZGF5U3VtLmNvdW50QnlCYXJjb2RlLmtleQo=</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ3VuZGVyc2NvcmUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBsb2dnZXIuZGVidWcoZGF5U3VtbWFyeSkK</text>
+        <text encoding="base64">ICAgIC8vIGVsZW1lbnQudG90YWxJbWFnZXMKICAgIC8vIGVsZW1lbnQuY291bnRCeUJhcmNvZGUKICAgIC8vIGJ1Y2tldFN1bW1hcnkuCiAgICBsb2dnZXIuZGVidWcoZGF5U3VtKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhkYXlzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBkYXlTdW1tYXJpZXMuZm9yRWFjaChkYXlTdW0gPT4gewogIC8vICAgbG9nZ2VyLmRlYnVnKCdkYXlTdW0nICsgZGF5U3VtKQogIC8vIH0pCiAgLy8gXy5mb3JFYWNoKGRheVN1bW1hcmllcywgKGVsZW1lbnQsIGluZGV4KSA9PiB7CiAgLy8gICBsb2dnZXIuZGVidWcoaW5kZXgsIGVsZW1lbnQpCiAgLy8gfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyZWF0aW9uVGltZTogdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">ICAgIGxldCBiYXJjb2RlID0gZGF5U3VtLmNvdW50QnlCYXJjb2RlLmtleQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBuZXcgRGF0ZSgpCgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQgZGF0ZSA9IGZpbGVzWzBdCg==</text>
+        <text encoding="base64">ICAvLyBsb2dnZXIuZGVidWcoZGF5U3VtbWFyeSkK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
