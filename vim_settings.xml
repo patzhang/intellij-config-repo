@@ -121,13 +121,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530792362317">
-        <mark key="c" line="98" column="20" />
-        <mark key="'" line="90" column="20" />
-        <mark key="[" line="93" column="4" />
-        <mark key="]" line="93" column="3" />
-        <mark key="." line="93" column="3" />
-        <mark key="^" line="93" column="3" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530797324316">
+        <mark key="c" line="104" column="20" />
+        <mark key="'" line="92" column="20" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -509,7 +508,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>buc</text>
+        <text>barcodes</text>
       </register>
       <register name="/" type="4">
         <text>daysumm</text>
@@ -518,34 +517,34 @@
         <text encoding="base64">ICAgIC5zZWxlY3QoJ19fa2V5X18nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBsb2dnZXIuZGVidWcoZGF5U3VtbWFyeSkK</text>
+        <text encoding="base64">ICAgIGxldCBiYXJjb2RlID0gZGF5U3VtLmNvdW50QnlCYXJjb2RlLmtleQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhkYXlzKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBkYXlTdW1tYXJpZXMuZm9yRWFjaChkYXlTdW0gPT4gewogIC8vICAgbG9nZ2VyLmRlYnVnKCdkYXlTdW0nICsgZGF5U3VtKQogIC8vIH0pCiAgLy8gXy5mb3JFYWNoKGRheVN1bW1hcmllcywgKGVsZW1lbnQsIGluZGV4KSA9PiB7CiAgLy8gICBsb2dnZXIuZGVidWcoaW5kZXgsIGVsZW1lbnQpCiAgLy8gfSkK</text>
+        <text encoding="base64">ICAvLyBsb2dnZXIuZGVidWcoZGF5U3VtbWFyeSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0aW9uVGltZTogdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhkYXlzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBuZXcgRGF0ZSgpCgo=</text>
+        <text encoding="base64">ICAvLyBkYXlTdW1tYXJpZXMuZm9yRWFjaChkYXlTdW0gPT4gewogIC8vICAgbG9nZ2VyLmRlYnVnKCdkYXlTdW0nICsgZGF5U3VtKQogIC8vIH0pCiAgLy8gXy5mb3JFYWNoKGRheVN1bW1hcmllcywgKGVsZW1lbnQsIGluZGV4KSA9PiB7CiAgLy8gICBsb2dnZXIuZGVidWcoaW5kZXgsIGVsZW1lbnQpCiAgLy8gfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgZGF0ZSA9IGZpbGVzWzBdCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0aW9uVGltZTogdW5kZWZpbmVkLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQK</text>
+        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBuZXcgRGF0ZSgpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNyZWF0aW9uVGltZSwK</text>
+        <text encoding="base64">ICBsZXQgZGF0ZSA9IGZpbGVzWzBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
