@@ -72,12 +72,12 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1530802217158">
-        <mark key="'" line="23" column="73" />
-        <mark key="[" line="75" column="24" />
-        <mark key="]" line="75" column="20" />
-        <mark key="." line="75" column="20" />
-        <mark key="^" line="75" column="20" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1530804825885">
+        <mark key="'" line="72" column="24" />
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+        <mark key="^" line="72" column="24" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
         <mark key="'" line="0" column="0" />
@@ -121,12 +121,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530801914595">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530804836030">
         <mark key="'" line="98" column="33" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
         <mark key="^" line="106" column="46" />
-        <mark key="." line="106" column="0" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -256,7 +256,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530788198270">
+      <file name="/JavaScript Console" timestamp="1530804848423">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -383,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="21" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="62" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="72" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="24" column="24" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/util.test.js" />
@@ -483,6 +482,7 @@
       <jump line="87" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="12" column="39" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="23" column="73" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="72" column="24" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -508,43 +508,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>toLocaleTimeString()</text>
+        <text>,updateBucketSummary</text>
       </register>
       <register name="/" type="4">
         <text>daysumm</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC5zZWxlY3QoJ19fa2V5X18nKQo=</text>
+      <register name="0" type="4">
+        <text>backupBucketSummary,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyB0b2RvOiByZW5hbWUgdGhlIHByZXZpb3VzIHN1bW1hcnkgZW50aXR5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBrZXlzCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQga2V5cyA9IFtdCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcmVhZEJ1Y2tldFN1bW1hcnkgKGtpbmQpIHsKICBjb25zdCBxdWVyeSA9IGRhdGFzdG9yZQogICAgLmNyZWF0ZVF1ZXJ5KGtpbmQpCiAgICAuc2VsZWN0KFsnc3VtbWFyeSddKQoKICByZXR1cm4gZGF0YXN0b3JlLnJ1blF1ZXJ5KHF1ZXJ5KS50aGVuKHJlc3VsdHMgPT4gewogICAgcmV0dXJuIHJlc3VsdHNbMF0KICB9KQp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogZWFjaCBiYXJjb2RlIGVudGl0eSBoYXMgdGhlIG51bWJlciBvZiBpbWFnZXMgYW5kIG90aGVyIHByb3BlcnRpZXMKICogQHBhcmFtIGtpbmQKICogQHBhcmFtIGJhcmNvZGUKICogQHBhcmFtIGJhcmNvZGVJbWFnZXMKICovCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVsZXRlQmFyY29kZXMgPSBmdW5jdGlvbiAoa2luZEJhcmNvZGVzKSB7CiAgCn0KCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBrZXlzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyB0b2RvOiByZW5hbWUgdGhlIHByZXZpb3VzIHN1bW1hcnkgZW50aXR5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
