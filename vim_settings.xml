@@ -34,12 +34,12 @@
         <mark key="." line="460" column="21" />
         <mark key="^" line="460" column="21" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" timestamp="1530712670714">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" timestamp="1530787333169">
         <mark key="'" line="83" column="23" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="15" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="86" column="6" />
+        <mark key="[" line="81" column="45" />
+        <mark key="]" line="81" column="46" />
+        <mark key="." line="81" column="46" />
+        <mark key="^" line="81" column="46" />
       </file>
       <file name="/a.dummy" timestamp="1522057431033">
         <mark key="[" line="0" column="0" />
@@ -121,13 +121,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530786669176">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530787434171">
         <mark key="c" line="95" column="20" />
         <mark key="'" line="90" column="20" />
-        <mark key="[" line="95" column="20" />
-        <mark key="]" line="95" column="22" />
-        <mark key="." line="95" column="22" />
-        <mark key="^" line="95" column="22" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -257,7 +256,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530786671009">
+      <file name="/JavaScript Console" timestamp="1530787435733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -509,7 +508,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>total</text>
       </register>
       <register name="/" type="4">
         <text>daysumm</text>
@@ -518,34 +517,34 @@
         <text encoding="base64">ICAgIC5zZWxlY3QoJ19fa2V5X18nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhkYXlzKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBkYXlTdW1tYXJpZXMuZm9yRWFjaChkYXlTdW0gPT4gewogIC8vICAgbG9nZ2VyLmRlYnVnKCdkYXlTdW0nICsgZGF5U3VtKQogIC8vIH0pCiAgLy8gXy5mb3JFYWNoKGRheVN1bW1hcmllcywgKGVsZW1lbnQsIGluZGV4KSA9PiB7CiAgLy8gICBsb2dnZXIuZGVidWcoaW5kZXgsIGVsZW1lbnQpCiAgLy8gfSkK</text>
+        <text encoding="base64">ICAvLyBsb2dnZXIuZGVidWcoZGF5U3VtbWFyeSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyZWF0aW9uVGltZTogdW5kZWZpbmVkLAo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhkYXlzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBuZXcgRGF0ZSgpCgo=</text>
+        <text encoding="base64">ICAvLyBkYXlTdW1tYXJpZXMuZm9yRWFjaChkYXlTdW0gPT4gewogIC8vICAgbG9nZ2VyLmRlYnVnKCdkYXlTdW0nICsgZGF5U3VtKQogIC8vIH0pCiAgLy8gXy5mb3JFYWNoKGRheVN1bW1hcmllcywgKGVsZW1lbnQsIGluZGV4KSA9PiB7CiAgLy8gICBsb2dnZXIuZGVidWcoaW5kZXgsIGVsZW1lbnQpCiAgLy8gfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgZGF0ZSA9IGZpbGVzWzBdCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0aW9uVGltZTogdW5kZWZpbmVkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQK</text>
+        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBuZXcgRGF0ZSgpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNyZWF0aW9uVGltZSwK</text>
+        <text encoding="base64">ICBsZXQgZGF0ZSA9IGZpbGVzWzBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBkYXlTdW1tYXJpZXMuZm9yRWFjaCgpCg==</text>
+        <text encoding="base64">ICBsZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNyZWF0aW9uVGltZSwK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
@@ -558,7 +557,7 @@
       <last-replace>path.</last-replace>
       <last-substitute encoding="base64">XDxjdHhcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
