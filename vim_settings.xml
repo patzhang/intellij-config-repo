@@ -24,7 +24,7 @@
         <mark key="." line="196" column="0" />
         <mark key="^" line="195" column="85" />
       </file>
-      <file name="/fragment.js" timestamp="1530868624903">
+      <file name="/fragment.js" timestamp="1530890511573">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1522059305966">
@@ -72,12 +72,12 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1530889139727">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1530891389777">
         <mark key="'" line="69" column="15" />
-        <mark key="[" line="91" column="36" />
-        <mark key="]" line="91" column="36" />
-        <mark key="." line="91" column="36" />
-        <mark key="^" line="50" column="33" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="79" column="51" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
         <mark key="'" line="0" column="0" />
@@ -265,7 +265,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530889304803">
+      <file name="/JavaScript Console" timestamp="1530891409398">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -529,43 +529,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVCdWNrZXRTdW1tYXJ5XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>logger.error('failed to update entity [%s, %s]', kind, barcode)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC5maWx0ZXIoJ19fa2V5X18nLCBkYXRhc3RvcmUua2V5KFtraW5kLCAnc3VtbWFyeSddKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhjbHVkZUZyb21JbmRleGVzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgIC8vIC5maWx0ZXIoJ25hbWUnLCAnc3VtbWFyeScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiYWNrdXBCdWNrZXRTdW1tYXJ5LAo=</text>
+        <text encoding="base64">ICAgICAgZXhjbHVkZUZyb21JbmRleGVzOiB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYmFja3VwQnVja2V0U3VtbWFyeSAoa2luZCwgZW50aXR5LCBzdW1tYXJ5KSB7CiAgYmFja3VwU3VtbWFyeShraW5kLCBlbnRpdHkpCiAgdXBkYXRlU3VtbWFyeShraW5kLCBlbnRpdHksIHN1bW1hcnkpCn0KCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICBiYWNrdXBCdWNrZXRTdW1tYXJ5LAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gYmFja3VwQnVja2V0U3VtbWFyeSAoa2luZCwgZW50aXR5LCBzdW1tYXJ5KSB7CiAgYmFja3VwU3VtbWFyeShraW5kLCBlbnRpdHkpCiAgdXBkYXRlU3VtbWFyeShraW5kLCBlbnRpdHksIHN1bW1hcnkpCn0KCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGV4Y2x1ZGVGcm9tSW5kZXhlczogWwogICAgLy8gICAnaW1hZ2VzJywKICAgIC8vICAgJ3Byb2R1Y3QnCiAgICAvLyBdLAo=</text>
+        <text encoding="base64">ICBiYWNrdXBCdWNrZXRTdW1tYXJ5LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgIC8vIGV4Y2x1ZGVGcm9tSW5kZXhlczogWwogICAgLy8gICAnaW1hZ2VzJywKICAgIC8vICAgJ3Byb2R1Y3QnCiAgICAvLyBdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBkYXRhc3RvcmUuaW5zZXJ0KGVudGl0eUJhcmNvZGUsIGZ1bmN0aW9uIGNhbGxiYWNrIChlcnIpIHsKICAvLyAgIGlmIChlcnIpIHsKICAvLyAgICAgbG9nZ2VyLmVycm9yKCdmYWlsZWQgdG8gdXBkYXRlIGVudGl0eSBbJXMsICVzXScsIGtpbmQsIGJhcmNvZGUpCiAgLy8gICB9IGVsc2UgewogIC8vICAgICBsb2dnZXIuZGVidWcoJ3VwZGF0ZWQgZW50aXR5IFslcywgJXNdJywga2luZCwgYmFyY29kZSkKICAvLyAgIH0KICAvLyB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICAvLyBkYXRhc3RvcmUuaW5zZXJ0KGVudGl0eUJhcmNvZGUsIGZ1bmN0aW9uIGNhbGxiYWNrIChlcnIpIHsKICAvLyAgIGlmIChlcnIpIHsKICAvLyAgICAgbG9nZ2VyLmVycm9yKCdmYWlsZWQgdG8gdXBkYXRlIGVudGl0eSBbJXMsICVzXScsIGtpbmQsIGJhcmNvZGUpCiAgLy8gICB9IGVsc2UgewogIC8vICAgICBsb2dnZXIuZGVidWcoJ3VwZGF0ZWQgZW50aXR5IFslcywgJXNdJywga2luZCwgYmFyY29kZSkKICAvLyAgIH0KICAvLyB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
