@@ -24,7 +24,7 @@
         <mark key="." line="196" column="0" />
         <mark key="^" line="195" column="85" />
       </file>
-      <file name="/fragment.js" timestamp="1530866420192">
+      <file name="/fragment.js" timestamp="1530868003564">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1522059305966">
@@ -72,12 +72,12 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1530805356200">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1530867848329">
         <mark key="'" line="72" column="24" />
-        <mark key="[" line="66" column="48" />
-        <mark key="]" line="66" column="48" />
-        <mark key="." line="66" column="48" />
-        <mark key="^" line="66" column="48" />
+        <mark key="[" line="23" column="65" />
+        <mark key="]" line="23" column="66" />
+        <mark key="." line="23" column="66" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
         <mark key="'" line="0" column="0" />
@@ -121,12 +121,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530866315061">
-        <mark key="'" line="96" column="4" />
-        <mark key="[" line="108" column="4" />
-        <mark key="]" line="108" column="6" />
-        <mark key="." line="108" column="6" />
-        <mark key="^" line="108" column="6" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1530867138641">
+        <mark key="'" line="89" column="4" />
+        <mark key="[" line="145" column="69" />
+        <mark key="]" line="145" column="69" />
+        <mark key="." line="145" column="69" />
+        <mark key="^" line="145" column="69" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -256,7 +256,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530866358038">
+      <file name="/JavaScript Console" timestamp="1530867940189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -513,7 +513,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>each</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWNrZXRTdW1tYXJ5XD4=</text>
@@ -522,34 +522,34 @@
         <text encoding="base64">ICAgIGF3YWl0IGdjZHMuaW5zZXJ0QmFyY29kZXMoYnVja2V0LmtpbmRCYXJjb2RlcywgYmFyY29kZSwgZGV0YWlscykKICB9KQoKICBidWNrZXRTdW1tYXJ5LnRvdGFsQmFyY29kZXMgPSBfLnNpemUoYmFyY29kZURpY3QpCiAgYnVja2V0U3VtbWFyeS5jcmVhdGlvblRpbWUgPSBuZXcgRGF0ZSgpCiAgbG9nZ2VyLmRlYnVnKCduZXcgYnVja2V0IHN1bW1hcnk6ICcgKyBidWNrZXRTdW1tYXJ5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBidWNrZXRTdW1tYXJ5LnRvdGFsQmFyY29kZXMgPSBfLnNpemUoYmFyY29kZURpY3QpCiAgYnVja2V0U3VtbWFyeS5jcmVhdGlvblRpbWUgPSBuZXcgRGF0ZSgpCiAgbG9nZ2VyLmRlYnVnKCduZXcgYnVja2V0IHN1bW1hcnk6ICcgKyBidWNrZXRTdW1tYXJ5KQogIH0pCgo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QyMDAwICs9IGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QzMDAwCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMTAwMCArPSBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMjAwMAogICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDA1MDAgKz0gYnVja2V0U3VtbWFyeS5pbWFnZXNHVDEwMDAKICAgIGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QwMjAwICs9IGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QwNTAwCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMDEwMCArPSBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMDIwMAoK</text>
+        <text encoding="base64">ICAgICAgdmFsdWU6IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDAxMDArKwo=</text>
+        <text encoding="base64">ICAgICAgYmFyY29kZURpY3RbYmFyY29kZV0uYmFyY29kZSA9IGJhcmNvZGUKICAgICAgYmFyY29kZURpY3RbYmFyY29kZV0uaW1hZ2VzID0gaW1hZ2VzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDAyMDArKwogICAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMDEwMCsrCg==</text>
+        <text encoding="base64">ICBjb25zdCBiYXJjb2RlRGV0YWlscyA9IHsKICAgIGJhcmNvZGU6IHVuZGVmaW5lZCwKICAgIGltYWdlczogMCwKICAgIHNrdTogdW5kZWZpbmVkLAogICAgcHJvZHVjdDogdW5kZWZpbmVkCiAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDA1MDArKwogICAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMDIwMCsrCiAgICAgIGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QwMTAwKysK</text>
+        <text encoding="base64">ICAgICAgYmFyY29kZURpY3RbYmFyY29kZV0uYmFyY29kZSA9IGJhcmNvZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDEwMDArKwogICAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMDUwMCsrCiAgICAgIGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QwMjAwKysKICAgICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDAxMDArKwo=</text>
+        <text encoding="base64">ICAgICAgICBiYXJjb2RlLAogICAgICAgIGltYWdlcywKICAgICAgICBza3U6IHVuZGVmaW5lZCwKICAgICAgICBwcm9kdWN0OiB1bmRlZmluZWQKICAgICAgfQogICAgICBsZXQgZGV0YWlscyA9IGJhcmNvZGVEZXRhaWxzCiAgICAgIGRldGFpbHMuYmFyY29kZSA9IGJhcmNvZGUKICAgICAgZGV0YWlscy5pbWFnZXMgPSBpbWFnZXMKICAgICAgYmFyY29kZURpY3RbYmFyY29kZV0gPSBkZXRhaWxzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDIwMDArKwogICAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMTAwMCsrCiAgICAgIGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QwNTAwKysKICAgICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDAyMDArKwogICAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMDEwMCsrCg==</text>
+        <text encoding="base64">ICBidWNrZXRTdW1tYXJ5LnRvdGFsQmFyY29kZXMgPSBfLnNpemUoYmFyY29kZURpY3QpCiAgYnVja2V0U3VtbWFyeS5jcmVhdGlvblRpbWUgPSBuZXcgRGF0ZSgpCiAgbG9nZ2VyLmRlYnVnKCduZXcgYnVja2V0IHN1bW1hcnk6ICcgKyBidWNrZXRTdW1tYXJ5KQogIH0pCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGJhcmNvZGUgaW4gYmFyY29kZURpY3QpIHsKICAgICAgICBiYXJjb2RlRGljdFtiYXJjb2RlXS5pbWFnZXMgKz0gaW1hZ2VzCiAgICAgIH0gZWxzZSB7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QyMDAwICs9IGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QzMDAwCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMTAwMCArPSBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMjAwMAogICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDA1MDAgKz0gYnVja2V0U3VtbWFyeS5pbWFnZXNHVDEwMDAKICAgIGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QwMjAwICs9IGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QwNTAwCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMDEwMCArPSBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMDIwMAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZGV0YWlscyA9IGJhcmNvZGVEZXRhaWxzCiAgICAgICAgZGV0YWlscy5pbWFnZXMgPSBpbWFnZXMKICAgICAgICBiYXJjb2RlRGljdFtiYXJjb2RlXSA9IGRldGFpbHMK</text>
+        <text encoding="base64">ICAgICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDAxMDArKwo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
