@@ -265,7 +265,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530891409398">
+      <file name="/JavaScript Console" timestamp="1531231197775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -578,32 +578,10 @@
       <last-replace>path.</last-replace>
       <last-substitute>daysumm</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnY3NcPg==</entry>
-        <entry>gcs</entry>
-        <entry encoding="base64">XDx1dWlkXD4=</entry>
-        <entry encoding="base64">XDx1dWlkdjRcPg==</entry>
-        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
-        <entry>catch</entry>
-        <entry>log</entry>
-        <entry encoding="base64">XDxjdHhcPg==</entry>
-        <entry>testing</entry>
-        <entry>jest</entry>
-        <entry>logger</entry>
-        <entry encoding="base64">XDxjdXJyZW50XD4=</entry>
-        <entry encoding="base64">XDxzY2FuRm9sZGVyXD4=</entry>
-        <entry>index</entry>
-        <entry>scan</entry>
-        <entry encoding="base64">XDxnY2RzXD4=</entry>
-        <entry>token</entry>
-        <entry>then</entry>
-        <entry>found</entry>
-        <entry>process</entry>
-        <entry>file</entry>
-        <entry>debug</entry>
         <entry>file name</entry>
         <entry>counting</entry>
         <entry>indexOnly</entry>
