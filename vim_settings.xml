@@ -37,7 +37,7 @@
         <mark key="." line="460" column="21" />
         <mark key="^" line="460" column="21" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" timestamp="1530787929805">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" timestamp="1531475237664">
         <mark key="'" line="83" column="23" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="5" />
@@ -75,8 +75,8 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531238595534">
-        <mark key="'" line="58" column="5" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531474561452">
+        <mark key="'" line="59" column="0" />
         <mark key="[" line="86" column="40" />
         <mark key="]" line="86" column="46" />
         <mark key="." line="86" column="46" />
@@ -127,12 +127,12 @@
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.org.js" timestamp="1530623998834">
         <mark key="'" line="311" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531304521708">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="164" column="24" />
-        <mark key="]" line="164" column="24" />
-        <mark key="." line="164" column="24" />
-        <mark key="^" line="174" column="29" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531475306621">
+        <mark key="'" line="160" column="22" />
+        <mark key="[" line="184" column="26" />
+        <mark key="]" line="184" column="26" />
+        <mark key="." line="184" column="26" />
+        <mark key="^" line="161" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -350,11 +350,12 @@
         <mark key="." line="95" column="10" />
         <mark key="^" line="95" column="10" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" timestamp="1530874469388">
-        <mark key="'" line="30" column="15" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" timestamp="1531474820926">
+        <mark key="'" line="46" column="35" />
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" timestamp="1517480436417">
         <mark key="'" line="5" column="3" />
@@ -407,14 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
-      <jump line="47" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="62" column="50" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="96" column="26" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="99" column="31" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="18" column="26" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/util.test.js" />
-      <jump line="7" column="36" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.org.js" />
       <jump line="119" column="33" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.org.js" />
       <jump line="123" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.org.js" />
       <jump line="3" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
@@ -507,6 +500,14 @@
       <jump line="58" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="121" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="46" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="178" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="164" column="13" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="52" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
+      <jump line="50" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
+      <jump line="45" column="35" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
+      <jump line="160" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -532,52 +533,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIGV2ZXJ5IGhvdXI=</text>
+        <text>, today</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVyciA9PiBsb2dnZXIuZXJyb3IoZXJyKSkK</text>
+        <text encoding="base64">ICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcihlcnIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluZGV4T25seVRvZGF5KGFtYmllbnQsIHRvZGF5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3QgUHJvbWlzZSA9IHJlcXVpcmUoJ2JsdWViaXJkJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gc3RhcnQgdG8gaW5kZXggdGhlIGJ1Y2tldCBub3cgYmVmb3JlIHRoZSBjcm9uIGpvYgovLyBpbmRleEJ1Y2tldChidWNrZXRBbWJpZW50LCBlbnRpdHlOYW1lQW1iaWVudCkKLy8gICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcihlcnIpKQo=</text>
+        <text encoding="base64">Ly8gcnVuIGZ1bGwgaW5kZXggb24gZXZlcnkgU3VuZGF5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvbnRpY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcihlcnIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW5kZXhPbmx5VG9kYXkoYW1iaWVudCwgdG9kYXkpCg==</text>
+        <text encoding="base64">Ly8gcnVuIGluY3JlbWVudGFsIGluZGV4IGV2ZXJ5IGhvdXIgZXhjZXB0IFN1bmRheQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gcm9ja2V0LmluaXRSb2NrZXRDbGllbnQoKQovLyAgIC50aGVuKGFzeW5jICgpID0+IHsKLy8gICAgIGNvbnN0IGRheVN1bW1hcnkgPSBhd2FpdCBwcm9jZXNzRmlsZXMoZmlsZXMpCi8vICAgICBmcy53cml0ZUZpbGVTeW5jKCdkYXRhL3N1bW1hcnktJyArIGRhdGVTdHJpbmcgKyAnLmpzb24nLCBKU09OLnN0cmluZ2lmeShkYXlTdW1tYXJ5KSkKLy8gICAgIGdjZHMudXBkYXRlRGF5U3VtbWFyeShhbWJpZW50LmtpbmREYXRlcywgZGF0ZVN0cmluZywgZGF5U3VtbWFyeSkKLy8gICB9KQovLyAgIC5jYXRjaChlcnIgPT4gbG9nZ2VyLmVycm9yKCdmYWlsZWQgdG8gaW5pdGlhbGlzZSByb2NrZXQgY2xpZW50IHdpdGggZXJyb3I6ICcgKyBlcnIpKQoKLy8gYXN5bmMgZnVuY3Rpb24gaW5kZXhCdWNrZXQgKGJ1Y2tldE5hbWUsIGVudGl0eU5hbWUpIHsKLy8gICBsb2dnZXIuaW5mbygnSW5kZXhpbmcgYnVja2V0ICVzJywgYnVja2V0TmFtZSkKLy8gICBjb25zdCBmaWxlcyA9IGF3YWl0IGdjcy5zY2FuRm9sZGVyKHtidWNrZXROYW1lfSkKLy8gICBsb2dnZXIuZGVidWcoJ2ZvdW5kICVkIGZpbGVzIGluIHRvdGFsIGZyb20gJXMnLCBmaWxlcy5sZW5ndGgsIGJ1Y2tldE5hbWUpCi8vCi8vICAgY29uc3Qgcm9ja2V0ID0gY3JlYXRlUm9ja2V0Q2xpZW50KCkKLy8gICBjb25zdCBkZXZpY2VJZCA9IHV1aWR2NCgpCi8vICAgYXdhaXQgcm9ja2V0LnJlZ2lzdGVyRGV2aWNlKGRldmljZUlkKQovLyAgIGNvbnN0IGRldmljZVRva2VuID0gYXdhaXQgcm9ja2V0LmdldERldmljZVRva2VuKGRldmljZUlkKQovLyAgIGxvZ2dlci5kZWJ1ZygnZGV2aWNlSWQ6ICVzJywgZGV2aWNlSWQpCi8vCi8vICAgY29uc3QgcmVzdWx0cyA9IGF3YWl0IHByb2Nlc3NGaWxlcyhyb2NrZXQsIGZpbGVzLCBkZXZpY2VUb2tlbikKLy8KLy8gICAvLyBmcy53cml0ZUZpbGVTeW5jKCdkYXRhL2luZGV4Lmpzb24nLCBKU09OLnN0cmluZ2lmeShyZXN1bHRzKSkKLy8KLy8gICBjb25zdCBidWNrZXRTdW1tYXJ5ID0gewovLyAgICAgY3JlYXRpb25UaW1lOiByZXN1bHRzLmNyZWF0aW9uVGltZSwKLy8gICAgIHRvdGFsSW1hZ2VzOiByZXN1bHRzLmNvdW50LAovLyAgICAgY291bnRCeURheTogcmVzdWx0cy5jb3VudEJ5RGF5Ci8vICAgfQovLwovLyAgIGZzLndyaXRlRmlsZVN5bmMoJ2RhdGEvc3VtbWFyeS5qc29uJywgSlNPTi5zdHJpbmdpZnkoYnVja2V0U3VtbWFyeSkpCi8vICAgZ2Nkcy51cGRhdGVCdWNrZXRTdW1tYXJ5KGFtYmllbnQua2luZFN1bW1hcnksIGFtYmllbnQuZW50aXR5U3VtbWFyeSwgYnVja2V0U3VtbWFyeSkKLy8KLy8gICBjb25zdCBiYXJjb2RlSW1hZ2VzID0gcmVzdWx0cy5jb3VudEJ5QmFyY29kZQovLyAgIGZvciAoY29uc3QgYmFyY29kZSBpbiBiYXJjb2RlSW1hZ2VzKSB7Ci8vICAgICBnY2RzLmluc2VydEJhcmNvZGVzKGJhcmNvZGUsIGJhcmNvZGVJbWFnZXMpCi8vICAgfQovLyB9Cgo=</text>
+        <text encoding="base64">ICAgIGluZGV4T25seVRvZGF5KGFtYmllbnQsIHRvZGF5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5zZWxlY3QoWydfX2tleV9fJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIoJ19fa2V5X18nLCBkYXRhc3RvcmUua2V5KFtraW5kLCAnc3VtbWFyeSddKSkK</text>
+        <text encoding="base64">Ly8gc3RhcnQgdG8gaW5kZXggdGhlIGJ1Y2tldCBub3cgYmVmb3JlIHRoZSBjcm9uIGpvYgovLyBpbmRleEJ1Y2tldChidWNrZXRBbWJpZW50LCBlbnRpdHlOYW1lQW1iaWVudCkKLy8gICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcihlcnIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search>_</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern>_</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>daysumm</last-substitute>
       <last-dir>1</last-dir>
@@ -608,6 +609,8 @@
         <entry>summary</entry>
         <entry>(summary</entry>
         <entry>select</entry>
+        <entry encoding="base64">XDwwXD4=</entry>
+        <entry>_</entry>
       </history-search>
       <history-cmd>
         <entry>208</entry>
