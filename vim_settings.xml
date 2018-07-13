@@ -75,12 +75,12 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531488111942">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531489017717">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="22" />
-        <mark key="]" line="58" column="31" />
-        <mark key="." line="58" column="31" />
-        <mark key="^" line="58" column="31" />
+        <mark key="[" line="58" column="2" />
+        <mark key="]" line="58" column="3" />
+        <mark key="." line="58" column="3" />
+        <mark key="^" line="58" column="3" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
         <mark key="'" line="0" column="0" />
@@ -273,7 +273,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531488120542">
+      <file name="/JavaScript Console" timestamp="1531489030463">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -543,37 +543,37 @@
         <text>indexallday</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYW1iaWVudCA9IHsKICBuYW1lOiAncHJvZHVjdC1pbWFnZS1kYXRhLW9zcicsCiAgc3RhcnQ6ICcyMDE4MDEyOScsCiAga2luZFN1bW1hcnk6ICdQYXRyaWNrTmV0QW1iaWVudFN1bW1hcnknLAogIGVudGl0eVN1bW1hcnk6ICdzdW1tYXJ5JywKICBraW5kRGF0ZXM6ICdQYXRyaWNrTmV0QW1iaWVudERhdGVzJywKICBraW5kQmFyY29kZXM6ICdQYXRyaWNrTmV0QW1iaWVudEJhcmNvZGVzJwp9Cgpjb25zdCBjaGlsbCA9IHsKICBuYW1lOiAncHJvZHVjdC1pbWFnZS1kYXRhJywKICBzdGFydDogJzIwMTcwNTA5JywKICBraW5kU3VtbWFyeTogJ1BhdHJpY2tOZXRDaGlsbFN1bW1hcnknLAogIGVudGl0eVN1bW1hcnk6ICdzdW1tYXJ5JywKICBraW5kRGF0ZXM6ICdQYXRyaWNrTmV0Q2hpbGxEYXRlcycsCiAga2luZEJhcmNvZGVzOiAnUGF0cmlja05ldENoaWxsQmFyY29kZXMnCn0K</text>
+        <text encoding="base64">ICAgIC8vIC5zZWxlY3QoWydkYXlTdW1tYXJ5J10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIC5zZWxlY3QoWydkYXlTdW1tYXJ5J10pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtcyA9IHJlc3VsdHNbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtcyA9IHJlc3VsdHNbMF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBraW5kSGlzdG9yeSA9IGtpbmQgKyAnSGlzdG9yeScKICB1cGRhdGVTdW1tYXJ5KGtpbmRIaXN0b3J5LCBlbnRpdHlCYWssICdidWNrZXRTdW1tYXJ5Jywgc3VtbWFyeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHVuZGVmaW5lZAo=</text>
+        <text encoding="base64">ICBjb25zdCBraW5kSGlzdG9yeSA9IGtpbmQgKyAnSGlzdG9yeScKICB1cGRhdGVTdW1tYXJ5KGtpbmRIaXN0b3J5LCBlbnRpdHlCYWssICdidWNrZXRTdW1tYXJ5Jywgc3VtbWFyeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVuZGVmaW5lZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXRlbXMgPSByZXN1bHRzWzBdCiAgICAgIHJldHVybiBKU09OLnBhcnNlKGl0ZW1zWzBdLmJ1Y2tldFN1bW1hcnkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaXRlbXMgPSByZXN1bHRzWzBdCiAgICAgIHJldHVybiBKU09OLnBhcnNlKGl0ZW1zWzBdLmJ1Y2tldFN1bW1hcnkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
