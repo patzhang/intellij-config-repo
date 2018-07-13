@@ -75,12 +75,11 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531489017717">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531499672995">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="2" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-        <mark key="^" line="58" column="3" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
         <mark key="'" line="0" column="0" />
@@ -273,7 +272,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531489030463">
+      <file name="/JavaScript Console" timestamp="1531499684266">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -537,7 +536,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>129</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>indexallday</text>
@@ -546,34 +545,34 @@
         <text encoding="base64">ICAgIC8vIC5zZWxlY3QoWydkYXlTdW1tYXJ5J10pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIC5zZWxlY3QoWydkYXlTdW1tYXJ5J10pCg==</text>
+        <text encoding="base64">ICAgIC5zZWxlY3QoWydidWNrZXRTdW1tYXJ5J10pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBxdWVyeSA9IGRhdGFzdG9yZQogICAgLmNyZWF0ZVF1ZXJ5KGtpbmQpCgogIHJldHVybiBkYXRhc3RvcmUucnVuUXVlcnkocXVlcnkpLnRoZW4ocmVzdWx0cyA9PiB7CiAgICBjb25zdCBpdGVtcyA9IHJlc3VsdHNbMF0KICAgIHJldHVybiBpdGVtcwogIH0pCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtcyA9IHJlc3VsdHNbMF0K</text>
+        <text encoding="base64">ICAgIC5zZWxlY3QoWydkYXlTdW1tYXJ5J10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC5zZWxlY3QoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIC5zZWxlY3QoWyduYW1lJywgJ2RheVN1bW1hcnknXSkKICAgIC8vIC5zZWxlY3QoWydkYXlTdW1tYXJ5J10pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBraW5kSGlzdG9yeSA9IGtpbmQgKyAnSGlzdG9yeScKICB1cGRhdGVTdW1tYXJ5KGtpbmRIaXN0b3J5LCBlbnRpdHlCYWssICdidWNrZXRTdW1tYXJ5Jywgc3VtbWFyeSkK</text>
+        <text encoding="base64">ICAgIC8vIC5zZWxlY3QoWydkYXlTdW1tYXJ5J10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHVuZGVmaW5lZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBpdGVtcyA9IHJlc3VsdHNbMF0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXRlbXMgPSByZXN1bHRzWzBdCiAgICAgIHJldHVybiBKU09OLnBhcnNlKGl0ZW1zWzBdLmJ1Y2tldFN1bW1hcnkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
