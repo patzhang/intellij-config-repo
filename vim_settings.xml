@@ -75,11 +75,12 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531734502561">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531734822567">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="111" column="2" />
-        <mark key="]" line="111" column="2" />
-        <mark key="." line="111" column="2" />
+        <mark key="[" line="64" column="71" />
+        <mark key="]" line="64" column="76" />
+        <mark key="." line="64" column="76" />
+        <mark key="^" line="64" column="76" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
         <mark key="'" line="0" column="0" />
@@ -128,12 +129,12 @@
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531734688739">
-        <mark key="'" line="205" column="4" />
-        <mark key="[" line="128" column="53" />
-        <mark key="]" line="128" column="56" />
-        <mark key="." line="128" column="56" />
-        <mark key="^" line="128" column="56" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531736427121">
+        <mark key="'" line="208" column="4" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="124" column="9" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -272,7 +273,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531734057005">
+      <file name="/JavaScript Console" timestamp="1531736455228">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -537,46 +538,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>readAllDay</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBleHBlY3QobW9udGhMaXN0WzBdKS50b0JlKCcyMDE4MDEnKQo=</text>
+        <text encoding="base64">ICBfLmVhY2gobW9udGhzLCBhc3luYyAobW9udGgpID0+IHsKICAgIGNvbnN0IG1vbnRoS2luZCA9IGJ1Y2tldC5raW5kTW9udGggKyBtb250aAogICAgY29uc3QgZGF5U3VtcyA9IGF3YWl0IGdjZHMucmVhZERheVN1bW1hcmllcyhtb250aEtpbmQpCiAgICBkYXlTdW1tYXJpZXMuY29uY2F0KGRheVN1bXMpCiAgfSkKICBsb2dnZXIuaW5mbygnJXMgaGFzICVkIGRheVN1bW1hcmllcyBhY3Jvc3MgJWQgbW9udGhzJywgYnVja2V0Lm5hbWUsIGRheVN1bW1hcmllcy5sZW5ndGgsIG1vbnRocy5sZW5ndGgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBtb250aHMgPSB1dGlsLmdldE1vbnRoTGlzdChidWNrZXQuc3RhcnQsIHRvZGF5KQogIC8vIF8uZWFjaChtb250aHMsIGFzeW5jIChtb250aCkgPT4gewogIC8vICAgY29uc3QgbW9udGhLaW5kID0gYnVja2V0LmtpbmRNb250aCArIG1vbnRoCiAgLy8gICBjb25zdCBkYXlTdW1zID0gYXdhaXQgZ2Nkcy5yZWFkRGF5U3VtbWFyaWVzKG1vbnRoS2luZCkKICAvLyAgIGRheVN1bW1hcmllcy5jb25jYXQoZGF5U3VtcykKICAvLyB9KQogIC8vIGxvZ2dlci5pbmZvKCclcyBoYXMgJWQgZGF5U3VtbWFyaWVzIGFjcm9zcyAlZCBtb250aHMnLCBidWNrZXQubmFtZSwgZGF5U3VtbWFyaWVzLmxlbmd0aCwgbW9udGhzLmxlbmd0aCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnJXMgaGFzIGRhdGEgYWNyb3NzICVkIG1vbnRocycsIGJ1Y2tldC5uYW1lLCBtb250aHMubGVuZ3RoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXlTdW1tYXJpZXMgPSBhd2FpdCBnY2RzLnJlYWRBbGxEYXlTdW1tYXJpZXMoYnVja2V0LmtpbmREYXRlcykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vbnRoS2luZCA9IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB9CiAgXy5lYWNoKG1vbnRocywgYXN5bmMgKG1vbnRoKSA9PiB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBmb3IgKGNvbnN0IHRvZGF5RWxlbWVudCBvZiB0b2RheSkgewoKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnJXMgaGFzIGRhdGEgYWNyb3NzICVkIG1vbnRocycsIGJ1Y2tldC5uYW1lLCBtb250aHMubGVuZ3RoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zdCBkYXlTdW1tYXJpZXMgPSBhd2FpdCBnY2RzLnJlYWRBbGxEYXlTdW1tYXJpZXMoYnVja2V0LmtpbmREYXRlcykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG1vbnRoS2luZCA9IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>125</text>
       </register>
     </registers>
     <search>
@@ -655,6 +656,7 @@
         <entry>39</entry>
         <entry>vs</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>125</entry>
       </history-cmd>
       <history-expr />
       <history-input />
