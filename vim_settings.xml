@@ -24,7 +24,7 @@
         <mark key="." line="196" column="0" />
         <mark key="^" line="195" column="85" />
       </file>
-      <file name="/fragment.js" timestamp="1531752645109">
+      <file name="/fragment.js" timestamp="1531756230841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
@@ -75,12 +75,12 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531749903213">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531755493592">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="138" column="15" />
-        <mark key="]" line="138" column="15" />
-        <mark key="." line="138" column="15" />
-        <mark key="^" line="27" column="35" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
         <mark key="'" line="0" column="0" />
@@ -272,7 +272,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531752795634">
+      <file name="/JavaScript Console" timestamp="1531755505158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -537,7 +537,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>const key =</text>
       </register>
       <register name="/" type="4">
         <text>readDay</text>
