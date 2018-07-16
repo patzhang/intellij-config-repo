@@ -129,11 +129,11 @@
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531750833469">
-        <mark key="[" line="151" column="49" />
-        <mark key="]" line="151" column="49" />
-        <mark key="." line="151" column="49" />
-        <mark key="^" line="151" column="49" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531752482778">
+        <mark key="[" line="149" column="29" />
+        <mark key="]" line="149" column="36" />
+        <mark key="." line="149" column="36" />
+        <mark key="^" line="149" column="36" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -272,7 +272,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531739232977">
+      <file name="/JavaScript Console" timestamp="1531752415164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -537,7 +537,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>contains</text>
       </register>
       <register name="/" type="4">
         <text>readDay</text>
@@ -576,7 +576,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>125</text>
+        <text>150</text>
       </register>
     </registers>
     <search>
@@ -658,6 +658,7 @@
         <entry>vs</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>125</entry>
+        <entry>150</entry>
       </history-cmd>
       <history-expr />
       <history-input />
