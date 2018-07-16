@@ -75,8 +75,8 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531499672995">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531732336083">
+        <mark key="'" line="89" column="8" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
@@ -128,12 +128,12 @@
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531487856344">
-        <mark key="'" line="196" column="4" />
-        <mark key="[" line="48" column="1" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531732561206">
+        <mark key="'" line="199" column="4" />
+        <mark key="[" line="117" column="77" />
+        <mark key="]" line="119" column="1" />
+        <mark key="." line="119" column="1" />
+        <mark key="^" line="119" column="1" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -411,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="15" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" />
       <jump line="30" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" />
       <jump line="18" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" />
@@ -511,6 +510,7 @@
       <jump line="115" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="190" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="196" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="89" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -536,10 +536,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bucket.kindDates</text>
       </register>
       <register name="/" type="4">
-        <text>indexallday</text>
+        <text>readAllDay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIC5zZWxlY3QoWydkYXlTdW1tYXJ5J10pCg==</text>
@@ -579,9 +579,9 @@
       </register>
     </registers>
     <search>
-      <last-search>indexallday</last-search>
+      <last-search>readAllDay</last-search>
       <last-offset />
-      <last-pattern>indexallday</last-pattern>
+      <last-pattern>readAllDay</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>daysumm</last-substitute>
       <last-dir>1</last-dir>
@@ -631,6 +631,7 @@
         <entry>daySummary]</entry>
         <entry>daySummary']</entry>
         <entry>indexallday</entry>
+        <entry>readAllDay</entry>
       </history-search>
       <history-cmd>
         <entry>208</entry>
