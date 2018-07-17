@@ -149,12 +149,12 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" timestamp="1531835559344">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="149" column="7" />
-        <mark key="]" line="149" column="9" />
-        <mark key="^" line="149" column="9" />
-        <mark key="." line="149" column="9" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" timestamp="1531844502849">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="127" column="83" />
+        <mark key="]" line="127" column="98" />
+        <mark key="^" line="127" column="98" />
+        <mark key="." line="127" column="98" />
       </file>
       <file name="/" timestamp="1521805643474">
         <mark key="[" line="0" column="0" />
@@ -427,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="66" column="17" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="73" column="32" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="97" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
@@ -527,6 +526,7 @@
       <jump line="120" column="93" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="59" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="151" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -552,7 +552,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, chillBucket</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>found</text>
