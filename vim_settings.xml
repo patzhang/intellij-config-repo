@@ -24,7 +24,7 @@
         <mark key="." line="196" column="0" />
         <mark key="^" line="195" column="85" />
       </file>
-      <file name="/fragment.js" timestamp="1531757183373">
+      <file name="/fragment.js" timestamp="1531823263097">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
@@ -129,12 +129,12 @@
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531822716918">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1531823612650">
+        <mark key="'" line="270" column="2" />
+        <mark key="[" line="49" column="1" />
+        <mark key="]" line="50" column="1" />
+        <mark key="." line="50" column="1" />
+        <mark key="^" line="50" column="1" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -273,7 +273,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531822733127">
+      <file name="/JavaScript Console" timestamp="1531823189815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -319,6 +319,11 @@
         <mark key="]" line="47" column="15" />
         <mark key="." line="47" column="15" />
         <mark key="^" line="47" column="15" />
+      </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/config.json" timestamp="1531823892119">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521805920126">
         <mark key="'" line="42" column="59" />
@@ -413,7 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
       <jump line="44" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="47" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="113" column="101" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -513,6 +517,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" />
       <jump line="37" column="17" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" />
+      <jump line="270" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -538,7 +543,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>images</text>
+        <text>totalBarcodeImages</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
@@ -547,34 +552,34 @@
         <text encoding="base64">ICBsZXQga2V5cyA9IFtdCiAgbGV0IGtleXNPbmx5UXVlcnkgPSBkYXRhc3RvcmUKICAgIC5jcmVhdGVRdWVyeShraW5kKQogICAgLnNlbGVjdCgnX19rZXlfXycpCiAgYXdhaXQgZGF0YXN0b3JlLnJ1blF1ZXJ5KGtleXNPbmx5UXVlcnkpLnRoZW4ocmVzdWx0cyA9PiB7CiAgICBsZXQgZW50aXRpZXMgPSByZXN1bHRzWzBdCiAgICBrZXlzID0gZW50aXRpZXMubWFwKGVudGl0eSA9PiB7CiAgICAgIHJldHVybiBlbnRpdHlbZGF0YXN0b3JlLktFWV0KICAgIH0pCiAgICBsb2dnZXIuaW5mbygnYmFyY29kZXMgdG8gYmUgZGVsZXRlZDogJyArIGtleXMubGVuZ3RoKQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRvdGFsSW1hZ2VzOiAwLAo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnY3VycmVudCBkYXRlOiAlZCcsIGZyb21EYXRlVG9TdHJpbmcoY3VycmVudCkpCg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghXy5rZXlzKGJhcmNvZGVEaWN0KS5pbmNsdWRlcyhiYXJjb2RlKSkgewogICAgICByZXR1cm4gYmFyY29kZQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHRvdGFsSW1hZ2VzOiAwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MDAwMTUxOTA1MDAxMHMK</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZygnY3VycmVudCBkYXRlOiAlZCcsIGZyb21EYXRlVG9TdHJpbmcoY3VycmVudCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhd2FpdCBnY2RzLmRlbGV0ZUJhcmNvZGVzKGJ1Y2tldC5raW5kQmFyY29kZXMpCg==</text>
+        <text encoding="base64">ICAgIGlmICghXy5rZXlzKGJhcmNvZGVEaWN0KS5pbmNsdWRlcyhiYXJjb2RlKSkgewogICAgICByZXR1cm4gYmFyY29kZQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MDAwMTUxOTA1MDAxMHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQga2V5cyA9IGF3YWl0IHJlYWRBbGxCYXJjb2RlcyhraW5kKQo=</text>
+        <text encoding="base64">ICBhd2FpdCBnY2RzLmRlbGV0ZUJhcmNvZGVzKGJ1Y2tldC5raW5kQmFyY29kZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyogZGVsZXRlIGFsbCBiYXJjb2RlIGVudGl0aWVzIHVuZGVyIHRoZSBraW5kICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICBsZXQga2V5cyA9IGF3YWl0IHJlYWRBbGxCYXJjb2RlcyhraW5kKQo=</text>
       </register>
       <register name=":" type="4">
         <text>150</text>
