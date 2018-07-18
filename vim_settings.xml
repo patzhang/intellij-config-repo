@@ -30,7 +30,7 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" timestamp="1531919616709">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" timestamp="1531920838637">
         <mark key="'" line="19" column="24" />
         <mark key="[" line="28" column="18" />
         <mark key="]" line="28" column="22" />
@@ -235,10 +235,10 @@
         <mark key="^" line="68" column="66" />
         <mark key="." line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1531917669643">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1531920784328">
         <mark key="'" line="28" column="38" />
-        <mark key="[" line="40" column="39" />
-        <mark key="]" line="40" column="41" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="61" />
         <mark key="." line="40" column="41" />
         <mark key="^" line="40" column="41" />
       </file>
@@ -296,7 +296,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531919369839">
+      <file name="/JavaScript Console" timestamp="1531920950840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -432,6 +432,12 @@
         <mark key="." line="73" column="24" />
         <mark key="^" line="80" column="1" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/test/datastore.test.js" timestamp="1531920278760">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="^" line="13" column="2" />
+        <mark key="." line="13" column="2" />
+      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package.json" timestamp="1519052178764">
         <mark key="'" line="10" column="42" />
         <mark key="[" line="4" column="0" />
@@ -566,13 +572,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>31</text>
+        <text>moment('20180601')</text>
       </register>
       <register name="/" type="4">
         <text>getda</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBleHBlY3QoZGF5TGlzdFsxXSkudG9CZSgnMjAxNjAxMzEnKQo=</text>
+        <text encoding="base64">Y29uc3QgZW5kID0gbW9tZW50KCkuZm9ybWF0KCdZWVlZTU1ERCcpCmNvbnN0IHN0YXJ0ID0gbW9tZW50KCkuc3VidHJhY3QoNTAsICdkYXlzJykuZm9ybWF0KCdZWVlZTU1ERCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
