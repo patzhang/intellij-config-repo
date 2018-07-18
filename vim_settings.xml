@@ -81,11 +81,11 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531833370930">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="67" column="64" />
-        <mark key="]" line="67" column="63" />
-        <mark key="." line="67" column="63" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1531905021130">
+        <mark key="'" line="98" column="9" />
+        <mark key="[" line="67" column="46" />
+        <mark key="]" line="67" column="46" />
+        <mark key="." line="67" column="46" />
         <mark key="^" line="67" column="63" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
@@ -369,11 +369,11 @@
         <mark key="." line="95" column="10" />
         <mark key="^" line="95" column="10" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" timestamp="1531818319884">
-        <mark key="'" line="30" column="15" />
-        <mark key="[" line="58" column="11" />
-        <mark key="]" line="58" column="19" />
-        <mark key="." line="58" column="19" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" timestamp="1531905060845">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="50" />
+        <mark key="]" line="32" column="51" />
+        <mark key="." line="32" column="51" />
         <mark key="^" line="58" column="19" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" timestamp="1517480436417">
@@ -427,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="17" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="73" column="32" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="97" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="76" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
@@ -440,7 +439,6 @@
       <jump line="59" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="52" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
       <jump line="50" column="16" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
       <jump line="45" column="35" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
       <jump line="37" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="164" column="33" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -527,6 +525,8 @@
       <jump line="59" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="151" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="131" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="98" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -552,10 +552,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IHVuZGVyICVz</text>
       </register>
       <register name="/" type="4">
-        <text>found</text>
+        <text>already</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBidWNrZXRVcmwgPSAnaHR0cHM6Ly9jb25zb2xlLmNsb3VkLmdvb2dsZS5jb20vc3RvcmFnZS9icm93c2VyLycgKwogICAgICAgIGJ1Y2tldFN1bW1hcnkubmFtZSArICc/cHJvamVjdD1wcm9kdWN0LWRldGVjdGlvbi0xNjAzMTQmb3JnYW5pemF0aW9uSWQ9OTA0MTQ1MjkzMDA4Jwo=</text>
@@ -595,9 +595,9 @@
       </register>
     </registers>
     <search>
-      <last-search>found</last-search>
+      <last-search>already</last-search>
       <last-offset />
-      <last-pattern>found</last-pattern>
+      <last-pattern>already</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>daysumm</last-substitute>
       <last-dir>1</last-dir>
@@ -663,6 +663,7 @@
         <entry>found %d day summary</entry>
         <entry encoding="base64">Zm91bmQg</entry>
         <entry>found</entry>
+        <entry>already</entry>
       </history-search>
       <history-cmd>
         <entry>208</entry>
