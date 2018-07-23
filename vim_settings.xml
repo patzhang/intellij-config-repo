@@ -95,12 +95,11 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532085331452">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532359569304">
         <mark key="'" line="14" column="27" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="67" column="46" />
-        <mark key="^" line="67" column="63" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" timestamp="1532098956374">
         <mark key="[" line="23" column="28" />
@@ -587,25 +586,25 @@
         <text encoding="base64">ICAgIGN0eC5ib2R5ID0gW10gLy8gc3VtbWFyeUNhY2hlLnNrdVN1bW1hcmllc0NoaWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gcmVhZFNrdVN1Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gcmVhZFNrdVN1Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">bW1hcmllcyAoa2luZCkgewogIGxldCBza3VTdW1tYXJpZXMgPSBbXQogIHNrdVN1bW1hcmllcyA9IGF3YWl0IHJlYWRTa3VTdW0oa2luZCkKICByZXR1cm4gc2t1U3VtbWFyaWVzCn0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJqZXN0IjogIl4yMy40LjEiLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJsZXZlbGRvd24iOiAiXjEuNy4yIiwKICAgICJsZXZlbHVwIjogIl4xLjMuOCIsCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJsZXZlbGRvd24iOiAiXjEuNy4yIiwKICAgICJsZXZlbHVwIjogIl4xLjMuOCIsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -614,7 +613,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gZ2Nkcy5yZWFkU2t1U3VtbWFyaWVzKGtpbmQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
