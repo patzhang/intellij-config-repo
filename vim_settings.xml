@@ -239,12 +239,12 @@
         <mark key="^" line="68" column="66" />
         <mark key="." line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1532358684245">
-        <mark key="'" line="49" column="84" />
-        <mark key="[" line="78" column="32" />
-        <mark key="]" line="78" column="37" />
-        <mark key="." line="78" column="37" />
-        <mark key="^" line="78" column="37" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1532426672380">
+        <mark key="'" line="45" column="84" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="83" column="38" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.sh" timestamp="1522066552636">
         <mark key="'" line="4" column="24" />
@@ -578,7 +578,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>logger</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>updateDaySu</text>
@@ -587,34 +587,34 @@
         <text encoding="base64">Y29uc3QgbG9nZ2VyID0gcmVxdWlyZSgnLi9sb2dnZXInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Y29uc3QgY3JvbiA9IHJlcXVpcmUoJ2Nyb24nKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIC8vIGN0eC5ib2R5ID0gW10gLy8gc3VtbWFyeUNhY2hlLnNrdVN1bW1hcmllc0NoaWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoKbGV0IHN1bW1hcnlDYWNoZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQga2V5cyA9IFtdCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4ga2V5cwo=</text>
+        <text encoding="base64">bGV0IG15VGVzdCA9IFtdCm15VGVzdCA9IGdjZHMucmVhZFNrdVN1bW1hcmllcyhjaGlsbC5raW5kQmFyY29kZXMpLnRoZW4obXlUZXN0ID0+IGxvZ2dlci5kZWJ1ZygnbXlUZXN0IHNpemU6ICVkJywgbXlUZXN0Lmxlbmd0aCkpCi8vIGxvZ2dlci5kZWJ1ZygnbXlUZXN0IHNpemU6ICVkJywgbXlUZXN0Lmxlbmd0aCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQga2V5c09ubHlRdWVyeSA9IGRhdGFzdG9yZS5jcmVhdGVRdWVyeShraW5kKS5zZWxlY3QoJ19fa2V5X18nKQo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4ocmVzdWx0cyA9PiB7CiAgICAgIH0pCg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZW50aXRpZXMgPSByZXN1bHRzWzBdCiAgICAgICAga2V5cyA9IGVudGl0aWVzLm1hcChlbnRpdHkgPT4gewogICAgICAgICAgcmV0dXJuIGVudGl0eVtkYXRhc3RvcmUuS0VZXS5uYW1lCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQga2V5cyA9IFtdCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
