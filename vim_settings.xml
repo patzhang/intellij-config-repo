@@ -163,8 +163,8 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" timestamp="1532451761486">
-        <mark key="'" line="154" column="11" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" timestamp="1532454529068">
+        <mark key="'" line="143" column="2" />
         <mark key="[" line="148" column="26" />
         <mark key="]" line="149" column="28" />
         <mark key="." line="149" column="28" />
@@ -447,7 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/util.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
       <jump line="43" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
       <jump line="54" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
@@ -547,6 +546,7 @@
       <jump line="123" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="167" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="10" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="143" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
