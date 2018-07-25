@@ -176,11 +176,12 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" timestamp="1532463525377">
-        <mark key="'" line="94" column="42" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" timestamp="1532536237700">
+        <mark key="'" line="131" column="23" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="119" column="61" />
       </file>
       <file name="/" timestamp="1521805643474">
         <mark key="[" line="0" column="0" />
@@ -388,12 +389,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532533329901">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532534679477">
         <mark key="'" line="35" column="25" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="68" column="23" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="68" column="29" />
+        <mark key="^" line="68" column="29" />
+        <mark key="." line="68" column="29" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/test-stereo.py" timestamp="1517850644983">
         <mark key="'" line="72" column="8" />
@@ -476,7 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="19" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="56" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="34" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
@@ -576,6 +576,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
       <jump line="116" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" />
       <jump line="78" column="25" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" />
+      <jump line="122" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -601,46 +602,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, daySummaries</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>roll</text>
       </register>
-      <register name="0" type="4">
-        <text>'api/skusummary/ambient'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAuYWRkKGRldGFjaGVkKCdhJykKICAgICAgICAgIC5hdHRyKCdocmVmJywgYnVja2V0VXJsKQogICAgICAgICAgLnRleHQodGl0bGUpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbnVtYmVyQ2FyZCAodGl0bGUsIG51bWJlcikgewogIHJldHVybiBjYXJkKCkKICAgIC5hZGQoY2FyZC5oZWFkZXIuc2VjdGlvbigpLnRleHQodGl0bGUpKQogICAgLmFkZChjYXJkLnNlY3Rpb24oKQogICAgICAuY2xhc3NlZCgncG4tbnVtYmVyLWNhcmQtbnVtYmVyJywgdHJ1ZSkKICAgICAgLnRleHQobnVtYmVyKSkKfQoK</text>
+        <text encoding="base64">ICAgICAgICAvLyAuYWRkKGNvbGxhcHNpYmxlQ29udGFpbmVyKSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIC5hZGQoZGl2KCdjaGlsbCcpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAudGV4dCh0aXRsZSkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gb3BlbkluTmV3VGFiKHVybCkgewogIGNvbnN0IHdpbiA9IHdpbmRvdy5vcGVuKHVybCwgJ19ibGFuaycpCiAgd2luLmZvY3VzKCkKfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY291bnRCeURheUNhcmQgKGRheVN1bW1hcmllcykgewogIGlmIChkYXlTdW1tYXJpZXMgPT09IHVuZGVmaW5lZCB8fCBkYXlTdW1tYXJpZXMubGVuZ3RoID09PSAwKSB7CiAgICAvLyBoaWRlIHRoZSBkYXkgc3VtbWFyeSBiYXIgY2hhcnQgd2hlbiB0aGVyZSBpcyBubyBzdW1tYXJpZXMKICAgIHJldHVybgogIH0KCiAgZnVuY3Rpb24gY3JlYXRlTGFiZWwgKGRhdGVTdHJpbmcpIHsKICAgIGxldCBsYWJlbCA9IGRhdGVTdHJpbmcuc3Vic3RyaW5nKDYsIDgpLmNvbmNhdCgnLycpCiAgICBsYWJlbCA9IGxhYmVsLmNvbmNhdChkYXRlU3RyaW5nLnN1YnN0cmluZyg0LCA2KSkKICAgIHJldHVybiBsYWJlbAogIH0KCiAgcmV0dXJuIGNhcmQoKQogICAgLmFkZChjYXJkLmhlYWRlci5zZWN0aW9uKCkudGV4dCgnSW1hZ2UgQ291bnRzIGJ5IERheScpKQogICAgLmFkZChjYXJkLnNlY3Rpb24oKQogICAgICAuYWRkKGdyYXBoKHsKICAgICAgICBheGVzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHg6IHsgdGl0bGU6ICdEYXknLCBzY2FsZVR5cGU6ICdkaXNjcmV0ZScsIGdyaWRMaW5lczogZmFsc2UgfSwKICAgICAgICAgICAgeTogeyB0aXRsZTogJ0NvdW50JywgZ3JpZExpbmVzOiBmYWxzZSB9LAogICAgICAgICAgICBzZXJpZXM6IFsKICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0eXBlOiAnYmFyJywKICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgdGl0bGU6ICdJbWFnZSBjb3VudCcsCiAgICAgICAgICAgICAgICAgIGZpbGxDb2xvcjogJ3JnYigwLCAxNjMsIDIyNCknLAogICAgICAgICAgICAgICAgICBkYXRhOiBkYXlTdW1tYXJpZXMubWFwKGRheVN1bSA9PiAoe3g6IGNyZWF0ZUxhYmVsKGRheVN1bS5kYXRlKSwgeTogZGF5U3VtLmltYWdlc30pKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSkpKQp9Cg==</text>
+        <text encoding="base64">ICAuY2F0Y2goZXJyID0+IGNvbnNvbGUubG9nKGVycikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmFkZChzZWN0aW9uKCkuY2xhc3NlZCgncG4tc3RhdHMtaGVhZGVyLXRpbWVzdGFtcCcsIHRydWUpLnRleHQoY3JlYXRpb25UaW1lKSkpCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gbnVtYmVyQ2FyZCAodGl0bGUsIG51bWJlcikgewogIHJldHVybiBjYXJkKCkKICAgIC5hZGQoY2FyZC5oZWFkZXIuc2VjdGlvbigpLnRleHQodGl0bGUpKQogICAgLmFkZChjYXJkLnNlY3Rpb24oKQogICAgICAuY2xhc3NlZCgncG4tbnVtYmVyLWNhcmQtbnVtYmVyJywgdHJ1ZSkKICAgICAgLnRleHQobnVtYmVyKSkKfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuYWRkKGRldGFjaGVkKCdhJykKICAgICAgICAgIC5hdHRyKCdocmVmJywgYnVja2V0VXJsKQo=</text>
+        <text encoding="base64">ICAgIC8vIC5hZGQoZGl2KCdjaGlsbCcpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBuZXcgRGF0ZShidWNrZXRTdW1tYXJ5LmNyZWF0ZWQpLnRvTG9jYWxlU3RyaW5nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBidWNrZXRVcmwgPSAnaHR0cHM6Ly9jb25zb2xlLmNsb3VkLmdvb2dsZS5jb20vc3RvcmFnZS9icm93c2VyLycKICAgIC5jb25jYXQoYnVja2V0U3VtbWFyeS5idWNrZXROYW1lKQogICAgLmNvbmNhdCgnP3Byb2plY3Q9cHJvZHVjdC1kZXRlY3Rpb24tMTYwMzE0Jm9yZ2FuaXphdGlvbklkPTkwNDE0NTI5MzAwOCcpCgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gY291bnRCeURheUNhcmQgKGRheVN1bW1hcmllcykgewogIGlmIChkYXlTdW1tYXJpZXMgPT09IHVuZGVmaW5lZCB8fCBkYXlTdW1tYXJpZXMubGVuZ3RoID09PSAwKSB7CiAgICAvLyBoaWRlIHRoZSBkYXkgc3VtbWFyeSBiYXIgY2hhcnQgd2hlbiB0aGVyZSBpcyBubyBzdW1tYXJpZXMKICAgIHJldHVybgogIH0KCiAgZnVuY3Rpb24gY3JlYXRlTGFiZWwgKGRhdGVTdHJpbmcpIHsKICAgIGxldCBsYWJlbCA9IGRhdGVTdHJpbmcuc3Vic3RyaW5nKDYsIDgpLmNvbmNhdCgnLycpCiAgICBsYWJlbCA9IGxhYmVsLmNvbmNhdChkYXRlU3RyaW5nLnN1YnN0cmluZyg0LCA2KSkKICAgIHJldHVybiBsYWJlbAogIH0KCiAgcmV0dXJuIGNhcmQoKQogICAgLmFkZChjYXJkLmhlYWRlci5zZWN0aW9uKCkudGV4dCgnSW1hZ2UgQ291bnRzIGJ5IERheScpKQogICAgLmFkZChjYXJkLnNlY3Rpb24oKQogICAgICAuYWRkKGdyYXBoKHsKICAgICAgICBheGVzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHg6IHsgdGl0bGU6ICdEYXknLCBzY2FsZVR5cGU6ICdkaXNjcmV0ZScsIGdyaWRMaW5lczogZmFsc2UgfSwKICAgICAgICAgICAgeTogeyB0aXRsZTogJ0NvdW50JywgZ3JpZExpbmVzOiBmYWxzZSB9LAogICAgICAgICAgICBzZXJpZXM6IFsKICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0eXBlOiAnYmFyJywKICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgdGl0bGU6ICdJbWFnZSBjb3VudCcsCiAgICAgICAgICAgICAgICAgIGZpbGxDb2xvcjogJ3JnYigwLCAxNjMsIDIyNCknLAogICAgICAgICAgICAgICAgICBkYXRhOiBkYXlTdW1tYXJpZXMubWFwKGRheVN1bSA9PiAoe3g6IGNyZWF0ZUxhYmVsKGRheVN1bS5kYXRlKSwgeTogZGF5U3VtLmltYWdlc30pKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSkpKQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTnVtIG9mIFNrdXM6ICcgKyBidWNrZXRTdW1tYXJ5LnRvdGFsU2t1cykK</text>
+        <text encoding="base64">ICAgICAgLmFkZChzZWN0aW9uKCkuY2xhc3NlZCgncG4tc3RhdHMtaGVhZGVyLXRpbWVzdGFtcCcsIHRydWUpLnRleHQoY3JlYXRpb25UaW1lKSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set hlsearch! hlsearch?</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -688,7 +689,6 @@
         <entry>13</entry>
         <entry>q</entry>
         <entry>39</entry>
-        <entry>vs</entry>
         <entry>125</entry>
         <entry>150</entry>
         <entry>49</entry>
@@ -696,6 +696,8 @@
         <entry>152</entry>
         <entry>call functions#WinMove('l')</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>sv</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
