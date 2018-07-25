@@ -309,7 +309,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1532511335691">
+      <file name="/JavaScript Console" timestamp="1532532047191">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -340,11 +340,10 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.html" timestamp="1532527919741">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="6" column="51" />
-        <mark key="^" line="6" column="51" />
-        <mark key="." line="6" column="51" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.html" timestamp="1532532325257">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" timestamp="1522066566853">
         <mark key="'" line="39" column="60" />
@@ -389,7 +388,13 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532528800605" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532533329901">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="68" column="23" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/test-stereo.py" timestamp="1517850644983">
         <mark key="'" line="72" column="8" />
         <mark key="[" line="9" column="0" />
@@ -471,7 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="13" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="19" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="56" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
@@ -571,6 +575,7 @@
       <jump line="55" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
       <jump line="116" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" />
+      <jump line="78" column="25" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -596,43 +601,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>, daySummaries</text>
       </register>
       <register name="/" type="4">
         <text>roll</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZDpodG1sMiI6ICJjcHggXCJzcmMvc2t1LWltYWdlcy9pbmRleC5odG1sXCIgXCJ0YXJnZXQvc2t1LWltYWdlc1wiIiwK</text>
+      <register name="0" type="4">
+        <text>'api/skusummary/ambient'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gbnVtYmVyQ2FyZCAodGl0bGUsIG51bWJlcikgewogIHJldHVybiBjYXJkKCkKICAgIC5hZGQoY2FyZC5oZWFkZXIuc2VjdGlvbigpLnRleHQodGl0bGUpKQogICAgLmFkZChjYXJkLnNlY3Rpb24oKQogICAgICAuY2xhc3NlZCgncG4tbnVtYmVyLWNhcmQtbnVtYmVyJywgdHJ1ZSkKICAgICAgLnRleHQobnVtYmVyKSkKfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyb2xsdXAiOiAiXjAuNDEuNiIsCg==</text>
+        <text encoding="base64">ICAgIC8vIC5hZGQoZGl2KCdjaGlsbCcpKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbGU6ICd0YXJnZXQvc2t1LWltYWdlcy9pbmRleC5qcycsCiAgICBmb3JtYXQ6ICdpaWZlJywKICAgIGdsb2JhbHM6IHsKICAgICAgJ2hleGFnb24tanMnOiAnd2luZG93Lmh4Jwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gY291bnRCeURheUNhcmQgKGRheVN1bW1hcmllcykgewogIGlmIChkYXlTdW1tYXJpZXMgPT09IHVuZGVmaW5lZCB8fCBkYXlTdW1tYXJpZXMubGVuZ3RoID09PSAwKSB7CiAgICAvLyBoaWRlIHRoZSBkYXkgc3VtbWFyeSBiYXIgY2hhcnQgd2hlbiB0aGVyZSBpcyBubyBzdW1tYXJpZXMKICAgIHJldHVybgogIH0KCiAgZnVuY3Rpb24gY3JlYXRlTGFiZWwgKGRhdGVTdHJpbmcpIHsKICAgIGxldCBsYWJlbCA9IGRhdGVTdHJpbmcuc3Vic3RyaW5nKDYsIDgpLmNvbmNhdCgnLycpCiAgICBsYWJlbCA9IGxhYmVsLmNvbmNhdChkYXRlU3RyaW5nLnN1YnN0cmluZyg0LCA2KSkKICAgIHJldHVybiBsYWJlbAogIH0KCiAgcmV0dXJuIGNhcmQoKQogICAgLmFkZChjYXJkLmhlYWRlci5zZWN0aW9uKCkudGV4dCgnSW1hZ2UgQ291bnRzIGJ5IERheScpKQogICAgLmFkZChjYXJkLnNlY3Rpb24oKQogICAgICAuYWRkKGdyYXBoKHsKICAgICAgICBheGVzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHg6IHsgdGl0bGU6ICdEYXknLCBzY2FsZVR5cGU6ICdkaXNjcmV0ZScsIGdyaWRMaW5lczogZmFsc2UgfSwKICAgICAgICAgICAgeTogeyB0aXRsZTogJ0NvdW50JywgZ3JpZExpbmVzOiBmYWxzZSB9LAogICAgICAgICAgICBzZXJpZXM6IFsKICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0eXBlOiAnYmFyJywKICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgdGl0bGU6ICdJbWFnZSBjb3VudCcsCiAgICAgICAgICAgICAgICAgIGZpbGxDb2xvcjogJ3JnYigwLCAxNjMsIDIyNCknLAogICAgICAgICAgICAgICAgICBkYXRhOiBkYXlTdW1tYXJpZXMubWFwKGRheVN1bSA9PiAoe3g6IGNyZWF0ZUxhYmVsKGRheVN1bS5kYXRlKSwgeTogZGF5U3VtLmltYWdlc30pKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgXQogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfSkpKQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGU6ICd0YXJnZXQvc2t1LWltYWdlcy9pbmRleC5qcycsCg==</text>
+        <text encoding="base64">ICAgICAgLmFkZChzZWN0aW9uKCkuY2xhc3NlZCgncG4tc3RhdHMtaGVhZGVyLXRpbWVzdGFtcCcsIHRydWUpLnRleHQoY3JlYXRpb25UaW1lKSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvcm1hdDogJ2lpZmUnLAogICAgZ2xvYmFsczogewogICAgICAnaGV4YWdvbi1qcyc6ICd3aW5kb3cuaHgnCg==</text>
+        <text encoding="base64">ICAgICAgICAuYWRkKGRldGFjaGVkKCdhJykKICAgICAgICAgIC5hdHRyKCdocmVmJywgYnVja2V0VXJsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG91dHB1dDogJ3RhcmdldC9pbmRleC5qcycsCg==</text>
+        <text encoding="base64">ICBjb25zdCBjcmVhdGlvblRpbWUgPSBuZXcgRGF0ZShidWNrZXRTdW1tYXJ5LmNyZWF0ZWQpLnRvTG9jYWxlU3RyaW5nKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBidWNrZXRVcmwgPSAnaHR0cHM6Ly9jb25zb2xlLmNsb3VkLmdvb2dsZS5jb20vc3RvcmFnZS9icm93c2VyLycKICAgIC5jb25jYXQoYnVja2V0U3VtbWFyeS5idWNrZXROYW1lKQogICAgLmNvbmNhdCgnP3Byb2plY3Q9cHJvZHVjdC1kZXRlY3Rpb24tMTYwMzE0Jm9yZ2FuaXphdGlvbklkPTkwNDE0NTI5MzAwOCcpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnTnVtIG9mIFNrdXM6ICcgKyBidWNrZXRTdW1tYXJ5LnRvdGFsU2t1cykK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
@@ -649,76 +654,6 @@
     </search>
     <history>
       <history-search>
-        <entry>file name</entry>
-        <entry>counting</entry>
-        <entry>indexOnly</entry>
-        <entry>indexOn</entry>
-        <entry encoding="base64">XDxidWNrZXRcPg==</entry>
-        <entry encoding="base64">XDxpdGVtc1w+</entry>
-        <entry>daysumm</entry>
-        <entry encoding="base64">XDxidWNrZXRTdW1tYXJ5XD4=</entry>
-        <entry>rocket</entry>
-        <entry encoding="base64">XDxpbml0Um9ja2V0Q2xpZW50XD4=</entry>
-        <entry>description</entry>
-        <entry>Update</entry>
-        <entry>callback</entry>
-        <entry>sku</entry>
-        <entry>creation</entry>
-        <entry>creat</entry>
-        <entry>backup</entry>
-        <entry>bucketsummary</entry>
-        <entry encoding="base64">XDx1cGRhdGVCdWNrZXRTdW1tYXJ5XD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVTdW1tYXJ5XD4=</entry>
-        <entry>summary</entry>
-        <entry>(summary</entry>
-        <entry>select</entry>
-        <entry encoding="base64">XDwwXD4=</entry>
-        <entry>_</entry>
-        <entry>getDetail</entry>
-        <entry>getde</entry>
-        <entry>insert</entry>
-        <entry>size</entry>
-        <entry>cron</entry>
-        <entry>init</entry>
-        <entry>Did</entry>
-        <entry>index</entry>
-        <entry>fromindex</entry>
-        <entry>indexing buck</entry>
-        <entry>Proccessed</entry>
-        <entry>Processed</entry>
-        <entry encoding="base64">XDxmc1w+</entry>
-        <entry>initrock</entry>
-        <entry>daySummary]</entry>
-        <entry>daySummary']</entry>
-        <entry>indexallday</entry>
-        <entry>readAllDay</entry>
-        <entry>delete</entry>
-        <entry>readDay</entry>
-        <entry>upsert</entry>
-        <entry>current</entry>
-        <entry>processed</entry>
-        <entry>updated</entry>
-        <entry>updateDay</entry>
-        <entry>indexing bucket</entry>
-        <entry>indexing</entry>
-        <entry>to be del</entry>
-        <entry>found %d day summary</entry>
-        <entry encoding="base64">Zm91bmQg</entry>
-        <entry>found</entry>
-        <entry>already</entry>
-        <entry>today</entry>
-        <entry>getMonth</entry>
-        <entry>jest</entry>
-        <entry>getMon</entry>
-        <entry>getda</entry>
-        <entry>JSON</entry>
-        <entry encoding="base64">XDxza3VMaXN0Q2FyZFw+</entry>
-        <entry>key</entry>
-        <entry>process</entry>
-        <entry>exp</entry>
-        <entry encoding="base64">XDxydW5zXD4=</entry>
-        <entry>log</entry>
-        <entry>length</entry>
         <entry>updateDaySu</entry>
         <entry>all finished</entry>
         <entry>*</entry>
@@ -741,11 +676,6 @@
         <entry>roll</entry>
       </history-search>
       <history-cmd>
-        <entry>208</entry>
-        <entry>43</entry>
-        <entry>57</entry>
-        <entry encoding="base64">JzwsJz5jYWxsIGZ1bmN0aW9ucyNXaW5Nb3ZlKCdsJyk=</entry>
-        <entry>293</entry>
         <entry>345</entry>
         <entry>601</entry>
         <entry>s/_new/-g-i</entry>
