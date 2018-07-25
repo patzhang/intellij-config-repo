@@ -305,6 +305,12 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/package-lock.json" timestamp="1530275383711">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/frontend/src/index.js" timestamp="1530108087345">
+        <mark key="'" line="143" column="0" />
+      </file>
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
@@ -337,6 +343,9 @@
         <mark key="]" line="5" column="8" />
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" timestamp="1530088862398">
+        <mark key="'" line="79" column="6" />
       </file>
       <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" timestamp="1532351386898">
         <mark key="'" line="8" column="0" />
@@ -435,6 +444,9 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="25" column="106" />
       </file>
+      <file name="$USER_HOME$/codeVE/pliny/src/frontend/index.js" timestamp="1532524170472">
+        <mark key="'" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/index.yaml" timestamp="1530721751753">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="1" column="2" />
@@ -464,9 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="30" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
-      <jump line="22" column="32" filename="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" />
-      <jump line="52" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="8" column="32" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="12" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
@@ -564,6 +573,9 @@
       <jump line="94" column="42" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
       <jump line="223" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/codeVE/pliny/src/frontend/index.js" />
+      <jump line="47" column="73" filename="$USER_HOME$/codeVE/pliny/src/frontend/index.js" />
+      <jump line="9" column="24" filename="$USER_HOME$/codeVE/pliny/src/frontend/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -592,7 +604,7 @@
         <text>skuSummaries</text>
       </register>
       <register name="/" type="4">
-        <text>SKUs</text>
+        <text>task</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIC5hZGQoc2VjdGlvbigpLmFkZChudW1iZXJDYXJkKCdOdW0gb2YgU0tVcycsIGJ1Y2tldFN1bW1hcnkudG90YWxCYXJjb2Rlcy50b0xvY2FsZVN0cmluZygpKSkpCg==</text>
@@ -632,9 +644,9 @@
       </register>
     </registers>
     <search>
-      <last-search>SKUs</last-search>
+      <last-search>task</last-search>
       <last-offset />
-      <last-pattern>SKUs</last-pattern>
+      <last-pattern>task</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>updateDaySu</last-substitute>
       <last-dir>1</last-dir>
@@ -730,6 +742,7 @@
         <entry>total</entry>
         <entry>Num of Sk</entry>
         <entry>SKUs</entry>
+        <entry>task</entry>
       </history-search>
       <history-cmd>
         <entry>208</entry>
