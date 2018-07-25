@@ -107,11 +107,12 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" timestamp="1532098956374">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="29" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" timestamp="1532528498918">
+        <mark key="'" line="116" column="2" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
         <mark key="'" line="0" column="0" />
@@ -162,11 +163,11 @@
         <mark key="." line="51" column="1" />
         <mark key="^" line="51" column="1" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532462247901">
-        <mark key="[" line="2" column="47" />
-        <mark key="]" line="2" column="46" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="2" column="46" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1530710314057">
         <mark key="'" line="20" column="26" />
@@ -191,13 +192,10 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" timestamp="1532462424194">
-        <mark key="'" line="0" column="0" />
-        <mark key="j" line="32" column="6" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="44" column="25" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" timestamp="1532528894348">
+        <mark key="'" line="22" column="35" />
+        <mark key="j" line="33" column="6" />
+        <mark key="^" line="25" column="45" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" timestamp="1517479799852">
         <mark key="'" line="901" column="15" />
@@ -305,12 +303,6 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/package-lock.json" timestamp="1530275383711">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/frontend/src/index.js" timestamp="1530108087345">
-        <mark key="'" line="143" column="0" />
-      </file>
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
@@ -338,19 +330,18 @@
         <mark key="^" line="66" column="30" />
         <mark key="." line="66" column="30" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" timestamp="1532462379902">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="8" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" timestamp="1532527953127">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="26" />
+        <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/koa-router/lib/router.js" timestamp="1530088862398">
-        <mark key="'" line="79" column="6" />
-      </file>
-      <file name="$USER_HOME$/codeVE/master-patricknet-dashboard/indexer/src/main.js" timestamp="1532351386898">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="220" column="18" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.html" timestamp="1532527919741">
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="6" column="51" />
       </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" timestamp="1522066566853">
         <mark key="'" line="39" column="60" />
@@ -395,6 +386,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532528800605" />
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/test-stereo.py" timestamp="1517850644983">
         <mark key="'" line="72" column="8" />
         <mark key="[" line="9" column="0" />
@@ -444,7 +436,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="25" column="106" />
       </file>
-      <file name="$USER_HOME$/codeVE/pliny/src/frontend/index.js" timestamp="1532524170472">
+      <file name="$USER_HOME$/codeVE/pliny/src/frontend/index.js" timestamp="1532525246457">
         <mark key="'" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/index.yaml" timestamp="1530721751753">
@@ -476,17 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
-      <jump line="8" column="32" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
-      <jump line="12" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
-      <jump line="13" column="60" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
-      <jump line="14" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
-      <jump line="103" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
-      <jump line="29" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
-      <jump line="2" column="29" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
-      <jump line="28" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/test/util.test.js" />
-      <jump line="30" column="35" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="152" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="13" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="19" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
@@ -576,6 +557,17 @@
       <jump line="26" column="0" filename="$USER_HOME$/codeVE/pliny/src/frontend/index.js" />
       <jump line="47" column="73" filename="$USER_HOME$/codeVE/pliny/src/frontend/index.js" />
       <jump line="9" column="24" filename="$USER_HOME$/codeVE/pliny/src/frontend/index.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
+      <jump line="5" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
+      <jump line="28" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
+      <jump line="25" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
+      <jump line="30" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
+      <jump line="22" column="35" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
+      <jump line="17" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
+      <jump line="116" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -601,52 +593,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>skuSummaries</text>
+        <text>@import</text>
       </register>
       <register name="/" type="4">
-        <text>task</text>
+        <text>roll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoc2VjdGlvbigpLmFkZChudW1iZXJDYXJkKCdOdW0gb2YgU0tVcycsIGJ1Y2tldFN1bW1hcnkudG90YWxCYXJjb2Rlcy50b0xvY2FsZVN0cmluZygpKSkpCg==</text>
+        <text encoding="base64">ICAgICJidWlsZDpodG1sMSI6ICJjcHggXCJzcmMvc2t1LWltYWdlcy9pbmRleC5odG1sXCIgXCJ0YXJnZXQvc2t1LWltYWdlc1wiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnTnVtIG9mIFNrdXM6ICcgKyBidWNrZXRTdW1tYXJ5LnRvdGFsU2t1cykK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICJyb2xsdXAiOiAiXjAuNDEuNiIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBza3VTdW1tYXJpZXMK</text>
+        <text encoding="base64">ICAgIGZpbGU6ICd0YXJnZXQvc2t1LWltYWdlcy9pbmRleC5qcycsCiAgICBmb3JtYXQ6ICdpaWZlJywKICAgIGdsb2JhbHM6IHsKICAgICAgJ2hleGFnb24tanMnOiAnd2luZG93Lmh4Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIGZpbGU6ICd0YXJnZXQvc2t1LWltYWdlcy9pbmRleC5qcycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIGZvcm1hdDogJ2lpZmUnLAogICAgZ2xvYmFsczogewogICAgICAnaGV4YWdvbi1qcyc6ICd3aW5kb3cuaHgnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIG91dHB1dDogJ3RhcmdldC9pbmRleC5qcycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5hZGQoc2VjdGlvbigpLmFkZChudW1iZXJDYXJkKCdTS1VzID4gMzAwMCBpbWcnLCBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMzAwMC50b0xvY2FsZVN0cmluZygpKSkpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>task</last-search>
+      <last-search>roll</last-search>
       <last-offset />
-      <last-pattern>task</last-pattern>
+      <last-pattern>roll</last-pattern>
       <last-replace>path.</last-replace>
       <last-substitute>updateDaySu</last-substitute>
       <last-dir>1</last-dir>
@@ -743,6 +735,7 @@
         <entry>Num of Sk</entry>
         <entry>SKUs</entry>
         <entry>task</entry>
+        <entry>roll</entry>
       </history-search>
       <history-cmd>
         <entry>208</entry>
