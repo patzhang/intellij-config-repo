@@ -346,6 +346,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/pliny/rollup.config.js" timestamp="1532536850148">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" timestamp="1522066566853">
         <mark key="'" line="39" column="60" />
         <mark key="[" line="2" column="75" />
@@ -608,7 +612,7 @@
         <text>roll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuYWRkKGRldGFjaGVkKCdhJykKICAgICAgICAgIC5hdHRyKCdocmVmJywgYnVja2V0VXJsKQogICAgICAgICAgLnRleHQodGl0bGUpKSkK</text>
+        <text encoding="base64">Y29uc3QgaW5jbHVkZVBhdGhPcHRpb25zID0gewogIGluY2x1ZGU6IHt9LAogIHBhdGhzOiBbX19kaXJuYW1lICsgJy9zcmMvZnJvbnRlbmQnLCBfX2Rpcm5hbWVdLAogIGV4dGVybmFsOiBbXSwKICBleHRlbnNpb25zOiBbJy5qcyddCn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyAuYWRkKGNvbGxhcHNpYmxlQ29udGFpbmVyKSkpCg==</text>
