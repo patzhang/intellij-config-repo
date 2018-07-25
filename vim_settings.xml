@@ -192,10 +192,13 @@
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" timestamp="1532528894348">
-        <mark key="'" line="22" column="35" />
-        <mark key="j" line="33" column="6" />
-        <mark key="^" line="25" column="45" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" timestamp="1532530771990">
+        <mark key="'" line="23" column="35" />
+        <mark key="j" line="34" column="6" />
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="18" column="50" />
+        <mark key="^" line="26" column="48" />
+        <mark key="." line="18" column="50" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/logging/__init__.py" timestamp="1517479799852">
         <mark key="'" line="901" column="15" />
@@ -593,13 +596,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@import</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>roll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZDpodG1sMSI6ICJjcHggXCJzcmMvc2t1LWltYWdlcy9pbmRleC5odG1sXCIgXCJ0YXJnZXQvc2t1LWltYWdlc1wiIiwK</text>
+        <text encoding="base64">ICAgICJidWlsZDpodG1sMiI6ICJjcHggXCJzcmMvc2t1LWltYWdlcy9pbmRleC5odG1sXCIgXCJ0YXJnZXQvc2t1LWltYWdlc1wiIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
