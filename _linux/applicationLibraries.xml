@@ -1,5 +1,20 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/chai-as-promised" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/chai-roughly" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/cron" type="javaScript">
       <CLASSES />
       <JAVADOC />
