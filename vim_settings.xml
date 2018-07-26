@@ -101,12 +101,12 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532608924159">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="79" column="38" />
-        <mark key="]" line="79" column="42" />
-        <mark key="." line="79" column="42" />
-        <mark key="^" line="79" column="42" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532609678115">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="176" column="18" />
+        <mark key="]" line="177" column="20" />
+        <mark key="." line="177" column="20" />
+        <mark key="^" line="177" column="20" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" timestamp="1532528498918">
         <mark key="'" line="116" column="2" />
@@ -314,7 +314,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1532602642091">
+      <file name="/JavaScript Console" timestamp="1532609637471">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -492,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="30" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="56" column="29" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="106" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="107" column="26" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
@@ -592,6 +591,7 @@
       <jump line="230" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="67" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="61" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -617,43 +617,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OnDay</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gcmVhZERheVN1bW1hcnkgKCkgewogIGNvbnN0IGRheVN1bW1hcnkgPSBhd2FpdCBnY2RzLnJlYWRTdW1tYXJ5T25EYXkoJzIwMTgwNTEwJywgJ1BhdHJpY2tOZXREZXZBbWJpZW50TW9udGgyMDE4MDUnKQogIGxvZ2dlci5kZWJ1Zygnc3VtbWFyaWVzIGlzICcgKyBKU09OLnN0cmluZ2lmeShkYXlTdW1tYXJ5KSkKfQoKcmVhZERheVN1bW1hcnkoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRvdGFsRGF5cyA9IGRheVN1bW1hcmllcy5sZW5ndGgKICAgIGlmICh0b3RhbERheXMgPiAwKSB7CiAgICAgIGxvZ2dlci5pbmZvKCclcyA6IGZvdW5kICVkIGRheSBzdW1tYXJpZXMnLCBraW5kLCB0b3RhbERheXMpCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gdW5kZWZpbmVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHVuZGVmaW5lZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGVudGl0aWVzLmZvckVhY2goZW50aXR5ID0+IHsKICAgICAgCiAgICAgIAogICAgfSkKICAgIHJldHVybiBlbnRpdHkgPT09IHVuZGVmaW5lZCA/IGVudGl0eSA6IEpTT04ucGFyc2UoZW50aXR5LmRheVN1bW1hcnkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mZGQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChlbnRpdHkgPT09IHVuZGVmaW5lZCkgewogICAgICByZXR1cm4gdW5kZWZpbmVkCiAgICB9IGVsc2UgewogICAgICByZXR1cm4gSlNPTi5wYXJzZShlbnRpdHkuc3VtbWFyeSkKICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICByZXR1cm4gdW5kZWZpbmVkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVuZGVmaW5lZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGVudGl0aWVzLmZvckVhY2goZW50aXR5ID0+IHsKICAgICAgCiAgICAgIAogICAgfSkKICAgIHJldHVybiBlbnRpdHkgPT09IHVuZGVmaW5lZCA/IGVudGl0eSA6IEpTT04ucGFyc2UoZW50aXR5LmRheVN1bW1hcnkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBsb2dnZXIuaW5mZGQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRheVN1bW1hcnkgPSBKU09OLnBhcnNlKGVudGl0eS5zdW1tYXJ5KQo=</text>
+        <text encoding="base64">ICAgIGlmIChlbnRpdHkgPT09IHVuZGVmaW5lZCkgewogICAgICByZXR1cm4gdW5kZWZpbmVkCiAgICB9IGVsc2UgewogICAgICByZXR1cm4gSlNPTi5wYXJzZShlbnRpdHkuc3VtbWFyeSkKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
@@ -666,15 +666,10 @@
       <last-replace>path.</last-replace>
       <last-substitute>updateDaySu</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>updateDaySu</entry>
-        <entry>all finished</entry>
-        <entry>*</entry>
-        <entry>item</entry>
-        <entry>entity</entry>
         <entry>entit</entry>
         <entry>entities</entry>
         <entry>read bucket</entry>
@@ -697,8 +692,6 @@
         <entry>sort</entry>
       </history-search>
       <history-cmd>
-        <entry>345</entry>
-        <entry>601</entry>
         <entry>s/_new/-g-i</entry>
         <entry>s/_new//-ig</entry>
         <entry>s/_new//-g</entry>
