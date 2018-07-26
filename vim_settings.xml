@@ -157,12 +157,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532631887887">
-        <mark key="'" line="59" column="4" />
-        <mark key="[" line="199" column="50" />
-        <mark key="]" line="199" column="55" />
-        <mark key="^" line="199" column="55" />
-        <mark key="." line="199" column="55" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532632456004">
+        <mark key="'" line="201" column="2" />
+        <mark key="[" line="205" column="33" />
+        <mark key="]" line="205" column="61" />
+        <mark key="^" line="205" column="61" />
+        <mark key="." line="205" column="61" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -315,7 +315,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1532631494758">
+      <file name="/JavaScript Console" timestamp="1532632377412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -489,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/codeVE/pliny/rollup.config.js" />
       <jump line="23" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
       <jump line="1" column="40" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
       <jump line="34" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
@@ -589,6 +588,7 @@
       <jump line="59" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="15" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="80" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="201" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -614,7 +614,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>async (details, barcode)</text>
+        <text>barcodeDict[barcode]</text>
       </register>
       <register name="/" type="4">
         <text>readSummary</text>
@@ -623,34 +623,34 @@
         <text encoding="base64">ICBjb25zdCBxdWVyeSA9IGRhdGFzdG9yZS5jcmVhdGVRdWVyeShraW5kKQogICAgLmZpbHRlcignX19rZXlfXycsICc9JywgZGF0YXN0b3JlLmtleShba2luZCwgZGF0ZVN0cmluZ10pKQogIHJldHVybiBkYXRhc3RvcmUucnVuUXVlcnkocXVlcnkpLnRoZW4ocmVzdWx0cyA9PiB7CiAgICBjb25zdCBlbnRpdGllcyA9IHJlc3VsdHNbMF0KICAgIGlmIChlbnRpdGllcy5sZW5ndGggPT09IDEpIHsKICAgICAgcmV0dXJuIEpTT04ucGFyc2UoZW50aXRpZXNbMF0uZGF5U3VtbWFyeSkKICAgIH0gZWxzZSB7CiAgICAgIGxvZ2dlci53YXJuKCdmb3VuZCAlZCBkYXkgc3VtbWFyeSBvbiAlcyB1bmRlciAlcycsIGVudGl0aWVzLmxlbmd0aCwgZGF0ZVN0cmluZywga2luZCkKICAgICAgcmV0dXJuIHVuZGVmaW5lZAogICAgfQogIH0pLmNhdGNoKGVyciA9PiB7CiAgICBsb2dnZXIuZXJyb3IoJ2ZhaWxlZCB0byByZXRyaWV2ZSBkYXkgc3VtbWFyeSBvbiAlcyB1bmRlciAlcycsIGRhdGVTdHJpbmcsIGtpbmQpCiAgICBsb2dnZXIuZXJyb3IoZXJyKQogICAgcmV0dXJuIHVuZGVmaW5lZAogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGF0YXN0b3JlLmdldChrZXkpLnRoZW4ocmVzdWx0cyA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gZGF0YXN0b3JlLmdldChrZXkpLnRoZW4ocmVzdWx0cyA9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVudGl0aWVzID0gcmVzdWx0c1swXQogICAgaWYgKGVudGl0aWVzLmxlbmd0aCA9PT0gMSkgewogICAgICByZXR1cm4gSlNPTi5wYXJzZShlbnRpdGllc1swXS5kYXlTdW1tYXJ5KQogICAgfSBlbHNlIHsKICAgICAgbG9nZ2VyLndhcm4oJ2ZvdW5kICVkIGRheSBzdW1tYXJ5IG9uICVzIHVuZGVyICVzJywgZW50aXRpZXMubGVuZ3RoLCBkYXRlU3RyaW5nLCBraW5kKQogICAgICByZXR1cm4gdW5kZWZpbmVkCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBxdWVyeSA9IGRhdGFzdG9yZS5jcmVhdGVRdWVyeShraW5kKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVudGl0aWVzID0gcmVzdWx0c1swXQogICAgaWYgKGVudGl0aWVzLmxlbmd0aCA9PT0gMSkgewogICAgICByZXR1cm4gSlNPTi5wYXJzZShlbnRpdGllc1swXS5kYXlTdW1tYXJ5KQogICAgfSBlbHNlIHsKICAgICAgbG9nZ2VyLndhcm4oJ2ZvdW5kICVkIGRheSBzdW1tYXJ5IG9uICVzIHVuZGVyICVzJywgZW50aXRpZXMubGVuZ3RoLCBkYXRlU3RyaW5nLCBraW5kKQogICAgICByZXR1cm4gdW5kZWZpbmVkCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIoJ19fa2V5X18nLCAnPScsIGRhdGFzdG9yZS5rZXkoW2tpbmQsIGRhdGVTdHJpbmddKSkK</text>
+        <text encoding="base64">ICBjb25zdCBxdWVyeSA9IGRhdGFzdG9yZS5jcmVhdGVRdWVyeShraW5kKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICBiYXJjb2RlOiBlbnRpdHlbZGF0YXN0b3JlLktFWV0ubmFtZSwKICAgICAgICBza3U6IGVudGl0eS5za3UsCiAgICAgICAgcHJvZHVjdDogZW50aXR5LnByb2R1Y3QsCiAgICAgICAgaW1hZ2VzOiBlbnRpdHkuaW1hZ2VzCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC5maWx0ZXIoJ19fa2V5X18nLCAnPScsIGRhdGFzdG9yZS5rZXkoW2tpbmQsIGRhdGVTdHJpbmddKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhd2FpdCByb2NrZXQuaW5pdFJvY2tldENsaWVudCgpCiAgICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcignZmFpbGVkIHRvIGluaXRpYWxpc2Ugcm9ja2V0IGNsaWVudCEgJyArIGVycikpCgo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICBiYXJjb2RlOiBlbnRpdHlbZGF0YXN0b3JlLktFWV0ubmFtZSwKICAgICAgICBza3U6IGVudGl0eS5za3UsCiAgICAgICAgcHJvZHVjdDogZW50aXR5LnByb2R1Y3QsCiAgICAgICAgaW1hZ2VzOiBlbnRpdHkuaW1hZ2VzCiAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICBhd2FpdCByb2NrZXQuaW5pdFJvY2tldENsaWVudCgpCiAgICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcignZmFpbGVkIHRvIGluaXRpYWxpc2Ugcm9ja2V0IGNsaWVudCEgJyArIGVycikpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
@@ -663,33 +663,10 @@
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>entit</entry>
-        <entry>entities</entry>
-        <entry>read bucket</entry>
-        <entry>info</entry>
-        <entry>'undefined</entry>
-        <entry encoding="base64">XDxza3VTZWN0aW9uXD4=</entry>
-        <entry>fs</entry>
-        <entry>console.log</entry>
-        <entry encoding="base64">XDx0b3RhbEJhcmNvZGVzXD4=</entry>
-        <entry>Total</entry>
-        <entry>total</entry>
-        <entry>Num of Sk</entry>
-        <entry>SKUs</entry>
-        <entry>task</entry>
-        <entry>roll</entry>
-        <entry>lint</entry>
-        <entry>entry</entry>
-        <entry>blank</entry>
-        <entry>conso</entry>
-        <entry>sort</entry>
-        <entry>updateDaySumm</entry>
-        <entry>readDaysu</entry>
-        <entry>%s</entry>
         <entry>Month</entry>
         <entry>Dates</entry>
         <entry>process</entry>
@@ -712,7 +689,6 @@
         <entry>readSummary</entry>
       </history-search>
       <history-cmd>
-        <entry>s/_new/-g-i</entry>
         <entry>s/_new//-ig</entry>
         <entry>s/_new//-g</entry>
         <entry>s/count-by-day/countByDay/-g</entry>
