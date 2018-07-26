@@ -157,12 +157,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532625877444">
-        <mark key="'" line="209" column="10" />
-        <mark key="[" line="209" column="28" />
-        <mark key="]" line="209" column="53" />
-        <mark key="^" line="209" column="53" />
-        <mark key="." line="209" column="53" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532626848935">
+        <mark key="'" line="39" column="2" />
+        <mark key="[" line="86" column="76" />
+        <mark key="]" line="87" column="4" />
+        <mark key="^" line="87" column="4" />
+        <mark key="." line="87" column="4" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -315,7 +315,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1532623354938">
+      <file name="/JavaScript Console" timestamp="1532626852639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -489,9 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
-      <jump line="22" column="35" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
-      <jump line="17" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
       <jump line="55" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
       <jump line="116" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" />
@@ -589,6 +586,9 @@
       <jump line="40" column="24" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="43" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="209" column="10" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="208" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="14" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="39" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -614,7 +614,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>existingBarcodes[barcode]</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGlzdGluZ1NrdURldGFpbHNcPg==</text>
@@ -623,34 +623,34 @@
         <text encoding="base64">ICAgIGNvbnN0IGV4aXN0aW5nU2t1ID0gYXdhaXQgZ2Nkcy5yZWFkQmFyY29kZUVudGl0eShiYXJjb2RlS2luZCwgYmFyY29kZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4aXN0aW5nU2t1ID0gZXhpc3RpbmdTa3VEZXRhaWxzLnNrdQo=</text>
+        <text encoding="base64">ICBhd2FpdCByb2NrZXQuaW5pdFJvY2tldENsaWVudCgpCiAgICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcignZmFpbGVkIHRvIGluaXRpYWxpc2Ugcm9ja2V0IGNsaWVudCEgJyArIGVycikpCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBjb25zdCBleGlzdGluZ1Byb2R1Y3QgPSBleGlzdGluZ1NrdURldGFpbHMucHJvZHVjdAogICAgaWYgKGV4aXN0aW5nUHJvZHVjdCAhPT0gJ3Vua25vd24nKSB7CiAgICB9IGVsc2UgewogICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGV0YWlsc0ZvclNrdSA9IGF3YWl0IHJvY2tldC5nZXREZXRhaWxzRm9yU2t1KHNrdSkKICAgICAgYmFyY29kZURpY3RbYmFyY29kZV0ucHJvZHVjdCA9IGRldGFpbHNGb3JTa3UgPT09IHVuZGVmaW5lZCA/ICd1bmtub3duJyA6IGRldGFpbHNGb3JTa3UuZGVzY3JpcHRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBleGlzdGluZ0JhcmNvZGVzID0gYXdhaXQgZ2Nkcy5yZWFkQWxsQmFyY29kZXMoYnVja2V0LmtpbmRCYXJjb2RlcykK</text>
+        <text encoding="base64">ICAgICAgYmFyY29kZURpY3RbYmFyY29kZV0ucHJvZHVjdCA9IGV4aXN0aW5nUHJvZHVjdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGV4aXN0aW5nU2t1ID0gZXhpc3RpbmdTa3VEZXRhaWxzLnNrdQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRldGFpbHNGb3JTa3UgPSBhd2FpdCByb2NrZXQuZ2V0RGV0YWlsc0ZvclNrdShza3UpCiAgICBiYXJjb2RlRGljdFtiYXJjb2RlXS5wcm9kdWN0ID0gZGV0YWlsc0ZvclNrdSA9PT0gdW5kZWZpbmVkID8gJ3Vua25vd24nIDogZGV0YWlsc0ZvclNrdS5kZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Month/Dates/g</text>
