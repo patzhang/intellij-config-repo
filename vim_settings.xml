@@ -101,19 +101,19 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532632685676">
-        <mark key="'" line="80" column="6" />
-        <mark key="[" line="86" column="53" />
-        <mark key="]" line="86" column="53" />
-        <mark key="." line="86" column="53" />
-        <mark key="^" line="86" column="34" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532634394157">
+        <mark key="'" line="78" column="6" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" timestamp="1532528498918">
-        <mark key="'" line="116" column="2" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" timestamp="1532636032902">
+        <mark key="'" line="19" column="41" />
+        <mark key="[" line="105" column="20" />
+        <mark key="]" line="106" column="24" />
+        <mark key="^" line="106" column="24" />
+        <mark key="." line="106" column="24" />
       </file>
       <file name="$USER_HOME$/codeVE/gc-dataset-builder/kubernetes/jobs/create_kube_jobs.py" timestamp="1519731942260">
         <mark key="'" line="0" column="0" />
@@ -157,12 +157,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532633461965">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="^" line="120" column="1" />
-        <mark key="." line="219" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532635161832">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="32" column="1" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -315,7 +315,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1532633015275">
+      <file name="/JavaScript Console" timestamp="1532635607251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -399,12 +399,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532555148232">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="32" column="20" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532635764681">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+        <mark key="^" line="37" column="50" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/camera-depth/test-stereo.py" timestamp="1517850644983">
         <mark key="'" line="72" column="8" />
@@ -489,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="40" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
       <jump line="34" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
       <jump line="35" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
       <jump line="36" column="7" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/package.json" />
@@ -589,6 +588,7 @@
       <jump line="80" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="201" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="121" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="19" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -614,56 +614,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>alignment</text>
       </register>
       <register name="/" type="4">
-        <text>readSummary</text>
+        <text>stats-header-ti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnJXM6IHVwZGF0aW5nICVkIGJhcmNvZGUgZW50aXRpZXMgaW4gdG90YWwnLCBiYXJjb2RlS2luZCwgXy5zaXplKGJhcmNvZGVEaWN0KSkKICAvLyBsb29wIHRocm91Z2ggYWxsIHRoZSBiYXJjb2RlcyB0byBsb29rIHVwIHNrdSBhbmQgZGV0YWlscyB3aXRoIHJvY2tldAogIGF3YWl0IFByb21pc2UuYWxsKF8uZWFjaChfLnZhbHVlcyhiYXJjb2RlRGljdCksIGFzeW5jIChkZXRhaWxzKSA9PiB7CiAgICB1cGRhdGVJbWFnZVN0YXRzKGRldGFpbHMsIGJ1Y2tldFN1bW1hcnkpCgogICAgY29uc3QgYmFyY29kZSA9IGRldGFpbHMuYmFyY29kZQogICAgY29uc3QgZXhpc3RpbmdTa3VEZXRhaWxzID0gYXdhaXQgZ2Nkcy5yZWFkQmFyY29kZUVudGl0eShiYXJjb2RlS2luZCwgYmFyY29kZSkKICAgIGNvbnN0IGV4aXN0aW5nU2t1ID0gZXhpc3RpbmdTa3VEZXRhaWxzLnNrdQogICAgaWYgKGV4aXN0aW5nU2t1ICE9PSAndW5rbm93bicgJiYgZXhpc3RpbmdTa3UgIT09IHVuZGVmaW5lZCkgewogICAgICAvLyBrZWVwIHRoZSBwcmV2aW91cyBza3UgYW5kIHByb2R1Y3QgbmFtZSB3aXRoIGxvb2t1cCB3aXRoIHJvY2tldAogICAgICAvLyB0aGlzIGF2b2lkIHRoZSBvZmYtc2hlbGYgcHJvZHVjdCB0byBsb3NlIHNrdSBhbmQgbmFtZQogICAgICBkZXRhaWxzLnNrdSA9IGV4aXN0aW5nU2t1CiAgICAgIGRldGFpbHMucHJvZHVjdCA9IGV4aXN0aW5nU2t1RGV0YWlscy5wcm9kdWN0CiAgICB9IGVsc2UgewogICAgICBjb25zdCBza3UgPSBhd2FpdCByb2NrZXQuZ2V0U2t1Rm9yQmFyY29kZShiYXJjb2RlKQogICAgICBkZXRhaWxzLnNrdSA9IHNrdSA9PT0gdW5kZWZpbmVkID8gJ3Vua25vd24nIDogc2t1CgogICAgICBjb25zdCBkZXRhaWxzRm9yU2t1ID0gYXdhaXQgcm9ja2V0LmdldERldGFpbHNGb3JTa3Uoc2t1KQogICAgICBkZXRhaWxzLnByb2R1Y3QgPSBkZXRhaWxzRm9yU2t1ID09PSB1bmRlZmluZWQgPyAndW5rbm93bicgOiBkZXRhaWxzRm9yU2t1LmRlc2NyaXB0aW9uCiAgICB9CiAgICBiYXJjb2RlRGljdFtiYXJjb2RlXSA9IGRldGFpbHMKICAgIGF3YWl0IGdjZHMudXBkYXRlQmFyY29kZXMoYmFyY29kZUtpbmQsIGJhcmNvZGUsIGRldGFpbHMpCiAgfSkpCg==</text>
+        <text encoding="base64">LnBuLXN0YXRzLWhlYWRlci10aXRsZSB7CiAgY29sb3I6ICMwMGEzZTA7CiAgZm9udC1zaXplOiAxNHB4OwogIGZvbnQtd2VpZ2h0OiBib2xkOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gbG9va3VwU2t1RGV0YWlscyAoYmFyY29kZURpY3QsIGJ1Y2tldFN1bW1hcnksIGJhcmNvZGVLaW5kKSB7CiAgbG9nZ2VyLmluZm8oJyVzOiB1cGRhdGluZyAlZCBiYXJjb2RlIGVudGl0aWVzIGluIHRvdGFsJywgYmFyY29kZUtpbmQsIF8uc2l6ZShiYXJjb2RlRGljdCkpCiAgLy8gbG9vcCB0aHJvdWdoIGFsbCB0aGUgYmFyY29kZXMgdG8gbG9vayB1cCBza3UgYW5kIGRldGFpbHMgd2l0aCByb2NrZXQKICBhd2FpdCBQcm9taXNlLmFsbChfLmVhY2goXy52YWx1ZXMoYmFyY29kZURpY3QpLCBhc3luYyAoZGV0YWlscykgPT4gewogICAgdXBkYXRlSW1hZ2VTdGF0cyhkZXRhaWxzLCBidWNrZXRTdW1tYXJ5KQoKICAgIGNvbnN0IGJhcmNvZGUgPSBkZXRhaWxzLmJhcmNvZGUKICAgIGNvbnN0IGV4aXN0aW5nU2t1RGV0YWlscyA9IGF3YWl0IGdjZHMucmVhZEJhcmNvZGVFbnRpdHkoYmFyY29kZUtpbmQsIGJhcmNvZGUpCiAgICBjb25zdCBleGlzdGluZ1NrdSA9IGV4aXN0aW5nU2t1RGV0YWlscy5za3UKICAgIGlmIChleGlzdGluZ1NrdSAhPT0gJ3Vua25vd24nICYmIGV4aXN0aW5nU2t1ICE9PSB1bmRlZmluZWQpIHsKICAgICAgLy8ga2VlcCB0aGUgcHJldmlvdXMgc2t1IGFuZCBwcm9kdWN0IG5hbWUgd2l0aCBsb29rdXAgd2l0aCByb2NrZXQKICAgICAgLy8gdGhpcyBhdm9pZCB0aGUgb2ZmLXNoZWxmIHByb2R1Y3QgdG8gbG9zZSBza3UgYW5kIG5hbWUKICAgICAgZGV0YWlscy5za3UgPSBleGlzdGluZ1NrdQogICAgICBkZXRhaWxzLnByb2R1Y3QgPSBleGlzdGluZ1NrdURldGFpbHMucHJvZHVjdAogICAgfSBlbHNlIHsKICAgICAgY29uc3Qgc2t1ID0gYXdhaXQgcm9ja2V0LmdldFNrdUZvckJhcmNvZGUoYmFyY29kZSkKICAgICAgZGV0YWlscy5za3UgPSBza3UgPT09IHVuZGVmaW5lZCA/ICd1bmtub3duJyA6IHNrdQoKICAgICAgY29uc3QgZGV0YWlsc0ZvclNrdSA9IGF3YWl0IHJvY2tldC5nZXREZXRhaWxzRm9yU2t1KHNrdSkKICAgICAgZGV0YWlscy5wcm9kdWN0ID0gZGV0YWlsc0ZvclNrdSA9PT0gdW5kZWZpbmVkID8gJ3Vua25vd24nIDogZGV0YWlsc0ZvclNrdS5kZXNjcmlwdGlvbgogICAgfQogICAgYmFyY29kZURpY3RbYmFyY29kZV0gPSBkZXRhaWxzCiAgICBhd2FpdCBnY2RzLnVwZGF0ZUJhcmNvZGVzKGJhcmNvZGVLaW5kLCBiYXJjb2RlLCBkZXRhaWxzKQogIH0pKQp9Cgo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhcmNvZGVEaWN0W2JhcmNvZGVdID0gZGV0YWlscwo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBhd2FpdCBsb29rdXBTa3VEZXRhaWxzKGJhcmNvZGVEaWN0LCBidWNrZXRTdW1tYXJ5LCBidWNrZXQua2luZEJhcmNvZGVzKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGF0YXN0b3JlLmdldChrZXkpLnRoZW4ocmVzdWx0cyA9PiB7Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVudGl0aWVzID0gcmVzdWx0c1swXQogICAgaWYgKGVudGl0aWVzLmxlbmd0aCA9PT0gMSkgewogICAgICByZXR1cm4gSlNPTi5wYXJzZShlbnRpdGllc1swXS5kYXlTdW1tYXJ5KQogICAgfSBlbHNlIHsKICAgICAgbG9nZ2VyLndhcm4oJ2ZvdW5kICVkIGRheSBzdW1tYXJ5IG9uICVzIHVuZGVyICVzJywgZW50aXRpZXMubGVuZ3RoLCBkYXRlU3RyaW5nLCBraW5kKQogICAgICByZXR1cm4gdW5kZWZpbmVkCiAgICB9Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBxdWVyeSA9IGRhdGFzdG9yZS5jcmVhdGVRdWVyeShraW5kKQogIC8vICAgLmZpbHRlcignX19rZXlfXycsICc9JywgZGF0YXN0b3JlLmtleShba2luZCwgZGF0ZVN0cmluZ10pKQogIC8vIHJldHVybiBkYXRhc3RvcmUucnVuUXVlcnkocXVlcnkpLnRoZW4ocmVzdWx0cyA9PiB7CiAgLy8gICBjb25zdCBlbnRpdGllcyA9IHJlc3VsdHNbMF0KICAvLyAgIGlmIChlbnRpdGllcy5sZW5ndGggPT09IDEpIHsKICAvLyAgICAgcmV0dXJuIEpTT04ucGFyc2UoZW50aXRpZXNbMF0uZGF5U3VtbWFyeSkKICAvLyAgIH0gZWxzZSB7CiAgLy8gICAgIGxvZ2dlci53YXJuKCdmb3VuZCAlZCBkYXkgc3VtbWFyeSBvbiAlcyB1bmRlciAlcycsIGVudGl0aWVzLmxlbmd0aCwgZGF0ZVN0cmluZywga2luZCkKICAvLyAgICAgcmV0dXJuIHVuZGVmaW5lZAogIC8vICAgfQogIC8vIH0pLmNhdGNoKGVyciA9PiB7CiAgLy8gICBsb2dnZXIuZXJyb3IoJ2ZhaWxlZCB0byByZXRyaWV2ZSBkYXkgc3VtbWFyeSBvbiAlcyB1bmRlciAlcycsIGRhdGVTdHJpbmcsIGtpbmQpCiAgLy8gICBsb2dnZXIuZXJyb3IoZXJyKQogIC8vICAgcmV0dXJuIHVuZGVmaW5lZAogIC8vIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBxdWVyeSA9IGRhdGFzdG9yZS5jcmVhdGVRdWVyeShraW5kKQo=</text>
+        <text encoding="base64">ICAgIGlmIChleGlzdGluZ1NrdURldGFpbHMgPT09IHVuZGVmaW5lZCkgewogICAgICAKICAgIH0gZWxzZSB7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIoJ19fa2V5X18nLCAnPScsIGRhdGFzdG9yZS5rZXkoW2tpbmQsIGRhdGVTdHJpbmddKSkK</text>
+        <text encoding="base64">ICAgIC8vIGlmIChlbnRpdGllcy5sZW5ndGggPT09IDEpIHsKICAgIC8vICAgY29uc3QgZW50aXR5ID0gZW50aXRpZXNbMF0KICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIGxvZ2dlci53YXJuKCdmb3VuZCAlZCBiYXJjb2RlIGVudGl0aWVzJywgZW50aXRpZXMubGVuZ3RoKQogICAgLy8gICByZXR1cm4ge30KICAgIC8vIH0KICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICBiYXJjb2RlOiBlbnRpdHlbZGF0YXN0b3JlLktFWV0ubmFtZSwKICAgICAgICBza3U6IGVudGl0eS5za3UsCiAgICAgICAgcHJvZHVjdDogZW50aXR5LnByb2R1Y3QsCiAgICAgICAgaW1hZ2VzOiBlbnRpdHkuaW1hZ2VzCiAgICAgIH0K</text>
+        <text encoding="base64">ICByZXR1cm4gZGF0YXN0b3JlLmdldChrZXkpLnRoZW4ocmVzdWx0ID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>readSummary</last-search>
+      <last-search>stats-header-ti</last-search>
       <last-offset />
-      <last-pattern>readSummary</last-pattern>
+      <last-pattern>stats-header-ti</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -687,6 +687,7 @@
         <entry>failed to save or delete</entry>
         <entry>failed to save</entry>
         <entry>readSummary</entry>
+        <entry>stats-header-ti</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new//-ig</entry>
