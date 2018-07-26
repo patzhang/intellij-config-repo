@@ -101,8 +101,8 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532616494859">
-        <mark key="'" line="138" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532617538376">
+        <mark key="'" line="77" column="0" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
@@ -156,12 +156,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532617259636">
-        <mark key="'" line="260" column="1" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="86" column="72" />
-        <mark key="^" line="86" column="72" />
-        <mark key="." line="86" column="72" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532617679971">
+        <mark key="'" line="259" column="1" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="86" column="69" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -419,12 +419,12 @@
         <mark key="." line="95" column="10" />
         <mark key="^" line="95" column="10" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" timestamp="1532360914754">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="5" column="4" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" timestamp="1532618734770">
+        <mark key="'" line="36" column="84" />
+        <mark key="[" line="36" column="124" />
+        <mark key="]" line="36" column="124" />
+        <mark key="." line="36" column="124" />
+        <mark key="^" line="37" column="5" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-v1/README.md" timestamp="1517480436417">
         <mark key="'" line="5" column="3" />
@@ -492,9 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
-      <jump line="150" column="31" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="78" column="17" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="95" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="99" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -592,6 +589,9 @@
       <jump line="282" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="62" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="259" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="35" column="50" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
+      <jump line="36" column="84" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -617,52 +617,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text encoding="base64">XDxyb2NrZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoZGV0YWlscy5pbWFnZXMgPiAzMDAwKSB7CiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMzAwMCsrCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMjAwMCsrCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMTAwMCsrCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUNTAwKysKICAgIGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QyMDArKwogICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDEwMCsrCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBhd2FpdCByb2NrZXQuaW5pdFJvY2tldENsaWVudCgpCiAgICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcignZmFpbGVkIHRvIGluaXRpYWxpc2Ugcm9ja2V0IGNsaWVudCEgJyArIGVycikpCgo=</text>
+      <register name="1" type="4">
+        <text>econds')).isAfter(rocket.registerRequested))
+    if (rocket.registerRequested === undefined ||
+      b</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gYXN5bmMgZnVuY3Rpb24gcmVhZERheVN1bW1hcnkgKCkgewovLyAgIGNvbnN0IGRheVN1bW1hcnkgPSBhd2FpdCBnY2RzLnJlYWRTdW1tYXJ5T25EYXkoJzIwMTgwNTEwJywgJ1BhdHJpY2tOZXREZXZBbWJpZW50TW9udGgyMDE4MDUnKQovLyAgIGxvZ2dlci5kZWJ1Zygnc3VtbWFyaWVzIGlzICcgKyBKU09OLnN0cmluZ2lmeShkYXlTdW1tYXJ5KSkKLy8gfQovLwovLyByZWFkRGF5U3VtbWFyeSgpCgovLyBhc3luYyBmdW5jdGlvbiByZWFkRGF5U3VtbWFyeUxpc3QgKCkgewovLyAgIGxldCBkYXRlcyA9IFsnMjAxODA1MDgnLCAnMjAxODA1MTAnLCAnMjAxODA1MTEnLCAnMjAxODA1MTInXQovLyAgIGNvbnN0IGRheVN1bW1hcmllcyA9IGF3YWl0IGdjZHMucmVhZERheVN1bW1hcnlMaXN0KGRhdGVzLCAnUGF0cmlja05ldERldkFtYmllbnRNb250aDIwMTgwNScpCi8vICAgbG9nZ2VyLmRlYnVnKCdzdW1tYXJpZXMgaXMgJyArIEpTT04uc3RyaW5naWZ5KGRheVN1bW1hcmllcykpCi8vIH0KLy8KLy8gcmVhZERheVN1bW1hcnlMaXN0KCkKCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5vdyA9IG5ldyBEYXRlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvY2tldC5yZWdpc3RlcmVkID0gbmV3IERhdGUoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gZnVuY3Rpb24gcmVhZERheVN1bW1hcmllc0J5TW9udGggKGtpbmQpIHsKLy8gICBjb25zdCBxdWVyeSA9IGRhdGFzdG9yZS5jcmVhdGVRdWVyeShraW5kKQovLyAgIHJldHVybiBkYXRhc3RvcmUucnVuUXVlcnkocXVlcnkpLnRoZW4ocmVzdWx0cyA9PiB7Ci8vICAgICBjb25zdCBlbnRpdGllcyA9IHJlc3VsdHNbMF0KLy8gICAgIGxldCBkYXlTdW1tYXJpZXMgPSBbXQovLyAgICAgZW50aXRpZXMuZm9yRWFjaChlbnRpdHkgPT4gewovLyAgICAgICBkYXlTdW1tYXJpZXMucHVzaChKU09OLnBhcnNlKGVudGl0eS5kYXlTdW1tYXJ5KSkKLy8gICAgIH0pCi8vICAgICByZXR1cm4gZGF5U3VtbWFyaWVzCi8vICAgfSkKLy8gfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICByZWdpc3RlclJlcXVlc3RlZDogdW5kZWZpbmVkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXlMaXN0ID0gdXRpbC5nZXREYXlMaXN0KHN0YXJ0LCBlbmQpCiAgY29uc3Qgc2VsZWN0ZWREYXlTdW1zID0gXy5maWx0ZXIoZGF5U3VtbWFyaWVzLCAoZGF5U3VtKSA9PiB7CiAgICByZXR1cm4gZGF5TGlzdC5pbmNsdWRlcyhkYXlTdW0uZGF0ZSkKICB9KQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBkYXlMaXN0ID0gdXRpbC5nZXREYXlMaXN0KHN0YXJ0LCBlbmQpCg==</text>
+        <text encoding="base64">ICBhd2FpdCByb2NrZXQuaW5pdFJvY2tldENsaWVudCgpCiAgICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcignZmFpbGVkIHRvIGluaXRpYWxpc2Ugcm9ja2V0IGNsaWVudCEgJyArIGVycikpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IG1vbnRocy5sZW5ndGg7IGkrKykgewogICAgY29uc3QgbW9udGhLaW5kID0gYnVja2V0LmtpbmRNb250aCArIG1vbnRoc1tpXQogICAgY29uc3QgZGF5U3VtcyA9IGF3YWl0IHJlYWREYXlTdW1tYXJpZXNCeU1vbnRoKG1vbnRoS2luZCkKICAgIGRheVN1bW1hcmllcyA9IGRheVN1bW1hcmllcy5jb25jYXQoZGF5U3VtcykKICB9Cgo=</text>
+        <text encoding="base64">ICAvLyBpbml0aWFsaXNlIHJvY2tldCBjbGllbnQgZWFybHkgdG8gYXZvaWQgdG8gcmVnaXN0ZXIgdGhlIGRldmljZSB0d2ljZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBtb250aHMgPSB1dGlsLmdldE1vbnRoTGlzdChzdGFydCwgZW5kKQo=</text>
+        <text encoding="base64">ICBhd2FpdCByb2NrZXQuaW5pdFJvY2tldENsaWVudCgpCiAgICAuY2F0Y2goZXJyID0+IGxvZ2dlci5lcnJvcignZmFpbGVkIHRvIGluaXRpYWxpc2Ugcm9ja2V0IGNsaWVudCEgJyArIGVycikpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ly8gYXN5bmMgZnVuY3Rpb24gcmVhZERheVN1bW1hcnkgKCkgewovLyAgIGNvbnN0IGRheVN1bW1hcnkgPSBhd2FpdCBnY2RzLnJlYWRTdW1tYXJ5T25EYXkoJzIwMTgwNTEwJywgJ1BhdHJpY2tOZXREZXZBbWJpZW50TW9udGgyMDE4MDUnKQovLyAgIGxvZ2dlci5kZWJ1Zygnc3VtbWFyaWVzIGlzICcgKyBKU09OLnN0cmluZ2lmeShkYXlTdW1tYXJ5KSkKLy8gfQovLwovLyByZWFkRGF5U3VtbWFyeSgpCgovLyBhc3luYyBmdW5jdGlvbiByZWFkRGF5U3VtbWFyeUxpc3QgKCkgewovLyAgIGxldCBkYXRlcyA9IFsnMjAxODA1MDgnLCAnMjAxODA1MTAnLCAnMjAxODA1MTEnLCAnMjAxODA1MTInXQovLyAgIGNvbnN0IGRheVN1bW1hcmllcyA9IGF3YWl0IGdjZHMucmVhZERheVN1bW1hcnlMaXN0KGRhdGVzLCAnUGF0cmlja05ldERldkFtYmllbnRNb250aDIwMTgwNScpCi8vICAgbG9nZ2VyLmRlYnVnKCdzdW1tYXJpZXMgaXMgJyArIEpTT04uc3RyaW5naWZ5KGRheVN1bW1hcmllcykpCi8vIH0KLy8KLy8gcmVhZERheVN1bW1hcnlMaXN0KCkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Month/Dates/g</text>
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search encoding="base64">XDxyb2NrZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern encoding="base64">XDxyb2NrZXRcPg==</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -701,6 +703,8 @@
         <entry>found</entry>
         <entry encoding="base64">XDxpbmRleEFsbERheXNcPg==</entry>
         <entry>init</entry>
+        <entry encoding="base64">aGFzIA==</entry>
+        <entry encoding="base64">XDxyb2NrZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new/-g-i</entry>
