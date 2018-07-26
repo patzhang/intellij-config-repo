@@ -101,8 +101,8 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532617538376">
-        <mark key="'" line="77" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532624855558">
+        <mark key="'" line="35" column="9" />
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
@@ -156,12 +156,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532620908046">
-        <mark key="'" line="136" column="25" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="2" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532624983068">
+        <mark key="'" line="152" column="43" />
+        <mark key="[" line="173" column="41" />
+        <mark key="]" line="173" column="41" />
+        <mark key="^" line="173" column="41" />
+        <mark key="." line="173" column="41" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -488,8 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/codeVE/pliny/src/frontend/index.js" />
-      <jump line="47" column="73" filename="$USER_HOME$/codeVE/pliny/src/frontend/index.js" />
       <jump line="9" column="24" filename="$USER_HOME$/codeVE/pliny/src/frontend/index.js" />
       <jump line="7" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
       <jump line="5" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/rollup.config.js" />
@@ -588,6 +586,8 @@
       <jump line="54" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" />
       <jump line="24" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="50" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
+      <jump line="152" column="43" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="35" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,10 +613,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>syncAll</text>
       </register>
       <register name="/" type="4">
-        <text>counting</text>
+        <text>lookup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoZGV0YWlscy5pbWFnZXMgPiAzMDAwKSB7CiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMzAwMCsrCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMjAwMCsrCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUMTAwMCsrCiAgICBidWNrZXRTdW1tYXJ5LmltYWdlc0dUNTAwKysKICAgIGJ1Y2tldFN1bW1hcnkuaW1hZ2VzR1QyMDArKwogICAgYnVja2V0U3VtbWFyeS5pbWFnZXNHVDEwMCsrCg==</text>
@@ -628,37 +628,38 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdCgnc2hvdWxkIHJldHVybiBhIGxpc3Qgb2YgbW9udGgnLCAoKSA9PiB7CiAgLy8gZ2l2ZW4KICBjb25zdCBzdGFydCA9ICcyMDE4MDEyMCcKICBjb25zdCBlbmQgPSAnMjAxODAzMDEnCiAgLy8gd2hlbgogIGNvbnN0IG1vbnRoTGlzdCA9IHV0aWwuZ2V0TW9udGhMaXN0KHN0YXJ0LCBlbmQpCiAgLy8gdGhlbgogIGV4cGVjdChtb250aExpc3QubGVuZ3RoKS50b0JlKDMpCiAgZXhwZWN0KG1vbnRoTGlzdFswXSkudG9CZSgnMjAxODAxJykKICBleHBlY3QobW9udGhMaXN0WzFdKS50b0JlKCcyMDE4MDInKQogIGV4cGVjdChtb250aExpc3RbMl0pLnRvQmUoJzIwMTgwMycpCn0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBnZXRNb250aExpc3QK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGRldGFpbHNGb3JTa3UgPSBhd2FpdCByb2NrZXQuZ2V0RGV0YWlsc0ZvclNrdShza3UpCiAgICBiYXJjb2RlRGljdFtiYXJjb2RlXS5wcm9kdWN0ID0gZGV0YWlsc0ZvclNrdSA9PT0gdW5kZWZpbmVkID8gJ3Vua25vd24nIDogZGV0YWlsc0ZvclNrdS5kZXNjcmlwdGlvbgo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>detailsForSku = await rocket.getDetailsForSku(sku)
+    b</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogcmV0dXJuIGEgbGlzdCBvZiBtb250aHMgaW4gdGhlIHJhbmdlIG9mIHN0YXJ0IGFuZCBlbmQgZGF0ZXMgKi8K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0TW9udGhMaXN0IChzdGFydCwgZW5kKSB7CiAgbGV0IG1vbnRocyA9IFtdCiAgbGV0IGN1cnJlbnQgPSBtb21lbnQoc3RhcnQpCiAgY29uc3QgZW5kRGF0ZSA9IG1vbWVudChlbmQpCiAgd2hpbGUgKGN1cnJlbnQuaXNTYW1lT3JCZWZvcmUoZW5kRGF0ZSkpIHsKICAgIGNvbnN0IG1vbnRoID0gZnJvbURhdGVUb1N0cmluZyhjdXJyZW50KS5zdWJzdHIoMCwgNikKICAgIGlmICghbW9udGhzLmluY2x1ZGVzKG1vbnRoKSkgewogICAgICBtb250aHMucHVzaChtb250aCkKICAgIH0KICAgIGN1cnJlbnQuYWRkKDEsICdkYXlzJykKICB9CiAgcmV0dXJuIG1vbnRocwp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRldGFpbHNGb3JTa3UgPSBhd2FpdCByb2NrZXQuZ2V0RGV0YWlsc0ZvclNrdShza3UpCiAgICBiYXJjb2RlRGljdFtiYXJjb2RlXS5wcm9kdWN0ID0gZGV0YWlsc0ZvclNrdSA9PT0gdW5kZWZpbmVkID8gJ3Vua25vd24nIDogZGV0YWlsc0ZvclNrdS5kZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIGlmIChleGlzdGluZ1NrdURldGFpbHMgIT09ICd1bmtub3duJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNrdSA9IGF3YWl0IHJvY2tldC5nZXRTa3VGb3JCYXJjb2RlKGJhcmNvZGUpCiAgICBiYXJjb2RlRGljdFtiYXJjb2RlXS5za3UgPSBza3UgPT09IHVuZGVmaW5lZCA/ICd1bmtub3duJyA6IHNrdQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Month/Dates/g</text>
       </register>
     </registers>
     <search>
-      <last-search>counting</last-search>
+      <last-search>lookup</last-search>
       <last-offset />
-      <last-pattern>counting</last-pattern>
+      <last-pattern>lookup</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -701,6 +702,7 @@
         <entry>files</entry>
         <entry>scan</entry>
         <entry>counting</entry>
+        <entry>lookup</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new/-g-i</entry>
