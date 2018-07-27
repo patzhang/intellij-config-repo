@@ -101,12 +101,12 @@
         <mark key="." line="102" column="16" />
         <mark key="^" line="102" column="16" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532696895612">
-        <mark key="'" line="79" column="6" />
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="24" column="19" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" timestamp="1532699978221">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="85" column="13" />
+        <mark key="]" line="85" column="17" />
+        <mark key="." line="85" column="17" />
+        <mark key="^" line="85" column="17" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" timestamp="1532636032902">
         <mark key="'" line="19" column="41" />
@@ -157,12 +157,11 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532698720049">
-        <mark key="'" line="96" column="51" />
-        <mark key="[" line="98" column="22" />
-        <mark key="]" line="98" column="24" />
-        <mark key="." line="98" column="24" />
-        <mark key="^" line="98" column="24" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1532700626073">
+        <mark key="'" line="287" column="0" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -299,12 +298,12 @@
       <file name="/Python Console" timestamp="1522069094351">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" timestamp="1532620927127">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" timestamp="1532699748888">
         <mark key="'" line="54" column="2" />
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="21" />
-        <mark key="^" line="32" column="21" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="90" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" timestamp="1521823024234">
         <mark key="'" line="0" column="0" />
@@ -316,7 +315,7 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1532698717541">
+      <file name="/JavaScript Console" timestamp="1532700545039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
@@ -490,13 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/codeVE/pliny/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/pliny/package.json" />
-      <jump line="10" column="42" filename="$USER_HOME$/codeVE/pliny/package.json" />
-      <jump line="14" column="5" filename="$USER_HOME$/codeVE/pliny/package.json" />
-      <jump line="120" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" />
       <jump line="14" column="22" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="58" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="68" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" />
@@ -590,6 +582,13 @@
       <jump line="75" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="96" column="51" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="104" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="154" column="17" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="126" column="56" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="143" column="21" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
+      <jump line="131" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="289" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -615,52 +614,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>each</text>
+        <text>warn</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>no d</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnBuLXN0YXRzLWhlYWRlci10aXRsZSB7CiAgY29sb3I6ICMwMGEzZTA7CiAgZm9udC1zaXplOiAxNHB4OwogIGZvbnQtd2VpZ2h0OiBib2xkOwp9Cg==</text>
+        <text encoding="base64">ICBzdGFydDogJzIwMTgwMTI5JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJhcmNvZGUgPSBkZXRhaWxzLmJhcmNvZGUK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ki8K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">LyoK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ki8K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBhd2FpdCBsb29rdXBTa3VEZXRhaWxzKGJhcmNvZGVEaWN0LCBidWNrZXRTdW1tYXJ5LCBidWNrZXQua2luZEJhcmNvZGVzKQoK</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJhcmNvZGUgPSBkZXRhaWxzLmJhcmNvZGUK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>created</last-search>
+      <last-search>no d</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>no d</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -682,7 +681,6 @@
         <entry>lookup</entry>
         <entry>key</entry>
         <entry encoding="base64">XDxleGlzdGluZ1NrdURldGFpbHNcPg==</entry>
-        <entry>found</entry>
         <entry>get(</entry>
         <entry>get</entry>
         <entry>failed to save or delete</entry>
@@ -691,6 +689,9 @@
         <entry>stats-header-ti</entry>
         <entry>total</entry>
         <entry>created</entry>
+        <entry encoding="base64">dXBkYXRlZCB0aGUg</entry>
+        <entry>found</entry>
+        <entry>no d</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new//-ig</entry>
