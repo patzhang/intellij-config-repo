@@ -157,11 +157,12 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1534946832075">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1535020723320">
         <mark key="'" line="91" column="8" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="57" column="72" />
+        <mark key="]" line="57" column="84" />
+        <mark key="." line="57" column="84" />
+        <mark key="^" line="57" column="84" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -614,7 +615,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.toLocaleTimeString()</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>readAllDay</text>
