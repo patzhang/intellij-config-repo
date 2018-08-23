@@ -230,11 +230,6 @@
         <mark key="." line="38" column="29" />
         <mark key="^" line="38" column="29" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-web-server-util/src/koa-utils.js" timestamp="1532430427443">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" timestamp="1521645912459">
         <mark key="'" line="23" column="7" />
         <mark key="[" line="47" column="11" />
@@ -347,11 +342,6 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.html" timestamp="1532532325257">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/pliny/rollup.config.js" timestamp="1532537091139">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="26" column="0" />
@@ -364,7 +354,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529657347336">
+      <file name="/Dummy.txt" timestamp="1535036513350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/populate_job_templates.py" timestamp="1520244541293">
@@ -373,11 +363,6 @@
         <mark key="]" line="47" column="15" />
         <mark key="." line="47" column="15" />
         <mark key="^" line="47" column="15" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/config.json" timestamp="1531835871224">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521805920126">
         <mark key="'" line="42" column="59" />
@@ -664,21 +649,10 @@
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>processed</entry>
-        <entry>files</entry>
-        <entry>scan</entry>
-        <entry>counting</entry>
-        <entry>lookup</entry>
-        <entry>key</entry>
-        <entry encoding="base64">XDxleGlzdGluZ1NrdURldGFpbHNcPg==</entry>
-        <entry>get(</entry>
-        <entry>get</entry>
-        <entry>failed to save or delete</entry>
-        <entry>failed to save</entry>
         <entry>readSummary</entry>
         <entry>stats-header-ti</entry>
         <entry>total</entry>
