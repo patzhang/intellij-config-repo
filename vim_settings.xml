@@ -57,12 +57,12 @@
         <mark key="." line="460" column="21" />
         <mark key="^" line="460" column="21" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" timestamp="1535465218835">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" timestamp="1535465456066">
         <mark key="'" line="3" column="32" />
-        <mark key="[" line="74" column="2" />
-        <mark key="]" line="74" column="5" />
-        <mark key="." line="74" column="5" />
-        <mark key="^" line="74" column="5" />
+        <mark key="[" line="75" column="18" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="75" column="19" />
+        <mark key="^" line="60" column="10" />
       </file>
       <file name="/a.dummy" timestamp="1522057431033">
         <mark key="[" line="0" column="0" />
@@ -157,8 +157,8 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1535464187027">
-        <mark key="'" line="98" column="30" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1535467122101">
+        <mark key="'" line="100" column="8" />
         <mark key="[" line="273" column="19" />
         <mark key="]" line="273" column="20" />
         <mark key="." line="273" column="20" />
@@ -475,8 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="257" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="282" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="259" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="77" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
@@ -494,7 +492,6 @@
       <jump line="54" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" />
       <jump line="24" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="50" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
-      <jump line="152" column="43" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="35" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="20" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="38" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
@@ -550,7 +547,6 @@
       <jump line="276" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="62" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="65" column="77" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="262" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="268" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="287" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -575,6 +571,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="75" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="3" column="32" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
+      <jump line="152" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="100" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -600,52 +600,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bG9vcCB0aHJvdWdoIA==</text>
       </register>
       <register name="/" type="4">
-        <text>indexing bu</text>
+        <text>Promise</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNyb25UaW1lOiAnMCAqLzEgKiAqIDEtNicsIC8vIHJ1bnMgYXQgZXZlcnkgaG91ciBmcm9tIE1vbmRheSB0byBTYXR1cmRheQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyBsZXQgc3VtbWFyaWVzID0gW10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGxEYXlzLm1hcCh0aGlzRGF5LCApCiAgd2hpbGUgKGN1cnJlbnQuaXNTYW1lT3JCZWZvcmUoZW5kRGF0ZSkpIHsKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGRheUhhbmRsZXIoYnVja2V0LCBjdXJyZW50LmZvcm1hdCgnWVlZWU1NREQnKSkKICAgIHN1bW1hcmllcy5wdXNoKHJlc3VsdCkKICAgIHRvdGFsKysKICAgIGN1cnJlbnQuYWRkKDEsICdkYXlzJykKICB9Cg==</text>
+        <text encoding="base64">CiAgLy8gYXdhaXQgUHJvbWlzZS5hbGwoYWxsRGF5cy5tYXAoYXN5bmMgdGhpc0RheSA9PiB7CiAgLy8gICBjb25zdCByZXN1bHQgPSBhd2FpdCBkYXlIYW5kbGVyKGJ1Y2tldCwgdGhpc0RheSkKICAvLyAgIHN1bW1hcmllcy5wdXNoKHJlc3VsdCkKICAvLyB9KSkKCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICBhbGxEYXlzLm1hcCh0aGlzRGF5LCApCiAgd2hpbGUgKGN1cnJlbnQuaXNTYW1lT3JCZWZvcmUoZW5kRGF0ZSkpIHsKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IGRheUhhbmRsZXIoYnVja2V0LCBjdXJyZW50LmZvcm1hdCgnWVlZWU1NREQnKSkKICAgIHN1bW1hcmllcy5wdXNoKHJlc3VsdCkKICAgIHRvdGFsKysKICAgIGN1cnJlbnQuYWRkKDEsICdkYXlzJykKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gSW5kZXhpbmcgY2hpbGwgYnVja2V0OiBwcm9kdWN0LWltYWdlLWRhdGEK</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gSW5kZXhpbmcgYW1iaWVudCBidWNrZXQ6IHByb2R1Y3QtaW1hZ2UtZGF0YS1vc3IK</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKgogICovCg==</text>
+        <text encoding="base64">Ly8gSW5kZXhpbmcgY2hpbGwgYnVja2V0OiBwcm9kdWN0LWltYWdlLWRhdGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBJbmRleGluZyBjaGlsbCBidWNrZXQ6IHByb2R1Y3QtaW1hZ2UtZGF0YQo=</text>
+        <text encoding="base64">Ly8gSW5kZXhpbmcgYW1iaWVudCBidWNrZXQ6IHByb2R1Y3QtaW1hZ2UtZGF0YS1vc3IK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>indexing bu</last-search>
+      <last-search>Promise</last-search>
       <last-offset />
-      <last-pattern>indexing bu</last-pattern>
+      <last-pattern>Promise</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -676,6 +676,7 @@
         <entry>Promise.a</entry>
         <entry>Promise.all</entry>
         <entry>indexing bu</entry>
+        <entry>Promise</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new//-ig</entry>

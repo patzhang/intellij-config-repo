@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellIntegration" value="false" />
+    <option name="myOverrideIdeShortcuts" value="false" />
   </component>
 </application>
