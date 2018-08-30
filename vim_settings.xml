@@ -318,6 +318,12 @@
       <file name="/JavaScript Console" timestamp="1535463602718">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/.gitlab-ci.yml" timestamp="1535638609094">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="1" column="70" />
+        <mark key="]" line="1" column="71" />
+        <mark key="." line="1" column="71" />
+      </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="29" column="20" />
@@ -479,7 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
       <jump line="50" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
       <jump line="78" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="82" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -579,6 +584,7 @@
       <jump line="52" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="262" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="114" column="34" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="22" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/.gitlab-ci.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -657,13 +663,6 @@
     </search>
     <history>
       <history-search>
-        <entry>readSummary</entry>
-        <entry>stats-header-ti</entry>
-        <entry>total</entry>
-        <entry encoding="base64">dXBkYXRlZCB0aGUg</entry>
-        <entry>found</entry>
-        <entry>no d</entry>
-        <entry>readbar</entry>
         <entry>datestr</entry>
         <entry>created</entry>
         <entry>readBarcodeEntity</entry>
