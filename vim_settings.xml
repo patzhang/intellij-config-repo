@@ -416,7 +416,8 @@
         <mark key="." line="95" column="10" />
         <mark key="^" line="95" column="10" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" timestamp="1532619699356">
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" timestamp="1535984439670">
+        <mark key="'" line="3" column="6" />
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="73" />
         <mark key="." line="51" column="73" />
@@ -485,7 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="21" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="16" column="34" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="23" column="21" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
       <jump line="43" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
@@ -585,6 +585,7 @@
       <jump line="67" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="239" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="47" column="42" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="3" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,7 +614,7 @@
         <text>files.length</text>
       </register>
       <register name="/" type="4">
-        <text>updating</text>
+        <text encoding="base64">XDxwcm9taXNlUmV0cnlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>{bucketName: bucket.name}, dateString</text>
@@ -653,9 +654,9 @@
       </register>
     </registers>
     <search>
-      <last-search>updating</last-search>
+      <last-search encoding="base64">XDxwcm9taXNlUmV0cnlcPg==</last-search>
       <last-offset />
-      <last-pattern>updating</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9taXNlUmV0cnlcPg==</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -689,6 +690,7 @@
         <entry>indexall</entry>
         <entry>indexAllDay</entry>
         <entry>updating</entry>
+        <entry encoding="base64">XDxwcm9taXNlUmV0cnlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new//-ig</entry>
