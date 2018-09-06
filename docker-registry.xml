@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="patrick.zhang@ocado.com">
+      <option name="address" value="mirror-internal.docker.tech.lastmile.com" />
+      <option name="name" value="Ocado Docker Registry" />
+      <option name="username" value="patrick.zhang" />
+    </DockerRegistry>
+  </component>
+</application>
