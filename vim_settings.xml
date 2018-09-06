@@ -252,11 +252,6 @@
         <mark key="^" line="68" column="66" />
         <mark key="." line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/codeVE/pliny/package.json" timestamp="1532538529327">
-        <mark key="'" line="14" column="5" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="46" />
-      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1535472991647">
         <mark key="'" line="71" column="26" />
         <mark key="[" line="10" column="0" />
@@ -352,11 +347,6 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/pliny/rollup.config.js" timestamp="1532537091139">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="28" column="3" />
-      </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.py" timestamp="1522066566853">
         <mark key="'" line="39" column="60" />
         <mark key="[" line="2" column="75" />
@@ -394,6 +384,9 @@
         <mark key="]" line="21" column="25" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" timestamp="1536226336339">
+        <mark key="'" line="32" column="47" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532635764681">
         <mark key="'" line="86" column="0" />
@@ -486,7 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
       <jump line="71" column="26" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
       <jump line="108" column="25" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="77" column="61" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
@@ -586,6 +578,7 @@
       <jump line="92" column="11" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="191" column="68" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="98" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="32" column="47" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -660,20 +653,10 @@
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>datestr</entry>
-        <entry>created</entry>
-        <entry>readBarcodeEntity</entry>
-        <entry>failed to update</entry>
-        <entry>updateBarcodes</entry>
-        <entry>daySummaries</entry>
-        <entry>has daySummary</entry>
-        <entry>has daySumm</entry>
-        <entry encoding="base64">XDxyZWFkQWxsRGF5U3VtbWFyaWVzXD4=</entry>
-        <entry>readAllDaySummaries</entry>
         <entry>readAllDay</entry>
         <entry>indexOnly</entry>
         <entry encoding="base64">XDxpbmRleEFsbERheXNcPg==</entry>
@@ -696,7 +679,6 @@
         <entry>curren</entry>
       </history-search>
       <history-cmd>
-        <entry>s/_new//-ig</entry>
         <entry>s/_new//-g</entry>
         <entry>s/count-by-day/countByDay/-g</entry>
         <entry>%s/count-by-day/countByDay/g</entry>
