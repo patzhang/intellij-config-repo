@@ -157,13 +157,19 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1536068602708">
-        <mark key="a" line="247" column="2" />
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="68" column="1" />
-        <mark key="^" line="96" column="1" />
-        <mark key="." line="68" column="1" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/Dockerfile.local" timestamp="1536772417444">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+      </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1536772229412">
+        <mark key="a" line="248" column="2" />
+        <mark key="'" line="266" column="2" />
+        <mark key="[" line="239" column="52" />
+        <mark key="]" line="240" column="28" />
+        <mark key="^" line="240" column="28" />
+        <mark key="." line="240" column="28" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -471,10 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="26" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
-      <jump line="108" column="25" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
-      <jump line="77" column="61" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
-      <jump line="274" column="28" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="25" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="19" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="105" column="70" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -513,7 +515,6 @@
       <jump line="99" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/bluebird/js/release/map.js" />
       <jump line="123" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="52" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="262" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="114" column="34" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
@@ -571,6 +572,11 @@
       <jump line="191" column="68" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="98" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="32" column="47" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
+      <jump line="139" column="31" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="54" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="265" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/Dockerfile.local" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -596,10 +602,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>curren</text>
+        <text encoding="base64">XDx0b2RheVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsb2dnZXIuaW5mbygndGVzdCBzdGFydCcpCg==</text>
@@ -639,13 +645,13 @@
       </register>
     </registers>
     <search>
-      <last-search>curren</last-search>
+      <last-search encoding="base64">XDx0b2RheVw+</last-search>
       <last-offset />
-      <last-pattern>curren</last-pattern>
+      <last-pattern encoding="base64">XDx0b2RheVw+</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -669,6 +675,8 @@
         <entry>retry</entry>
         <entry>curcurr</entry>
         <entry>curren</entry>
+        <entry>today</entry>
+        <entry encoding="base64">XDx0b2RheVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new//-g</entry>
