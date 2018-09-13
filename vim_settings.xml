@@ -400,8 +400,8 @@
         <mark key="^" line="57" column="31" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1521480662758">
-        <mark key="'" line="90" column="39" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1536847727423">
+        <mark key="'" line="19" column="0" />
         <mark key="[" line="95" column="9" />
         <mark key="]" line="95" column="10" />
         <mark key="." line="95" column="10" />
@@ -477,7 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="91" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="104" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" />
       <jump line="57" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -577,6 +576,7 @@
       <jump line="121" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="272" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="262" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -605,7 +605,7 @@
         <text>, today</text>
       </register>
       <register name="/" type="4">
-        <text>today</text>
+        <text encoding="base64">XDxSVUxFX0ZJTEVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgdG9kYXkgPSB1dGlsLmZyb21EYXRlVG9TdHJpbmcobmV3IERhdGUoKSkK</text>
@@ -645,9 +645,9 @@
       </register>
     </registers>
     <search>
-      <last-search>today</last-search>
+      <last-search encoding="base64">XDxSVUxFX0ZJTEVcPg==</last-search>
       <last-offset />
-      <last-pattern>today</last-pattern>
+      <last-pattern encoding="base64">XDxSVUxFX0ZJTEVcPg==</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -655,8 +655,6 @@
     </search>
     <history>
       <history-search>
-        <entry>readAllDay</entry>
-        <entry>indexOnly</entry>
         <entry encoding="base64">XDxpbmRleEFsbERheXNcPg==</entry>
         <entry>Promise.a</entry>
         <entry>Promise.all</entry>
@@ -677,6 +675,7 @@
         <entry>curren</entry>
         <entry encoding="base64">XDx0b2RheVw+</entry>
         <entry>today</entry>
+        <entry encoding="base64">XDxSVUxFX0ZJTEVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new//-g</entry>
