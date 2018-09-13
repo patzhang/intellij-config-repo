@@ -87,6 +87,11 @@
         <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="32" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" timestamp="1536849780650">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/logger.js" timestamp="1517928241828">
         <mark key="'" line="30" column="7" />
         <mark key="[" line="18" column="19" />
@@ -285,7 +290,7 @@
         <mark key="." line="116" column="29" />
         <mark key="^" line="116" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1536247619080">
+      <file name="/Python Console" timestamp="1536849513341">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" timestamp="1535730091207">
@@ -369,6 +374,12 @@
         <mark key="." line="33" column="10" />
         <mark key="^" line="46" column="52" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/input/config.ini" timestamp="1536849506149">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_load_configurations.py" timestamp="1521730349837">
         <mark key="'" line="4" column="57" />
         <mark key="[" line="16" column="51" />
@@ -383,8 +394,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" timestamp="1536226336339">
-        <mark key="'" line="32" column="47" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" timestamp="1536849283232">
+        <mark key="'" line="75" column="37" />
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="69" column="37" />
+        <mark key="." line="69" column="37" />
+        <mark key="^" line="69" column="37" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532635764681">
         <mark key="'" line="86" column="0" />
@@ -477,14 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="104" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" />
-      <jump line="57" column="18" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="55" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="301" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="276" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="62" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="268" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="287" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="293" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="6" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -577,6 +584,14 @@
       <jump line="272" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="262" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="19" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" />
+      <jump line="46" column="39" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" />
+      <jump line="3" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" />
+      <jump line="43" column="39" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" />
+      <jump line="34" column="42" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
+      <jump line="11" column="15" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" />
+      <jump line="20" column="15" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" />
+      <jump line="48" column="15" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" />
+      <jump line="75" column="37" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -602,52 +617,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, today</text>
+        <text>yes</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSVUxFX0ZJTEVcPg==</text>
+        <text>load_config</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgdG9kYXkgPSB1dGlsLmZyb21EYXRlVG9TdHJpbmcobmV3IERhdGUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhd2FpdCBpbmRleE9ubHlUb2RheShidWNrZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhd2FpdCBpbmRleE9ubHlUb2RheShidWNrZXQpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2dlbmVyYXRlX2ZpbGVfbmFtZV93aXRoX2ltYWdlX3RzX3doZW5fY29uZmlndXJlZChzZWxmKToKICAgICAgICAjIGdpdmVuCiAgICAgICAgY29uZmlnX2luaSA9ICcuL2lucHV0L2NvbmZpZ19uZXcuaW5pJwogICAgICAgIGNmZ3MgPSBsb2FkX2NvbmZpZ3VyYXRpb25zKGNvbmZpZ19pbmkpCiAgICAgICAgYmMgPSAnNTAwMDE2OTEyNDc4OScKICAgICAgICBiY190cyA9ICcyMDE4LTAxLTI5XzIyLjI0LjMxLjg1NjExMScKICAgICAgICBpbV90cyA9ICcyMDE4LTAxLTI5XzIyLjI0LjMxLjkwOTExMScKICAgICAgICByZWFkaW5nID0gW2JjX3RzLCBiY10KICAgICAgICBzdWZmaXggPSAncCcKICAgICAgICB0c19kaWZmID0gNTMKICAgICAgICAjIHdoZW4KICAgICAgICBmaWxlX25hbWUgPSBnZW5lcmF0ZV9maWxlX25hbWUocmVhZGluZz1yZWFkaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWdfdHM9aW1fdHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1ZmZpeD1zdWZmaXgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpZmZfbWlsbGlzPXRzX2RpZmYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNmZ3M9Y2ZncykKICAgICAgICAjIHRoZW4KICAgICAgICBzZWxmLmFzc2VydE5vdEluKCdfcF8wNTNfJywgZmlsZV9uYW1lKQogICAgICAgIHNlbGYuYXNzZXJ0SW4oJ190XycsIGZpbGVfbmFtZSkKICAgICAgICBzZWxmLmFzc2VydEluKCcyMDE4LTAxLTI5XzIyLjI0LjMxLjkwOScsIGZpbGVfbmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xvYWRfZnJvbV9jb25maWd1cmF0aW9uc193aGVuX2NvbmZpZ3VyZWQoc2VsZik6CiAgICAgICAgIyBnaXZlbgogICAgICAgIGNvbmZpZ19pbmkgPSAnLi9pbnB1dC9jb25maWdfbmV3LmluaScKICAgICAgICAjIHdoZW4KICAgICAgICBjZmdzID0gbG9hZF9jb25maWd1cmF0aW9ucyhjb25maWdfaW5pKQogICAgICAgICMgdGhlbgogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwoJ1ZFeCcsIGNmZ3NbQ0ZHX0NBTUVSQV9JRF0pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgyMCwgY2Znc1tDRkdfTlVNX0lNR19CNF9CQ10pCiAgICAgICAgc2VsZi5hc3NlcnRFcXVhbCgzLCBjZmdzW0NGR19OVU1fSU1HX0FGX0JDXSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgdG9kYXkgPSB1dGlsLmZyb21EYXRlVG9TdHJpbmcobmV3IERhdGUoKSkK</text>
+        <text encoding="base64">ICBhd2FpdCBpbmRleE9ubHlUb2RheShidWNrZXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhd2FpdCBpbmRleE9ubHlUb2RheShidWNrZXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnYmVmb3JlIGRlbGV0aW5nIGJhcmNvZGVzJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnYmVmb3JlIGNhbGN1bGF0aW5nIHN1bW1hcnknKQo=</text>
+        <text encoding="base64">Y29uc3QgdG9kYXkgPSB1dGlsLmZyb21EYXRlVG9TdHJpbmcobmV3IERhdGUoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiAhXy5rZXlzKGJhcmNvZGVEaWN0KS5pbmNsdWRlcyhiYXJjb2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygndGVzdCBmaW5pc2hlZCcpCg==</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnYmVmb3JlIGRlbGV0aW5nIGJhcmNvZGVzJykK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSVUxFX0ZJTEVcPg==</last-search>
+      <last-search>load_config</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSVUxFX0ZJTEVcPg==</last-pattern>
+      <last-pattern>load_config</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -676,6 +691,11 @@
         <entry encoding="base64">XDx0b2RheVw+</entry>
         <entry>today</entry>
         <entry encoding="base64">XDxSVUxFX0ZJTEVcPg==</entry>
+        <entry encoding="base64">XDxDRkdfU1RBVElPTl9JRFw+</entry>
+        <entry>Service</entry>
+        <entry>serviceto</entry>
+        <entry encoding="base64">XDxsb2FkX2NvbmZpZ3VyYXRpb25zXD4=</entry>
+        <entry>load_config</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new//-g</entry>
