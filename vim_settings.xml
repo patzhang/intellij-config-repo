@@ -163,13 +163,13 @@
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1536772229412">
-        <mark key="a" line="248" column="2" />
-        <mark key="'" line="266" column="2" />
-        <mark key="[" line="239" column="52" />
-        <mark key="]" line="240" column="28" />
-        <mark key="^" line="240" column="28" />
-        <mark key="." line="240" column="28" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1536831119274">
+        <mark key="a" line="247" column="2" />
+        <mark key="'" line="262" column="0" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="^" line="68" column="47" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -477,10 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="19" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="19" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
-      <jump line="105" column="70" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="160" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="99" column="15" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="91" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="104" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.css" />
@@ -516,7 +512,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/node_modules/bluebird/js/release/map.js" />
       <jump line="123" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="52" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="262" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="114" column="34" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
       <jump line="22" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/.gitlab-ci.yml" />
       <jump line="101" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -573,10 +568,15 @@
       <jump line="98" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="32" column="47" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="139" column="31" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="54" column="27" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="265" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/Dockerfile.local" />
+      <jump line="237" column="25" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="264" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="121" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="272" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="262" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -602,52 +602,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>, today</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2RheVw+</text>
+        <text>today</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygndGVzdCBzdGFydCcpCg==</text>
+        <text encoding="base64">Y29uc3QgdG9kYXkgPSB1dGlsLmZyb21EYXRlVG9TdHJpbmcobmV3IERhdGUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnYmVmb3JlIGRlbGV0aW5nIGJhcmNvZGVzJykK</text>
+        <text encoding="base64">ICBhd2FpdCBpbmRleE9ubHlUb2RheShidWNrZXQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygnYmVmb3JlIGNhbGN1bGF0aW5nIHN1bW1hcnknKQo=</text>
+        <text encoding="base64">ICBhd2FpdCBpbmRleE9ubHlUb2RheShidWNrZXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiAhXy5rZXlzKGJhcmNvZGVEaWN0KS5pbmNsdWRlcyhiYXJjb2RlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygndGVzdCBmaW5pc2hlZCcpCg==</text>
+        <text encoding="base64">Y29uc3QgdG9kYXkgPSB1dGlsLmZyb21EYXRlVG9TdHJpbmcobmV3IERhdGUoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsb2dnZXIuaW5mbygndGVzdCBzdGFydCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC50aGVuKGxvZ2dlci5pbmZvKCdkZWxldGVkICcgKyBkYXlTdW1tYXJ5RW50aXR5KSkKICAgIC5jYXRjaChlcnIgPT4gbG9nZ2VyLmVycm9yKCdmYWlsZWQgdG8gZGVsZXRlICcgKyBkYXlTdW1tYXJ5RW50aXR5ICsgJyB3aXRoIGVycjogJyArIGVycikpCg==</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnYmVmb3JlIGRlbGV0aW5nIGJhcmNvZGVzJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGF0YXN0b3JlLnVwc2VydCh7CiAgICBrZXk6IGRhdGFzdG9yZS5rZXkoW2tpbmQsIGVudGl0eV0pLAogICAgZGF0YTogW3sKICAgICAgbmFtZTogcHJvcGVydHksCiAgICAgIHZhbHVlOiBKU09OLnN0cmluZ2lmeShzdW1tYXJ5KSwKICAgICAgZXhjbHVkZUZyb21JbmRleGVzOiB0cnVlCiAgICB9XQogIH0pLnRoZW4obG9nZ2VyLmRlYnVnKCd1cGRhdGVkIHRoZSBlbnRpdHkgWyVzLCAlc10nLCBraW5kLCBlbnRpdHkpKQogICAgLmNhdGNoKGVyciA9PiBsb2dnZXIuZXJyb3IoJ2ZhaWxlZCB0byB1cGRhdGUgZW50aXR5IFslcywgJXNdLicgKyBlcnIsIGtpbmQsIGVudGl0eSkpCg==</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygnYmVmb3JlIGNhbGN1bGF0aW5nIHN1bW1hcnknKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiAhXy5rZXlzKGJhcmNvZGVEaWN0KS5pbmNsdWRlcyhiYXJjb2RlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICBsb2dnZXIuaW5mbygndGVzdCBmaW5pc2hlZCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2RheVw+</last-search>
+      <last-search>today</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2RheVw+</last-pattern>
+      <last-pattern>today</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -675,8 +675,8 @@
         <entry>retry</entry>
         <entry>curcurr</entry>
         <entry>curren</entry>
-        <entry>today</entry>
         <entry encoding="base64">XDx0b2RheVw+</entry>
+        <entry>today</entry>
       </history-search>
       <history-cmd>
         <entry>s/_new//-g</entry>
