@@ -396,12 +396,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" timestamp="1536922377428">
-        <mark key="'" line="45" column="6" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-        <mark key="^" line="169" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" timestamp="1536931352579">
+        <mark key="'" line="151" column="85" />
+        <mark key="[" line="152" column="78" />
+        <mark key="]" line="152" column="79" />
+        <mark key="." line="152" column="79" />
+        <mark key="^" line="151" column="87" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532635764681">
         <mark key="'" line="86" column="0" />
@@ -494,8 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="24" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="151" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="11" column="25" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" />
       <jump line="26" column="6" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" />
       <jump line="14" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" />
@@ -594,6 +592,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="44" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="45" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
+      <jump line="151" column="85" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -619,13 +619,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>raw_</text>
+        <text>'yes'</text>
       </register>
       <register name="/" type="4">
-        <text>configuration</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgd2hpbGUgbm90IHN0b3BfZXZlbnQuaXNfc2V0KCk6Cg==</text>
+        <text encoding="base64">ICAgIGRldi5TZXR0aW5nLkJhc2UuQ2FtZXJhLkdlbklDYW0uQWNxdWlzaXRpb25Db250cm9sLkFjcXVpc2l0aW9uRnJhbWVSYXRlRW5hYmxlID0gNTAgICAgICAjIHVwIHRvIDYwIEZQUwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -662,19 +662,16 @@
       </register>
     </registers>
     <search>
-      <last-search>configuration</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>configuration</last-pattern>
+      <last-pattern>true</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fs</entry>
-        <entry>indexall</entry>
-        <entry>indexAllDay</entry>
         <entry>updating</entry>
         <entry encoding="base64">XDxwcm9taXNlUmV0cnlcPg==</entry>
         <entry>retry</entry>
@@ -695,9 +692,10 @@
         <entry>raw</entry>
         <entry encoding="base64">XDxic1w+</entry>
         <entry>configuration</entry>
+        <entry>10000</entry>
+        <entry>true</entry>
       </history-search>
       <history-cmd>
-        <entry>s/_new//-g</entry>
         <entry>s/count-by-day/countByDay/-g</entry>
         <entry>%s/count-by-day/countByDay/g</entry>
         <entry>%s/count-by-sku/countBySku/gc</entry>
