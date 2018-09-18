@@ -11,14 +11,15 @@
       <mapping pattern=".gcloud-key" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="symlink" type="PLAIN_TEXT" />
-      <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="added flutter" type="PLAIN_TEXT" />
+      <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping ext="oh-my-zsh" type="PLAIN_TEXT" />
       <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping ext="nick" type="PLAIN_TEXT" />
       <mapping ext="alpine" type="PLAIN_TEXT" />
       <mapping ext="justflutter" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
