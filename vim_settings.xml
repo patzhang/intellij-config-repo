@@ -184,14 +184,6 @@
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1536831119274">
-        <mark key="a" line="247" column="2" />
-        <mark key="'" line="262" column="0" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="^" line="68" column="47" />
-        <mark key="." line="240" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
@@ -245,6 +237,10 @@
         <mark key="]" line="74" column="11" />
         <mark key="." line="74" column="11" />
         <mark key="^" line="74" column="10" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/README.md" timestamp="1537278439012">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="55" />
       </file>
       <file name="$USER_HOME$/codeDL/deep-vision/requirements.txt" timestamp="1522068514718">
         <mark key="'" line="0" column="0" />
@@ -301,6 +297,12 @@
         <mark key="." line="4" column="63" />
         <mark key="^" line="4" column="63" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/README.md" timestamp="1537282718739">
+        <mark key="[" line="85" column="59" />
+        <mark key="]" line="85" column="59" />
+        <mark key="^" line="85" column="59" />
+        <mark key="." line="85" column="59" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" timestamp="1520505610265">
         <mark key="'" line="67" column="30" />
         <mark key="[" line="71" column="11" />
@@ -314,6 +316,12 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
         <mark key="^" line="221" column="0" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/install-snake-vision.sh" timestamp="1537282955745">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
@@ -348,12 +356,12 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537277076964">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537277461294">
         <mark key="'" line="46" column="51" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="125" column="9" />
+        <mark key="[" line="124" column="37" />
+        <mark key="]" line="124" column="37" />
+        <mark key="." line="124" column="37" />
+        <mark key="^" line="124" column="36" />
       </file>
       <file name="/JavaScript Console" timestamp="1536068402252">
         <mark key="[" line="0" column="0" />
@@ -516,6 +524,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="25" column="106" />
       </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" timestamp="1537284325427">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="24" column="9" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/index.yaml" timestamp="1530721751753">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="1" column="2" />
@@ -545,10 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/Dockerfile.local" />
-      <jump line="237" column="25" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="264" column="8" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="121" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="272" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="262" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -645,6 +655,10 @@
       <jump line="16" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="48" column="51" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="3" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-eagle/config-setup.sh" />
+      <jump line="119" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/install-snake-vision.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
+      <jump line="50" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
+      <jump line="14" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -673,19 +687,19 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>main(</text>
+        <text>sudo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">VklTSU9OX1NFUlZJQ0U9Ii4vdmUtc2VydmljZS8xMHgtdmlzaW9uLnNlcnZpY2UiClNFUlZJQ0VfRElSPSIvbGliL3N5c3RlbWQvc3lzdGVtIgo=</text>
+        <text encoding="base64">LSBjb3B5IHRoZSBjb25maWcuaW5pIHRvIC9ob21lCi0gdXBkYXRlIHRoZSBjb25maWd1cmF0aW9ucyBhY2NvcmRpbmdseQotIGJvdGggZ2NzX3VwbG9hZGVyIGFuZCBlYWdsZS12aXNpb24gd2lsbCByZWFkIHRoaXMgZmlsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF91c2FnZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2aXNpb25fYXBwPSR7QVJHVn0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -694,28 +708,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iy9ob21lL3BhdHJpY2t6aGFuZy92ZS1jb2RlL3ZlLWhvcnNlLXZpc2lvbi12NC9ob3JzZV92aXNpb25fdjQucHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Iy9ob21lL3BhdHJpY2t6aGFuZy92ZS1jb2RlL3ZlLWhvcnNlLXZpc2lvbi12NC9ob3JzZV92aXNpb25fdjQucHkKI3B5dGhvbiAvaG9tZS9wYXRyaWNremhhbmcvdmUtZGVwbG95bWVudC92ZS1zbmFrZS12aXNpb24tdjEvc25ha2VfdmlzaW9uLnB5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVhZG9ubHkgUFJPR19ESVI9JChyZWFkbGluayAtbSAkKGRpcm5hbWUgJDApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnNldCAtZQoKRElSX0hPTUU9Jy9ob21lL3BhdHJpY2t6aGFuZycKRElSX0RFUExPWU1FTlQ9JHtESVJfSE9NRX0vJ3ZlLWRlcGxveW1lbnQnCkRJUl9CQUNLVVA9JHtESVJfREVQTE9ZTUVOVH0vJ2JhY2t1cCcKCkNPREVfVklTSU9OPSd2ZS1zbmFrZS12aXNpb24tdjEnCkNPREVfR0NTX1VQTE9BRD0ndXBsb2FkX3RvX2djcycKQ09ERV9WRV9TRVJWSUNFPSd2ZS1zZXJ2aWNlJwpDT0RFX1ZFX1dJRkk9J3ZlLXdpZmknCgpmdW5jdGlvbiBkZXBsb3lfY29kZSgpIHsKICAgIGVjaG8gLWUgIlxuIgogICAgZWNobyAiRGVwbG95aW5nIGNvZGUgZnJvbSAkMSB0byAkMiAuLi4iCiAgICAjIGJhY2t1cCB0aGUgcHJldmlvdXMgZGVwbG95bWVudAogICAgaWYgWyAtZCAke0RJUl9ERVBMT1lNRU5UfS8kMiBdOyB0aGVuCiAgICAgICAgRElSX0NPREVfT1JHPSR7RElSX0RFUExPWU1FTlR9LyQyCiAgICAgICAgRElSX0NPREVfQkFLPSR7RElSX0JBQ0tVUH0vJDIuJChkYXRlICslcykKICAgICAgICBlY2hvICJCYWNrdXAgcGVydmlvdXMgY29kZSB0byAke0RJUl9DT0RFX0JBS30gLi4uIgogICAgICAgIGNwIC1hdnAgJHtESVJfQ09ERV9PUkd9ICR7RElSX0NPREVfQkFLfQoKICAgICAgICBybSAtcmYgJHtESVJfQ09ERV9PUkd9CiAgICBmaQogICAgIyBkZXBsb3kgbmV3IGNvZGUKICAgIGNwIC1hdnAgJDEgJHtESVJfREVQTE9ZTUVOVH0KICAgIGVjaG8gIkRlcGxveWVkICQxLiIKfQoKZWNobyAtZSAiXG5EZXBsb3lpbmcgbmV3IGNvZGUgdG8gJHtESVJfREVQTE9ZTUVOVH0gLi4uIgoKaWYgWyAhIC1kICR7RElSX0RFUExPWU1FTlR9IF07IHRoZW4KICAgIGVjaG8gIkNyZWF0aW5nIGRpcmVjdG9yeSAke0RJUl9ERVBMT1lNRU5UfSAuLi4iCiAgICBta2RpciAke0RJUl9ERVBMT1lNRU5UfQpmaQoKaWYgWyAhIC1kICR7RElSX0JBQ0tVUH0gXTsgdGhlbgogICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7RElSX0JBQ0tVUH0gLi4uIgogICAgbWtkaXIgJHtESVJfQkFDS1VQfQpmaQoKZGVwbG95X2NvZGUgIi4vJHtDT0RFX1ZJU0lPTn0iICR7Q09ERV9WSVNJT059CmRlcGxveV9jb2RlICIuLyR7Q09ERV9HQ1NfVVBMT0FEfSIgJHtDT0RFX0dDU19VUExPQUR9CmRlcGxveV9jb2RlICIuL2luc3RhbGxhdGlvbi12ZS1zbmFrZS8ke0NPREVfVkVfU0VSVklDRX0iICR7Q09ERV9WRV9TRVJWSUNFfQpkZXBsb3lfY29kZSAiLi9pbnN0YWxsYXRpb24tdmUtc25ha2UvJHtDT0RFX1ZFX1dJRkl9IiAke0NPREVfVkVfV0lGSX0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgpmdW5jdGlvbiBtYWluKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>main(</last-search>
+      <last-search>sudo</last-search>
       <last-offset />
-      <last-pattern>main(</last-pattern>
+      <last-pattern>sudo</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
@@ -749,8 +763,9 @@
         <entry encoding="base64">XDxpbnN0YWxsX2FwcHNfb25fdWJ1bnR1XD4=</entry>
         <entry>disa</entry>
         <entry encoding="base64">XDxXTEFOX0ZJTEVcPg==</entry>
-        <entry>setup</entry>
         <entry>main(</entry>
+        <entry>setup</entry>
+        <entry>sudo</entry>
       </history-search>
       <history-cmd>
         <entry>s/count-by-day/countByDay/-g</entry>
