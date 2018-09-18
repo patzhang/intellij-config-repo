@@ -396,12 +396,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" timestamp="1536932891457">
-        <mark key="'" line="584" column="4" />
-        <mark key="[" line="152" column="78" />
-        <mark key="]" line="152" column="80" />
-        <mark key="." line="152" column="101" />
-        <mark key="^" line="152" column="80" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" timestamp="1536941052785">
+        <mark key="'" line="254" column="0" />
+        <mark key="[" line="149" column="71" />
+        <mark key="]" line="149" column="71" />
+        <mark key="." line="149" column="71" />
+        <mark key="^" line="149" column="70" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images/index.js" timestamp="1532635764681">
         <mark key="'" line="86" column="0" />
@@ -494,7 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="99" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="83" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="15" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
@@ -594,6 +593,7 @@
       <jump line="225" column="41" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="233" column="28" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="584" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
+      <jump line="254" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -619,10 +619,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>50</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWFnZXNfYWZfYmNcPg==</text>
+        <text>gain</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRldi5TZXR0aW5nLkJhc2UuQ2FtZXJhLkdlbklDYW0uQWNxdWlzaXRpb25Db250cm9sLkFjcXVpc2l0aW9uRnJhbWVSYXRlRW5hYmxlID0gNTAgICAgICAjIHVwIHRvIDYwIEZQUwo=</text>
@@ -662,9 +662,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbWFnZXNfYWZfYmNcPg==</last-search>
+      <last-search>gain</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWFnZXNfYWZfYmNcPg==</last-pattern>
+      <last-pattern>gain</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -672,13 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updating</entry>
-        <entry encoding="base64">XDxwcm9taXNlUmV0cnlcPg==</entry>
-        <entry>retry</entry>
-        <entry>curcurr</entry>
-        <entry>curren</entry>
-        <entry encoding="base64">XDx0b2RheVw+</entry>
-        <entry>today</entry>
         <entry encoding="base64">XDxSVUxFX0ZJTEVcPg==</entry>
         <entry encoding="base64">XDxDRkdfU1RBVElPTl9JRFw+</entry>
         <entry>Service</entry>
@@ -699,6 +692,7 @@
         <entry encoding="base64">XDxDRkdfTlVNX0lNR19CNF9CQ1w+</entry>
         <entry encoding="base64">XDxpbWFnZXNfYjRfYmNcPg==</entry>
         <entry encoding="base64">XDxpbWFnZXNfYWZfYmNcPg==</entry>
+        <entry>gain</entry>
       </history-search>
       <history-cmd>
         <entry>s/count-by-day/countByDay/-g</entry>
