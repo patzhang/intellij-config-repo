@@ -310,12 +310,12 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537269032143">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="34" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="21" column="34" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537272955698">
+        <mark key="'" line="82" column="36" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="/JavaScript Console" timestamp="1536068402252">
         <mark key="[" line="0" column="0" />
@@ -501,9 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
-      <jump line="120" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="64" column="12" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="106" column="4" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="30" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
       <jump line="15" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
@@ -601,6 +598,9 @@
       <jump line="57" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="113" column="1" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="94" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
+      <jump line="10" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
+      <jump line="75" column="2" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
+      <jump line="82" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -626,10 +626,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$(dirname &quot;$0&quot;)</text>
+        <text>directories and scripts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</text>
+        <text>main</text>
       </register>
       <register name="0" type="4">
         <text>${PROG_DIR}</text>
@@ -669,9 +669,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -701,6 +701,7 @@
         <entry>gain</entry>
         <entry>backup</entry>
         <entry encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>s/count-by-day/countByDay/-g</entry>
