@@ -310,11 +310,12 @@
       <file name="internal/async_hooks.js" timestamp="1521962946442">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537263986026">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537269032143">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="21" column="34" />
       </file>
       <file name="/JavaScript Console" timestamp="1536068402252">
         <mark key="[" line="0" column="0" />
@@ -500,10 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/rocket-query.js" />
-      <jump line="43" column="9" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/util.js" />
-      <jump line="260" column="52" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
-      <jump line="40" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="159" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
       <jump line="120" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="64" column="12" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-datastore.js" />
@@ -600,6 +597,10 @@
       <jump line="16" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-ve-snake-code.sh" />
       <jump line="45" column="10" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="23" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
+      <jump line="92" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
+      <jump line="57" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
+      <jump line="113" column="1" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
+      <jump line="94" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -625,52 +626,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>snake</text>
+        <text>$(dirname &quot;$0&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>backup</text>
+        <text encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRldi5TZXR0aW5nLkJhc2UuQ2FtZXJhLkdlbklDYW0uQWNxdWlzaXRpb25Db250cm9sLkFjcXVpc2l0aW9uRnJhbWVSYXRlRW5hYmxlID0gNTAgICAgICAjIHVwIHRvIDYwIEZQUwo=</text>
+      <register name="0" type="4">
+        <text>${PROG_DIR}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">cmVhZG9ubHkgV09SS19ESVI9Imluc3RhbGxhdGlvbi12ZS1jb21tb24iCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VklTSU9OX1NFUlZJQ0U9Ii4vdmUtc2VydmljZS8xMHgtdmlzaW9uLnNlcnZpY2UiClNFUlZJQ0VfRElSPSIvbGliL3N5c3RlbWQvc3lzdGVtIgo=</text>
+        <text encoding="base64">cmVhZG9ubHkgV09SS0RJUj0iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZXBsb3kgdmUgY29kZSB0byAkSE9NRS92ZS1kZXBsb3ltZW50IGRpcmVjdG9yeQpjZCAuLi8gJiYKICBzb3VyY2UgZGVwbG95LXZlLXNuYWtlLWNvZGUuc2ggJiYKICBjZCAuLyR7V09SS19ESVJ9CgppZiBbIC1mICR7U0VSVklDRV9ESVJ9LyQoYmFzZW5hbWUgJHtWSVNJT05fU0VSVklDRX0pIF07IHRoZW4KICAgIGVjaG8gLWUgIk9LOiAxMHgtdmlzaW9uLnNlcnZpY2UgaGFzIGFscmVhZHkgYmVlbiBpbnN0YWxsZWQuXG4iCmVsc2UKICAgIGRlcGxveV9zY3JpcHRfdG9fZGlyICR7VklTSU9OX1NFUlZJQ0V9ICR7U0VSVklDRV9ESVJ9IDY0NAogICAgc3VkbyBzeXN0ZW1jdGwgZGFlbW9uLXJlbG9hZAogICAgc3VkbyBzeXN0ZW1jdGwgZW5hYmxlIDEweC12aXNpb24uc2VydmljZQogICAgZWNobyAiT0s6IDEweC12aXNpb24uc2VydmljZSBpcyBpbnN0YWxsZWQgYW5kIGVuYWJsZWQhIgpmaQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VklTSU9OX1NFUlZJQ0U9Ii4vdmUtc2VydmljZS8xMHgtdmlzaW9uLnNlcnZpY2UiClNFUlZJQ0VfRElSPSIvbGliL3N5c3RlbWQvc3lzdGVtIgoK</text>
+        <text encoding="base64">c2V0dXBfZGlyX3VuZGVyX2hvbWUgJHtJTUFHRV9ESVJ9CnNldHVwX2Rpcl91bmRlcl9ob21lICR7TE9HU19ESVJ9CgojIGluc3RhbGwgdGhlIHNjcmlwdCBmb3IgZGlzYWJsaW5nIHdpZmkgd2hlbiBldGhlcm5ldCBpcyBhdmFpbGFibGUKZGVwbG95X3NjcmlwdF90b19kaXIgJHtXTEFOX0ZJTEV9ICR7Tk1fRElSfSA3MDAKCiMgaW5zdGFsbCB0aGUgc2NyaXB0IGZvciBub3RpZnlpbmcgdGhlIElQIGZyb20gREhDUApkZXBsb3lfc2NyaXB0X3RvX2RpciAke1JVUEVSVF9GSUxFfSAke05NX0RJUn0gNzAwCgojIGluc3RhbGwgdGhlIHVzYiBydWxlIGZvciB1bmJpbmRpbmcgdXNiaGlkIGRyaXZlciBmb3IgdGhlIGJhcmNvZGUgc3BsaXR0ZXIKZGVwbG95X3NjcmlwdF90b19kaXIgJHtSVUxFX0ZJTEV9ICR7VURFVl9ESVJ9IDY0NAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VklTSU9OX1NFUlZJQ0U9Ii4vdmUtc2VydmljZS8xMHgtdmlzaW9uLnNlcnZpY2UiClNFUlZJQ0VfRElSPSIvbGliL3N5c3RlbWQvc3lzdGVtIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKCdHYWluRGI6IHt9Jy5mb3JtYXQoZGV2LlNldHRpbmcuQmFzZS5DYW1lcmEuR2VuSUNhbS5BbmFsb2dDb250cm9sLkdhaW4udmFsdWUpKQogICAgbG9nLmluZm8oJ0dhaW5BdXRvOiB7fScuZm9ybWF0KGRldi5TZXR0aW5nLkJhc2UuQ2FtZXJhLkdlbklDYW0uQW5hbG9nQ29udHJvbC5HYWluQXV0by52YWx1ZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgd2hpbGUgVHJ1ZToKICAgIHdoaWxlIG5vdCBzdG9wX2V2ZW50LmlzX3NldCgpOgogICAgICAgIGlucHV0KCdQcmVzcyBbRW50ZXJdIHRvIHNhdmUgaW1hZ2VzIGluIHRoZSBxdWV1ZTpcbicpCiAgICAgICAgc2F2ZV9ldmVudC5zZXQoKQoK</text>
+        <text encoding="base64">VklTSU9OX1NFUlZJQ0U9Ii4vdmUtc2VydmljZS8xMHgtdmlzaW9uLnNlcnZpY2UiClNFUlZJQ0VfRElSPSIvbGliL3N5c3RlbWQvc3lzdGVtIgoK</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>backup</last-search>
+      <last-search encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</last-search>
       <last-offset />
-      <last-pattern>backup</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</last-pattern>
       <last-replace>Dates</last-replace>
       <last-substitute>Month</last-substitute>
       <last-dir>1</last-dir>
@@ -699,6 +700,7 @@
         <entry encoding="base64">XDxpbWFnZXNfYWZfYmNcPg==</entry>
         <entry>gain</entry>
         <entry>backup</entry>
+        <entry encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/count-by-day/countByDay/-g</entry>
