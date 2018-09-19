@@ -154,11 +154,10 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-snake-vision.sh" timestamp="1537289845978">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="2" column="32" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-snake-vision.sh" timestamp="1537345730543">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1536853271065">
         <mark key="'" line="166" column="12" />
@@ -216,11 +215,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-eagle-vision.sh" timestamp="1537289815471">
-        <mark key="[" line="2" column="44" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-eagle-vision.sh" timestamp="1537345856890">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/ve-eagle/10x-vision-service.sh" timestamp="1537276514068">
         <mark key="[" line="7" column="0" />
@@ -360,10 +359,14 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537286159131">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" timestamp="1537346063912">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537346521547">
         <mark key="'" line="69" column="38" />
-        <mark key="[" line="124" column="37" />
-        <mark key="]" line="124" column="37" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="14" />
         <mark key="." line="124" column="37" />
         <mark key="^" line="124" column="36" />
       </file>
@@ -517,12 +520,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="25" column="106" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" timestamp="1537289935374">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" timestamp="1537290139903">
         <mark key="'" line="81" column="10" />
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="34" column="37" />
-        <mark key="^" line="34" column="37" />
+        <mark key="[" line="95" column="47" />
+        <mark key="]" line="96" column="42" />
+        <mark key="." line="96" column="42" />
+        <mark key="^" line="96" column="42" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/index.yaml" timestamp="1530721751753">
         <mark key="'" line="4" column="17" />
@@ -678,43 +681,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>eagle</text>
+        <text>snake</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2aXNpb25fYXBwX2NvZGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIi4vZGVwbG95LXZpc2lvbi1hcHAuc2ggdmUtZWFnbGUtdmlzaW9uLXYxIiBcCg==</text>
+        <text encoding="base64">c2V0IC1vIGVycmV4aXQKc2V0IC1vIG5vdW5zZXQKc2V0IC1vIHBpcGVmYWlsCiMgc2V0IC1vIHh0cmFjZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0IC1lCgpESVJfSE9NRT0nL2hvbWUvcGF0cmlja3poYW5nJwpESVJfREVQTE9ZTUVOVD0ke0RJUl9IT01FfS8ndmUtZGVwbG95bWVudCcKRElSX0JBQ0tVUD0ke0RJUl9ERVBMT1lNRU5UfS8nYmFja3VwJwoKQ09ERV9WSVNJT049J3ZlLXNuYWtlLXZpc2lvbi12MScKQ09ERV9HQ1NfVVBMT0FEPSd1cGxvYWRfdG9fZ2NzJwpDT0RFX1ZFX1NFUlZJQ0U9J3ZlLXNlcnZpY2UnCkNPREVfVkVfV0lGST0ndmUtd2lmaScKCmZ1bmN0aW9uIGRlcGxveV9jb2RlKCkgewogICAgZWNobyAtZSAiXG4iCiAgICBlY2hvICJEZXBsb3lpbmcgY29kZSBmcm9tICQxIHRvICQyIC4uLiIKICAgICMgYmFja3VwIHRoZSBwcmV2aW91cyBkZXBsb3ltZW50CiAgICBpZiBbIC1kICR7RElSX0RFUExPWU1FTlR9LyQyIF07IHRoZW4KICAgICAgICBESVJfQ09ERV9PUkc9JHtESVJfREVQTE9ZTUVOVH0vJDIKICAgICAgICBESVJfQ09ERV9CQUs9JHtESVJfQkFDS1VQfS8kMi4kKGRhdGUgKyVzKQogICAgICAgIGVjaG8gIkJhY2t1cCBwZXJ2aW91cyBjb2RlIHRvICR7RElSX0NPREVfQkFLfSAuLi4iCiAgICAgICAgY3AgLWF2cCAke0RJUl9DT0RFX09SR30gJHtESVJfQ09ERV9CQUt9CgogICAgICAgIHJtIC1yZiAke0RJUl9DT0RFX09SR30KICAgIGZpCiAgICAjIGRlcGxveSBuZXcgY29kZQogICAgY3AgLWF2cCAkMSAke0RJUl9ERVBMT1lNRU5UfQogICAgZWNobyAiRGVwbG95ZWQgJDEuIgp9CgplY2hvIC1lICJcbkRlcGxveWluZyBuZXcgY29kZSB0byAke0RJUl9ERVBMT1lNRU5UfSAuLi4iCgppZiBbICEgLWQgJHtESVJfREVQTE9ZTUVOVH0gXTsgdGhlbgogICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7RElSX0RFUExPWU1FTlR9IC4uLiIKICAgIG1rZGlyICR7RElSX0RFUExPWU1FTlR9CmZpCgppZiBbICEgLWQgJHtESVJfQkFDS1VQfSBdOyB0aGVuCiAgICBlY2hvICJDcmVhdGluZyBkaXJlY3RvcnkgJHtESVJfQkFDS1VQfSAuLi4iCiAgICBta2RpciAke0RJUl9CQUNLVVB9CmZpCgpkZXBsb3lfY29kZSAiLi8ke0NPREVfVklTSU9OfSIgJHtDT0RFX1ZJU0lPTn0KZGVwbG95X2NvZGUgIi4vJHtDT0RFX0dDU19VUExPQUR9IiAke0NPREVfR0NTX1VQTE9BRH0KZGVwbG95X2NvZGUgIi4vaW5zdGFsbGF0aW9uLXZlLXNuYWtlLyR7Q09ERV9WRV9TRVJWSUNFfSIgJHtDT0RFX1ZFX1NFUlZJQ0V9CmRlcGxveV9jb2RlICIuL2luc3RhbGxhdGlvbi12ZS1zbmFrZS8ke0NPREVfVkVfV0lGSX0iICR7Q09ERV9WRV9XSUZJfQoKZWNobyAtZSAiXG5Db2RlIGRlcGxveW1lbnQgaXMgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSFcbiIK</text>
+        <text encoding="base64">VEVTVD0ndGVzdCcKCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0IC1lCgpESVJfSE9NRT0nL2hvbWUvcGF0cmlja3poYW5nJwpESVJfREVQTE9ZTUVOVD0ke0RJUl9IT01FfS8ndmUtZGVwbG95bWVudCcKRElSX0JBQ0tVUD0ke0RJUl9ERVBMT1lNRU5UfS8nYmFja3VwJwoKQ09ERV9WSVNJT049J3ZlLXNuYWtlLXZpc2lvbi12MScKQ09ERV9HQ1NfVVBMT0FEPSd1cGxvYWRfdG9fZ2NzJwpDT0RFX1ZFX1NFUlZJQ0U9J3ZlLXNlcnZpY2UnCkNPREVfVkVfV0lGST0ndmUtd2lmaScKCmZ1bmN0aW9uIGRlcGxveV9jb2RlKCkgewogICAgZWNobyAtZSAiXG4iCiAgICBlY2hvICJEZXBsb3lpbmcgY29kZSBmcm9tICQxIHRvICQyIC4uLiIKICAgICMgYmFja3VwIHRoZSBwcmV2aW91cyBkZXBsb3ltZW50CiAgICBpZiBbIC1kICR7RElSX0RFUExPWU1FTlR9LyQyIF07IHRoZW4KICAgICAgICBESVJfQ09ERV9PUkc9JHtESVJfREVQTE9ZTUVOVH0vJDIKICAgICAgICBESVJfQ09ERV9CQUs9JHtESVJfQkFDS1VQfS8kMi4kKGRhdGUgKyVzKQogICAgICAgIGVjaG8gIkJhY2t1cCBwZXJ2aW91cyBjb2RlIHRvICR7RElSX0NPREVfQkFLfSAuLi4iCiAgICAgICAgY3AgLWF2cCAke0RJUl9DT0RFX09SR30gJHtESVJfQ09ERV9CQUt9CgogICAgICAgIHJtIC1yZiAke0RJUl9DT0RFX09SR30KICAgIGZpCiAgICAjIGRlcGxveSBuZXcgY29kZQogICAgY3AgLWF2cCAkMSAke0RJUl9ERVBMT1lNRU5UfQogICAgZWNobyAiRGVwbG95ZWQgJDEuIgp9CgplY2hvIC1lICJcbkRlcGxveWluZyBuZXcgY29kZSB0byAke0RJUl9ERVBMT1lNRU5UfSAuLi4iCgppZiBbICEgLWQgJHtESVJfREVQTE9ZTUVOVH0gXTsgdGhlbgogICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7RElSX0RFUExPWU1FTlR9IC4uLiIKICAgIG1rZGlyICR7RElSX0RFUExPWU1FTlR9CmZpCgppZiBbICEgLWQgJHtESVJfQkFDS1VQfSBdOyB0aGVuCiAgICBlY2hvICJDcmVhdGluZyBkaXJlY3RvcnkgJHtESVJfQkFDS1VQfSAuLi4iCiAgICBta2RpciAke0RJUl9CQUNLVVB9CmZpCgpkZXBsb3lfY29kZSAiLi8ke0NPREVfVklTSU9OfSIgJHtDT0RFX1ZJU0lPTn0KZGVwbG95X2NvZGUgIi4vJHtDT0RFX0dDU19VUExPQUR9IiAke0NPREVfR0NTX1VQTE9BRH0KZGVwbG95X2NvZGUgIi4vaW5zdGFsbGF0aW9uLXZlLXNuYWtlLyR7Q09ERV9WRV9TRVJWSUNFfSIgJHtDT0RFX1ZFX1NFUlZJQ0V9CmRlcGxveV9jb2RlICIuL2luc3RhbGxhdGlvbi12ZS1zbmFrZS8ke0NPREVfVkVfV0lGSX0iICR7Q09ERV9WRV9XSUZJfQoKZWNobyAtZSAiXG5Db2RlIGRlcGxveW1lbnQgaXMgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSFcbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIFsgISAtZCAke0RFUExPWU1FTlRfRElSfSBdOyB0aGVuCiAgICAgICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7REVQTE9ZTUVOVF9ESVJ9IC4uLiIKICAgICAgICBta2RpciAke0RFUExPWU1FTlRfRElSfQogICAgZmkKCiAgICBpZiBbICEgLWQgJHtCQUNLVVBfRElSfSBdOyB0aGVuCiAgICAgICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7QkFDS1VQX0RJUn0gLi4uIgogICAgICAgIG1rZGlyICR7QkFDS1VQX0RJUn0KICAgIGZpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIFsgISAtZCAke0RFUExPWU1FTlRfRElSfSBdOyB0aGVuCiAgICAgICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7REVQTE9ZTUVOVF9ESVJ9IC4uLiIKICAgICAgICBta2RpciAke0RFUExPWU1FTlRfRElSfQogICAgZmkKCiAgICBpZiBbICEgLWQgJHtCQUNLVVBfRElSfSBdOyB0aGVuCiAgICAgICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7QkFDS1VQX0RJUn0gLi4uIgogICAgICAgIG1rZGlyICR7QkFDS1VQX0RJUn0KICAgIGZpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkRlcGxveWluZyBjb2RlIGZyb20gJHtzb3VyY2VfZGlyfSB0byAke3RhcmdldF9kaXJ9IC4uLiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbCBvcmlnaW5hbF9jb2RlX2Rpcj0ke0RFUExPWU1FTlRfRElSfS8kMgo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIkRlcGxveWluZyBjb2RlIGZyb20gJHtzb3VyY2VfZGlyfSB0byAke3RhcmdldF9kaXJ9IC4uLiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gLWUgIlxuIgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbCBvcmlnaW5hbF9jb2RlX2Rpcj0ke0RFUExPWU1FTlRfRElSfS8kMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIHNvdXJjZV9kaXI9JDEKICAgIGxvY2FsIHRhcmdldF9kaXI9JDIK</text>
+        <text encoding="base64">ICAgIGVjaG8gLWUgIlxuIgo=</text>
       </register>
       <register name=":" type="4">
         <text>99</text>
@@ -727,22 +730,10 @@
       <last-replace>Dates</last-replace>
       <last-substitute>main(</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDRkdfU1RBVElPTl9JRFw+</entry>
-        <entry>Service</entry>
-        <entry>serviceto</entry>
-        <entry encoding="base64">XDxsb2FkX2NvbmZpZ3VyYXRpb25zXD4=</entry>
-        <entry>load_config</entry>
-        <entry>Failed to find a barcode</entry>
-        <entry>Failed to</entry>
-        <entry>scanner</entry>
-        <entry>usb</entry>
-        <entry>raw</entry>
-        <entry encoding="base64">XDxic1w+</entry>
-        <entry>configuration</entry>
         <entry>10000</entry>
         <entry>true</entry>
         <entry encoding="base64">XDxGUFNcPg==</entry>
@@ -765,8 +756,6 @@
         <entry encoding="base64">XDx2aXNpb25fYXBwX2NvZGVcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/count-by-day/countByDay/-g</entry>
-        <entry>%s/count-by-day/countByDay/g</entry>
         <entry>%s/count-by-sku/countBySku/gc</entry>
         <entry>%s/os.path./path./g</entry>
         <entry>13</entry>
