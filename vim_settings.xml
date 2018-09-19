@@ -96,10 +96,12 @@
         <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" timestamp="1536933102052">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" timestamp="1537351201718">
+        <mark key="'" line="11" column="31" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/indexer/src/logger.js" timestamp="1517928241828">
         <mark key="'" line="30" column="7" />
@@ -154,10 +156,11 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-snake-vision.sh" timestamp="1537345730543">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-snake-vision.sh" timestamp="1537348524398">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1536853271065">
         <mark key="'" line="166" column="12" />
@@ -215,11 +218,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-eagle-vision.sh" timestamp="1537345856890">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="2" column="32" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-eagle-vision.sh" timestamp="1537348544060">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/ve-eagle/10x-vision-service.sh" timestamp="1537276514068">
         <mark key="[" line="7" column="0" />
@@ -359,16 +362,19 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" timestamp="1537346063912">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="6" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" timestamp="1537352225759">
+        <mark key="'" line="66" column="12" />
+        <mark key="[" line="62" column="65" />
+        <mark key="]" line="65" column="53" />
+        <mark key="." line="65" column="53" />
+        <mark key="^" line="65" column="53" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537346521547">
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537349006319">
         <mark key="'" line="69" column="38" />
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="124" column="37" />
-        <mark key="^" line="124" column="36" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/.gitlab-ci.yml" timestamp="1535638609094">
         <mark key="'" line="22" column="8" />
@@ -418,12 +424,12 @@
         <mark key="." line="47" column="15" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1521805920126">
-        <mark key="'" line="42" column="59" />
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="33" column="10" />
-        <mark key="." line="33" column="10" />
-        <mark key="^" line="46" column="52" />
+      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1537351180898">
+        <mark key="'" line="59" column="31" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="59" column="31" />
+        <mark key="^" line="59" column="31" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/input/config.ini" timestamp="1536933061009">
         <mark key="[" line="2" column="15" />
@@ -556,22 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="18" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="128" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="210" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="212" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="218" column="23" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="321" column="24" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="402" column="26" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="4" column="26" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="156" column="14" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="157" column="139" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="159" column="53" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="165" column="46" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="166" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" />
-      <jump line="466" column="18" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="496" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="497" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="498" column="54" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="452" column="35" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
@@ -656,6 +646,22 @@
       <jump line="68" column="10" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
       <jump line="7" column="5" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-eagle-vision.sh" />
       <jump line="52" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-eagle-vision.sh" />
+      <jump line="90" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="12" column="13" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="42" column="27" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="85" column="27" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="97" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="105" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="21" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
+      <jump line="31" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
+      <jump line="59" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
+      <jump line="11" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" />
+      <jump line="101" column="52" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="51" column="59" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="16" column="43" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="62" column="64" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="63" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -681,54 +687,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>snake</text>
+        <text>using</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2aXNpb25fYXBwX2NvZGVcPg==</text>
+        <text>backup</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2V0IC1vIGVycmV4aXQKc2V0IC1vIG5vdW5zZXQKc2V0IC1vIHBpcGVmYWlsCiMgc2V0IC1vIHh0cmFjZQo=</text>
+      <register name="0" type="4">
+        <text>${PROGDIR}/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VEVTVD0ndGVzdCcKCgo=</text>
+        <text encoding="base64">ICAgIGxvY2FsIHZlX3NlcnZpY2VfY29kZT0iMTB4LXZpc2lvbi1zZXJ2aWNlLnNoIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0IC1lCgpESVJfSE9NRT0nL2hvbWUvcGF0cmlja3poYW5nJwpESVJfREVQTE9ZTUVOVD0ke0RJUl9IT01FfS8ndmUtZGVwbG95bWVudCcKRElSX0JBQ0tVUD0ke0RJUl9ERVBMT1lNRU5UfS8nYmFja3VwJwoKQ09ERV9WSVNJT049J3ZlLXNuYWtlLXZpc2lvbi12MScKQ09ERV9HQ1NfVVBMT0FEPSd1cGxvYWRfdG9fZ2NzJwpDT0RFX1ZFX1NFUlZJQ0U9J3ZlLXNlcnZpY2UnCkNPREVfVkVfV0lGST0ndmUtd2lmaScKCmZ1bmN0aW9uIGRlcGxveV9jb2RlKCkgewogICAgZWNobyAtZSAiXG4iCiAgICBlY2hvICJEZXBsb3lpbmcgY29kZSBmcm9tICQxIHRvICQyIC4uLiIKICAgICMgYmFja3VwIHRoZSBwcmV2aW91cyBkZXBsb3ltZW50CiAgICBpZiBbIC1kICR7RElSX0RFUExPWU1FTlR9LyQyIF07IHRoZW4KICAgICAgICBESVJfQ09ERV9PUkc9JHtESVJfREVQTE9ZTUVOVH0vJDIKICAgICAgICBESVJfQ09ERV9CQUs9JHtESVJfQkFDS1VQfS8kMi4kKGRhdGUgKyVzKQogICAgICAgIGVjaG8gIkJhY2t1cCBwZXJ2aW91cyBjb2RlIHRvICR7RElSX0NPREVfQkFLfSAuLi4iCiAgICAgICAgY3AgLWF2cCAke0RJUl9DT0RFX09SR30gJHtESVJfQ09ERV9CQUt9CgogICAgICAgIHJtIC1yZiAke0RJUl9DT0RFX09SR30KICAgIGZpCiAgICAjIGRlcGxveSBuZXcgY29kZQogICAgY3AgLWF2cCAkMSAke0RJUl9ERVBMT1lNRU5UfQogICAgZWNobyAiRGVwbG95ZWQgJDEuIgp9CgplY2hvIC1lICJcbkRlcGxveWluZyBuZXcgY29kZSB0byAke0RJUl9ERVBMT1lNRU5UfSAuLi4iCgppZiBbICEgLWQgJHtESVJfREVQTE9ZTUVOVH0gXTsgdGhlbgogICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7RElSX0RFUExPWU1FTlR9IC4uLiIKICAgIG1rZGlyICR7RElSX0RFUExPWU1FTlR9CmZpCgppZiBbICEgLWQgJHtESVJfQkFDS1VQfSBdOyB0aGVuCiAgICBlY2hvICJDcmVhdGluZyBkaXJlY3RvcnkgJHtESVJfQkFDS1VQfSAuLi4iCiAgICBta2RpciAke0RJUl9CQUNLVVB9CmZpCgpkZXBsb3lfY29kZSAiLi8ke0NPREVfVklTSU9OfSIgJHtDT0RFX1ZJU0lPTn0KZGVwbG95X2NvZGUgIi4vJHtDT0RFX0dDU19VUExPQUR9IiAke0NPREVfR0NTX1VQTE9BRH0KZGVwbG95X2NvZGUgIi4vaW5zdGFsbGF0aW9uLXZlLXNuYWtlLyR7Q09ERV9WRV9TRVJWSUNFfSIgJHtDT0RFX1ZFX1NFUlZJQ0V9CmRlcGxveV9jb2RlICIuL2luc3RhbGxhdGlvbi12ZS1zbmFrZS8ke0NPREVfVkVfV0lGSX0iICR7Q09ERV9WRV9XSUZJfQoKZWNobyAtZSAiXG5Db2RlIGRlcGxveW1lbnQgaXMgY29tcGxldGVkIHN1Y2Nlc3NmdWxseSFcbiIK</text>
+        <text encoding="base64">ICAgIGxvY2FsIHZpc2lvbl9hcHBfY29kZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIFsgISAtZCAke0RFUExPWU1FTlRfRElSfSBdOyB0aGVuCiAgICAgICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7REVQTE9ZTUVOVF9ESVJ9IC4uLiIKICAgICAgICBta2RpciAke0RFUExPWU1FTlRfRElSfQogICAgZmkKCiAgICBpZiBbICEgLWQgJHtCQUNLVVBfRElSfSBdOyB0aGVuCiAgICAgICAgZWNobyAiQ3JlYXRpbmcgZGlyZWN0b3J5ICR7QkFDS1VQX0RJUn0gLi4uIgogICAgICAgIG1rZGlyICR7QkFDS1VQX0RJUn0KICAgIGZpCg==</text>
+        <text encoding="base64">ICAgICAgICBDT05GSUdfRklMRSA9ICcuL3ZlLWNvbmZpZy9jb25maWcuaW5pJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IFBST0dfRElSPSJ0ZXN0IgogICAgZWNobyAke1BST0dfRElSfQogICAgZXhpdCAwCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IFBST0dfRElSPSJ0ZXN0IgogICAgZWNobyAke1BST0dfRElSfQogICAgZXhpdCAwCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIkRlcGxveWluZyBjb2RlIGZyb20gJHtzb3VyY2VfZGlyfSB0byAke3RhcmdldF9kaXJ9IC4uLiIK</text>
+        <text encoding="base64">ICAgIFBST0dfRElSPSQocmVhZGxpbmsgLW0gJChkaXJuYW1lICQwKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbCBvcmlnaW5hbF9jb2RlX2Rpcj0ke0RFUExPWU1FTlRfRElSfS8kMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gLWUgIlxuIgo=</text>
+        <text encoding="base64">cmVhZG9ubHkgUFJPR19ESVI9JChyZWFkbGluayAtbSAkKGRpcm5hbWUgJDApKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>99</text>
+        <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2aXNpb25fYXBwX2NvZGVcPg==</last-search>
+      <last-search>backup</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2aXNpb25fYXBwX2NvZGVcPg==</last-pattern>
+      <last-pattern>backup</last-pattern>
       <last-replace>Dates</last-replace>
-      <last-substitute>main(</last-substitute>
+      <last-substitute>backup</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -742,7 +748,6 @@
         <entry encoding="base64">XDxpbWFnZXNfYjRfYmNcPg==</entry>
         <entry encoding="base64">XDxpbWFnZXNfYWZfYmNcPg==</entry>
         <entry>gain</entry>
-        <entry>backup</entry>
         <entry encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</entry>
         <entry encoding="base64">XDxpbnN0YWxsX2FwcHNfb25fdWJ1bnR1XD4=</entry>
         <entry>disa</entry>
@@ -754,11 +759,14 @@
         <entry encoding="base64">XDxDT0RFX1ZFX1NFUlZJQ0VcPg==</entry>
         <entry encoding="base64">XDx3aWZpXD4=</entry>
         <entry encoding="base64">XDx2aXNpb25fYXBwX2NvZGVcPg==</entry>
+        <entry encoding="base64">XDxQUk9HX0RJUlw+</entry>
+        <entry>input</entry>
+        <entry>using</entry>
+        <entry>backup</entry>
       </history-search>
       <history-cmd>
         <entry>%s/count-by-sku/countBySku/gc</entry>
         <entry>%s/os.path./path./g</entry>
-        <entry>13</entry>
         <entry>q</entry>
         <entry>39</entry>
         <entry>125</entry>
@@ -772,10 +780,11 @@
         <entry>%s/Month/Dates/g</entry>
         <entry>33</entry>
         <entry>527</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>vp</entry>
         <entry>vs</entry>
         <entry>99</entry>
+        <entry>13</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
