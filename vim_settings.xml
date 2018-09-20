@@ -362,13 +362,6 @@
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" timestamp="1537352225759">
-        <mark key="'" line="66" column="12" />
-        <mark key="[" line="62" column="65" />
-        <mark key="]" line="65" column="53" />
-        <mark key="." line="65" column="53" />
-        <mark key="^" line="65" column="53" />
-      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" timestamp="1537349006319">
         <mark key="'" line="69" column="38" />
         <mark key="[" line="3" column="0" />
@@ -740,9 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>10000</entry>
-        <entry>true</entry>
-        <entry encoding="base64">XDxGUFNcPg==</entry>
         <entry>50</entry>
         <entry encoding="base64">XDxDRkdfTlVNX0lNR19CNF9CQ1w+</entry>
         <entry encoding="base64">XDxpbWFnZXNfYjRfYmNcPg==</entry>
