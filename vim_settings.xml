@@ -42,12 +42,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" timestamp="1532705193727">
-        <mark key="'" line="52" column="19" />
-        <mark key="[" line="30" column="10" />
-        <mark key="]" line="30" column="10" />
-        <mark key="^" line="43" column="7" />
-        <mark key="." line="30" column="10" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" timestamp="1538139198789">
+        <mark key="'" line="25" column="14" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="72" />
+        <mark key="." line="24" column="72" />
+        <mark key="^" line="24" column="72" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/util.js" timestamp="1531919384084">
         <mark key="'" line="17" column="69" />
@@ -193,6 +193,13 @@
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1538138542738">
+        <mark key="'" line="37" column="34" />
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
@@ -206,8 +213,8 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" timestamp="1535471413098">
-        <mark key="'" line="114" column="34" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" timestamp="1538139394247">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="77" column="36" />
         <mark key="]" line="77" column="78" />
         <mark key="." line="77" column="36" />
@@ -289,12 +296,12 @@
         <mark key="^" line="68" column="66" />
         <mark key="." line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1538137772899">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="28" column="1" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1538139412760">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="47" column="1" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.sh" timestamp="1522066552636">
         <mark key="'" line="4" column="24" />
@@ -555,24 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="35" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera/continuous_capture_v4.py" />
-      <jump line="554" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="68" column="30" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="531" column="18" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="526" column="35" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="519" column="26" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="44" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="45" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="100" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="151" column="85" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="155" column="78" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="199" column="93" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="363" column="21" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="389" column="40" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="397" column="40" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="152" column="78" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="47" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="73" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="183" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
@@ -651,10 +640,28 @@
       <jump line="16" column="43" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
       <jump line="62" column="64" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
       <jump line="63" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
-      <jump line="10" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
       <jump line="25" column="35" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="15" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="37" column="34" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="81" column="2" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="32" column="33" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="62" column="62" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
+      <jump line="22" column="41" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
+      <jump line="71" column="26" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
+      <jump line="2" column="29" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
+      <jump line="24" column="14" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" />
+      <jump line="105" column="59" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/index.js" />
+      <jump line="30" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="49" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -680,10 +687,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>using</text>
+        <text>from T</text>
       </register>
       <register name="/" type="4">
-        <text>backup</text>
+        <text>*</text>
       </register>
       <register name="0" type="4">
         <text>${PROGDIR}/</text>
@@ -701,33 +708,33 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZW5kID0gbW9tZW50KCkuZm9ybWF0KCdZWVlZTU1ERCcpCmNvbnN0IHN0YXJ0ID0gbW9tZW50KCkuc3VidHJhY3QobWF4RGF5c1RvU2hvdyAtIDEsICdkYXlzJykuZm9ybWF0KCdZWVlZTU1ERCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIHZlX3NlcnZpY2VfY29kZT0iMTB4LXZpc2lvbi1zZXJ2aWNlLnNoIgo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIHZpc2lvbl9hcHBfY29kZQo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDT05GSUdfRklMRSA9ICcuL3ZlLWNvbmZpZy9jb25maWcuaW5pJwo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IFBST0dfRElSPSJ0ZXN0IgogICAgZWNobyAke1BST0dfRElSfQogICAgZXhpdCAwCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
       </register>
     </registers>
     <search>
-      <last-search>backup</last-search>
+      <last-search>*</last-search>
       <last-offset />
-      <last-pattern>backup</last-pattern>
-      <last-replace>Dates</last-replace>
-      <last-substitute>backup</last-substitute>
+      <last-pattern>*</last-pattern>
+      <last-replace>testing</last-replace>
+      <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -753,6 +760,11 @@
         <entry>input</entry>
         <entry>using</entry>
         <entry>backup</entry>
+        <entry>ve1</entry>
+        <entry>daysumm</entry>
+        <entry>start</entry>
+        <entry>moment</entry>
+        <entry>*</entry>
       </history-search>
       <history-cmd>
         <entry>%s/count-by-sku/countBySku/gc</entry>
@@ -771,9 +783,11 @@
         <entry>33</entry>
         <entry>527</entry>
         <entry>vp</entry>
-        <entry>vs</entry>
         <entry>99</entry>
         <entry>13</entry>
+        <entry>s/ve1/testing/g</entry>
+        <entry>%s/ve1/testing/g</entry>
+        <entry>vs</entry>
         <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
