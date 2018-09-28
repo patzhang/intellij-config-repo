@@ -289,8 +289,8 @@
         <mark key="^" line="68" column="66" />
         <mark key="." line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1538136416327">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1538137772899">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="28" column="1" />
@@ -555,8 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="35" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="558" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="13" column="35" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera/continuous_capture_v4.py" />
       <jump line="554" column="16" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="68" column="30" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
@@ -655,6 +653,8 @@
       <jump line="63" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
       <jump line="10" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
       <jump line="30" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="25" column="35" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
