@@ -289,12 +289,12 @@
         <mark key="^" line="68" column="66" />
         <mark key="." line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1535472991647">
-        <mark key="'" line="71" column="26" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1538136416327">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="28" column="1" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.sh" timestamp="1522066552636">
         <mark key="'" line="4" column="24" />
@@ -555,8 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="497" column="6" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="498" column="54" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="452" column="35" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="558" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="13" column="35" filename="$USER_HOME$/codeVE/10x-vision-evolution/camera/continuous_capture_v4.py" />
@@ -655,6 +653,8 @@
       <jump line="16" column="43" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
       <jump line="62" column="64" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
       <jump line="63" column="12" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
+      <jump line="10" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -689,34 +689,34 @@
         <text>${PROGDIR}/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIHZlX3NlcnZpY2VfY29kZT0iMTB4LXZpc2lvbi1zZXJ2aWNlLnNoIgo=</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIHZpc2lvbl9hcHBfY29kZQo=</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDT05GSUdfRklMRSA9ICcuL3ZlLWNvbmZpZy9jb25maWcuaW5pJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IFBST0dfRElSPSJ0ZXN0IgogICAgZWNobyAke1BST0dfRElSfQogICAgZXhpdCAwCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IFBST0dfRElSPSJ0ZXN0IgogICAgZWNobyAke1BST0dfRElSfQogICAgZXhpdCAwCgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFBST0dfRElSPSQocmVhZGxpbmsgLW0gJChkaXJuYW1lICQwKSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvY2FsIHZlX3NlcnZpY2VfY29kZT0iMTB4LXZpc2lvbi1zZXJ2aWNlLnNoIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvY2FsIHZpc2lvbl9hcHBfY29kZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBDT05GSUdfRklMRSA9ICcuL3ZlLWNvbmZpZy9jb25maWcuaW5pJwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVhZG9ubHkgUFJPR19ESVI9JChyZWFkbGluayAtbSAkKGRpcm5hbWUgJDApKQo=</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IFBST0dfRElSPSJ0ZXN0IgogICAgZWNobyAke1BST0dfRElSfQogICAgZXhpdCAwCgo=</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
