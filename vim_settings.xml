@@ -193,12 +193,12 @@
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1538138542738">
-        <mark key="'" line="37" column="34" />
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="34" />
-        <mark key="." line="46" column="34" />
-        <mark key="^" line="46" column="34" />
+      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1538141518039">
+        <mark key="'" line="2" column="20" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="144" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
         <mark key="[" line="2" column="9" />
@@ -562,10 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="183" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="282" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="305" column="80" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="583" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="587" column="7" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
@@ -662,6 +658,10 @@
       <jump line="30" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
       <jump line="49" column="1" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
       <jump line="10" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" />
+      <jump line="3" column="23" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="144" column="5" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -687,13 +687,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>from T</text>
+        <text encoding="base64">Ly8gZ2VuZXJhdGluZyA=</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>fs.</text>
       </register>
-      <register name="0" type="4">
-        <text>${PROGDIR}/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCB0aW1lc3RhbXAgPSBtb21lbnQoKS5mb3JtYXQoJ3NzbW1ISC1ERE1NWVlZWScpCiAgZnMud3JpdGVGaWxlU3luYygnZGF0YS8nICsgdGltZXN0YW1wICsgJ19idWNrZXQtc3VtbWFyeS5qc29uJywgSlNPTi5zdHJpbmdpZnkoZGF5U3VtbWFyeSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ki8K</text>
@@ -730,9 +730,9 @@
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search>fs.</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern>fs.</last-pattern>
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
@@ -765,6 +765,8 @@
         <entry>start</entry>
         <entry>moment</entry>
         <entry>*</entry>
+        <entry>fs</entry>
+        <entry>fs.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/count-by-sku/countBySku/gc</entry>
