@@ -424,6 +424,9 @@
         <mark key="." line="47" column="15" />
         <mark key="^" line="47" column="15" />
       </file>
+      <file name="/code.py" timestamp="1538557187003">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" timestamp="1537351180898">
         <mark key="'" line="59" column="31" />
         <mark key="[" line="5" column="0" />
@@ -740,14 +743,6 @@
     </search>
     <history>
       <history-search>
-        <entry>50</entry>
-        <entry encoding="base64">XDxDRkdfTlVNX0lNR19CNF9CQ1w+</entry>
-        <entry encoding="base64">XDxpbWFnZXNfYjRfYmNcPg==</entry>
-        <entry encoding="base64">XDxpbWFnZXNfYWZfYmNcPg==</entry>
-        <entry>gain</entry>
-        <entry encoding="base64">XDxzZXR1cF9weXRob24zX3ZlbnZcPg==</entry>
-        <entry encoding="base64">XDxpbnN0YWxsX2FwcHNfb25fdWJ1bnR1XD4=</entry>
-        <entry>disa</entry>
         <entry encoding="base64">XDxXTEFOX0ZJTEVcPg==</entry>
         <entry>main(</entry>
         <entry>setup</entry>
@@ -770,8 +765,6 @@
         <entry encoding="base64">XDxiYXJjb2RlRGljdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/count-by-sku/countBySku/gc</entry>
-        <entry>%s/os.path./path./g</entry>
         <entry>q</entry>
         <entry>39</entry>
         <entry>125</entry>
