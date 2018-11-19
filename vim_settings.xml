@@ -326,12 +326,12 @@
         <mark key="^" line="85" column="59" />
         <mark key="." line="85" column="59" />
       </file>
-      <file name="$USER_HOME$/codeDL/deep-vision/test/test.py" timestamp="1542619781260">
-        <mark key="'" line="6" column="13" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/codeDL/deep-vision/test/test.py" timestamp="1542622028913">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" timestamp="1520505610265">
         <mark key="'" line="67" column="30" />
@@ -576,8 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="588" column="7" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
-      <jump line="594" column="50" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="184" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="225" column="41" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
       <jump line="233" column="28" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/eagle_vision.py" />
@@ -676,6 +674,8 @@
       <jump line="96" column="54" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="98" column="51" filename="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" />
       <jump line="5" column="13" filename="$USER_HOME$/codeDL/deep-vision/test/test.py" />
+      <jump line="17" column="18" filename="$USER_HOME$/codeDL/deep-vision/test/test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/codeDL/deep-vision/test/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -701,7 +701,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>images[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXJjb2RlRGljdFw+</text>
