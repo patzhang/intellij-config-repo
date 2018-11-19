@@ -326,12 +326,12 @@
         <mark key="^" line="85" column="59" />
         <mark key="." line="85" column="59" />
       </file>
-      <file name="$USER_HOME$/codeDL/deep-vision/test/test.py" timestamp="1542622028913">
+      <file name="$USER_HOME$/codeDL/deep-vision/test/test.py" timestamp="1542622663519">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="18" />
-        <mark key="^" line="17" column="18" />
-        <mark key="." line="17" column="18" />
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="21" column="50" />
+        <mark key="^" line="21" column="50" />
+        <mark key="." line="21" column="50" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" timestamp="1520505610265">
         <mark key="'" line="67" column="30" />
