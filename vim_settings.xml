@@ -220,11 +220,6 @@
         <mark key="." line="77" column="36" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/ve-snake/10x-vision-service.sh" timestamp="1537276568454">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/neuralnet_webcam_demo/product.json" timestamp="1541069289589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="78" column="0" />
@@ -234,11 +229,6 @@
         <mark key="]" line="3" column="41" />
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
-      </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/ve-eagle/10x-vision-service.sh" timestamp="1537276514068">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-virtualenv/requirements.txt" timestamp="1520417304007">
         <mark key="'" line="0" column="0" />
@@ -414,11 +404,6 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/main.py" timestamp="1557768945993">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1519210591608">
         <mark key="'" line="121" column="33" />
         <mark key="[" line="121" column="0" />
@@ -447,7 +432,7 @@
         <mark key="." line="47" column="15" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557769427754">
+      <file name="/Dummy.txt" timestamp="1558533295502">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1542619832726">
@@ -589,6 +574,12 @@
         <mark key="." line="20" column="63" />
         <mark key="^" line="20" column="63" />
       </file>
+      <file name="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" timestamp="1558533712003">
+        <mark key="[" line="54" column="6" />
+        <mark key="]" line="54" column="6" />
+        <mark key="^" line="56" column="45" />
+        <mark key="." line="54" column="6" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
@@ -716,7 +707,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>images[0]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXJjb2RlRGljdFw+</text>
