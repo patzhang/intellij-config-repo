@@ -187,12 +187,6 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/Dockerfile.local" timestamp="1536772417444">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="48" />
-        <mark key="." line="17" column="48" />
-      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1538142628038">
         <mark key="'" line="98" column="51" />
         <mark key="[" line="143" column="0" />
@@ -276,6 +270,12 @@
         <mark key="." line="47" column="11" />
         <mark key="^" line="45" column="67" />
       </file>
+      <file name="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" timestamp="1558534258867">
+        <mark key="[" line="108" column="20" />
+        <mark key="]" line="108" column="20" />
+        <mark key="." line="108" column="20" />
+        <mark key="^" line="108" column="20" />
+      </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video.py" timestamp="1522056333190">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="4" column="71" />
@@ -337,12 +337,6 @@
         <mark key="." line="221" column="0" />
         <mark key="^" line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/install-snake-vision.sh" timestamp="1537282955745">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/data/product-image-dataset-v0.2/readme.txt" timestamp="1516631138176">
         <mark key="'" line="104" column="46" />
         <mark key="[" line="116" column="29" />
@@ -383,12 +377,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/.gitlab-ci.yml" timestamp="1535638609094">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="1" column="70" />
-        <mark key="]" line="1" column="71" />
-        <mark key="." line="1" column="71" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/k8s/jobs/job-template.yaml" timestamp="1519984604812">
         <mark key="'" line="0" column="0" />
@@ -432,7 +420,7 @@
         <mark key="." line="47" column="15" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558533295502">
+      <file name="/Dummy.txt" timestamp="1558534454165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1542619832726">
@@ -574,18 +562,15 @@
         <mark key="." line="20" column="63" />
         <mark key="^" line="20" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" timestamp="1558533712003">
-        <mark key="[" line="54" column="6" />
-        <mark key="]" line="54" column="6" />
-        <mark key="^" line="56" column="45" />
-        <mark key="." line="54" column="6" />
+      <file name="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" timestamp="1558534387875">
+        <mark key="'" line="222" column="38" />
+        <mark key="[" line="276" column="34" />
+        <mark key="]" line="276" column="34" />
+        <mark key="^" line="276" column="34" />
+        <mark key="." line="276" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
-      <jump line="92" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
-      <jump line="57" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
-      <jump line="113" column="1" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="94" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="10" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="75" column="2" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
@@ -682,6 +667,10 @@
       <jump line="32" column="16" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="50" column="8" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="73" column="0" filename="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" />
+      <jump line="141" column="37" filename="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" />
+      <jump line="181" column="37" filename="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" />
+      <jump line="222" column="38" filename="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -707,10 +696,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXJjb2RlRGljdFw+</text>
+        <text>elfi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">WwogIHsKICAgICdkZXNjcmlwdGlvbic6ICdNcnMgRWxzd29vZMKuIFN3ZWV0IFNvdXIgQ3VjdW1iZXJzIFBpY2tsZWQgV2l0aCBTd2VldGVuZXIgNjcwZycsCiAgICAnZ3Rpbic6ICc1MDQwOTAyMCcsCiAgICAnYnJhbmRiYW5rQ29kZSc6ICc1NzQwOTcnLAogICAgJ3B2aWQnOiAnNTc0MDk3JywKICAgICdzdWJzY3JpYmVyJzogewogICAgICAnaWQnOiA0MjY5NCwKICAgICAgJ2NvZGUnOiAnQUVNUDAwMScKICAgIH0sCiAgICAndmVyc2lvbkRhdGVUaW1lJzogJzIwMDYtMTItMTlUMTE6MzA6MzZaJywKICAgICd0YXJnZXRNYXJrZXRzJzogWwogICAgICAnR0InLAogICAgICAnSUUnCiAgICBdLAogICAgJ3VwZGF0ZVR5cGUnOiAnQWRkT3JVcGRhdGUnLAogICAgJ2V1MTE2OUNvbXBsaWFuY2UnOiAnVW5zcGVjaWZpZWQnLAogICAgJ2RlZmF1bHRMYW5ndWFnZSc6ICdlbi1HQicsCiAgICAnY2F0ZWdvcmllcyc6IFsKICAgICAgewogICAgICAgICdsZXZlbCc6IDEsCiAgICAgICAgJ2NvZGUnOiAnMDcnLAogICAgICAgICdkZXNjcmlwdGlvbic6ICdHcm9jZXJ5JwogICAgICB9LAogICAgICB7CiAgICAgICAgJ2xldmVsJzogMiwKICAgICAgICAnY29kZSc6ICcwOCcsCiAgICAgICAgJ2Rlc2NyaXB0aW9uJzogJ1ZpbmVnYXJzICYgUGlja2VkIFZlZ2V0YWJsZXMnCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAnbGV2ZWwnOiAzLAogICAgICAgICdjb2RlJzogJzA4JywKICAgICAgICAnZGVzY3JpcHRpb24nOiAnT3RoZXInCiAgICAgIH0KICAgIF0sCiAgICAnaW1hZ2VzJzogWwogICAgICB7CiAgICAgICAgJ3Nob3RUeXBlSWQnOiAxLAogICAgICAgICdzaG90VHlwZSc6ICdJRCBTaG90JywKICAgICAgICAnbWltZVR5cGUnOiAnaW1hZ2UvanBlZycsCiAgICAgICAgJ3RodW1icHJpbnQnOiAnKy9PQURDMGZ4clZDQ2lHL1h2ZGt4Zz09JywKICAgICAgICAndXJsJzogewogICAgICAgICAgJ2hyZWYnOiAnaHR0cDovL3Byb2R1Y3RpbWFnZXMuYnJhbmRiYW5rLmNvbS9zbmFwc2hvdGltYWdlaGFuZGxlci5hc2h4P2lkPTAwZjQyNmExLWM4ZWYtMDA2Mi05NjJhLTlkNTQwNmQ3MzZmZScsCiAgICAgICAgICAnZXhwaXJ5RGF0ZVRpbWUnOiBOb25lCiAgICAgICAgfSwKICAgICAgICAnbWVhc3VyZW1lbnRVbml0JzogJ3B4JywKICAgICAgICAnd2lkdGgnOiAyMzY1LAogICAgICAgICdoZWlnaHQnOiAyMzY1CiAgICAgIH0KICAgIF0sCiAgICAnb2JqZWN0cyc6IFtdLAogICAgJ2Fzc2V0cyc6IFtdLAogICAgJ2xhbmd1YWdlcyc6IFsKICAgICAgewogICAgICAgICdsYW5ndWFnZSc6ICdFbmdsaXNoIChCcml0aXNoKScsCiAgICAgICAgJ2NvZGUnOiAnZW4tR0InLAogICAgICAgICdkZXNjcmlwdGlvbic6ICdNcnMgRWxzd29vZMKuIFN3ZWV0IFNvdXIgQ3VjdW1iZXJzIFBpY2tsZWQgV2l0aCBTd2VldGVuZXIgNjcwZycsCiAgICAgICAgJ2dyb3VwaW5nU2V0cyc6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgJ25hbWUnOiAnQWxsIEF0dHJpYnV0ZXMnLAogICAgICAgICAgICAnYXR0cmlidXRlcyc6IHsKICAgICAgICAgICAgICAnYnJhbmQnOiBbCiAgICAgICAgICAgICAgICAnTXJzIEVsc3dvb2TCricKICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICdzdGFuZGFyZGlzZWRCcmFuZCc6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgJ25hbWVJZCc6IDIyNCwKICAgICAgICAgICAgICAgICAgJ25hbWVWYWx1ZSc6ICdCcmFuZCcsCiAgICAgICAgICAgICAgICAgICdsb29rdXBJZCc6IDQwMTMsCiAgICAgICAgICAgICAgICAgICdsb29rdXBWYWx1ZSc6ICdNcnMuIEVsc3dvb2QnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9CiAgICBdCiAgfQpdCg==</text>
@@ -750,13 +739,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXJjb2RlRGljdFw+</last-search>
+      <last-search>elfi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXJjb2RlRGljdFw+</last-pattern>
+      <last-pattern>elfi</last-pattern>
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -780,6 +769,8 @@
         <entry>fs</entry>
         <entry>fs.</entry>
         <entry encoding="base64">XDxiYXJjb2RlRGljdFw+</entry>
+        <entry>if</entry>
+        <entry>elfi</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
