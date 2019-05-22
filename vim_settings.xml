@@ -187,6 +187,11 @@
         <mark key="." line="110" column="22" />
         <mark key="^" line="109" column="11" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1558535858826">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/main.js" timestamp="1538142628038">
         <mark key="'" line="98" column="51" />
         <mark key="[" line="143" column="0" />
@@ -745,12 +750,10 @@
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxXTEFOX0ZJTEVcPg==</entry>
-        <entry>main(</entry>
         <entry>setup</entry>
         <entry>sudo</entry>
         <entry>main</entry>
