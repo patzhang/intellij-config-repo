@@ -567,8 +567,8 @@
         <mark key="." line="20" column="63" />
         <mark key="^" line="20" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" timestamp="1558535959298">
-        <mark key="'" line="221" column="38" />
+      <file name="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" timestamp="1558537144748">
+        <mark key="'" line="77" column="26" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="275" column="34" />
@@ -576,7 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="10" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="75" column="2" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="82" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
@@ -676,6 +675,7 @@
       <jump line="141" column="37" filename="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" />
       <jump line="181" column="37" filename="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" />
       <jump line="222" column="38" filename="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" />
+      <jump line="77" column="26" filename="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
