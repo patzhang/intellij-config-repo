@@ -275,13 +275,6 @@
         <mark key="." line="47" column="11" />
         <mark key="^" line="45" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" timestamp="1558541980491">
-        <mark key="'" line="235" column="40" />
-        <mark key="[" line="238" column="21" />
-        <mark key="]" line="238" column="40" />
-        <mark key="." line="238" column="40" />
-        <mark key="^" line="238" column="40" />
-      </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video.py" timestamp="1522056333190">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="4" column="71" />
@@ -295,6 +288,13 @@
         <mark key="]" line="68" column="66" />
         <mark key="^" line="68" column="66" />
         <mark key="." line="68" column="66" />
+      </file>
+      <file name="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/logging_util.py" timestamp="1558623884742">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="80" />
+        <mark key="^" line="25" column="80" />
+        <mark key="." line="25" column="80" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1538139412760">
         <mark key="'" line="10" column="0" />
@@ -571,15 +571,8 @@
         <mark key="." line="20" column="63" />
         <mark key="^" line="20" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/brandbank-integration/backend/tests/sync_mgr/crawler/test_product_handler.py" timestamp="1558540834497">
-        <mark key="'" line="77" column="26" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="13" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="16" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="48" column="51" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
@@ -679,6 +672,7 @@
       <jump line="195" column="8" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="210" column="21" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="235" column="40" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/logging_util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
