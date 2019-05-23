@@ -289,12 +289,12 @@
         <mark key="^" line="68" column="66" />
         <mark key="." line="68" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/logging_util.py" timestamp="1558623884742">
+      <file name="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/logging_util.py" timestamp="1558624642570">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="25" column="80" />
-        <mark key="^" line="25" column="80" />
-        <mark key="." line="25" column="80" />
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="42" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/main.js" timestamp="1538139412760">
         <mark key="'" line="10" column="0" />
@@ -698,7 +698,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FAILED</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZG93bmxvYWRfYW5kX3NhdmVfaW1hZ2VcPg==</text>
