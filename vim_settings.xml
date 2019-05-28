@@ -17,30 +17,12 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/sku-images.html" timestamp="1532462489185">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="6" column="53" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="53" />
-      </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-eagle/ve-config/config.ini" timestamp="1537275253162">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-gc/src/dataset_finalizer/main.py" timestamp="1520261385471">
         <mark key="'" line="149" column="10" />
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
         <mark key="." line="196" column="0" />
         <mark key="^" line="195" column="85" />
-      </file>
-      <file name="/fragment.js" timestamp="1536068427335">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/src/datastore.js" timestamp="1538139198789">
         <mark key="'" line="25" column="14" />
@@ -55,12 +37,6 @@
         <mark key="]" line="17" column="69" />
         <mark key="." line="17" column="69" />
         <mark key="^" line="17" column="69" />
-      </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-eagle/config-setup.sh" timestamp="1537276088416">
-        <mark key="[" line="2" column="56" />
-        <mark key="]" line="2" column="65" />
-        <mark key="^" line="2" column="65" />
-        <mark key="." line="2" column="65" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1522059305966">
         <mark key="'" line="472" column="0" />
@@ -82,12 +58,6 @@
         <mark key="]" line="0" column="606442" />
         <mark key="^" line="0" column="606442" />
         <mark key="." line="0" column="606442" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/test/util.test.js" timestamp="1531919368278">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="25" column="19" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/main.js" timestamp="1519061336259">
         <mark key="'" line="33" column="8" />
@@ -156,12 +126,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-snake-vision.sh" timestamp="1537348524398">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="41" />
-        <mark key="." line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation/Linux64/setup.org" timestamp="1536853271065">
         <mark key="'" line="166" column="12" />
         <mark key="[" line="209" column="0" />
@@ -199,12 +163,6 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="90" />
       </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/postcss.config.js" timestamp="1532528437337">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="51" />
-        <mark key="." line="2" column="9" />
-      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1532698876615">
         <mark key="'" line="20" column="26" />
         <mark key="[" line="20" column="17" />
@@ -222,12 +180,6 @@
       <file name="$USER_HOME$/codeVE/neuralnet_webcam_demo/product.json" timestamp="1541069289589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/deploy-eagle-vision.sh" timestamp="1537348544060">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="41" />
-        <mark key="." line="3" column="41" />
-        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-virtualenv/requirements.txt" timestamp="1520417304007">
         <mark key="'" line="0" column="0" />
@@ -306,18 +258,6 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/ve-eagle/run-10x-vision-app.sh" timestamp="1537276630015">
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="4" column="63" />
-        <mark key="." line="4" column="63" />
-        <mark key="^" line="4" column="63" />
-      </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/README.md" timestamp="1537282718739">
-        <mark key="[" line="85" column="59" />
-        <mark key="]" line="85" column="59" />
-        <mark key="^" line="85" column="59" />
-        <mark key="." line="85" column="59" />
-      </file>
       <file name="$USER_HOME$/codeDL/deep-vision/test/test.py" timestamp="1542622663519">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="53" />
@@ -352,12 +292,6 @@
         <mark key="]" line="31" column="45" />
         <mark key="." line="31" column="45" />
         <mark key="^" line="31" column="45" />
-      </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-eagle/ve-service/10x-vision-service.sh" timestamp="1537275437583">
-        <mark key="[" line="9" column="59" />
-        <mark key="]" line="9" column="63" />
-        <mark key="." line="9" column="63" />
-        <mark key="^" line="9" column="63" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/bucket-configuration.json" timestamp="1521823024234">
         <mark key="'" line="0" column="0" />
@@ -438,12 +372,6 @@
         <mark key="." line="59" column="31" />
         <mark key="^" line="59" column="31" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/input/config.ini" timestamp="1536933061009">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="4" column="26" />
-      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_load_configurations.py" timestamp="1521730349837">
         <mark key="'" line="4" column="57" />
         <mark key="[" line="16" column="51" />
@@ -479,12 +407,6 @@
         <mark key="^" line="57" column="31" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-eagle/ve-config/README.md" timestamp="1537275187576">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1536847727423">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="95" column="9" />
@@ -512,12 +434,6 @@
         <mark key="]" line="103" column="16" />
         <mark key="^" line="31" column="25" />
         <mark key="." line="103" column="16" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/.eslintrc.json" timestamp="1532538652292">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="8" />
-        <mark key="." line="9" column="8" />
-        <mark key="^" line="9" column="8" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/ve-config/config.ini" timestamp="1521731445829">
         <mark key="'" line="0" column="0" />
@@ -553,12 +469,6 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="64" column="13" />
-      </file>
-      <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/frontend/test/datastore.test.js" timestamp="1531920278760">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="^" line="13" column="2" />
-        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/package.json" timestamp="1519052178764">
         <mark key="'" line="10" column="42" />
