@@ -137,6 +137,12 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/mrcnn/mytest.py" timestamp="1559905726765">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/run-gcs-uploader.sh" timestamp="1519746544814">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="1" column="0" />
@@ -479,8 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
-      <jump line="16" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="48" column="51" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="3" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-eagle/config-setup.sh" />
       <jump line="119" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-system/install-snake-vision.sh" />
@@ -579,6 +583,8 @@
       <jump line="210" column="21" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="235" column="40" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/logging_util.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/projects/mrcnn/mytest.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mrcnn/mytest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,34 +619,34 @@
         <text encoding="base64">WwogIHsKICAgICdkZXNjcmlwdGlvbic6ICdNcnMgRWxzd29vZMKuIFN3ZWV0IFNvdXIgQ3VjdW1iZXJzIFBpY2tsZWQgV2l0aCBTd2VldGVuZXIgNjcwZycsCiAgICAnZ3Rpbic6ICc1MDQwOTAyMCcsCiAgICAnYnJhbmRiYW5rQ29kZSc6ICc1NzQwOTcnLAogICAgJ3B2aWQnOiAnNTc0MDk3JywKICAgICdzdWJzY3JpYmVyJzogewogICAgICAnaWQnOiA0MjY5NCwKICAgICAgJ2NvZGUnOiAnQUVNUDAwMScKICAgIH0sCiAgICAndmVyc2lvbkRhdGVUaW1lJzogJzIwMDYtMTItMTlUMTE6MzA6MzZaJywKICAgICd0YXJnZXRNYXJrZXRzJzogWwogICAgICAnR0InLAogICAgICAnSUUnCiAgICBdLAogICAgJ3VwZGF0ZVR5cGUnOiAnQWRkT3JVcGRhdGUnLAogICAgJ2V1MTE2OUNvbXBsaWFuY2UnOiAnVW5zcGVjaWZpZWQnLAogICAgJ2RlZmF1bHRMYW5ndWFnZSc6ICdlbi1HQicsCiAgICAnY2F0ZWdvcmllcyc6IFsKICAgICAgewogICAgICAgICdsZXZlbCc6IDEsCiAgICAgICAgJ2NvZGUnOiAnMDcnLAogICAgICAgICdkZXNjcmlwdGlvbic6ICdHcm9jZXJ5JwogICAgICB9LAogICAgICB7CiAgICAgICAgJ2xldmVsJzogMiwKICAgICAgICAnY29kZSc6ICcwOCcsCiAgICAgICAgJ2Rlc2NyaXB0aW9uJzogJ1ZpbmVnYXJzICYgUGlja2VkIFZlZ2V0YWJsZXMnCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAnbGV2ZWwnOiAzLAogICAgICAgICdjb2RlJzogJzA4JywKICAgICAgICAnZGVzY3JpcHRpb24nOiAnT3RoZXInCiAgICAgIH0KICAgIF0sCiAgICAnaW1hZ2VzJzogWwogICAgICB7CiAgICAgICAgJ3Nob3RUeXBlSWQnOiAxLAogICAgICAgICdzaG90VHlwZSc6ICdJRCBTaG90JywKICAgICAgICAnbWltZVR5cGUnOiAnaW1hZ2UvanBlZycsCiAgICAgICAgJ3RodW1icHJpbnQnOiAnKy9PQURDMGZ4clZDQ2lHL1h2ZGt4Zz09JywKICAgICAgICAndXJsJzogewogICAgICAgICAgJ2hyZWYnOiAnaHR0cDovL3Byb2R1Y3RpbWFnZXMuYnJhbmRiYW5rLmNvbS9zbmFwc2hvdGltYWdlaGFuZGxlci5hc2h4P2lkPTAwZjQyNmExLWM4ZWYtMDA2Mi05NjJhLTlkNTQwNmQ3MzZmZScsCiAgICAgICAgICAnZXhwaXJ5RGF0ZVRpbWUnOiBOb25lCiAgICAgICAgfSwKICAgICAgICAnbWVhc3VyZW1lbnRVbml0JzogJ3B4JywKICAgICAgICAnd2lkdGgnOiAyMzY1LAogICAgICAgICdoZWlnaHQnOiAyMzY1CiAgICAgIH0KICAgIF0sCiAgICAnb2JqZWN0cyc6IFtdLAogICAgJ2Fzc2V0cyc6IFtdLAogICAgJ2xhbmd1YWdlcyc6IFsKICAgICAgewogICAgICAgICdsYW5ndWFnZSc6ICdFbmdsaXNoIChCcml0aXNoKScsCiAgICAgICAgJ2NvZGUnOiAnZW4tR0InLAogICAgICAgICdkZXNjcmlwdGlvbic6ICdNcnMgRWxzd29vZMKuIFN3ZWV0IFNvdXIgQ3VjdW1iZXJzIFBpY2tsZWQgV2l0aCBTd2VldGVuZXIgNjcwZycsCiAgICAgICAgJ2dyb3VwaW5nU2V0cyc6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgJ25hbWUnOiAnQWxsIEF0dHJpYnV0ZXMnLAogICAgICAgICAgICAnYXR0cmlidXRlcyc6IHsKICAgICAgICAgICAgICAnYnJhbmQnOiBbCiAgICAgICAgICAgICAgICAnTXJzIEVsc3dvb2TCricKICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICdzdGFuZGFyZGlzZWRCcmFuZCc6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgJ25hbWVJZCc6IDIyNCwKICAgICAgICAgICAgICAgICAgJ25hbWVWYWx1ZSc6ICdCcmFuZCcsCiAgICAgICAgICAgICAgICAgICdsb29rdXBJZCc6IDQwMTMsCiAgICAgICAgICAgICAgICAgICdsb29rdXBWYWx1ZSc6ICdNcnMuIEVsc3dvb2QnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9CiAgICBdCiAgfQpdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gIi0iLmpvaW4oW2MuRVJST1JfSU1BR0VfRVhQSVJFRF9VUkwsIGd0aW4sICIqIl0pCiAgICBmaWxlbmFtZSA9ICIuIi5qb2luKGZpbGVuYW1lLCAianNvbiIpCiAgICBhc3NlcnQgUGF0aCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgppbXBvcnQgdGVuc29yZmxvdyBhcyB0ZgppbXBvcnQgb3MKCm9zLnBhdGguam9pbigpCmltcG9ydCBudW1weSBhcyBucAoKaW1wb3J0IHN5cwoKc3lzLmV4aXQoKQoKaW1wb3J0IG51bXB5IGFzIG5wCgppbXBvcnQgb3MKaW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKaW1wb3J0IHN5cwoKb3MucGF0aC5qb2luKCkKc3lzLmV4aXQoMSkKCmltcG9ydCBudW1weSBhcyBucAoKbnAuYXJhbmdlKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9kb3dubG9hZGluZ19pbWFnZXNfd2hlbl9yZXNwb25zZV9pc180MDQoKToK</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gIi0iLmpvaW4oW2MuRVJST1JfSU1BR0VfRVhQSVJFRF9VUkwsIGd0aW4sICIqIl0pCiAgICBmaWxlbmFtZSA9ICIuIi5qb2luKGZpbGVuYW1lLCAianNvbiIpCiAgICBhc3NlcnQgUGF0aCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5wLgo=</text>
+        <text encoding="base64">IyBkZWYgdGVzdF9kb3dubG9hZGluZ19pbWFnZXNfd2hlbl9yZXNwb25zZV9pc180MDQoKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
+        <text encoding="base64">ICAgIG5wLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGgK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BMJ10gPSAiUExJTiIK</text>
+        <text encoding="base64">ICAgIG9zLnBhdGgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BMJ10K</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BMJ10gPSAiUExJTiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BMJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set hlsearch! hlsearch?</text>
@@ -702,6 +708,7 @@
         <entry>vs</entry>
         <entry>vsplit</entry>
         <entry>set hlsearch! hlsearch?</entry>
+        <entry>call functions#WinMove('h')</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -775,6 +782,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
