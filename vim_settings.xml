@@ -663,8 +663,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setup</entry>
-        <entry>sudo</entry>
         <entry>main</entry>
         <entry encoding="base64">XDxDT0RFX1ZFX1NFUlZJQ0VcPg==</entry>
         <entry encoding="base64">XDx3aWZpXD4=</entry>
@@ -687,8 +685,6 @@
         <entry encoding="base64">XDxfZG93bmxvYWRfYW5kX3NhdmVfaW1hZ2VcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
-        <entry>39</entry>
         <entry>125</entry>
         <entry>150</entry>
         <entry>49</entry>
@@ -707,8 +703,8 @@
         <entry>%s/ve1/testing/g</entry>
         <entry>vs</entry>
         <entry>vsplit</entry>
-        <entry>set hlsearch! hlsearch?</entry>
         <entry>call functions#WinMove('h')</entry>
+        <entry>set hlsearch! hlsearch?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
