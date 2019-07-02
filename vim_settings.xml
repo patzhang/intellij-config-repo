@@ -337,11 +337,11 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/main.py" timestamp="1562087388412">
-        <mark key="'" line="209" column="8" />
-        <mark key="[" line="181" column="4" />
-        <mark key="]" line="209" column="8" />
-        <mark key="." line="209" column="8" />
+      <file name="$USER_HOME$/projects/mrcnn/main.py" timestamp="1562088516910">
+        <mark key="'" line="12" column="28" />
+        <mark key="[" line="187" column="33" />
+        <mark key="]" line="187" column="34" />
+        <mark key="." line="187" column="34" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1519210591608">
         <mark key="'" line="121" column="33" />
@@ -494,11 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
-      <jump line="29" column="9" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
-      <jump line="44" column="4" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
-      <jump line="63" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
-      <jump line="69" column="10" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
       <jump line="61" column="35" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="63" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="69" column="38" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
@@ -594,6 +589,11 @@
       <jump line="256" column="8" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="181" column="4" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="209" column="8" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="221" column="20" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="227" column="17" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="219" column="17" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="203" column="11" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="12" column="28" filename="$USER_HOME$/projects/mrcnn/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -622,7 +622,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdW50YXJfZGF0YXNldFw+</text>
+        <text>fileloc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">WwogIHsKICAgICdkZXNjcmlwdGlvbic6ICdNcnMgRWxzd29vZMKuIFN3ZWV0IFNvdXIgQ3VjdW1iZXJzIFBpY2tsZWQgV2l0aCBTd2VldGVuZXIgNjcwZycsCiAgICAnZ3Rpbic6ICc1MDQwOTAyMCcsCiAgICAnYnJhbmRiYW5rQ29kZSc6ICc1NzQwOTcnLAogICAgJ3B2aWQnOiAnNTc0MDk3JywKICAgICdzdWJzY3JpYmVyJzogewogICAgICAnaWQnOiA0MjY5NCwKICAgICAgJ2NvZGUnOiAnQUVNUDAwMScKICAgIH0sCiAgICAndmVyc2lvbkRhdGVUaW1lJzogJzIwMDYtMTItMTlUMTE6MzA6MzZaJywKICAgICd0YXJnZXRNYXJrZXRzJzogWwogICAgICAnR0InLAogICAgICAnSUUnCiAgICBdLAogICAgJ3VwZGF0ZVR5cGUnOiAnQWRkT3JVcGRhdGUnLAogICAgJ2V1MTE2OUNvbXBsaWFuY2UnOiAnVW5zcGVjaWZpZWQnLAogICAgJ2RlZmF1bHRMYW5ndWFnZSc6ICdlbi1HQicsCiAgICAnY2F0ZWdvcmllcyc6IFsKICAgICAgewogICAgICAgICdsZXZlbCc6IDEsCiAgICAgICAgJ2NvZGUnOiAnMDcnLAogICAgICAgICdkZXNjcmlwdGlvbic6ICdHcm9jZXJ5JwogICAgICB9LAogICAgICB7CiAgICAgICAgJ2xldmVsJzogMiwKICAgICAgICAnY29kZSc6ICcwOCcsCiAgICAgICAgJ2Rlc2NyaXB0aW9uJzogJ1ZpbmVnYXJzICYgUGlja2VkIFZlZ2V0YWJsZXMnCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAnbGV2ZWwnOiAzLAogICAgICAgICdjb2RlJzogJzA4JywKICAgICAgICAnZGVzY3JpcHRpb24nOiAnT3RoZXInCiAgICAgIH0KICAgIF0sCiAgICAnaW1hZ2VzJzogWwogICAgICB7CiAgICAgICAgJ3Nob3RUeXBlSWQnOiAxLAogICAgICAgICdzaG90VHlwZSc6ICdJRCBTaG90JywKICAgICAgICAnbWltZVR5cGUnOiAnaW1hZ2UvanBlZycsCiAgICAgICAgJ3RodW1icHJpbnQnOiAnKy9PQURDMGZ4clZDQ2lHL1h2ZGt4Zz09JywKICAgICAgICAndXJsJzogewogICAgICAgICAgJ2hyZWYnOiAnaHR0cDovL3Byb2R1Y3RpbWFnZXMuYnJhbmRiYW5rLmNvbS9zbmFwc2hvdGltYWdlaGFuZGxlci5hc2h4P2lkPTAwZjQyNmExLWM4ZWYtMDA2Mi05NjJhLTlkNTQwNmQ3MzZmZScsCiAgICAgICAgICAnZXhwaXJ5RGF0ZVRpbWUnOiBOb25lCiAgICAgICAgfSwKICAgICAgICAnbWVhc3VyZW1lbnRVbml0JzogJ3B4JywKICAgICAgICAnd2lkdGgnOiAyMzY1LAogICAgICAgICdoZWlnaHQnOiAyMzY1CiAgICAgIH0KICAgIF0sCiAgICAnb2JqZWN0cyc6IFtdLAogICAgJ2Fzc2V0cyc6IFtdLAogICAgJ2xhbmd1YWdlcyc6IFsKICAgICAgewogICAgICAgICdsYW5ndWFnZSc6ICdFbmdsaXNoIChCcml0aXNoKScsCiAgICAgICAgJ2NvZGUnOiAnZW4tR0InLAogICAgICAgICdkZXNjcmlwdGlvbic6ICdNcnMgRWxzd29vZMKuIFN3ZWV0IFNvdXIgQ3VjdW1iZXJzIFBpY2tsZWQgV2l0aCBTd2VldGVuZXIgNjcwZycsCiAgICAgICAgJ2dyb3VwaW5nU2V0cyc6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgJ25hbWUnOiAnQWxsIEF0dHJpYnV0ZXMnLAogICAgICAgICAgICAnYXR0cmlidXRlcyc6IHsKICAgICAgICAgICAgICAnYnJhbmQnOiBbCiAgICAgICAgICAgICAgICAnTXJzIEVsc3dvb2TCricKICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICdzdGFuZGFyZGlzZWRCcmFuZCc6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgJ25hbWVJZCc6IDIyNCwKICAgICAgICAgICAgICAgICAgJ25hbWVWYWx1ZSc6ICdCcmFuZCcsCiAgICAgICAgICAgICAgICAgICdsb29rdXBJZCc6IDQwMTMsCiAgICAgICAgICAgICAgICAgICdsb29rdXBWYWx1ZSc6ICdNcnMuIEVsc3dvb2QnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9CiAgICBdCiAgfQpdCg==</text>
@@ -658,13 +658,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdW50YXJfZGF0YXNldFw+</last-search>
+      <last-search>fileloc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdW50YXJfZGF0YXNldFw+</last-pattern>
+      <last-pattern>fileloc</last-pattern>
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
@@ -672,9 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
-        <entry encoding="base64">XDxDT0RFX1ZFX1NFUlZJQ0VcPg==</entry>
-        <entry encoding="base64">XDx3aWZpXD4=</entry>
         <entry encoding="base64">XDx2aXNpb25fYXBwX2NvZGVcPg==</entry>
         <entry encoding="base64">XDxQUk9HX0RJUlw+</entry>
         <entry>input</entry>
@@ -695,15 +692,9 @@
         <entry encoding="base64">XDxjaGVja19kYXRhc2V0XD4=</entry>
         <entry>check_dataset</entry>
         <entry encoding="base64">XDxfdW50YXJfZGF0YXNldFw+</entry>
+        <entry>fileloc</entry>
       </history-search>
       <history-cmd>
-        <entry>125</entry>
-        <entry>150</entry>
-        <entry>49</entry>
-        <entry>80</entry>
-        <entry>152</entry>
-        <entry>call functions#WinMove('l')</entry>
-        <entry>sv</entry>
         <entry>51</entry>
         <entry>%s/Month/Dates/g</entry>
         <entry>33</entry>
@@ -717,13 +708,16 @@
         <entry>vsplit</entry>
         <entry>call functions#WinMove('h')</entry>
         <entry>set hlsearch! hlsearch?</entry>
-        <entry>action Vcs.Show.Local.Changes</entry>
         <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimFilePrevious</entry>
         <entry>action ShowSettings</entry>
-        <entry>action GotoAction</entry>
         <entry>action CloseProject</entry>
+        <entry>action CloseContent</entry>
+        <entry>action VimWindowNext</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Vcs.Show.Local.Changes</entry>
+        <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
       <history-input />
