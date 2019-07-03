@@ -663,7 +663,7 @@
         <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BMJ10K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action ShowSettings</text>
       </register>
     </registers>
     <search>
@@ -714,7 +714,6 @@
         <entry>set hlsearch! hlsearch?</entry>
         <entry>action RecentFiles</entry>
         <entry>action VimFilePrevious</entry>
-        <entry>action ShowSettings</entry>
         <entry>action CloseProject</entry>
         <entry>action VimWindowNext</entry>
         <entry>map</entry>
@@ -723,6 +722,7 @@
         <entry>action SaveDocument</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
+        <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
       <history-input />
