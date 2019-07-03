@@ -38,6 +38,11 @@
         <mark key="." line="17" column="69" />
         <mark key="^" line="17" column="69" />
       </file>
+      <file name="$USER_HOME$/projects/mrcnn/README.md" timestamp="1562170390414">
+        <mark key="[" line="253" column="4" />
+        <mark key="]" line="253" column="4" />
+        <mark key="." line="253" column="4" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/snake_vision.py" timestamp="1522059305966">
         <mark key="'" line="472" column="0" />
         <mark key="[" line="459" column="51" />
@@ -337,11 +342,11 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/main.py" timestamp="1562169509125">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="204" column="11" />
-        <mark key="]" line="204" column="12" />
-        <mark key="." line="204" column="12" />
+      <file name="$USER_HOME$/projects/mrcnn/main.py" timestamp="1562170467593">
+        <mark key="'" line="138" column="4" />
+        <mark key="[" line="377" column="9" />
+        <mark key="]" line="377" column="3" />
+        <mark key="." line="377" column="9" />
       </file>
       <file name="$USER_HOME$/codeVE/product-image-dataset-external/src/dataset_builder/main.py" timestamp="1519210591608">
         <mark key="'" line="121" column="33" />
@@ -494,8 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="36" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
-      <jump line="69" column="38" filename="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-common/install-ve-common.sh" />
       <jump line="67" column="15" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
       <jump line="68" column="10" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-vision-app.sh" />
       <jump line="7" column="5" filename="$USER_HOME$/codeVE/10x-vision-evolution/deploy-eagle-vision.sh" />
@@ -594,6 +597,8 @@
       <jump line="203" column="11" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="12" column="28" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="191" column="0" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="199" column="22" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="138" column="4" filename="$USER_HOME$/projects/mrcnn/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -622,52 +627,52 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>acquire</text>
+        <text>Tm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">WwogIHsKICAgICdkZXNjcmlwdGlvbic6ICdNcnMgRWxzd29vZMKuIFN3ZWV0IFNvdXIgQ3VjdW1iZXJzIFBpY2tsZWQgV2l0aCBTd2VldGVuZXIgNjcwZycsCiAgICAnZ3Rpbic6ICc1MDQwOTAyMCcsCiAgICAnYnJhbmRiYW5rQ29kZSc6ICc1NzQwOTcnLAogICAgJ3B2aWQnOiAnNTc0MDk3JywKICAgICdzdWJzY3JpYmVyJzogewogICAgICAnaWQnOiA0MjY5NCwKICAgICAgJ2NvZGUnOiAnQUVNUDAwMScKICAgIH0sCiAgICAndmVyc2lvbkRhdGVUaW1lJzogJzIwMDYtMTItMTlUMTE6MzA6MzZaJywKICAgICd0YXJnZXRNYXJrZXRzJzogWwogICAgICAnR0InLAogICAgICAnSUUnCiAgICBdLAogICAgJ3VwZGF0ZVR5cGUnOiAnQWRkT3JVcGRhdGUnLAogICAgJ2V1MTE2OUNvbXBsaWFuY2UnOiAnVW5zcGVjaWZpZWQnLAogICAgJ2RlZmF1bHRMYW5ndWFnZSc6ICdlbi1HQicsCiAgICAnY2F0ZWdvcmllcyc6IFsKICAgICAgewogICAgICAgICdsZXZlbCc6IDEsCiAgICAgICAgJ2NvZGUnOiAnMDcnLAogICAgICAgICdkZXNjcmlwdGlvbic6ICdHcm9jZXJ5JwogICAgICB9LAogICAgICB7CiAgICAgICAgJ2xldmVsJzogMiwKICAgICAgICAnY29kZSc6ICcwOCcsCiAgICAgICAgJ2Rlc2NyaXB0aW9uJzogJ1ZpbmVnYXJzICYgUGlja2VkIFZlZ2V0YWJsZXMnCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAnbGV2ZWwnOiAzLAogICAgICAgICdjb2RlJzogJzA4JywKICAgICAgICAnZGVzY3JpcHRpb24nOiAnT3RoZXInCiAgICAgIH0KICAgIF0sCiAgICAnaW1hZ2VzJzogWwogICAgICB7CiAgICAgICAgJ3Nob3RUeXBlSWQnOiAxLAogICAgICAgICdzaG90VHlwZSc6ICdJRCBTaG90JywKICAgICAgICAnbWltZVR5cGUnOiAnaW1hZ2UvanBlZycsCiAgICAgICAgJ3RodW1icHJpbnQnOiAnKy9PQURDMGZ4clZDQ2lHL1h2ZGt4Zz09JywKICAgICAgICAndXJsJzogewogICAgICAgICAgJ2hyZWYnOiAnaHR0cDovL3Byb2R1Y3RpbWFnZXMuYnJhbmRiYW5rLmNvbS9zbmFwc2hvdGltYWdlaGFuZGxlci5hc2h4P2lkPTAwZjQyNmExLWM4ZWYtMDA2Mi05NjJhLTlkNTQwNmQ3MzZmZScsCiAgICAgICAgICAnZXhwaXJ5RGF0ZVRpbWUnOiBOb25lCiAgICAgICAgfSwKICAgICAgICAnbWVhc3VyZW1lbnRVbml0JzogJ3B4JywKICAgICAgICAnd2lkdGgnOiAyMzY1LAogICAgICAgICdoZWlnaHQnOiAyMzY1CiAgICAgIH0KICAgIF0sCiAgICAnb2JqZWN0cyc6IFtdLAogICAgJ2Fzc2V0cyc6IFtdLAogICAgJ2xhbmd1YWdlcyc6IFsKICAgICAgewogICAgICAgICdsYW5ndWFnZSc6ICdFbmdsaXNoIChCcml0aXNoKScsCiAgICAgICAgJ2NvZGUnOiAnZW4tR0InLAogICAgICAgICdkZXNjcmlwdGlvbic6ICdNcnMgRWxzd29vZMKuIFN3ZWV0IFNvdXIgQ3VjdW1iZXJzIFBpY2tsZWQgV2l0aCBTd2VldGVuZXIgNjcwZycsCiAgICAgICAgJ2dyb3VwaW5nU2V0cyc6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgJ25hbWUnOiAnQWxsIEF0dHJpYnV0ZXMnLAogICAgICAgICAgICAnYXR0cmlidXRlcyc6IHsKICAgICAgICAgICAgICAnYnJhbmQnOiBbCiAgICAgICAgICAgICAgICAnTXJzIEVsc3dvb2TCricKICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICdzdGFuZGFyZGlzZWRCcmFuZCc6IFsKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgJ25hbWVJZCc6IDIyNCwKICAgICAgICAgICAgICAgICAgJ25hbWVWYWx1ZSc6ICdCcmFuZCcsCiAgICAgICAgICAgICAgICAgICdsb29rdXBJZCc6IDQwMTMsCiAgICAgICAgICAgICAgICAgICdsb29rdXBWYWx1ZSc6ICdNcnMuIEVsc3dvb2QnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9CiAgICBdCiAgfQpdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgppbXBvcnQgdGVuc29yZmxvdyBhcyB0ZgppbXBvcnQgb3MKCm9zLnBhdGguam9pbigpCmltcG9ydCBudW1weSBhcyBucAoKaW1wb3J0IHN5cwoKc3lzLmV4aXQoKQoKaW1wb3J0IG51bXB5IGFzIG5wCgppbXBvcnQgb3MKaW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKaW1wb3J0IHN5cwoKb3MucGF0aC5qb2luKCkKc3lzLmV4aXQoMSkKCmltcG9ydCBudW1weSBhcyBucAoKbnAuYXJhbmdlKCkK</text>
+        <text encoding="base64">fCA8aW1nIHNyYz0naW1hZ2VzL2dyb2NlcnlfM2QvdjIvdmFsX2xvc3NfdG90YWwucG5nJyB3aWR0aD0iMjAwcHgiLz4gfCA8aW1nIHNyYz0naW1hZ2VzL2dyb2NlcnlfM2QvdjIvdmFsX2xvc3NfYmJveC5wbmcnIHdpZHRoPSIyMDBweCIvPiB8IDxpbWcgc3JjPSdpbWFnZXMvZ3JvY2VyeV8zZC92Mi92YWxfbG9zc19jbGFzcy5wbmcnIHdpZHRoPSIyMDBweCIvPiB8IDxpbWcgc3JjPSdpbWFnZXMvZ3JvY2VyeV8zZC92Mi92YWxfbG9zc19tYXNrLnBuZycgd2lkdGg9IjIwMHB4Ii8+IHwgPGltZyBzcmM9J2ltYWdlcy9ncm9jZXJ5XzNkL3YyL3ZhbF9ycG5fYmJveF9sb3NzLnBuZycgd2lkdGg9IjIwMHB4Ii8+IHwKICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gIi0iLmpvaW4oW2MuRVJST1JfSU1BR0VfRVhQSVJFRF9VUkwsIGd0aW4sICIqIl0pCiAgICBmaWxlbmFtZSA9ICIuIi5qb2luKGZpbGVuYW1lLCAianNvbiIpCiAgICBhc3NlcnQgUGF0aCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgppbXBvcnQgdGVuc29yZmxvdyBhcyB0ZgppbXBvcnQgb3MKCm9zLnBhdGguam9pbigpCmltcG9ydCBudW1weSBhcyBucAoKaW1wb3J0IHN5cwoKc3lzLmV4aXQoKQoKaW1wb3J0IG51bXB5IGFzIG5wCgppbXBvcnQgb3MKaW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKaW1wb3J0IHN5cwoKb3MucGF0aC5qb2luKCkKc3lzLmV4aXQoMSkKCmltcG9ydCBudW1weSBhcyBucAoKbnAuYXJhbmdlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9kb3dubG9hZGluZ19pbWFnZXNfd2hlbl9yZXNwb25zZV9pc180MDQoKToK</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gIi0iLmpvaW4oW2MuRVJST1JfSU1BR0VfRVhQSVJFRF9VUkwsIGd0aW4sICIqIl0pCiAgICBmaWxlbmFtZSA9ICIuIi5qb2luKGZpbGVuYW1lLCAianNvbiIpCiAgICBhc3NlcnQgUGF0aCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5wLgo=</text>
+        <text encoding="base64">IyBkZWYgdGVzdF9kb3dubG9hZGluZ19pbWFnZXNfd2hlbl9yZXNwb25zZV9pc180MDQoKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
+        <text encoding="base64">ICAgIG5wLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGgK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBudW1weSBhcyBucAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BMJ10gPSAiUExJTiIK</text>
+        <text encoding="base64">ICAgIG9zLnBhdGgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BMJ10K</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BMJ10gPSAiUExJTiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BMJ10K</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search>acquire</last-search>
+      <last-search>Tm</last-search>
       <last-offset />
-      <last-pattern>acquire</last-pattern>
+      <last-pattern>Tm</last-pattern>
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -693,6 +698,8 @@
         <entry encoding="base64">XDxfdW50YXJfZGF0YXNldFw+</entry>
         <entry>fileloc</entry>
         <entry>acquire</entry>
+        <entry encoding="base64">XDxEQVRBU0VUX0ZPTERFUlw+</entry>
+        <entry>Tm</entry>
       </history-search>
       <history-cmd>
         <entry>527</entry>
@@ -709,12 +716,13 @@
         <entry>action VimFilePrevious</entry>
         <entry>action ShowSettings</entry>
         <entry>action CloseProject</entry>
-        <entry>action CloseContent</entry>
         <entry>action VimWindowNext</entry>
-        <entry>action GotoFile</entry>
-        <entry>action GotoAction</entry>
+        <entry>map</entry>
         <entry>action Vcs.Show.Local.Changes</entry>
+        <entry>action CloseContent</entry>
         <entry>action SaveDocument</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
