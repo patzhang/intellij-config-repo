@@ -64,6 +64,9 @@
         <mark key="^" line="0" column="606442" />
         <mark key="." line="0" column="606442" />
       </file>
+      <file name="/a.dummy" timestamp="1562237372536">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard/frontend/src/main.js" timestamp="1519061336259">
         <mark key="'" line="33" column="8" />
         <mark key="[" line="9" column="30" />
@@ -174,12 +177,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1562236059305">
-        <mark key="'" line="38" column="15" />
-        <mark key="[" line="233" column="59" />
-        <mark key="]" line="233" column="65" />
-        <mark key="." line="233" column="65" />
-        <mark key="^" line="233" column="65" />
+      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1562237359239">
+        <mark key="'" line="527" column="4" />
+        <mark key="[" line="565" column="17" />
+        <mark key="]" line="565" column="16" />
+        <mark key="^" line="565" column="16" />
+        <mark key="." line="565" column="16" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1532698876615">
         <mark key="'" line="20" column="26" />
@@ -506,15 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="27" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
-      <jump line="97" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
-      <jump line="105" column="19" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
-      <jump line="21" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="31" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="59" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-snake-vision-v1/test_snake_vision.py" />
-      <jump line="11" column="31" filename="$USER_HOME$/codeVE/10x-vision-evolution/ve-eagle-vision-v1/test_eagle_vision.py" />
-      <jump line="101" column="52" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
-      <jump line="51" column="59" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
       <jump line="16" column="43" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
       <jump line="62" column="64" filename="$USER_HOME$/codeVE/10x-vision-evolution/vision-app-manager.sh" />
@@ -606,6 +600,15 @@
       <jump line="235" column="16" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="243" column="29" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="38" column="15" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="218" column="18" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="399" column="4" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="560" column="19" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="721" column="23" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="550" column="12" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="565" column="16" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="557" column="7" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="527" column="4" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -631,52 +634,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>class_name</text>
+        <text>AP</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpb1w+</text>
+        <text encoding="base64">XDxjb21wdXRlX21BUF9vbl9kYXRhc2V0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRyYWluIG9yIHZhbGlkYXRpb24gZGF0YXNldD8KICAgICAgICBhc3NlcnQgc3Vic2V0IGluIFsidHJhaW4iLCAidmFsIiwgInRlc3QiXQogICAgICAgIGRhdGFzZXRfZGlyID0gb3MucGF0aC5qb2luKGRhdGFzZXRfZGlyLCBzdWJzZXQpCgogICAgICAgIGNsYXNzX25hbWVzID0gWyIwMDcwMTc3MjY0NTc0IiwgIjMwMjMyOTAxMTQzOTEiLCAiNTAwMDE2ODIwMzgzNiIsICI1MDYwMDQ1Mzg3MDY2IiwgIjU0MTExODgxMDY4MTQiXQogICAgICAgIGNsYXNzX2lkcyA9IG5wLmFyYW5nZSgxLCBsZW4oY2xhc3NfbmFtZXMpICsgMSwgZHR5cGU9bnAuaW50MzIpCg==</text>
+        <text encoding="base64">ZGVmIGNvbXB1dGVfbUFQKG1vZGVsLCBpbmZlcmVuY2VfY29uZmlnLCBkYXRhc2V0X3BhdGgsIHN1YnNldD0idGVzdCIsIGltYWdlcz1Ob25lKToKICAgICIiIkNvbXB1dGUgVk9DLVN0eWxlIG1BUCBAIElvVT0wLjUiIiIKICAgIGRhdGFzZXQgPSBHcm9jZXJ5RGF0YXNldCgpCiAgICBkYXRhc2V0LmxvYWRfZ3JvY2VyeShkYXRhc2V0X3BhdGgsIHN1YnNldCkKICAgIGRhdGFzZXQucHJlcGFyZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5hbWUgPT0gQ0xBU1NfUFJFVFpFTDoKICAgICAgICAgICAgICAgICAgICBjbGFzc19uYW1lX251bXMuYXBwZW5kKDEpCiAgICAgICAgICAgICAgICBpZiBuYW1lID09IENMQVNTX1RFQToKICAgICAgICAgICAgICAgICAgICBjbGFzc19uYW1lX251bXMuYXBwZW5kKDIpCg==</text>
+        <text encoding="base64">ICAgIGlmIGltYWdlcyBpcyBOb25lOgogICAgICAgIGltYWdlX2lkcyA9IGRhdGFzZXQuaW1hZ2VfaWRzCiAgICBlbHNlOgogICAgICAgIGltYWdlX2lkcyA9IG5wLnJhbmRvbS5jaG9pY2UoZGF0YXNldC5pbWFnZV9pZHMsIGltYWdlcykKICAgIEFQcyA9IFtdCiAgICBjb3VudCA9IDAKICAgIHRvdGFsID0gbGVuKGltYWdlX2lkcykKICAgIGZvciBpbWFnZV9pZCBpbiBpbWFnZV9pZHM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgICMgTG9hZCBpbWFnZSBhbmQgZ3JvdW5kIHRydXRoIGRhdGEKICAgICAgICBpbWFnZSwgaW1hZ2VfbWV0YSwgZ3RfY2xhc3NfaWQsIGd0X2Jib3gsIGd0X21hc2sgPSBcCiAgICAgICAgICAgIG1vZGVsbGliLmxvYWRfaW1hZ2VfZ3QoZGF0YXNldCwgaW5mZXJlbmNlX2NvbmZpZywgaW1hZ2VfaWQsIHVzZV9taW5pX21hc2s9RmFsc2UpCiAgICAgICAgbW9sZGVkX2ltYWdlcyA9IG5wLmV4cGFuZF9kaW1zKG1vZGVsbGliLm1vbGRfaW1hZ2UoaW1hZ2UsIGluZmVyZW5jZV9jb25maWcpLCAwKQogICAgICAgICMgUnVuIG9iamVjdCBkZXRlY3Rpb24KICAgICAgICByZXN1bHRzID0gbW9kZWwuZGV0ZWN0KFtpbWFnZV0sIHZlcmJvc2U9MCkKICAgICAgICByID0gcmVzdWx0c1swXQogICAgICAgICMgQ29tcHV0ZSBBUAogICAgICAgIEFQLCBwcmVjaXNpb25zLCByZWNhbGxzLCBvdmVybGFwcyA9IFwKICAgICAgICAgICAgdXRpbHMuY29tcHV0ZV9hcChndF9iYm94LCBndF9jbGFzc19pZCwgZ3RfbWFzaywgclsicm9pcyJdLCByWyJjbGFzc19pZHMiXSwgclsic2NvcmVzIl0sIHJbIm1hc2tzIl0pCiAgICAgICAgcHJpbnQoZiJ7Y291bnR9L3t0b3RhbH0gIEltYWdlIElEOiB7aW1hZ2VfaWR9ICBBUDoge0FQfSIpCiAgICAgICAgcHJpbnQoZiIgICBwcmVjaXNpb25zOiB7cHJlY2lzaW9uc30iKQogICAgICAgIHByaW50KGYiICAgcmVjYWxsczoge3JlY2FsbHN9IikKICAgICAgICBwcmludChmIiAgIG92ZXJsYXBzOiB7b3ZlcmxhcHN9IikKICAgICAgICBBUHMuYXBwZW5kKEFQKQoKICAgIHByaW50KGYibUFQOiB7bnAubWVhbihBUHMpfSBvbiB7c3Vic2V0fSBvZiB7ZGF0YXNldF9wYXRofSIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFZHRyBJbWFnZSBBbm5vdGF0b3IgKHVwIHRvIHZlcnNpb24gMS42KSBzYXZlcyBlYWNoIGltYWdlIGluIHRoZSBmb3JtOgogICAgICAgICMgeyAnZmlsZW5hbWUnOiAnMjg1MDMxNTFfNWI1YjdlYzE0MF9iLmpwZycsCiAgICAgICAgIyAgICdyZWdpb25zJzogewogICAgICAgICMgICAgICAgJzAnOiB7CiAgICAgICAgIyAgICAgICAgICAgJ3JlZ2lvbl9hdHRyaWJ1dGVzJzoge30sCiAgICAgICAgIyAgICAgICAgICAgJ3NoYXBlX2F0dHJpYnV0ZXMnOiB7CiAgICAgICAgIyAgICAgICAgICAgICAgICdhbGxfcG9pbnRzX3gnOiBbLi4uXSwKICAgICAgICAjICAgICAgICAgICAgICAgJ2FsbF9wb2ludHNfeSc6IFsuLi5dLAogICAgICAgICMgICAgICAgICAgICAgICAnbmFtZSc6ICdwb2x5Z29uJ319LAogICAgICAgICMgICAgICAgLi4uIG1vcmUgcmVnaW9ucyAuLi4KICAgICAgICAjICAgfSwKICAgICAgICAjICAgJ3NpemUnOiAxMDAyMDIKICAgICAgICAjIH0KICAgICAgICAjIFdlIG1vc3RseSBjYXJlIGFib3V0IHRoZSB4IGFuZCB5IGNvb3JkaW5hdGVzIG9mIGVhY2ggcmVnaW9uCg==</text>
+        <text encoding="base64">ICAgICIiIkNvbXB1dGUgVk9DLVN0eWxlIG1BUCBAIElvVT0wLjUiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRyYWluIG9yIHZhbGlkYXRpb24gZGF0YXNldD8KICAgICAgICBhc3NlcnQgc3Vic2V0IGluIFsidHJhaW4iLCAidmFsIl0KICAgICAgICBkYXRhc2V0X2RpciA9IG9zLnBhdGguam9pbihkYXRhc2V0X2Rpciwgc3Vic2V0KQoK</text>
+        <text encoding="base64">ICAgIGRhdGFzZXQgPSBHcm9jZXJ5RGF0YXNldCgpCiAgICBkYXRhc2V0LmxvYWRfZ3JvY2VyeShkYXRhc2V0X3BhdGgsIHN1YnNldCkKICAgIGRhdGFzZXQucHJlcGFyZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIEFkZCBjbGFzc2VzLiBXZSBoYXZlIHR3byBjbGFzc2VzIHRvIGFkZC4KICAgICAgICBzZWxmLmFkZF9jbGFzcygiZ3JvY2VyeSIsIDEsIENMQVNTX1BSRVRaRUwpCiAgICAgICAgc2VsZi5hZGRfY2xhc3MoImdyb2NlcnkiLCAyLCBDTEFTU19URUEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5hbWUgPT0gQ0xBU1NfUFJFVFpFTDoKICAgICAgICAgICAgICAgICAgICBjbGFzc19uYW1lX251bXMuYXBwZW5kKDEpCiAgICAgICAgICAgICAgICBpZiBuYW1lID09IENMQVNTX1RFQToKICAgICAgICAgICAgICAgICAgICBjbGFzc19uYW1lX251bXMuYXBwZW5kKDIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFZHRyBJbWFnZSBBbm5vdGF0b3IgKHVwIHRvIHZlcnNpb24gMS42KSBzYXZlcyBlYWNoIGltYWdlIGluIHRoZSBmb3JtOgogICAgICAgICMgeyAnZmlsZW5hbWUnOiAnMjg1MDMxNTFfNWI1YjdlYzE0MF9iLmpwZycsCiAgICAgICAgIyAgICdyZWdpb25zJzogewogICAgICAgICMgICAgICAgJzAnOiB7CiAgICAgICAgIyAgICAgICAgICAgJ3JlZ2lvbl9hdHRyaWJ1dGVzJzoge30sCiAgICAgICAgIyAgICAgICAgICAgJ3NoYXBlX2F0dHJpYnV0ZXMnOiB7CiAgICAgICAgIyAgICAgICAgICAgICAgICdhbGxfcG9pbnRzX3gnOiBbLi4uXSwKICAgICAgICAjICAgICAgICAgICAgICAgJ2FsbF9wb2ludHNfeSc6IFsuLi5dLAogICAgICAgICMgICAgICAgICAgICAgICAnbmFtZSc6ICdwb2x5Z29uJ319LAogICAgICAgICMgICAgICAgLi4uIG1vcmUgcmVnaW9ucyAuLi4KICAgICAgICAjICAgfSwKICAgICAgICAjICAgJ3NpemUnOiAxMDAyMDIKICAgICAgICAjIH0KICAgICAgICAjIFdlIG1vc3RseSBjYXJlIGFib3V0IHRoZSB4IGFuZCB5IGNvb3JkaW5hdGVzIG9mIGVhY2ggcmVnaW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fCA8aW1nIHNyYz0naW1hZ2VzL2dyb2NlcnlfM2QvdjIvdmFsX2xvc3NfdG90YWwucG5nJyB3aWR0aD0iMjAwcHgiLz4gfCA8aW1nIHNyYz0naW1hZ2VzL2dyb2NlcnlfM2QvdjIvdmFsX2xvc3NfYmJveC5wbmcnIHdpZHRoPSIyMDBweCIvPiB8IDxpbWcgc3JjPSdpbWFnZXMvZ3JvY2VyeV8zZC92Mi92YWxfbG9zc19jbGFzcy5wbmcnIHdpZHRoPSIyMDBweCIvPiB8IDxpbWcgc3JjPSdpbWFnZXMvZ3JvY2VyeV8zZC92Mi92YWxfbG9zc19tYXNrLnBuZycgd2lkdGg9IjIwMHB4Ii8+IHwgPGltZyBzcmM9J2ltYWdlcy9ncm9jZXJ5XzNkL3YyL3ZhbF9ycG5fYmJveF9sb3NzLnBuZycgd2lkdGg9IjIwMHB4Ii8+IHwKICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFRyYWluIG9yIHZhbGlkYXRpb24gZGF0YXNldD8KICAgICAgICBhc3NlcnQgc3Vic2V0IGluIFsidHJhaW4iLCAidmFsIl0KICAgICAgICBkYXRhc2V0X2RpciA9IG9zLnBhdGguam9pbihkYXRhc2V0X2Rpciwgc3Vic2V0KQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgppbXBvcnQgdGVuc29yZmxvdyBhcyB0ZgppbXBvcnQgb3MKCm9zLnBhdGguam9pbigpCmltcG9ydCBudW1weSBhcyBucAoKaW1wb3J0IHN5cwoKc3lzLmV4aXQoKQoKaW1wb3J0IG51bXB5IGFzIG5wCgppbXBvcnQgb3MKaW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKaW1wb3J0IHN5cwoKb3MucGF0aC5qb2luKCkKc3lzLmV4aXQoMSkKCmltcG9ydCBudW1weSBhcyBucAoKbnAuYXJhbmdlKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIEFkZCBjbGFzc2VzLiBXZSBoYXZlIHR3byBjbGFzc2VzIHRvIGFkZC4KICAgICAgICBzZWxmLmFkZF9jbGFzcygiZ3JvY2VyeSIsIDEsIENMQVNTX1BSRVRaRUwpCiAgICAgICAgc2VsZi5hZGRfY2xhc3MoImdyb2NlcnkiLCAyLCBDTEFTU19URUEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gIi0iLmpvaW4oW2MuRVJST1JfSU1BR0VfRVhQSVJFRF9VUkwsIGd0aW4sICIqIl0pCiAgICBmaWxlbmFtZSA9ICIuIi5qb2luKGZpbGVuYW1lLCAianNvbiIpCiAgICBhc3NlcnQgUGF0aCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBkZWYgdGVzdF9kb3dubG9hZGluZ19pbWFnZXNfd2hlbl9yZXNwb25zZV9pc180MDQoKToK</text>
+        <text encoding="base64">fCA8aW1nIHNyYz0naW1hZ2VzL2dyb2NlcnlfM2QvdjIvdmFsX2xvc3NfdG90YWwucG5nJyB3aWR0aD0iMjAwcHgiLz4gfCA8aW1nIHNyYz0naW1hZ2VzL2dyb2NlcnlfM2QvdjIvdmFsX2xvc3NfYmJveC5wbmcnIHdpZHRoPSIyMDBweCIvPiB8IDxpbWcgc3JjPSdpbWFnZXMvZ3JvY2VyeV8zZC92Mi92YWxfbG9zc19jbGFzcy5wbmcnIHdpZHRoPSIyMDBweCIvPiB8IDxpbWcgc3JjPSdpbWFnZXMvZ3JvY2VyeV8zZC92Mi92YWxfbG9zc19tYXNrLnBuZycgd2lkdGg9IjIwMHB4Ii8+IHwgPGltZyBzcmM9J2ltYWdlcy9ncm9jZXJ5XzNkL3YyL3ZhbF9ycG5fYmJveF9sb3NzLnBuZycgd2lkdGg9IjIwMHB4Ii8+IHwKICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action ShowSettings</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpb1w+</last-search>
+      <last-search encoding="base64">XDxjb21wdXRlX21BUF9vbl9kYXRhc2V0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wdXRlX21BUF9vbl9kYXRhc2V0XD4=</last-pattern>
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
@@ -709,6 +712,7 @@
         <entry>Tm</entry>
         <entry>load_grocery</entry>
         <entry encoding="base64">XDxpb1w+</entry>
+        <entry encoding="base64">XDxjb21wdXRlX21BUF9vbl9kYXRhc2V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>527</entry>
@@ -727,13 +731,14 @@
         <entry>map</entry>
         <entry>action Vcs.Show.Local.Changes</entry>
         <entry>action CloseContent</entry>
-        <entry>action GotoAction</entry>
         <entry>action GotoFile</entry>
-        <entry>action ShowSettings</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>action GotoNextError</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>action SaveDocument</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
       <history-input />
