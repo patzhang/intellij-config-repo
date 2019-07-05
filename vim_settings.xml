@@ -676,7 +676,7 @@
         <text encoding="base64">ICAgIGRhdGFzZXQgPSBHcm9jZXJ5RGF0YXNldCgpCiAgICBkYXRhc2V0LmxvYWRfZ3JvY2VyeShkYXRhc2V0X3BhdGgsIHN1YnNldCkKICAgIGRhdGFzZXQucHJlcGFyZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowSettings</text>
+        <text>738</text>
       </register>
     </registers>
     <search>
@@ -739,6 +739,7 @@
         <entry>action SaveDocument</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowSettings</entry>
+        <entry>738</entry>
       </history-cmd>
       <history-expr />
       <history-input />
