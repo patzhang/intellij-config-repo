@@ -177,12 +177,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1562325657623">
+      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1562326465989">
         <mark key="'" line="137" column="8" />
-        <mark key="[" line="214" column="45" />
-        <mark key="]" line="215" column="7" />
-        <mark key="." line="215" column="7" />
-        <mark key="^" line="215" column="7" />
+        <mark key="[" line="254" column="40" />
+        <mark key="]" line="254" column="40" />
+        <mark key="." line="254" column="40" />
+        <mark key="^" line="254" column="35" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1532698876615">
         <mark key="'" line="20" column="26" />
@@ -637,7 +637,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>load_grocery</text>
