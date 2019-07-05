@@ -177,12 +177,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1562318179930">
+      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1562323382786">
         <mark key="'" line="421" column="23" />
-        <mark key="[" line="516" column="0" />
-        <mark key="]" line="516" column="0" />
+        <mark key="[" line="736" column="16" />
+        <mark key="]" line="736" column="70" />
         <mark key="^" line="25" column="34" />
-        <mark key="." line="516" column="0" />
+        <mark key="." line="736" column="16" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1532698876615">
         <mark key="'" line="20" column="26" />
@@ -676,7 +676,7 @@
         <text encoding="base64">ICAgIGRhdGFzZXQgPSBHcm9jZXJ5RGF0YXNldCgpCiAgICBkYXRhc2V0LmxvYWRfZ3JvY2VyeShkYXRhc2V0X3BhdGgsIHN1YnNldCkKICAgIGRhdGFzZXQucHJlcGFyZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>738</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -686,14 +686,10 @@
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
-        <entry>moment</entry>
-        <entry>*</entry>
-        <entry>fs</entry>
         <entry>fs.</entry>
         <entry encoding="base64">XDxiYXJjb2RlRGljdFw+</entry>
         <entry>if</entry>
@@ -716,13 +712,8 @@
         <entry>computevia</entry>
       </history-search>
       <history-cmd>
-        <entry>s/ve1/testing/g</entry>
-        <entry>%s/ve1/testing/g</entry>
-        <entry>vs</entry>
-        <entry>vsplit</entry>
         <entry>call functions#WinMove('h')</entry>
         <entry>action RecentFiles</entry>
-        <entry>action CloseProject</entry>
         <entry>action VimWindowNext</entry>
         <entry>map</entry>
         <entry>action Vcs.Show.Local.Changes</entry>
@@ -731,15 +722,17 @@
         <entry>action SearchEverywhere</entry>
         <entry>action GotoPreviousError</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
         <entry>action VimFilePrevious</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action VimVisualExitMode</entry>
-        <entry>action GotoAction</entry>
         <entry>action SaveDocument</entry>
         <entry>action GotoNextError</entry>
         <entry>action ShowSettings</entry>
         <entry>738</entry>
+        <entry>action CloseProject</entry>
+        <entry>action Terminal.OpenInTerminal</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
