@@ -679,7 +679,7 @@
         <text encoding="base64">ICAgICAgICAjIG9uZSBjbGFzcyBJRCBvbmx5LCB3ZSByZXR1cm4gYW4gYXJyYXkgb2YgMXMuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -736,7 +736,6 @@
         <entry>738</entry>
         <entry>action CloseProject</entry>
         <entry>action Terminal.OpenInTerminal</entry>
-        <entry>action GotoFile</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoNextError</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
@@ -745,6 +744,7 @@
         <entry>action GotoAction</entry>
         <entry>action CloseContent</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
