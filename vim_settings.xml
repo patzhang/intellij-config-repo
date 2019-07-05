@@ -184,8 +184,13 @@
         <mark key="^" line="252" column="62" />
         <mark key="." line="416" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" timestamp="1562333960315">
-        <mark key="'" line="281" column="19" />
+      <file name="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" timestamp="1562342914800">
+        <mark key="'" line="655" column="4" />
+        <mark key="g" line="655" column="5" />
+        <mark key="[" line="730" column="0" />
+        <mark key="]" line="730" column="14" />
+        <mark key="." line="730" column="14" />
+        <mark key="^" line="730" column="14" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/logger.js" timestamp="1532698876615">
         <mark key="'" line="20" column="26" />
@@ -527,10 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="35" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
-      <jump line="260" column="22" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
-      <jump line="216" column="16" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="195" column="8" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="210" column="21" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="235" column="40" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
@@ -627,6 +628,10 @@
       <jump line="6" column="34" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
       <jump line="13" column="10" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
       <jump line="33" column="35" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
+      <jump line="282" column="24" filename="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" />
+      <jump line="726" column="37" filename="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" />
+      <jump line="635" column="4" filename="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" />
+      <jump line="655" column="4" filename="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -655,49 +660,49 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>-path</text>
+        <text encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzb3VyY2UgPSBvcy5wYXRoLmpvaW4oaW1hZ2VfZGlyLCBpbWFnZSkKICAgICAgICB0YXJnZXQgPSBvcy5wYXRoLmpvaW4ob3V0cHV0X2RpciwgaW1hZ2UpCiAgICAgICAgc2h1dGlsLmNvcHkoc291cmNlLCB0YXJnZXQpCiAgICAgICAgcHJpbnQoZid7Y291bnR9IC8ge2xlbihhbGxfaW1hZ2VzKX0gaXMgY29waWVkLicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGFsbF9pbWFnZXMuYXBwZW5kKGYpCiAgICBhbGxfaW1hZ2VzLnNvcnQoKQogICAgZm9yIGltYWdlIGluIGFsbF9pbWFnZXM6CiAgICAgICAgcHJpbnQoaW1hZ2UpCiAgICBwcmludChmJ1RvdGFsIEltYWdlczoge2xlbihhbGxfaW1hZ2VzKX0nKQogICAgZXhpdCgwKQoKICAgIHNlbGVjdF9pbWFnZXMgPSBbXQogICAgZm9yIGksIGltYWdlIGluIGVudW1lcmF0ZShhbGxfaW1hZ2VzKToKICAgICAgICBpZiBpICUgTiA9PSAwOgogICAgICAgICAgICBzZWxlY3RfaW1hZ2VzLmFwcGVuZChpbWFnZSkKICAgIHByaW50KGYnU2VsZWN0ZWQgSW1hZ2VzOiB7bGVuKHNlbGVjdF9pbWFnZXMpfScpCgogICAgZm9yIGltYWdlIGluIHNlbGVjdF9pbWFnZXM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihpbWFnZV9kaXIsIGltYWdlKQogICAgICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBpbWFnZSkKICAgICAgICBzaHV0aWwuY29weShzb3VyY2UsIHRhcmdldCkKICAgICAgICBwcmludChmJ3tjb3VudH0gLyB7bGVuKGFsbF9pbWFnZXMpfSBpcyBjb3BpZWQuJykK</text>
+        <text encoding="base64">CiAgICAjIENvbXB1dGUgcHJlY2lzaW9uIGFuZCByZWNhbGwgYXQgZWFjaCBwcmVkaWN0aW9uIGJveCBzdGVwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGFsbF9pbWFnZXMuYXBwZW5kKGYpCiAgICBhbGxfaW1hZ2VzLnNvcnQoKQogICAgZm9yIGltYWdlIGluIGFsbF9pbWFnZXM6CiAgICAgICAgcHJpbnQoaW1hZ2UpCiAgICBwcmludChmJ1RvdGFsIEltYWdlczoge2xlbihhbGxfaW1hZ2VzKX0nKQogICAgZXhpdCgwKQoKICAgIHNlbGVjdF9pbWFnZXMgPSBbXQogICAgZm9yIGksIGltYWdlIGluIGVudW1lcmF0ZShhbGxfaW1hZ2VzKToKICAgICAgICBpZiBpICUgTiA9PSAwOgogICAgICAgICAgICBzZWxlY3RfaW1hZ2VzLmFwcGVuZChpbWFnZSkKICAgIHByaW50KGYnU2VsZWN0ZWQgSW1hZ2VzOiB7bGVuKHNlbGVjdF9pbWFnZXMpfScpCgogICAgZm9yIGltYWdlIGluIHNlbGVjdF9pbWFnZXM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihpbWFnZV9kaXIsIGltYWdlKQogICAgICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBpbWFnZSkKICAgICAgICBzaHV0aWwuY29weShzb3VyY2UsIHRhcmdldCkKICAgICAgICBwcmludChmJ3tjb3VudH0gLyB7bGVuKGFsbF9pbWFnZXMpfSBpcyBjb3BpZWQuJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsbF9pbWFnZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGgK</text>
+        <text encoding="base64">ICAgIGFsbF9pbWFnZXMgPSBbXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG9zLnBhdGgK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseContent</text>
+        <text>action VimFilePrevious</text>
       </register>
     </registers>
     <search>
-      <last-search>-path</last-search>
+      <last-search encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>-path</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</last-pattern>
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
@@ -735,6 +740,9 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxyZWRlZmluZWRcPg==</entry>
         <entry>-path</entry>
+        <entry>compute_ap</entry>
+        <entry>compute_ma</entry>
+        <entry encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>call functions#WinMove('h')</entry>
@@ -754,11 +762,12 @@
         <entry>action SaveDocument</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action CompileDirty</entry>
-        <entry>action GotoFile</entry>
-        <entry>action VimFilePrevious</entry>
         <entry>action Terminal.OpenInTerminal</entry>
         <entry>action GotoAction</entry>
         <entry>action CloseContent</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Back</entry>
+        <entry>action VimFilePrevious</entry>
       </history-cmd>
       <history-expr />
       <history-input />
