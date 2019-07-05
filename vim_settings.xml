@@ -201,12 +201,12 @@
         <mark key="." line="77" column="36" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/tools/select_images.py" timestamp="1562338242921">
-        <mark key="'" line="6" column="34" />
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/projects/mrcnn/tools/select_images.py" timestamp="1562341463268">
+        <mark key="'" line="33" column="35" />
+        <mark key="[" line="33" column="47" />
+        <mark key="]" line="33" column="47" />
+        <mark key="." line="33" column="47" />
+        <mark key="^" line="33" column="47" />
       </file>
       <file name="$USER_HOME$/codeVE/neuralnet_webcam_demo/product.json" timestamp="1541069289589">
         <mark key="[" line="0" column="0" />
@@ -527,8 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/constants.py" />
-      <jump line="87" column="27" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/sync_worker.py" />
       <jump line="206" column="35" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="260" column="22" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="216" column="16" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
@@ -627,6 +625,8 @@
       <jump line="23" column="17" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
       <jump line="6" column="34" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
+      <jump line="13" column="10" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
+      <jump line="33" column="35" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -652,16 +652,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Video to be split</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>-path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBhcmdwYXJzZQoKICAgICMgUGFyc2UgY29tbWFuZCBsaW5lIGFyZ3VtZW50cwogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249ImdyZXAgdGhlIGZyYW1lcyBpbiBhIHZpZGVvIGFuZCBzYXZlIHRoZW0gYXMgaW1hZ2VzIGluIHRlc3RfaW1hZ2VzIGRpcmVjdG9yeS4iCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLXZpZGVvIiwKICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICBtZXRhdmFyPSJwYXRoIG9yIFVSTCB0byB2aWRlbyIsCiAgICAgICAgaGVscD0iVmlkZW8gdG8gYmUgc3BsaXQiLAogICAgKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkK</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2UgPSBvcy5wYXRoLmpvaW4oaW1hZ2VfZGlyLCBpbWFnZSkKICAgICAgICB0YXJnZXQgPSBvcy5wYXRoLmpvaW4ob3V0cHV0X2RpciwgaW1hZ2UpCiAgICAgICAgc2h1dGlsLmNvcHkoc291cmNlLCB0YXJnZXQpCiAgICAgICAgcHJpbnQoZid7Y291bnR9IC8ge2xlbihhbGxfaW1hZ2VzKX0gaXMgY29waWVkLicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGFsbF9pbWFnZXMuYXBwZW5kKGYpCiAgICBhbGxfaW1hZ2VzLnNvcnQoKQogICAgZm9yIGltYWdlIGluIGFsbF9pbWFnZXM6CiAgICAgICAgcHJpbnQoaW1hZ2UpCiAgICBwcmludChmJ1RvdGFsIEltYWdlczoge2xlbihhbGxfaW1hZ2VzKX0nKQogICAgZXhpdCgwKQoKICAgIHNlbGVjdF9pbWFnZXMgPSBbXQogICAgZm9yIGksIGltYWdlIGluIGVudW1lcmF0ZShhbGxfaW1hZ2VzKToKICAgICAgICBpZiBpICUgTiA9PSAwOgogICAgICAgICAgICBzZWxlY3RfaW1hZ2VzLmFwcGVuZChpbWFnZSkKICAgIHByaW50KGYnU2VsZWN0ZWQgSW1hZ2VzOiB7bGVuKHNlbGVjdF9pbWFnZXMpfScpCgogICAgZm9yIGltYWdlIGluIHNlbGVjdF9pbWFnZXM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihpbWFnZV9kaXIsIGltYWdlKQogICAgICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBpbWFnZSkKICAgICAgICBzaHV0aWwuY29weShzb3VyY2UsIHRhcmdldCkKICAgICAgICBwcmludChmJ3tjb3VudH0gLyB7bGVuKGFsbF9pbWFnZXMpfSBpcyBjb3BpZWQuJykK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -670,28 +670,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgojIGltcG9ydCBvcwojIGltcG9ydCBzeXMKCiMgZGVmIG1haW4oKToKIyAgICAgcHJpbnQoJ0hlbGxvIScpCgojIGlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6Cg==</text>
+        <text encoding="base64">ICAgIGFsbF9pbWFnZXMgPSBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLnBhdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZV9maWxlID0gUGF0aChpbWFnZV9pbmZvWyJwYXRoIl0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltZ19pZCA9IGltYWdlX2luZm9bImlkIl0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmpvaW4oKQo=</text>
+        <text encoding="base64">ICAgIGYK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>action CloseContent</text>
       </register>
     </registers>
     <search>
@@ -747,18 +747,18 @@
         <entry>action ShowSettings</entry>
         <entry>738</entry>
         <entry>action CloseProject</entry>
-        <entry>action Terminal.OpenInTerminal</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoNextError</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action VimVisualExitMode</entry>
         <entry>action SaveDocument</entry>
-        <entry>action CloseContent</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action CompileDirty</entry>
         <entry>action GotoFile</entry>
         <entry>action VimFilePrevious</entry>
+        <entry>action Terminal.OpenInTerminal</entry>
         <entry>action GotoAction</entry>
+        <entry>action CloseContent</entry>
       </history-cmd>
       <history-expr />
       <history-input />
