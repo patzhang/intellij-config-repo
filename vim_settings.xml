@@ -201,6 +201,13 @@
         <mark key="." line="77" column="36" />
         <mark key="^" line="18" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/mrcnn/tools/select_images.py" timestamp="1562338242921">
+        <mark key="'" line="6" column="34" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/codeVE/neuralnet_webcam_demo/product.json" timestamp="1541069289589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="78" column="0" />
@@ -291,6 +298,11 @@
         <mark key="]" line="21" column="50" />
         <mark key="^" line="21" column="50" />
         <mark key="." line="21" column="50" />
+      </file>
+      <file name="$USER_HOME$/projects/mrcnn/tools/video2images.py" timestamp="1562338052177">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="56" column="30" />
       </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/upload_to_gcs/faster_gcs_uploader.py" timestamp="1520505610265">
         <mark key="'" line="67" column="30" />
@@ -515,11 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="4" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
-      <jump line="209" column="16" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/sync_worker.py" />
-      <jump line="39" column="4" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/utils.py" />
-      <jump line="91" column="27" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/sync_worker.py" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/constants.py" />
       <jump line="87" column="27" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/sync_worker.py" />
       <jump line="206" column="35" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
@@ -615,6 +622,11 @@
       <jump line="418" column="1" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="486" column="1" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="25" column="36" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/mrcnn/tools/video2images.py" />
+      <jump line="23" column="17" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
+      <jump line="6" column="34" filename="$USER_HOME$/projects/mrcnn/tools/select_images.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -640,52 +652,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAjIHB5bGludDogZGlzYWJsZT1yZWRlZmluZWQtb3V0ZXItbmFtZQ==</text>
+        <text>Video to be split</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWRlZmluZWRcPg==</text>
+        <text>-path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmJ1Vua25vd24gYW5ub3RhdGlvbiBmaWxlIHR5cGU6IHtzZWxmLmZpbGVfdHlwZX0uJykK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBhcmdwYXJzZQoKICAgICMgUGFyc2UgY29tbWFuZCBsaW5lIGFyZ3VtZW50cwogICAgcGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoCiAgICAgICAgZGVzY3JpcHRpb249ImdyZXAgdGhlIGZyYW1lcyBpbiBhIHZpZGVvIGFuZCBzYXZlIHRoZW0gYXMgaW1hZ2VzIGluIHRlc3RfaW1hZ2VzIGRpcmVjdG9yeS4iCiAgICApCiAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICItLXZpZGVvIiwKICAgICAgICByZXF1aXJlZD1GYWxzZSwKICAgICAgICBtZXRhdmFyPSJwYXRoIG9yIFVSTCB0byB2aWRlbyIsCiAgICAgICAgaGVscD0iVmlkZW8gdG8gYmUgc3BsaXQiLAogICAgKQogICAgYXJncyA9IHBhcnNlci5wYXJzZV9hcmdzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZV9maWxlID0gUGF0aChpbWFnZV9pbmZvWyJwYXRoIl0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltZ19pZCA9IGltYWdlX2luZm9bImlkIl0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmpvaW4oKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc19pZHMgPSBpbmZvWydjbGFzc19saXN0J10K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc19pZHMgPSBzZWxmLmltYWdlX2luZm9bImNsYXNzX2xpc3QiXQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgR3JvY2VyeURhdGFzZXRWSUEodXRpbHMuRGF0YXNldCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgY2xhc3NfbWFwPU5vbmUpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18oY2xhc3NfbWFwPWNsYXNzX21hcCkKCiAgICBkZWYgbG9hZF9ncm9jZXJ5KHNlbGYsIGRhdGFzZXRfZGlyLCBzdWJzZXQpOgogICAgICAgICIiIkxvYWQgYSBzdWJzZXQgb2YgdGhlIEdyb2NlcnkgZGF0YXNldC4KICAgICAgICBkYXRhc2V0X2RpcjogUm9vdCBkaXJlY3Rvcnkgb2YgdGhlIGRhdGFzZXQuCiAgICAgICAgc3Vic2V0OiBTdWJzZXQgdG8gbG9hZDogdHJhaW4gb3IgdmFsCiAgICAgICAgIiIiCiAgICAgICAgIyBUcmFpbiBvciB2YWxpZGF0aW9uIGRhdGFzZXQ/CiAgICAgICAgYXNzZXJ0IHN1YnNldCBpbiBbInRyYWluIiwgInZhbCIsICJ0ZXN0Il0KICAgICAgICBkYXRhc2V0X2RpciA9IG9zLnBhdGguam9pbihkYXRhc2V0X2Rpciwgc3Vic2V0KQoKICAgICAgICBjbGFzc19uYW1lcyA9IFsKICAgICAgICAgICAgIjAwNzAxNzcyNjQ1NzQiLAogICAgICAgICAgICAiMzAyMzI5MDExNDM5MSIsCiAgICAgICAgICAgICI1MDAwMTY4MjAzODM2IiwKICAgICAgICAgICAgIjUwNjAwNDUzODcwNjYiLAogICAgICAgICAgICAiNTQxMTE4ODEwNjgxNCIsCiAgICAgICAgXQogICAgICAgIGNsYXNzX2lkcyA9IG5wLmFyYW5nZSgxLCBsZW4oY2xhc3NfbmFtZXMpICsgMSwgZHR5cGU9bnAuaW50MzIpCgogICAgICAgICMgQWRkIGNsYXNzZXMKICAgICAgICBmb3IgaSBpbiBjbGFzc19pZHM6CiAgICAgICAgICAgIHNlbGYuYWRkX2NsYXNzKCJncm9jZXJ5IiwgaSwgY2xhc3NfbmFtZXNbaSAtIDFdKQogICAgICAgICAgICAjIHNlbGYuYWRkX2NsYXNzX2RpY3QoY2xhc3NfbmFtZXNbaSAtIDFdLCBpKQoKICAgICAgICAjIExvYWQgYW5ub3RhdGlvbnMKICAgICAgICAjIE5vdGU6IEluIFZJQSAyLjAsIHJlZ2lvbnMgd2FzIGNoYW5nZWQgZnJvbSBhIGRpY3QgdG8gYSBsaXN0LgogICAgICAgIGFubm90YXRpb25zID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKGRhdGFzZXRfZGlyLCAidmlhX3JlZ2lvbl9kYXRhLmpzb24iKSkpCiAgICAgICAgYW5ub3RhdGlvbnMgPSBsaXN0KGFubm90YXRpb25zLnZhbHVlcygpKSAgIyBkb24ndCBuZWVkIHRoZSBkaWN0IGtleXMKCiAgICAgICAgIyBUaGUgVklBIHRvb2wgc2F2ZXMgaW1hZ2VzIGluIHRoZSBKU09OIGV2ZW4gaWYgdGhleSBkb24ndCBoYXZlIGFueQogICAgICAgICMgYW5ub3RhdGlvbnMuIFNraXAgdW5hbm5vdGF0ZWQgaW1hZ2VzLgogICAgICAgIGFubm90YXRpb25zID0gW2EgZm9yIGEgaW4gYW5ub3RhdGlvbnMgaWYgYVsicmVnaW9ucyJdXQoKICAgICAgICAjIEFkZCBpbWFnZXMKICAgICAgICBmb3IgYSBpbiBhbm5vdGF0aW9uczoKICAgICAgICAgICAgIyBHZXQgdGhlIHgsIHkgY29vcmRpbmF0ZXMgb2YgcG9pbnRzIG9mIHRoZSBwb2x5Z29ucyB0aGF0IG1ha2UgdXAKICAgICAgICAgICAgIyB0aGUgb3V0bGluZSBvZiBlYWNoIG9iamVjdCBpbnN0YW5jZS4gVGhlc2UgYXJlIHN0b3JlcyBpbiB0aGUKICAgICAgICAgICAgIyBzaGFwZV9hdHRyaWJ1dGVzIChzZWUganNvbiBmb3JtYXQgYWJvdmUpCiAgICAgICAgICAgICMgVGhlIGlmIGNvbmRpdGlvbiBpcyBuZWVkZWQgdG8gc3VwcG9ydCBWSUEgdmVyc2lvbnMgMS54IGFuZCAyLnguCiAgICAgICAgICAgIGlmIHR5cGUoYVsicmVnaW9ucyJdKWlzIGRpY3Q6CiAgICAgICAgICAgICAgICBwb2x5Z29ucyA9IFtyWyJzaGFwZV9hdHRyaWJ1dGVzIl0gZm9yIHIgaW4gYVsicmVnaW9ucyJdLnZhbHVlcygpXQogICAgICAgICAgICAgICAgY2xhc3NfbmFtZXNfc3RyID0gWwogICAgICAgICAgICAgICAgICAgIHJbInJlZ2lvbl9hdHRyaWJ1dGVzIl1bImJhcmNvZGUiXSBmb3IgciBpbiBhWyJyZWdpb25zIl0udmFsdWVzKCkKICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHBvbHlnb25zID0gW3JbInNoYXBlX2F0dHJpYnV0ZXMiXSBmb3IgciBpbiBhWyJyZWdpb25zIl1dCiAgICAgICAgICAgICAgICBjbGFzc19uYW1lc19zdHIgPSBbCiAgICAgICAgICAgICAgICAgICAgclsicmVnaW9uX2F0dHJpYnV0ZXMiXVsiYmFyY29kZSJdIGZvciByIGluIGFbInJlZ2lvbnMiXQogICAgICAgICAgICAgICAgXQoKICAgICAgICAgICAgY2xhc3NfbmFtZV9udW1zID0gW10KICAgICAgICAgICAgZm9yIG5hbWUgaW4gY2xhc3NfbmFtZXNfc3RyOgogICAgICAgICAgICAgICAgY2xhc3NfaWQgPSBjbGFzc19uYW1lcy5pbmRleChuYW1lKSArIDEKICAgICAgICAgICAgICAgIGNsYXNzX25hbWVfbnVtcy5hcHBlbmQoY2xhc3NfaWQpCgogICAgICAgICAgICAjIGxvYWRfbWFzaygpIG5lZWRzIHRoZSBpbWFnZSBzaXplIHRvIGNvbnZlcnQgcG9seWdvbnMgdG8gbWFza3MuCiAgICAgICAgICAgICMgVW5mb3J0dW5hdGVseSwgVklBIGRvZXNuJ3QgaW5jbHVkZSBpdCBpbiBKU09OLCBzbyB3ZSBtdXN0IHJlYWQKICAgICAgICAgICAgIyB0aGUgaW1hZ2UuIFRoaXMgaXMgb25seSBtYW5hZ2VhYmxlIHNpbmNlIHRoZSBkYXRhc2V0IGlzIHRpbnkuCiAgICAgICAgICAgIGltYWdlX3BhdGggPSBvcy5wYXRoLmpvaW4oZGF0YXNldF9kaXIsIGFbImZpbGVuYW1lIl0pCiAgICAgICAgICAgIGltYWdlID0gc2tpbWFnZS5pby5pbXJlYWQoaW1hZ2VfcGF0aCkKICAgICAgICAgICAgaGVpZ2h0LCB3aWR0aCA9IGltYWdlLnNoYXBlWzoyXQoKICAgICAgICAgICAgc2VsZi5hZGRfaW1hZ2UoCiAgICAgICAgICAgICAgICAiZ3JvY2VyeSIsCiAgICAgICAgICAgICAgICBpbWFnZV9pZD1hWyJmaWxlbmFtZSJdLCAgIyB1c2UgZmlsZSBuYW1lIGFzIGEgdW5pcXVlIGltYWdlIGlkCiAgICAgICAgICAgICAgICBwYXRoPWltYWdlX3BhdGgsCiAgICAgICAgICAgICAgICB3aWR0aD13aWR0aCwKICAgICAgICAgICAgICAgIGhlaWdodD1oZWlnaHQsCiAgICAgICAgICAgICAgICBwb2x5Z29ucz1wb2x5Z29ucywKICAgICAgICAgICAgICAgIGNsYXNzX2xpc3Q9bnAuYXJyYXkoY2xhc3NfbmFtZV9udW1zKSwKICAgICAgICAgICAgKQoKICAgIGRlZiBsb2FkX21hc2soc2VsZiwgaW1hZ2VfaWQpOgogICAgICAgICIiIkdlbmVyYXRlIGluc3RhbmNlIG1hc2tzIGZvciBhbiBpbWFnZS4KICAgICAgIFJldHVybnM6CiAgICAgICAgbWFza3M6IEEgYm9vbCBhcnJheSBvZiBzaGFwZSBbaGVpZ2h0LCB3aWR0aCwgaW5zdGFuY2UgY291bnRdIHdpdGgKICAgICAgICAgICAgb25lIG1hc2sgcGVyIGluc3RhbmNlLgogICAgICAgIGNsYXNzX2lkczogYSAxRCBhcnJheSBvZiBjbGFzcyBJRHMgb2YgdGhlIGluc3RhbmNlIG1hc2tzLgogICAgICAgICIiIgogICAgICAgICMgSWYgbm90IGEgZ3JvY2VyeSBkYXRhc2V0IGltYWdlLCBkZWxlZ2F0ZSB0byBwYXJlbnQgY2xhc3MuCiAgICAgICAgaW1hZ2VfaW5mbyA9IHNlbGYuaW1hZ2VfaW5mb1tpbWFnZV9pZF0KICAgICAgICBpZiBpbWFnZV9pbmZvWyJzb3VyY2UiXSAhPSAiZ3JvY2VyeSI6CiAgICAgICAgICAgIHJldHVybiBzdXBlcigpLmxvYWRfbWFzayhpbWFnZV9pZCkKCiAgICAgICAgIyBDb252ZXJ0IHBvbHlnb25zIHRvIGEgYml0bWFwIG1hc2sgb2Ygc2hhcGUKICAgICAgICAjIFtoZWlnaHQsIHdpZHRoLCBpbnN0YW5jZV9jb3VudF0KICAgICAgICBpbmZvID0gc2VsZi5pbWFnZV9pbmZvW2ltYWdlX2lkXQogICAgICAgIG1hc2sgPSBucC56ZXJvcygKICAgICAgICAgICAgW2luZm9bImhlaWdodCJdLCBpbmZvWyJ3aWR0aCJdLCBsZW4oaW5mb1sicG9seWdvbnMiXSldLCBkdHlwZT1ucC51aW50OAogICAgICAgICkKICAgICAgICBmb3IgaSwgcCBpbiBlbnVtZXJhdGUoaW5mb1sicG9seWdvbnMiXSk6CiAgICAgICAgICAgICMgR2V0IGluZGV4ZXMgb2YgcGl4ZWxzIGluc2lkZSB0aGUgcG9seWdvbiBhbmQgc2V0IHRoZW0gdG8gMQogICAgICAgICAgICByciwgY2MgPSBza2ltYWdlLmRyYXcucG9seWdvbihwWyJhbGxfcG9pbnRzX3kiXSwgcFsiYWxsX3BvaW50c194Il0pCiAgICAgICAgICAgIG1hc2tbcnIsIGNjLCBpXSA9IDEKCiAgICAgICAgIyBSZXR1cm4gbWFzaywgYW5kIGFycmF5IG9mIGNsYXNzIElEcyBvZiBlYWNoIGluc3RhbmNlLiBTaW5jZSB3ZSBoYXZlCiAgICAgICAgIyBvbmUgY2xhc3MgSUQgb25seSwgd2UgcmV0dXJuIGFuIGFycmF5IG9mIDFzCiAgICAgICAgcmV0dXJuIG1hc2suYXN0eXBlKG5wLmJvb2wpLCBucC5vbmVzKFttYXNrLnNoYXBlWy0xXV0sIGR0eXBlPW5wLmludDMyKQoKICAgIGRlZiBpbWFnZV9yZWZlcmVuY2Uoc2VsZiwgaW1hZ2VfaWQpOgogICAgICAgICIiIlJldHVybiB0aGUgcGF0aCBvZiB0aGUgaW1hZ2UuIiIiCiAgICAgICAgaW5mbyA9IHNlbGYuaW1hZ2VfaW5mb1tpbWFnZV9pZF0KICAgICAgICAjIGlmIGluZm9bInNvdXJjZSJdID09ICJncm9jZXJ5IjoKICAgICAgICAjICAgICByZXR1cm4gaW5mb1sicGF0aCJdCiAgICAgICAgIyBlbHNlOgogICAgICAgICMgICAgIHN1cGVyKHNlbGYuX19jbGFzc19fLCBzZWxmKS5pbWFnZV9yZWZlcmVuY2UoaW1hZ2VfaWQpCgogICAgICAgIHJldHVybiBpbmZvWyJwYXRoIl0gaWYgaW5mb1sic291cmNlIl0gPT0gImdyb2NlcnkiIGVsc2UgIiIKCgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CgojIGltcG9ydCBvcwojIGltcG9ydCBzeXMKCiMgZGVmIG1haW4oKToKIyAgICAgcHJpbnQoJ0hlbGxvIScpCgojIGlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZV9maWxlID0gUGF0aChpbWFnZV9pbmZvWyJwYXRoIl0pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIGltZ19pZCA9IGltYWdlX2luZm9bImlkIl0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9uZSBjbGFzcyBJRCBvbmx5LCB3ZSByZXR1cm4gYW4gYXJyYXkgb2YgMXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5wYXRoLmpvaW4oKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWRlZmluZWRcPg==</last-search>
+      <last-search>-path</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWRlZmluZWRcPg==</last-pattern>
+      <last-pattern>-path</last-pattern>
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
@@ -722,6 +734,7 @@
         <entry encoding="base64">XDxtb2xkZWRfaW1hZ2VzXD4=</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxyZWRlZmluZWRcPg==</entry>
+        <entry>-path</entry>
       </history-search>
       <history-cmd>
         <entry>call functions#WinMove('h')</entry>
@@ -731,7 +744,6 @@
         <entry>action Vcs.Show.Local.Changes</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>action GotoPreviousError</entry>
-        <entry>action VimFilePrevious</entry>
         <entry>action ShowSettings</entry>
         <entry>738</entry>
         <entry>action CloseProject</entry>
@@ -741,10 +753,12 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action VimVisualExitMode</entry>
         <entry>action SaveDocument</entry>
-        <entry>action GotoAction</entry>
         <entry>action CloseContent</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action CompileDirty</entry>
         <entry>action GotoFile</entry>
+        <entry>action VimFilePrevious</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
