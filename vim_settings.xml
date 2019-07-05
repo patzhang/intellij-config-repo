@@ -696,7 +696,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action VimFilePrevious</text>
+        <text>295</text>
       </register>
     </registers>
     <search>
@@ -765,9 +765,10 @@
         <entry>action Terminal.OpenInTerminal</entry>
         <entry>action GotoAction</entry>
         <entry>action CloseContent</entry>
-        <entry>action GotoFile</entry>
         <entry>action Back</entry>
         <entry>action VimFilePrevious</entry>
+        <entry>action GotoFile</entry>
+        <entry>295</entry>
       </history-cmd>
       <history-expr />
       <history-input />
