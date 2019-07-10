@@ -696,7 +696,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>295</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
@@ -706,23 +706,10 @@
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fs.</entry>
-        <entry encoding="base64">XDxiYXJjb2RlRGljdFw+</entry>
-        <entry>if</entry>
-        <entry>elfi</entry>
-        <entry>failed to save</entry>
-        <entry encoding="base64">XDxfZG93bmxvYWRfYW5kX3NhdmVfaW1hZ2VcPg==</entry>
-        <entry encoding="base64">XDxjaGVja19kYXRhc2V0XD4=</entry>
-        <entry>check_dataset</entry>
-        <entry encoding="base64">XDxfdW50YXJfZGF0YXNldFw+</entry>
-        <entry>fileloc</entry>
-        <entry>acquire</entry>
-        <entry encoding="base64">XDxEQVRBU0VUX0ZPTERFUlw+</entry>
-        <entry>Tm</entry>
         <entry encoding="base64">XDxpb1w+</entry>
         <entry encoding="base64">XDxjb21wdXRlX21BUF9vbl9kYXRhc2V0XD4=</entry>
         <entry>super</entry>
@@ -745,10 +732,6 @@
         <entry encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>call functions#WinMove('h')</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action VimWindowNext</entry>
-        <entry>map</entry>
         <entry>action Vcs.Show.Local.Changes</entry>
         <entry>set hlsearch! hlsearch?</entry>
         <entry>action GotoPreviousError</entry>
@@ -767,8 +750,8 @@
         <entry>action CloseContent</entry>
         <entry>action Back</entry>
         <entry>action VimFilePrevious</entry>
-        <entry>action GotoFile</entry>
         <entry>295</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
