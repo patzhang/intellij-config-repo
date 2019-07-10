@@ -334,11 +334,11 @@
         <mark key="." line="116" column="29" />
         <mark key="^" line="116" column="28" />
       </file>
-      <file name="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/imagebuilder.py" timestamp="1562776651424">
+      <file name="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/imagebuilder.py" timestamp="1562777603799">
         <mark key="'" line="115" column="16" />
-        <mark key="[" line="114" column="49" />
-        <mark key="]" line="114" column="48" />
-        <mark key="." line="114" column="48" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="124" column="67" />
+        <mark key="." line="113" column="0" />
         <mark key="^" line="114" column="48" />
       </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" timestamp="1535730091207">
@@ -471,6 +471,16 @@
         <mark key="^" line="57" column="31" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/renderbuilder.py" timestamp="1562777992689">
+        <mark key="'" line="121" column="102" />
+        <mark key="[" line="121" column="102" />
+        <mark key="]" line="121" column="102" />
+        <mark key="." line="121" column="102" />
+        <mark key="^" line="121" column="102" />
+      </file>
+      <file name="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/worker.py" timestamp="1562778017227">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/10x-vision-evolution/installation-ve-snake/install-ve-app.sh" timestamp="1536847727423">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="95" column="9" />
@@ -543,14 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="21" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
-      <jump line="235" column="40" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/logging_util.py" />
-      <jump line="19" column="9" filename="$USER_HOME$/projects/mrcnn/mytest.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mrcnn/mytest.py" />
-      <jump line="84" column="0" filename="$USER_HOME$/projects/mrcnn/test_main.py" />
-      <jump line="44" column="19" filename="$USER_HOME$/projects/mrcnn/test_main.py" />
-      <jump line="101" column="28" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="295" column="12" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="276" column="12" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="256" column="8" filename="$USER_HOME$/projects/mrcnn/main.py" />
@@ -643,6 +645,14 @@
       <jump line="635" column="4" filename="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" />
       <jump line="655" column="4" filename="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" />
       <jump line="116" column="16" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/imagebuilder.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/renderbuilder.py" />
+      <jump line="118" column="56" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/renderbuilder.py" />
+      <jump line="158" column="23" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/renderbuilder.py" />
+      <jump line="167" column="26" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/renderbuilder.py" />
+      <jump line="11" column="54" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/renderbuilder.py" />
+      <jump line="16" column="29" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/renderbuilder.py" />
+      <jump line="121" column="102" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/renderbuilder.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/worker.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -668,10 +678,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</text>
+        <text>command</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfY2xhc3MgPSByYW5kb20ucmFuZGludCgxLCBzZWxmLl9udW1fY2xhc3NlcykgLSAxCg==</text>
@@ -707,17 +717,17 @@
         <text encoding="base64">ICAgIGFsbF9pbWFnZXMgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action GotoFile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</last-search>
+      <last-search>command</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</last-pattern>
+      <last-pattern>command</last-pattern>
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -741,6 +751,8 @@
         <entry>compute_ap</entry>
         <entry>compute_ma</entry>
         <entry encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</entry>
+        <entry>img_max_size</entry>
+        <entry>command</entry>
       </history-search>
       <history-cmd>
         <entry>action Vcs.Show.Local.Changes</entry>
@@ -760,11 +772,11 @@
         <entry>action Back</entry>
         <entry>action VimFilePrevious</entry>
         <entry>295</entry>
-        <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>vsplit</entry>
         <entry>action RecentFiles</entry>
         <entry>action SaveDocument</entry>
+        <entry>action GotoFile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
