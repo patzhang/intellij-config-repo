@@ -330,6 +330,12 @@
         <mark key="." line="116" column="29" />
         <mark key="^" line="116" column="28" />
       </file>
+      <file name="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/imagebuilder.py" timestamp="1562775698746">
+        <mark key="'" line="115" column="16" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/codeVE/patricknet-dashboard-index-fix/indexer/src/gc-storage.js" timestamp="1535730091207">
         <mark key="'" line="19" column="15" />
         <mark key="[" line="31" column="45" />
@@ -532,7 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="8" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="210" column="21" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="235" column="40" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/crawler/product_handler.py" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/brandbank-integration/backend/src/sync_mgr/logging_util.py" />
@@ -632,6 +637,7 @@
       <jump line="726" column="37" filename="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" />
       <jump line="635" column="4" filename="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" />
       <jump line="655" column="4" filename="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" />
+      <jump line="116" column="16" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/imagebuilder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -657,7 +663,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wdXRlX21hdGNoZXNcPg==</text>
@@ -666,37 +672,37 @@
         <text encoding="base64">ICAgICAgICBzb3VyY2UgPSBvcy5wYXRoLmpvaW4oaW1hZ2VfZGlyLCBpbWFnZSkKICAgICAgICB0YXJnZXQgPSBvcy5wYXRoLmpvaW4ob3V0cHV0X2RpciwgaW1hZ2UpCiAgICAgICAgc2h1dGlsLmNvcHkoc291cmNlLCB0YXJnZXQpCiAgICAgICAgcHJpbnQoZid7Y291bnR9IC8ge2xlbihhbGxfaW1hZ2VzKX0gaXMgY29waWVkLicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAjIENvbXB1dGUgcHJlY2lzaW9uIGFuZCByZWNhbGwgYXQgZWFjaCBwcmVkaWN0aW9uIGJveCBzdGVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWRfcmFuZ2UgPSAwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGFsbF9pbWFnZXMuYXBwZW5kKGYpCiAgICBhbGxfaW1hZ2VzLnNvcnQoKQogICAgZm9yIGltYWdlIGluIGFsbF9pbWFnZXM6CiAgICAgICAgcHJpbnQoaW1hZ2UpCiAgICBwcmludChmJ1RvdGFsIEltYWdlczoge2xlbihhbGxfaW1hZ2VzKX0nKQogICAgZXhpdCgwKQoKICAgIHNlbGVjdF9pbWFnZXMgPSBbXQogICAgZm9yIGksIGltYWdlIGluIGVudW1lcmF0ZShhbGxfaW1hZ2VzKToKICAgICAgICBpZiBpICUgTiA9PSAwOgogICAgICAgICAgICBzZWxlY3RfaW1hZ2VzLmFwcGVuZChpbWFnZSkKICAgIHByaW50KGYnU2VsZWN0ZWQgSW1hZ2VzOiB7bGVuKHNlbGVjdF9pbWFnZXMpfScpCgogICAgZm9yIGltYWdlIGluIHNlbGVjdF9pbWFnZXM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihpbWFnZV9kaXIsIGltYWdlKQogICAgICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBpbWFnZSkKICAgICAgICBzaHV0aWwuY29weShzb3VyY2UsIHRhcmdldCkKICAgICAgICBwcmludChmJ3tjb3VudH0gLyB7bGVuKGFsbF9pbWFnZXMpfSBpcyBjb3BpZWQuJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzdGFydF9jbGFzcyA9IHJhbmRvbS5yYW5kaW50KDEsIHNlbGYuX251bV9jbGFzc2VzKSAtIDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgYmVjYXVzZSA1IGNsYXNzZXMgYXJlIHZlcnkgc21hbGwsIGNoYW5nZSB0byB1c2UgYWxsIGNsYXNzZXMgaW5zdGVhZCBvZiByYW5kb20gc2VsZWN0aW9uLgogICAgICAgICAgICAgICAgIyBjbGFzc19udW0gPSByYW5kb20ucmFuZGludCgxLCBzZWxmLl9udW1fY2xhc3NlcykgLSAxCiAgICAgICAgICAgICAgICAjIGNsYXNzX251bSA9IChzdGFydF9jbGFzcyArIGopICUgc2VsZi5fbnVtX2NsYXNzZXMKICAgICAgICAgICAgICAgICMgcHJvZHVjdCA9IHByb2R1Y3RzW2NsYXNzX251bV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFsbF9pbWFnZXMgPSBbXQo=</text>
+        <text encoding="base64">CiAgICAjIENvbXB1dGUgcHJlY2lzaW9uIGFuZCByZWNhbGwgYXQgZWFjaCBwcmVkaWN0aW9uIGJveCBzdGVwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9zLnBhdGgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGFsbF9pbWFnZXMuYXBwZW5kKGYpCiAgICBhbGxfaW1hZ2VzLnNvcnQoKQogICAgZm9yIGltYWdlIGluIGFsbF9pbWFnZXM6CiAgICAgICAgcHJpbnQoaW1hZ2UpCiAgICBwcmludChmJ1RvdGFsIEltYWdlczoge2xlbihhbGxfaW1hZ2VzKX0nKQogICAgZXhpdCgwKQoKICAgIHNlbGVjdF9pbWFnZXMgPSBbXQogICAgZm9yIGksIGltYWdlIGluIGVudW1lcmF0ZShhbGxfaW1hZ2VzKToKICAgICAgICBpZiBpICUgTiA9PSAwOgogICAgICAgICAgICBzZWxlY3RfaW1hZ2VzLmFwcGVuZChpbWFnZSkKICAgIHByaW50KGYnU2VsZWN0ZWQgSW1hZ2VzOiB7bGVuKHNlbGVjdF9pbWFnZXMpfScpCgogICAgZm9yIGltYWdlIGluIHNlbGVjdF9pbWFnZXM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihpbWFnZV9kaXIsIGltYWdlKQogICAgICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBpbWFnZSkKICAgICAgICBzaHV0aWwuY29weShzb3VyY2UsIHRhcmdldCkKICAgICAgICBwcmludChmJ3tjb3VudH0gLyB7bGVuKGFsbF9pbWFnZXMpfSBpcyBjb3BpZWQuJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFsbF9pbWFnZXMgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -742,8 +748,6 @@
         <entry>action GotoNextError</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action VimVisualExitMode</entry>
-        <entry>action SaveDocument</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action CompileDirty</entry>
         <entry>action Terminal.OpenInTerminal</entry>
         <entry>action GotoAction</entry>
@@ -752,6 +756,10 @@
         <entry>action VimFilePrevious</entry>
         <entry>295</entry>
         <entry>action GotoFile</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action SaveDocument</entry>
+        <entry>vsplit</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
