@@ -301,8 +301,8 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/datasets/build_dataset_multi_objects_2000img_diff_size_v1.sh" timestamp="1562848229269">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="31" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="31" />
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/codeDL/deep-vision/util/images_to_video_v1.sh" timestamp="1522066552636">
