@@ -737,7 +737,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGFsbF9pbWFnZXMuYXBwZW5kKGYpCiAgICBhbGxfaW1hZ2VzLnNvcnQoKQogICAgZm9yIGltYWdlIGluIGFsbF9pbWFnZXM6CiAgICAgICAgcHJpbnQoaW1hZ2UpCiAgICBwcmludChmJ1RvdGFsIEltYWdlczoge2xlbihhbGxfaW1hZ2VzKX0nKQogICAgZXhpdCgwKQoKICAgIHNlbGVjdF9pbWFnZXMgPSBbXQogICAgZm9yIGksIGltYWdlIGluIGVudW1lcmF0ZShhbGxfaW1hZ2VzKToKICAgICAgICBpZiBpICUgTiA9PSAwOgogICAgICAgICAgICBzZWxlY3RfaW1hZ2VzLmFwcGVuZChpbWFnZSkKICAgIHByaW50KGYnU2VsZWN0ZWQgSW1hZ2VzOiB7bGVuKHNlbGVjdF9pbWFnZXMpfScpCgogICAgZm9yIGltYWdlIGluIHNlbGVjdF9pbWFnZXM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihpbWFnZV9kaXIsIGltYWdlKQogICAgICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBpbWFnZSkKICAgICAgICBzaHV0aWwuY29weShzb3VyY2UsIHRhcmdldCkKICAgICAgICBwcmludChmJ3tjb3VudH0gLyB7bGVuKGFsbF9pbWFnZXMpfSBpcyBjb3BpZWQuJykK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowSettings</text>
+        <text>action CloseProject</text>
       </register>
     </registers>
     <search>
@@ -775,7 +775,6 @@
       <history-cmd>
         <entry>action GotoPreviousError</entry>
         <entry>738</entry>
-        <entry>action CloseProject</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action GotoNextError</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
@@ -793,6 +792,7 @@
         <entry>action SaveDocument</entry>
         <entry>action GotoAction</entry>
         <entry>action ShowSettings</entry>
+        <entry>action CloseProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
