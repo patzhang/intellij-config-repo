@@ -394,8 +394,8 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/main.py" timestamp="1563727229639">
-        <mark key="'" line="492" column="8" />
+      <file name="$USER_HOME$/projects/mrcnn/main.py" timestamp="1563727318168">
+        <mark key="'" line="516" column="0" />
         <mark key="[" line="48" column="1" />
         <mark key="]" line="48" column="2" />
         <mark key="." line="48" column="2" />
@@ -567,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="20" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="227" column="17" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="219" column="17" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="203" column="11" filename="$USER_HOME$/projects/mrcnn/main.py" />
@@ -667,6 +666,7 @@
       <jump line="47" column="0" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="545" column="4" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="492" column="8" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="516" column="0" filename="$USER_HOME$/projects/mrcnn/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
