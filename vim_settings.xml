@@ -394,11 +394,11 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/main.py" timestamp="1562238345671">
-        <mark key="'" line="343" column="8" />
-        <mark key="[" line="377" column="9" />
-        <mark key="]" line="377" column="3" />
-        <mark key="." line="377" column="9" />
+      <file name="$USER_HOME$/projects/mrcnn/main.py" timestamp="1563727229639">
+        <mark key="'" line="492" column="8" />
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="48" column="2" />
+        <mark key="." line="48" column="2" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1562237469702">
         <mark key="[" line="0" column="0" />
@@ -567,9 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="8" filename="$USER_HOME$/projects/mrcnn/main.py" />
-      <jump line="181" column="4" filename="$USER_HOME$/projects/mrcnn/main.py" />
-      <jump line="209" column="8" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="221" column="20" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="227" column="17" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="219" column="17" filename="$USER_HOME$/projects/mrcnn/main.py" />
@@ -667,6 +664,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/worker.py" />
       <jump line="164" column="8" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/worker.py" />
       <jump line="7" column="19" filename="$USER_HOME$/code/gitlab/10x-image-recognition/3d-models/processing-v3/app/dataset/worker.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="545" column="4" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="492" column="8" filename="$USER_HOME$/projects/mrcnn/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -709,6 +709,12 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="32" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBQYXJhbGxlbChuX2pvYnM9MSkoCg==</text>
       </register>
@@ -731,7 +737,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGFsbF9pbWFnZXMuYXBwZW5kKGYpCiAgICBhbGxfaW1hZ2VzLnNvcnQoKQogICAgZm9yIGltYWdlIGluIGFsbF9pbWFnZXM6CiAgICAgICAgcHJpbnQoaW1hZ2UpCiAgICBwcmludChmJ1RvdGFsIEltYWdlczoge2xlbihhbGxfaW1hZ2VzKX0nKQogICAgZXhpdCgwKQoKICAgIHNlbGVjdF9pbWFnZXMgPSBbXQogICAgZm9yIGksIGltYWdlIGluIGVudW1lcmF0ZShhbGxfaW1hZ2VzKToKICAgICAgICBpZiBpICUgTiA9PSAwOgogICAgICAgICAgICBzZWxlY3RfaW1hZ2VzLmFwcGVuZChpbWFnZSkKICAgIHByaW50KGYnU2VsZWN0ZWQgSW1hZ2VzOiB7bGVuKHNlbGVjdF9pbWFnZXMpfScpCgogICAgZm9yIGltYWdlIGluIHNlbGVjdF9pbWFnZXM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihpbWFnZV9kaXIsIGltYWdlKQogICAgICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBpbWFnZSkKICAgICAgICBzaHV0aWwuY29weShzb3VyY2UsIHRhcmdldCkKICAgICAgICBwcmludChmJ3tjb3VudH0gLyB7bGVuKGFsbF9pbWFnZXMpfSBpcyBjb3BpZWQuJykK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action ShowSettings</text>
       </register>
     </registers>
     <search>
@@ -741,11 +747,10 @@
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>super</entry>
         <entry>import cv2</entry>
         <entry>computevia</entry>
         <entry>load_grocery</entry>
@@ -769,7 +774,6 @@
       </history-search>
       <history-cmd>
         <entry>action GotoPreviousError</entry>
-        <entry>action ShowSettings</entry>
         <entry>738</entry>
         <entry>action CloseProject</entry>
         <entry>action SearchEverywhere</entry>
@@ -778,7 +782,6 @@
         <entry>action VimVisualExitMode</entry>
         <entry>action CompileDirty</entry>
         <entry>action Terminal.OpenInTerminal</entry>
-        <entry>action GotoAction</entry>
         <entry>action Back</entry>
         <entry>295</entry>
         <entry>vsplit</entry>
@@ -788,6 +791,8 @@
         <entry>action CloseContent</entry>
         <entry>action VimFilePrevious</entry>
         <entry>action SaveDocument</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
       <history-input />
