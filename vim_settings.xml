@@ -183,12 +183,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1562334511628">
-        <mark key="'" line="25" column="36" />
-        <mark key="[" line="416" column="2" />
-        <mark key="]" line="416" column="2" />
-        <mark key="^" line="252" column="62" />
-        <mark key="." line="416" column="2" />
+      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1563814203574">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="616" column="100" />
+        <mark key="]" line="616" column="109" />
+        <mark key="^" line="616" column="109" />
+        <mark key="." line="616" column="109" />
       </file>
       <file name="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" timestamp="1562342914800">
         <mark key="'" line="655" column="4" />
@@ -568,7 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="17" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="219" column="17" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="203" column="11" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="12" column="28" filename="$USER_HOME$/projects/mrcnn/main.py" />
@@ -609,7 +608,6 @@
       <jump line="137" column="8" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="278" column="16" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="169" column="79" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="206" column="27" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="225" column="8" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="141" column="69" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
@@ -668,6 +666,8 @@
       <jump line="545" column="4" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="492" column="8" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="516" column="0" filename="$USER_HOME$/projects/mrcnn/main.py" />
+      <jump line="204" column="16" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -693,7 +693,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>splash</text>
       </register>
       <register name="/" type="4">
         <text>Parallel</text>
@@ -738,7 +738,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGFsbF9pbWFnZXMuYXBwZW5kKGYpCiAgICBhbGxfaW1hZ2VzLnNvcnQoKQogICAgZm9yIGltYWdlIGluIGFsbF9pbWFnZXM6CiAgICAgICAgcHJpbnQoaW1hZ2UpCiAgICBwcmludChmJ1RvdGFsIEltYWdlczoge2xlbihhbGxfaW1hZ2VzKX0nKQogICAgZXhpdCgwKQoKICAgIHNlbGVjdF9pbWFnZXMgPSBbXQogICAgZm9yIGksIGltYWdlIGluIGVudW1lcmF0ZShhbGxfaW1hZ2VzKToKICAgICAgICBpZiBpICUgTiA9PSAwOgogICAgICAgICAgICBzZWxlY3RfaW1hZ2VzLmFwcGVuZChpbWFnZSkKICAgIHByaW50KGYnU2VsZWN0ZWQgSW1hZ2VzOiB7bGVuKHNlbGVjdF9pbWFnZXMpfScpCgogICAgZm9yIGltYWdlIGluIHNlbGVjdF9pbWFnZXM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihpbWFnZV9kaXIsIGltYWdlKQogICAgICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBpbWFnZSkKICAgICAgICBzaHV0aWwuY29weShzb3VyY2UsIHRhcmdldCkKICAgICAgICBwcmludChmJ3tjb3VudH0gLyB7bGVuKGFsbF9pbWFnZXMpfSBpcyBjb3BpZWQuJykK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseProject</text>
+        <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
@@ -786,14 +786,14 @@
         <entry>295</entry>
         <entry>vsplit</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoFile</entry>
         <entry>action RecentFiles</entry>
         <entry>action CloseContent</entry>
         <entry>action VimFilePrevious</entry>
-        <entry>action SaveDocument</entry>
         <entry>action GotoAction</entry>
         <entry>action ShowSettings</entry>
         <entry>action CloseProject</entry>
+        <entry>action GotoFile</entry>
+        <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
       <history-input />
