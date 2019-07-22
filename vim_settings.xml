@@ -183,12 +183,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1563814203574">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="616" column="100" />
-        <mark key="]" line="616" column="109" />
-        <mark key="^" line="616" column="109" />
-        <mark key="." line="616" column="109" />
+      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1563817724533">
+        <mark key="'" line="422" column="31" />
+        <mark key="[" line="397" column="34" />
+        <mark key="]" line="398" column="44" />
+        <mark key="." line="398" column="44" />
+        <mark key="^" line="398" column="44" />
       </file>
       <file name="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" timestamp="1562342914800">
         <mark key="'" line="655" column="4" />
@@ -568,10 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="17" filename="$USER_HOME$/projects/mrcnn/main.py" />
-      <jump line="203" column="11" filename="$USER_HOME$/projects/mrcnn/main.py" />
-      <jump line="12" column="28" filename="$USER_HOME$/projects/mrcnn/main.py" />
-      <jump line="191" column="0" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="199" column="22" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="138" column="4" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="155" column="4" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
@@ -668,6 +664,10 @@
       <jump line="516" column="0" filename="$USER_HOME$/projects/mrcnn/main.py" />
       <jump line="204" column="16" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="617" column="23" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="728" column="26" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="469" column="37" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
+      <jump line="410" column="31" filename="$USER_HOME$/projects/mrcnn/grocery.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -693,22 +693,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>splash</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>Parallel</text>
+        <text>showall</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">UkVOREVSX01JTl9TSVpFPTEzNiAgICMgMTM2eDEzNgo=</text>
+      <register name="0" type="4">
+        <text>(255, 0, 0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UkVOREVSX01JTl9TSVpFPTMyICAgIyAzMngzMgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiQkciLAo=</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -717,38 +717,38 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJhbGxlbChuX2pvYnM9MSkoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWRfcmFuZ2UgPSAwCg==</text>
+        <text encoding="base64">UkVOREVSX01JTl9TSVpFPTMyICAgIyAzMngzMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzdGFydF9jbGFzcyA9IHJhbmRvbS5yYW5kaW50KDEsIHNlbGYuX251bV9jbGFzc2VzKSAtIDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBQYXJhbGxlbChuX2pvYnM9MSkoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgYmVjYXVzZSA1IGNsYXNzZXMgYXJlIHZlcnkgc21hbGwsIGNoYW5nZSB0byB1c2UgYWxsIGNsYXNzZXMgaW5zdGVhZCBvZiByYW5kb20gc2VsZWN0aW9uLgogICAgICAgICAgICAgICAgIyBjbGFzc19udW0gPSByYW5kb20ucmFuZGludCgxLCBzZWxmLl9udW1fY2xhc3NlcykgLSAxCiAgICAgICAgICAgICAgICAjIGNsYXNzX251bSA9IChzdGFydF9jbGFzcyArIGopICUgc2VsZi5fbnVtX2NsYXNzZXMKICAgICAgICAgICAgICAgICMgcHJvZHVjdCA9IHByb2R1Y3RzW2NsYXNzX251bV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWRfcmFuZ2UgPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAjIENvbXB1dGUgcHJlY2lzaW9uIGFuZCByZWNhbGwgYXQgZWFjaCBwcmVkaWN0aW9uIGJveCBzdGVwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzdGFydF9jbGFzcyA9IHJhbmRvbS5yYW5kaW50KDEsIHNlbGYuX251bV9jbGFzc2VzKSAtIDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGFsbF9pbWFnZXMuYXBwZW5kKGYpCiAgICBhbGxfaW1hZ2VzLnNvcnQoKQogICAgZm9yIGltYWdlIGluIGFsbF9pbWFnZXM6CiAgICAgICAgcHJpbnQoaW1hZ2UpCiAgICBwcmludChmJ1RvdGFsIEltYWdlczoge2xlbihhbGxfaW1hZ2VzKX0nKQogICAgZXhpdCgwKQoKICAgIHNlbGVjdF9pbWFnZXMgPSBbXQogICAgZm9yIGksIGltYWdlIGluIGVudW1lcmF0ZShhbGxfaW1hZ2VzKToKICAgICAgICBpZiBpICUgTiA9PSAwOgogICAgICAgICAgICBzZWxlY3RfaW1hZ2VzLmFwcGVuZChpbWFnZSkKICAgIHByaW50KGYnU2VsZWN0ZWQgSW1hZ2VzOiB7bGVuKHNlbGVjdF9pbWFnZXMpfScpCgogICAgZm9yIGltYWdlIGluIHNlbGVjdF9pbWFnZXM6CiAgICAgICAgY291bnQgKz0gMQogICAgICAgIHNvdXJjZSA9IG9zLnBhdGguam9pbihpbWFnZV9kaXIsIGltYWdlKQogICAgICAgIHRhcmdldCA9IG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCBpbWFnZSkKICAgICAgICBzaHV0aWwuY29weShzb3VyY2UsIHRhcmdldCkKICAgICAgICBwcmludChmJ3tjb3VudH0gLyB7bGVuKGFsbF9pbWFnZXMpfSBpcyBjb3BpZWQuJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action SaveDocument</text>
       </register>
     </registers>
     <search>
-      <last-search>Parallel</last-search>
+      <last-search>showall</last-search>
       <last-offset />
-      <last-pattern>Parallel</last-pattern>
+      <last-pattern>showall</last-pattern>
       <last-replace>testing</last-replace>
       <last-substitute>ve1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -772,6 +772,7 @@
         <entry>img_max_size</entry>
         <entry>command</entry>
         <entry>Parallel</entry>
+        <entry>showall</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoPreviousError</entry>
@@ -785,7 +786,6 @@
         <entry>action Back</entry>
         <entry>295</entry>
         <entry>vsplit</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action RecentFiles</entry>
         <entry>action CloseContent</entry>
         <entry>action VimFilePrevious</entry>
@@ -793,6 +793,7 @@
         <entry>action ShowSettings</entry>
         <entry>action CloseProject</entry>
         <entry>action GotoFile</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>action SaveDocument</entry>
       </history-cmd>
       <history-expr />
