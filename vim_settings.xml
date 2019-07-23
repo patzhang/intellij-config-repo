@@ -183,12 +183,12 @@
         <mark key="." line="143" column="0" />
         <mark key="^" line="142" column="90" />
       </file>
-      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1563817724533">
+      <file name="$USER_HOME$/projects/mrcnn/grocery.py" timestamp="1563872837126">
         <mark key="'" line="422" column="31" />
-        <mark key="[" line="397" column="34" />
-        <mark key="]" line="398" column="44" />
-        <mark key="." line="398" column="44" />
-        <mark key="^" line="398" column="44" />
+        <mark key="[" line="379" column="27" />
+        <mark key="]" line="379" column="26" />
+        <mark key="." line="379" column="26" />
+        <mark key="^" line="379" column="26" />
       </file>
       <file name="$USER_HOME$/projects/mrcnn/mrcnn/utils.py" timestamp="1562342914800">
         <mark key="'" line="655" column="4" />
@@ -693,7 +693,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>55</text>
       </register>
       <register name="/" type="4">
         <text>showall</text>
@@ -738,7 +738,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action SaveDocument</text>
+        <text>action ShowSettings</text>
       </register>
     </registers>
     <search>
@@ -790,11 +790,11 @@
         <entry>action CloseContent</entry>
         <entry>action VimFilePrevious</entry>
         <entry>action GotoAction</entry>
-        <entry>action ShowSettings</entry>
         <entry>action CloseProject</entry>
         <entry>action GotoFile</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action SaveDocument</entry>
+        <entry>action ShowSettings</entry>
       </history-cmd>
       <history-expr />
       <history-input />
