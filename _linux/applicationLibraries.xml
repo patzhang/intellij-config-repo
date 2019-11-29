@@ -1,5 +1,32 @@
 <application>
   <component name="libraryTable">
+    <library name="Pipenv (keras-natural-disaster-detection) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/notes/python-tf2-examples/keras-natural-disaster-detection/.venv/lib/python3.6" />
+        <root url="file://$USER_HOME$/notes/python-tf2-examples/keras-natural-disaster-detection/.venv/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6" />
+        <root url="file://$USER_HOME$/notes/python-tf2-examples/keras-natural-disaster-detection/.venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-81097341" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/notes/python-tf2-examples/keras-natural-disaster-detection/.venv/lib/python3.6" />
+        <root url="file://$USER_HOME$/notes/python-tf2-examples/keras-natural-disaster-detection/.venv/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6" />
+        <root url="file://$USER_HOME$/notes/python-tf2-examples/keras-natural-disaster-detection/.venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.2/system/python_stubs/-81097341" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6 (disaster.venv) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/notes/python-tf2-examples/keras-natural-disaster-detection/.venv/lib/python3.6" />
