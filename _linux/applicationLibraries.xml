@@ -54,6 +54,39 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 2.7 (.venv for epydoc opencv) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.venvs/epydoc-venv-py2/.venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/.venvs/epydoc-venv-py2/.venv/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.venvs/epydoc-venv-py2/.venv/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.venvs/epydoc-venv-py2/.venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-1865251676" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.venvs/epydoc-venv-py2/.venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/.venvs/epydoc-venv-py2/.venv/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.venvs/epydoc-venv-py2/.venv/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.venvs/epydoc-venv-py2/.venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-1865251676" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 2.7 (py2-for-epydoc) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python2.7" />
