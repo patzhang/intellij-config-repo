@@ -1,12 +1,22 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-01-23T11:58:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2018-04-30T13:55:00</property>
+    <property name="modified">2020-03-03T09:50:48</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono Awesome" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
+  <option name="CONSOLE_LINE_SPACING" value="0.6" />
   <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -9929,6 +9939,12 @@
         <option name="BACKGROUND" value="1f3a3a" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
